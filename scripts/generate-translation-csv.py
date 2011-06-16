@@ -3,7 +3,6 @@ from pyango_view import str2img
 import wikipydia
 import re
 import wpTextExtractor
-import goopytrans
 import time
 import os
 import string
@@ -13,7 +12,8 @@ import editdist
 import sys
 import nltk.data
 import csv
-
+import bingtrans
+import settings
 
 def init_files(sentence_filename, article_filename):
     """
@@ -68,7 +68,7 @@ def get_translations(sentence_filename, sourceLang, targetLang="en", write_to_fi
         for sentence in sentences:
             translation = ''
             try:
-                translation = goopytrans.translate(sentence, source=sourceLang, target=targetLang)
+                translation = bingtrans.translate(sentence, sourceLang, targetLang)
             except ValueError:
                 translation = 'No translation for this segment'
             translations.append(translation)
@@ -90,7 +90,7 @@ def resume_translations(sentence_filename, partial_translation_file, sourceLang,
           print '.',
        else:
           try:
-             translation = goopytrans.translate(sentence, source=sourceLang, target=targetLang)
+             translation = bingtrans.translate(sentence, sourceLang, targetLang)
              print '+',
           except ValueError:
              translation = 'No translation for this segment'
