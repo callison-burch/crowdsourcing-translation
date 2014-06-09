@@ -1,0 +1,88 @@
+bbc_urd_20090113.0015__7
+india has delivered to pakistan the evidence of involvement pakistani extremists in mumbai attacks submitted proofs presented with about militants are responsible for provided gives extremist attack give proof it is said that evidences available say some relations given concerning gave enough confirm involved on
+India has delivered to Pakistan the evidence of the involvement of Pakistani extremists in the Mumbai attacks.
+india has delivered to pakistan the evidence of the involvement of pakistani extremists in the mumbai attacks
+1 1 1 1 1 3 1 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.178744097877 0.120472230335 0.464195926921 0.063082746611 0.139837070247 0.0761322337801 0.330743953903 0.0996136818779 0.383887635632 0.213726868921 0.302340908507 0.0600496919867 0.2235157552 0.189232088391 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+India has submitted proofs of the involvement of Pakistani extremists in the Mumbai attacks.
+india has submitted proofs of the involvement of pakistani extremists in the mumbai attacks
+1 1 0 0 0 2 0 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.217046404565 0.146287708264 0.0 0.0 0.0 0.0616308559173 0.0 0.120959470852 0.466149271839 0.25952548369 0.367128246044 0.0729174831268 0.271411988457 0.229781821618 0.452370438544 0.557949146428 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+India has presented Pakistan with evidence about the involvement of Pakistani extremists in the Mumbai attacks.
+india has presented pakistan with evidence about the involvement of pakistani extremists in the mumbai attacks
+1 1 0 0 1 2 1 1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.189915603994 0.128001744731 0.0 0.0 0.148576887138 0.0539269989276 0.351415451021 0.0529197684977 0.407880612859 0.227084798229 0.321237215289 0.0638027977359 0.2374854899 0.201059093916 0.0 0.0 0.376220536298 0.147494969309 0.197104461789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+India has presented Pakistan with evidence of the involvement of Pakistani militants in the Mumbai attacks.
+india has presented pakistan with evidence of the involvement of pakistani militants in the mumbai attacks
+1 1 0 0 1 2 1 2 1 1 0 1 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.189915603994 0.128001744731 0.0 0.0 0.148576887138 0.0539269989276 0.351415451021 0.105839536995 0.407880612859 0.227084798229 0.0 0.0638027977359 0.2374854899 0.201059093916 0.0 0.0 0.376220536298 0.147494969309 0.0 0.347753315755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Pakistani extremists are responsible for mumbai attacks. India has provided the proofs to Pakistan.
+pakistani extremists are responsible for mumbai attacks india has provided the proofs to pakistan
+1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.217046404565 0.146287708264 0.0 0.0766004780276 0.169802156729 0.0308154279586 0.0 0.0 0.0 0.25952548369 0.367128246044 0.0 0.271411988457 0.229781821618 0.0 0.557949146428 0.0 0.0 0.0 0.0 0.151124610777 0.380915163609 0.137849711215 0.391849162802 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+India gives evidence to Pakistan about involvement of Pakistani extremist in Mumbai attack.
+india gives evidence to pakistan about involvement of pakistani extremist in mumbai attack
+1 0 0 1 1 0 1 1 1 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.233742281839 0.0 0.0 0.0824928224913 0.182863861093 0.0 0.432511324334 0.0651320227664 0.502006908134 0.279488982435 0.0 0.0785265202904 0.292289833723 0.0 0.0 0.0 0.0 0.0 0.242590106818 0.0 0.0 0.0 0.0 0.0 0.474734214466 0.416414829015 0.288119540139 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+India has give Pakistan proof of the involvement of Pakistani extremists in the Mumbai attacks.
+india has give pakistan proof of the involvement of pakistani extremists in the mumbai attacks
+1 1 0 0 1 2 0 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0 0.158482012947 0.0575221321894 0.0 0.112895506128 0.435072653716 0.242223784777 0.342653029641 0.068056317585 0.253317855893 0.21446303351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.296620758765 0.372583044311 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+It is said that evidences are available to say that Pakistani extremists has some relations with the attacks of Mumbai, India.
+it is said that evidences are available to say that pakistani extremists has some relations with the attacks of mumbai india
+1 1 0 1 0 1 0 1 0 1 1 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0
+0.144697603043 0.0975251388429 0.0 0.0510669853517 0.0 0.0205436186391 0.0 0.0403198236173 0.0 0.173016989127 0.24475216403 0.0 0.180941325638 0.153187881079 0.0 0.0 0.0 0.112377119474 0.0 0.0 0.100749740518 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0970899449025 0.0631627601099 0.10549683269 0.116083424787 0.384459634022 0.316122275675 0.18831500665 0.18792942521 0.22931217983 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aclg2ttpdpj36
+Pakistani extremists are responsible for the attacks in Mumbai. India has provided the proof to Pakistan.
+pakistani extremists are responsible for the attacks in mumbai india has provided the proof to pakistan
+1 1 0 1 1 2 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.189915603994 0.128001744731 0.0 0.0670254182741 0.148576887138 0.0539269989276 0.0 0.0 0.0 0.227084798229 0.321237215289 0.0638027977359 0.2374854899 0.201059093916 0.0 0.0 0.0 0.0 0.0 0.0 0.13223403443 0.333300768158 0.120618497313 0.342868017452 0.0 0.0 0.0 0.0 0.349296604042 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1fnqhv04k4cvd
+India has provided proof to Pakistan that Pakistani extremists are responsible for the Mumbai attacks.
+india has provided proof to pakistan that pakistani extremists are responsible for the mumbai attacks
+1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0714937794924 0.158482012947 0.0287610660947 0.0 0.0 0.0 0.242223784777 0.342653029641 0.0 0.253317855893 0.21446303351 0.0 0.0 0.0 0.0 0.0 0.0 0.141049636725 0.355520819369 0.128659730467 0.365725885282 0.0 0.0 0.0 0.0 0.372583044311 0.0 0.0 0.0 0.081258397351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a20ubr5wdkookg
+Pakistani extremists are responsible for the mumbai attacks. India has provided the proof to Pakistan.
+pakistani extremists are responsible for the mumbai attacks india has provided the proof to pakistan
+1 1 0 1 1 2 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0714937794924 0.158482012947 0.0575221321894 0.0 0.0 0.0 0.242223784777 0.342653029641 0.0 0.253317855893 0.21446303351 0.0 0.0 0.0 0.0 0.0 0.0 0.141049636725 0.355520819369 0.128659730467 0.365725885282 0.0 0.0 0.0 0.0 0.372583044311 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a24bjjrcqbm3mi
+India has given evidence to Pakistan concerning involvement of Pakistani extremist in the Mumbai attack.
+india has given evidence to pakistan concerning involvement of pakistani extremist in the mumbai attack
+1 1 0 1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0714937794924 0.158482012947 0.0287610660947 0.374843147756 0.0564477530642 0.435072653716 0.242223784777 0.0 0.068056317585 0.253317855893 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.360892851813 0.249703601454 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.290672016517 0.482716212768 0.0 0.0 0.0 0.0 0.0
+adu3xkpx6ttsa
+India gave evidence to Pakistan about the involvement of the Pakistani extremist in the Mumbai attack.
+india gave evidence to pakistan about the involvement of the pakistani extremist in the mumbai attack
+1 0 0 1 1 3 1 1 1 1 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.189915603994 0.0 0.0 0.0670254182741 0.148576887138 0.0808904983914 0.351415451021 0.0529197684977 0.407880612859 0.227084798229 0.0 0.0638027977359 0.2374854899 0.0 0.0 0.0 0.0 0.0 0.197104461789 0.0 0.0 0.0 0.0 0.0 0.0 0.338337048574 0.234097126363 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.332499475131 0.0 0.0 0.0 0.0
+a2xxc6gj05jja0
+India gives evidence to Pakistan about involvement of Pakistani extremists in Mumbai attack.
+india gives evidence to pakistan about involvement of pakistani extremists in mumbai attack
+1 0 0 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.233742281839 0.0 0.0 0.0824928224913 0.182863861093 0.0 0.432511324334 0.0651320227664 0.502006908134 0.279488982435 0.395368880355 0.0785265202904 0.292289833723 0.0 0.0 0.0 0.0 0.0 0.242590106818 0.0 0.0 0.0 0.0 0.0 0.474734214466 0.0 0.288119540139 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+awmob8jnvgesj
+India has given Pakistan proof of the involvement of Pakistani extremists in the Mumbai attacks.
+india has given pakistan proof of the involvement of pakistani extremists in the mumbai attacks
+1 1 0 0 1 2 0 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0 0.158482012947 0.0575221321894 0.0 0.112895506128 0.435072653716 0.242223784777 0.342653029641 0.068056317585 0.253317855893 0.21446303351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.372583044311 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.290672016517 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+India has give Pakistan proof of the involvement of Pakistani extremists in the Mumbai attacks.
+india has give pakistan proof of the involvement of pakistani extremists in the mumbai attacks
+1 1 0 0 1 2 0 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0 0.158482012947 0.0575221321894 0.0 0.112895506128 0.435072653716 0.242223784777 0.342653029641 0.068056317585 0.253317855893 0.21446303351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.296620758765 0.372583044311 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+India has given Pakistan proof of the involvement of Pakistani extremists in the Mumbai attacks.
+india has given pakistan proof of the involvement of pakistani extremists in the mumbai attacks
+1 1 0 0 1 2 0 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.202576644261 0.13653519438 0.0 0.0 0.158482012947 0.0575221321894 0.0 0.112895506128 0.435072653716 0.242223784777 0.342653029641 0.068056317585 0.253317855893 0.21446303351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.372583044311 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.290672016517 0.0 0.0 0.0 0.0 0.0 0.0
+a3i6odkoktfoow
+It is said that enough evidence is available to confirm that Pakistani extremists are involved in the attacks on Mumbai, India.
+it is said that enough evidence is available to confirm that pakistani extremists are involved in the attacks on mumbai india
+1 0 0 1 0 1 1 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 2 1 2 0 1 0 0 0 0 0 0 1 1 1 1
+0.144697603043 0.0 0.0 0.0510669853517 0.0 0.0205436186391 0.26774510554 0.0 0.0 0.173016989127 0.24475216403 0.0486116554178 0.180941325638 0.153187881079 0.0 0.0 0.0 0.0 0.0 0.0 0.100749740518 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0970899449025 0.12632552022 0.10549683269 0.116083424787 0.0 0.316122275675 0.0 0.0 0.0 0.0 0.0 0.0 0.289798950776 0.384459634022 0.242284303655 0.0889756511839

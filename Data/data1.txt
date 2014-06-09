@@ -1,0 +1,88 @@
+bbc_urd_20090102.0020__1
+support of frances recommendation for the proposal france french endorsed supported defending thinking supporting suggestion was appriciatable has committee supports appreciatable
+Support of France's Recommendation
+support of frances recommendation
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.18625640641 0.211679073991 2.1075818146 2.14611948456 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Support for the Proposal of France
+support for the proposal of france
+1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.790837604271 0.14111938266 0.0 0.0 0.321649326168 0.0719026652368 1.09126600183 0.986981685199 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+French Proposal Endorsed
+french proposal endorsed
+0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 2.18253200365 0.0 2.16147236978 3.2276967423 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+French Proposal Supported
+french proposal supported
+0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 2.18253200365 0.0 2.16147236978 0.0 2.03785251014 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+defending the thinking of France.
+defending the thinking of france
+0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.169343259193 0.0 0.0 0.0 0.0862831982842 0.0 1.18437802224 0.0 0.0 0.0 1.33747159067 1.06656245811 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Supporting the French proposal
+supporting the french proposal
+0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.107853997855 1.63689900274 0.0 1.62110427733 0.0 0.0 0.0 0.0 1.61110294368 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dsltew8ffmbv
+France suggestion was appriciatable.
+france suggestion was appriciatable
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.4804725278 0.0 0.0 0.0 0.0 0.0 0.0 1.55046253439 0.545294929139 2.3194062797 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+France has supported the proposal.
+france has supported the proposal
+0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 1 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0862831982842 1.30951920219 1.18437802224 0.0 0.0 1.22271150608 0.0 0.0 0.0 0.0 0.0 0.0 0.40960558314 0.0 0.0 0.0
+a230hf2okthmdz
+Defending the thinking of France.
+defending the thinking of france
+0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.169343259193 0.0 0.0 0.0 0.0862831982842 0.0 1.18437802224 0.0 0.0 0.0 1.33747159067 1.06656245811 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+defending the thinking of France.
+defending the thinking of france
+0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.169343259193 0.0 0.0 0.0 0.0862831982842 0.0 1.18437802224 0.0 0.0 0.0 1.33747159067 1.06656245811 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1lkw32z4tqsw7
+defending the thinking of France.
+defending the thinking of france
+0 1 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.169343259193 0.0 0.0 0.0 0.0862831982842 0.0 1.18437802224 0.0 0.0 0.0 1.33747159067 1.06656245811 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a301gnfg8w711q
+Supporting the French Proposal
+supporting the french proposal
+0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.107853997855 1.63689900274 0.0 1.62110427733 0.0 0.0 0.0 0.0 1.61110294368 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143awku99stc9
+Committee supports the French proposal
+committee supports the french proposal
+0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0
+0.0 0.0 0.0 0.0 0.0 0.0862831982842 1.30951920219 0.0 1.29688342187 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.989378355699 1.41608010829 0.0
+a6tw9zegog7ph
+Supporting the French proposal
+supporting the french proposal
+0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.107853997855 1.63689900274 0.0 1.62110427733 0.0 0.0 0.0 0.0 1.61110294368 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2unp2crnrfiw8
+France's Suggestion Appreciatable.
+frances suggestion appreciatable
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+0.0 0.0 2.81010908613 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.06728337918 0.0 0.0 0.0 0.0 0.0 3.09254170626
+attzel5iaoiw5
+France suggestion was appriciatable.
+france suggestion was appriciatable
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.4804725278 0.0 0.0 0.0 0.0 0.0 0.0 1.55046253439 0.545294929139 2.3194062797 0.0 0.0 0.0 0.0
+aohhtbpd64eb6
+France's suggestion was appriciatable.
+frances suggestion was appriciatable
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0
+0.0 0.0 2.1075818146 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.55046253439 0.545294929139 2.3194062797 0.0 0.0 0.0 0.0
+ao86wz7i0vqzc
+France has supported the proposal.
+france has supported the proposal
+0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 1 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0862831982842 1.30951920219 1.18437802224 0.0 0.0 1.22271150608 0.0 0.0 0.0 0.0 0.0 0.0 0.40960558314 0.0 0.0 0.0

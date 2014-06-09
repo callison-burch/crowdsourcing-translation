@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370259-post1__1
+the indian government has refused to allow cricket team tour pakistan stopped from visiting touring cancelled teams stop visit of stoped its prevented
+The Indian government has refused to allow the Indian cricket team to tour Pakistan.
+the indian government has refused to allow the indian cricket team to tour pakistan
+2 2 1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.532279765552 0.215438102461 0.146287708264 0.45623238292 0.153200956055 0.429056396784 0.381842820433 0.328470363159 0.369445051455 0.169802156729 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Indian Government has stopped the Indian cricket team from visiting Pakistan.
+the indian government has stopped the indian cricket team from visiting pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.584078464789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Indian government has stopped Indian cricket team from touring Pakistan.
+indian government has stopped indian cricket team from touring pakistan
+0 2 1 1 0 0 0 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0
+0.0 0.745191671772 0.301613343446 0.20480279157 0.0 0.0 0.0 0.534579948606 0.459858508423 0.0 0.237723019421 0.576111689061 0.237454742935 0.0 0.858447793822 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Indian Government has cancelled the Indian team's tour to Pakistan.
+the indian government has cancelled the indian teams tour to pakistan
+2 2 1 1 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0
+0.0784392711674 0.677446974339 0.274193948587 0.186184355973 0.0 0.0974915174897 0.0 0.0 0.0 0.470202792761 0.216111835837 0.0 0.0 0.0 0.0 0.680533240869 0.631113654815 0.0 0.0 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+Indian Government has stop Indian cricket team to visit Pakistan
+indian government has stop indian cricket team to visit pakistan
+0 2 1 1 0 1 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.745191671772 0.301613343446 0.20480279157 0.0 0.107240669239 0.0 0.534579948606 0.459858508423 0.0 0.237723019421 0.0 0.0 0.0 0.0 0.0 0.0 0.463003421691 0.552420714353 0.0 0.0 0.0 0.0
+a143bvgouf83je
+the Indian government has stopped the Indian cricket team from visiting Pakistan.
+the indian government has stopped the indian cricket team from visiting pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.584078464789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The Indian government has stopped the Indian cricket team from touring Pakistan.
+the indian government has stopped the indian cricket team from touring pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.0 0.715373161518 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+Indian Government has stopped Indian team from tour of Pakistan.
+indian government has stopped indian team from tour of pakistan
+0 2 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0
+0.0 0.745191671772 0.301613343446 0.20480279157 0.0 0.0 0.0 0.0 0.459858508423 0.517223072037 0.237723019421 0.576111689061 0.237454742935 0.0 0.0 0.0 0.0 0.0 0.0 0.0846716295963 0.0 0.0 0.0
+a2bk4fasw056jr
+Indian Government has stop Indian cricket team to visit Pakistan
+indian government has stop indian cricket team to visit pakistan
+0 2 1 1 0 1 0 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.745191671772 0.301613343446 0.20480279157 0.0 0.107240669239 0.0 0.534579948606 0.459858508423 0.0 0.237723019421 0.0 0.0 0.0 0.0 0.0 0.0 0.463003421691 0.552420714353 0.0 0.0 0.0 0.0
+a3w129h6a0hk4d
+Indian Government has stoped Indian cricket team to visit Pakistan.
+indian government has stoped indian cricket team to visit pakistan
+0 2 1 1 0 1 0 1 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0
+0.0 0.745191671772 0.301613343446 0.20480279157 0.0 0.107240669239 0.0 0.534579948606 0.459858508423 0.0 0.237723019421 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.552420714353 0.0 0.898994304633 0.0 0.0
+a291u81kgj6l9n
+The Indian Government has stopped the Indian cricket team from visiting Pakistan.
+the indian government has stopped the indian cricket team from visiting pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.584078464789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a220lrht4jgo52
+The Indian government has stopped its cricket team from visiting Pakistan.
+the indian government has stopped its cricket team from visiting pakistan
+1 1 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 1 0
+0.0392196355837 0.338723487169 0.274193948587 0.186184355973 0.0 0.0 0.0 0.48598177146 0.418053189475 0.0 0.216111835837 0.523737899146 0.215867948123 0.637176507042 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.302769166415 0.0
+a2dwqf4zhhblow
+The Indian government has stopped the Indian cricket team from visiting Pakistan.
+the indian government has stopped the indian cricket team from visiting pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.584078464789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bnv4r3pkyf7u
+The Indian government has stopped the Indian cricket team from visiting Pakistan.
+the indian government has stopped the indian cricket team from visiting pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.584078464789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2vy0zm7e7n8f6
+The Indian government has stopped the Indian cricket team from touring Pakistan.
+the indian government has stopped the indian cricket team from touring pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.0 0.715373161518 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1i7k0n0d3vs41
+The Indian government has stopped the Indian cricket team from touring Pakistan.
+the indian government has stopped the indian cricket team from touring pakistan
+2 2 1 1 0 0 0 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.480093074217 0.197878952446 0.0 0.715373161518 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2eldzaxlm8quo
+The Indian government has prevented the Indian cricket team from touring Pakistan.
+the indian government has prevented the indian cricket team from touring pakistan
+2 2 1 1 0 0 0 1 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1
+0.0719026652368 0.62099305981 0.251344452872 0.170668992975 0.0 0.0 0.0 0.445483290505 0.383215423686 0.0 0.198102516184 0.0 0.197878952446 0.0 0.715373161518 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.749161920527
+a1mmshjhu659at
+Indian Government has stopped the Indian team from touring Pakistan.
+indian government has stopped the indian team from touring pakistan
+1 2 1 1 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0
+0.0431415991421 0.745191671772 0.301613343446 0.20480279157 0.0 0.0 0.0 0.0 0.459858508423 0.0 0.237723019421 0.576111689061 0.237454742935 0.0 0.858447793822 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

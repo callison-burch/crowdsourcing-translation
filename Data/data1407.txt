@@ -1,0 +1,88 @@
+urd-wl-78-174262-11377684-post1__8
+at times there is noise silence sometimes they make and keep calm noisy are quiet it sound silent loudly silently very often quite noisily never ever can be the rain comes
+At times there is noise, at times silence
+at times there is noise at times silence
+2 2 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.774402116282 1.40566180409 0.360295440083 0.165802245289 0.876117697183 0.735950129715 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sometimes they make noise and sometimes keep calm
+sometimes they make noise and sometimes keep calm
+0 0 0 0 1 0 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.876117697183 0.0 1.39718641617 0.324178768076 0.574823135528 0.125079608326 0.6550548713 1.09584993688 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Noisy they are, and quiet sometimes
+noisy they are and quiet sometimes
+0 0 0 0 0 0 1 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.931457610778 0.432238357435 0.0 0.166772811101 0.0 0.0 1.46113324917 0.352624091813 1.08417273276 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sometimes it is sound, and sometimes it is silent.
+sometimes it is sound and sometimes it is silent
+0 0 0 2 0 0 2 0 0 1 0 0 0 0 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.29475954718 0.0 0.0 1.24194348104 0.0 0.0 0.111181874068 0.0 0.0 0.0 0.0 0.0 0.453086409545 0.844849853912 0.722781821838 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+sometimes loudly, sometimes silently.
+sometimes loudly sometimes silently
+0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 2.79437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.14611948456 2.1075818146 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+sometimes very noisy and sometimes very quiet
+sometimes very noisy and sometimes very quiet
+0 0 0 0 0 0 2 0 0 1 0 0 1 0 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 1.59678447562 0.0 0.0 0.142948123801 0.0 0.0 1.25239992786 0.0 0.929290913792 0.0 0.0 0.0 0.0 0.0 1.19306520954 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a172x4w90uost1
+Often quite noisily, often silently
+often quite noisily often silently
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.68606545168 0.0 2.77690008119 1.33747159067 1.79798860927 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+Noise never ever can be the silence.
+noise never ever can be the silence
+0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0
+0.0 0.0 0.0 0.0 1.00127736821 0.841085862531 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.67992375854 0.784776497838 0.455295667004 0.309056831825 0.0616308559173 0.0 0.0
+a143awku99stc9
+Sometimes loudly, sometimes silently.
+sometimes loudly sometimes silently
+0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 2.79437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.14611948456 2.1075818146 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wgq344wqriu5
+sometimes loudly, sometimes silently.
+sometimes loudly sometimes silently
+0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 2.79437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.14611948456 2.1075818146 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+sometimes loudly, sometimes silently.
+sometimes loudly sometimes silently
+0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 2.79437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.14611948456 2.1075818146 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3andctf0w1pqd
+Sometimes, it is very noisy, and sometimes it is very quiet.
+sometimes it is very noisy and sometimes it is very quiet
+0 0 0 2 0 0 2 0 0 1 0 0 1 0 1 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.241166902238 0.0 0.0 1.01613557539 0.0 0.0 0.0909669878735 0.0 0.0 0.796981772274 0.0 0.59136694514 0.370707062355 0.0 0.0 0.0 0.0 0.759223315165 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Sometimes very noisy and sometimes very quiet.
+sometimes very noisy and sometimes very quiet
+0 0 0 0 0 0 2 0 0 1 0 0 1 0 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 1.59678447562 0.0 0.0 0.142948123801 0.0 0.0 1.25239992786 0.0 0.929290913792 0.0 0.0 0.0 0.0 0.0 1.19306520954 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+Sometimes very noisy and sometimes very quiet
+sometimes very noisy and sometimes very quiet
+0 0 0 0 0 0 2 0 0 1 0 0 1 0 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 1.59678447562 0.0 0.0 0.142948123801 0.0 0.0 1.25239992786 0.0 0.929290913792 0.0 0.0 0.0 0.0 0.0 1.19306520954 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+Sometimes quite noisily, often silently,
+sometimes quite noisily often silently
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 1.11774913293 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.68606545168 0.0 1.38845004059 1.33747159067 1.79798860927 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+Often the rain comes noisily, and often it is silent
+often the rain comes noisily and often it is silent
+0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 2 0 1 0 0 0 0 1 1 1
+0.0 0.0 0.0 0.132641796231 0.0 0.0 0.0 0.0 0.0 0.100063686661 0.0 0.0 0.0 0.0 0.0 0.203888884295 0.0 0.650503639654 0.0 0.0 0.0 1.38845004059 0.0 0.898994304633 0.0 0.0 0.0 0.0 0.0431415991421 0.733171496973 0.554792367015
+a230hf2okthmdz
+Often noisily, often silently.
+often noisily often silently
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.1075818146 0.0 3.47112510148 0.0 2.24748576158 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aonmraht4motn
+Noise never ever can be the silence.
+noise never ever can be the silence
+0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0
+0.0 0.0 0.0 0.0 1.00127736821 0.841085862531 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.67992375854 0.784776497838 0.455295667004 0.309056831825 0.0616308559173 0.0 0.0

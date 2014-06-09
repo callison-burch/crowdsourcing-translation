@@ -1,0 +1,88 @@
+dew_urd_20090119.0007__13
+on saturday the militant taliban organization claimed responsibility for suicide attack outside german embassy in kabul has taken of suicidal that occurred assumed militants accepted saturdays saturdaythe organisation took attacks place bomb been by armed called talibans terrorist at weekend was group there a and military owned it organizationtalibantook over this
+On Saturday, the militant Taliban organization claimed responsibility for the suicide attack outside the German Embassy in Kabul.
+on saturday the militant taliban organization claimed responsibility for the suicide attack outside the german embassy in kabul
+1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.103804926381 0.3404301203 0.0719026652368 0.351843674423 0.194787999758 0.268175629031 0.32771669961 0.29347151148 0.107216442056 0.295910077789 0.208086334545 0.353828012345 0.249297747173 0.322882734221 0.0567135979875 0.375851083045 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The militant organization the Taliban has taken responsibility of the suicidal attack that occurred on Saturday outside the German Embassy in Kabul.
+the militant organization the taliban has taken responsibility of the suicidal attack that occurred on saturday outside the german embassy in kabul
+1 1 4 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0849313034028 0.278533734791 0.0784392711674 0.287872097255 0.159371999802 0.219416423752 0.0 0.240113054847 0.0 0.0 0.170252455537 0.289495646464 0.203970884051 0.264176782545 0.046402034717 0.307514522491 0.0930921779864 0.197634494874 0.0384871043619 0.440140464859 0.0554034527393 0.312714992999 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Militant organization, Taliban, assumed responsibility for the suicide attack outside the German Embassy in Kabul on Saturday.
+militant organization taliban assumed responsibility for the suicide attack outside the german embassy in kabul on saturday
+1 1 2 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.109911098521 0.360455421494 0.0507548225201 0.372540361154 0.206246117391 0.283950666033 0.0 0.310734541567 0.113523291589 0.313316552953 0.220326707165 0.374641424836 0.263962320536 0.341875836234 0.0600496919867 0.397959970283 0.0 0.0 0.0 0.0 0.0 0.0 0.495901603435 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Taliban militants accepted responsibility for Saturday's suicide attack outside the German embassy.
+taliban militants accepted responsibility for saturdays suicide attack outside the german embassy
+0 0 1 0 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0359513326184 0.0 0.292181999638 0.0 0.0 0.44020726722 0.160824663084 0.443865116683 0.312129501817 0.530742018518 0.37394662076 0.484324101332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.463671087673 0.432404300134 0.806924185574 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+On Saturday,the militant organisation, Taliban took responsibility for the suicide attacks that took place outside the German embassy.
+on saturdaythe militant organisation taliban took responsibility for the suicide attacks that took place outside the german embassy
+1 0 2 1 1 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.103804926381 0.0 0.0479351101579 0.351843674423 0.194787999758 0.0 0.0 0.29347151148 0.107216442056 0.295910077789 0.0 0.353828012345 0.249297747173 0.322882734221 0.0 0.0 0.0 0.0 0.0 0.0 0.0677153311258 0.0 0.0 0.0 0.0 0.0 0.537949457049 0.385680566831 0.549168378211 0.178719194592 0.252301481688 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3sw1e5d0b9v9a
+The responsibility of suicide bomb attack outside the German Embassy in Kabul has been accepted by the armed organization called Taliban's.
+the responsibility of suicide bomb attack outside the german embassy in kabul has been accepted by the armed organization called talibans
+0 0 3 0 0 1 0 1 0 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0616308559173 0.0 0.0 0.229864824884 0.0 0.25154700984 0.0 0.253637209533 0.178359715324 0.303281153439 0.213683783291 0.276756629332 0.0486116554178 0.322158071181 0.0975251388429 0.0 0.0403198236173 0.0 0.0 0.0 0.0 0.0 0.247088171505 0.0 0.0 0.0 0.0 0.0 0.0 0.26534363632 0.138354458726 0.118722288388 0.235985828961 0.230050474427 0.266931084904 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a21xirv18up71h
+The responsibility for the terrorist attack outside the German Embassy at the weekend was taken by the militant group, the Taliban.
+the responsibility for the terrorist attack outside the german embassy at the weekend was taken by the militant group the taliban
+0 0 6 1 1 0 0 1 1 0 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.123261711835 0.301580292363 0.16696114265 0.0 0.0 0.25154700984 0.0918998074765 0.0 0.178359715324 0.303281153439 0.213683783291 0.276756629332 0.0 0.0 0.0 0.207045661296 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.118722288388 0.0 0.0 0.0 0.222181447146 0.147505165006 0.41746664262 0.103865700788 0.209277295057 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+On Saturday, there was a suicide attack outside the German embassy in Kabul and the Taliban military organization owned the responsibility for it.
+on saturday there was a suicide attack outside the german embassy in kabul and the taliban military organization owned the responsibility for it
+1 1 3 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0
+0.0812386380375 0.266423572409 0.0562716510549 0.0 0.15244278242 0.209876579242 0.0 0.229673356811 0.0839085198698 0.231581800009 0.162850174861 0.276908879227 0.195102584744 0.252690835477 0.0443845549467 0.294144325861 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0948339007198 0.0 0.125320153072 0.062156617328 0.0435059507221 0.205228069419 0.421003922908 0.0886473409979 0.0 0.0 0.0
+a219vcqzadq45w
+On Saturday,the militant organization,Taliban,took responsibility for the suicide attacks that took place outside the German embassy.
+on saturdaythe militant organizationtalibantook responsibility for the suicide attacks that took place outside the german embassy
+1 0 2 1 0 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.116780542179 0.0 0.0539269989276 0.395824133726 0.0 0.0 0.0 0.330155450415 0.120618497313 0.332898837513 0.0 0.398056513889 0.28045996557 0.363243075999 0.0 0.0 0.0 0.0 0.0 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.0 0.605193139181 0.0 0.308907212743 0.201059093916 0.283839166899 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.648514837966 0.0 0.0
+a2bk4fasw056jr
+On Saturday, the Taliban militant organisation took responsibility for the suicide attacks that took place outside the German embassy.
+on saturday the taliban militant organisation took responsibility for the suicide attacks that took place outside the german embassy
+1 1 3 1 1 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0983415092032 0.322512745547 0.0681183144349 0.333325586296 0.184535999771 0.0 0.0 0.278025642455 0.101573471421 0.280335863168 0.0 0.33520548538 0.236176813111 0.305888906104 0.0 0.0 0.0 0.0 0.0 0.0 0.0641513663297 0.0 0.0 0.0 0.0 0.0 0.0 0.36538158963 0.520264779357 0.169312921192 0.239022456336 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+On Saturday, the militant organization called the Taliban took responsibility for the suicide attacks that took place outside the German embassy.
+on saturday the militant organization called the taliban took responsibility for the suicide attacks that took place outside the german embassy
+1 1 4 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 2 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0889756511839 0.291797245971 0.0821744745563 0.301580292363 0.16696114265 0.229864824884 0.0 0.25154700984 0.0918998074765 0.253637209533 0.0 0.303281153439 0.213683783291 0.276756629332 0.0 0.0 0.0 0.0 0.0 0.0 0.0580417123936 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.470715752752 0.153187881079 0.216258412876 0.0 0.0 0.0 0.0 0.230050474427 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+The armed organization called the Taliban has accepted responsibility for the suicide bomb attack outside the German Embassy in Kabul.
+the armed organization called the taliban has accepted responsibility for the suicide bomb attack outside the german embassy in kabul
+0 0 4 0 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0862831982842 0.0 0.175309199783 0.241358066128 0.0 0.264124360332 0.0964947978503 0.26631907001 0.18727770109 0.318445211111 0.224367972456 0.290594460799 0.0510422381887 0.33826597474 0.102401395785 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.25944258008 0.0 0.0 0.0 0.0 0.0 0.0 0.278610818136 0.0 0.0 0.247785120409 0.241552998149 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+The responsibility of the suicide bomb attack outside the German Embassy in Kabul has been accepted by the armed organization called the Taliban.
+the responsibility of the suicide bomb attack outside the german embassy in kabul has been accepted by the armed organization called the taliban
+0 0 5 0 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0937860850915 0.0 0.15244278242 0.209876579242 0.0 0.229673356811 0.0 0.231581800009 0.162850174861 0.276908879227 0.195102584744 0.252690835477 0.0443845549467 0.294144325861 0.089044691987 0.0 0.0368137519984 0.0 0.0 0.0 0.0 0.0 0.225602243548 0.0 0.0 0.0 0.0 0.0 0.0 0.24227027664 0.126323636228 0.108398611137 0.215465322095 0.210046085347 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a279zamy03pduy
+The responsibility of the suicide bomb attack outside the German Embassy in Kabul has been accepted by the armed organization called the Taliban.
+the responsibility of the suicide bomb attack outside the german embassy in kabul has been accepted by the armed organization called the taliban
+0 0 5 0 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0937860850915 0.0 0.15244278242 0.209876579242 0.0 0.229673356811 0.0 0.231581800009 0.162850174861 0.276908879227 0.195102584744 0.252690835477 0.0443845549467 0.294144325861 0.089044691987 0.0 0.0368137519984 0.0 0.0 0.0 0.0 0.0 0.225602243548 0.0 0.0 0.0 0.0 0.0 0.0 0.24227027664 0.126323636228 0.108398611137 0.215465322095 0.210046085347 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a227cwgbxgw4yh
+The responsibility for the terrorist attack outside the German Embassy at the weekend was taken by the militant group, the Taliban.
+the responsibility for the terrorist attack outside the german embassy at the weekend was taken by the militant group the taliban
+0 0 6 1 1 0 0 1 1 0 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.123261711835 0.301580292363 0.16696114265 0.0 0.0 0.25154700984 0.0918998074765 0.0 0.178359715324 0.303281153439 0.213683783291 0.276756629332 0.0 0.0 0.0 0.207045661296 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.118722288388 0.0 0.0 0.0 0.222181447146 0.147505165006 0.41746664262 0.103865700788 0.209277295057 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+The militant group called the Taliban took responsibility for the terrorist attack outside the German Embassy over the weekend.
+the militant group called the taliban took responsibility for the terrorist attack outside the german embassy over the weekend
+0 0 5 1 1 0 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0
+0.0 0.0 0.113530524058 0.333325586296 0.184535999771 0.0 0.0 0.278025642455 0.101573471421 0.0 0.1971344222 0.33520548538 0.236176813111 0.305888906104 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.260132389679 0.0 0.0 0.0 0.0 0.0 0.0 0.254266313841 0.0 0.245568967899 0.0 0.461410499738 0.0 0.23130648401 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.198257271804 0.0
+a2zhr3rebfem5a
+The militant group the Taliban has taken responsibility for the terrorist attack outside the German Embassy this weekend.
+the militant group the taliban has taken responsibility for the terrorist attack outside the german embassy this weekend
+0 0 4 1 1 0 0 1 1 0 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1
+0.0 0.0 0.0958702203157 0.351843674423 0.194787999758 0.0 0.0 0.29347151148 0.107216442056 0.0 0.208086334545 0.353828012345 0.249297747173 0.322882734221 0.0 0.0 0.11377932865 0.241553271512 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.259211688338 0.0 0.48704441639 0.0 0.244156844233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0962352982872
+a3ohqrf1mdq99b
+On Saturday, there was a suicide attack outside the German embassy in Kabul. The Taliban military organization claimed responsibility.
+on saturday there was a suicide attack outside the german embassy in kabul the taliban military organization claimed responsibility
+1 1 2 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0
+0.0983415092032 0.322512745547 0.0454122096232 0.0 0.184535999771 0.25406112224 0.310468452262 0.278025642455 0.0 0.280335863168 0.1971344222 0.33520548538 0.236176813111 0.305888906104 0.0537286717776 0.356069447095 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.11479893245 0.0 0.151703343193 0.075242220976 0.0 0.24843397877 0.0 0.0 0.0 0.0 0.0

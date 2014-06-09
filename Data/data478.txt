@@ -1,0 +1,88 @@
+dew_urd_20090119.0007__20
+the german federal crime prevention organization is busy examining this video message a crimes control agency department of investigating germanys anticrimes scrutinizing joint organisation studying for elimination in analyzing anti was occupied contents anticrime checking
+The German Federal Crime Prevention Organization is busy examining this video message.
+the german federal crime prevention organization is busy examining this video message
+1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0359513326184 0.37394662076 0.469275439924 0.44602974055 0.664861844554 0.402263443546 0.110534830192 0.533828791158 0.749161920527 0.144352947431 0.44494040042 0.403241928369 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+A German federal crimes control agency is busy examining this video.
+a german federal crimes control agency is busy examining this video
+0 1 1 0 0 0 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.407941768102 0.511936843553 0.0 0.0 0.0 0.120583451119 0.582358681263 0.817267549666 0.157475942652 0.485389527731 0.0 0.129963836231 0.49023916234 0.446968353937 0.463930713535 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+German federal department of crime prevention is busy investigating the video message.
+german federal department of crime prevention is busy investigating the video message
+1 1 1 1 1 0 1 1 0 0 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0359513326184 0.37394662076 0.469275439924 0.44602974055 0.664861844554 0.0 0.110534830192 0.533828791158 0.0 0.0 0.44494040042 0.403241928369 0.0 0.0 0.0 0.0 0.523491070436 0.0705596913302 0.551253107646 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Germany's federal anti-crimes agency is scrutinizing the video.
+germanys federal anticrimes agency is scrutinizing the video
+1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0539269989276 0.0 0.703913159886 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.66741060063 0.0 0.0 0.0 0.0 0.637904731111 0.0 0.0 0.0 0.950456085651 1.21038627836 1.29702967593 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The German joint crime control organisation is busy studying the video.
+the german joint crime control organisation is busy studying the video
+2 1 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0784392711674 0.407941768102 0.0 0.486577898782 0.0 0.0 0.120583451119 0.582358681263 0.0 0.0 0.485389527731 0.0 0.0 0.0 0.446968353937 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.523737899146 0.631113654815 0.615029044982 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3sw1e5d0b9v9a
+The German department for the elimination of crimes is busy in analyzing this video.
+the german department for the elimination of crimes is busy in analyzing this video
+2 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.0616308559173 0.320525674937 0.0 0.0 0.0 0.0 0.0947441401649 0.457567535278 0.0 0.123731097798 0.381377486074 0.0 0.0 0.385187913267 0.0 0.0 0.448706631802 0.0604797354259 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.137849711215 0.584215202151 0.0729174831268 0.592628276126 0.0 0.0 0.0 0.0 0.0 0.0
+a21xirv18up71h
+The German federal anti crime organization was occupied in investigating the contents of the video.
+the german federal anti crime organization was occupied in investigating the contents of the video
+3 1 1 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0
+0.0862831982842 0.299157296608 0.375420351939 0.35682379244 0.0 0.321810754837 0.0 0.0 0.0 0.0 0.355952320336 0.0 0.0 0.0 0.0 0.0 0.0 0.0564477530642 0.441002486117 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.068056317585 0.0 0.477157438839 0.145411981104 0.462816680198 0.584453299668 0.0 0.0
+a1aczgd5azz3r7
+The German Federal Anti-crime organization is checking this video.
+the german federal anticrime organization is checking this video
+1 1 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+0.0479351101579 0.498595494346 0.625700586565 0.0 0.0 0.536351258062 0.14737977359 0.0 0.0 0.192470596574 0.593253867226 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.953830882025 0.908779203346
+a219vcqzadq45w
+The German joint crime control organization is busy studying the video.
+the german joint crime control organization is busy studying the video
+2 1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+0.0784392711674 0.407941768102 0.0 0.486577898782 0.0 0.438832847505 0.120583451119 0.582358681263 0.0 0.0 0.485389527731 0.0 0.0 0.0 0.446968353937 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.523737899146 0.0 0.615029044982 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2bk4fasw056jr
+The German joint crime control organisation is busy studying the video.
+the german joint crime control organisation is busy studying the video
+2 1 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0784392711674 0.407941768102 0.0 0.486577898782 0.0 0.0 0.120583451119 0.582358681263 0.0 0.0 0.485389527731 0.0 0.0 0.0 0.446968353937 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.523737899146 0.631113654815 0.615029044982 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+The German joint crime control organization is busy studying the video.
+the german joint crime control organization is busy studying the video
+2 1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
+0.0784392711674 0.407941768102 0.0 0.486577898782 0.0 0.438832847505 0.120583451119 0.582358681263 0.0 0.0 0.485389527731 0.0 0.0 0.0 0.446968353937 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.523737899146 0.0 0.615029044982 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+The German department for the elimination of crimes is busy analyzing this video.
+the german department for the elimination of crimes is busy analyzing this video
+2 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0
+0.0663716909878 0.345181496086 0.0 0.0 0.0 0.0 0.102032150947 0.492765037992 0.0 0.133248874552 0.410714215772 0.0 0.0 0.414817752749 0.0 0.0 0.483222526556 0.0651320227664 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.148453535154 0.629154833086 0.0 0.638215066598 0.0 0.0 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+The German Department for the Elimination of Crimes is busy in analyzing this video.
+the german department for the elimination of crimes is busy in analyzing this video
+2 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.0616308559173 0.320525674937 0.0 0.0 0.0 0.0 0.0947441401649 0.457567535278 0.0 0.123731097798 0.381377486074 0.0 0.0 0.385187913267 0.0 0.0 0.448706631802 0.0604797354259 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.137849711215 0.584215202151 0.0729174831268 0.592628276126 0.0 0.0 0.0 0.0 0.0 0.0
+a279zamy03pduy
+The German department for the elimination of crimes is busy analyzing this video.
+the german department for the elimination of crimes is busy analyzing this video
+2 1 0 0 0 0 1 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0
+0.0663716909878 0.345181496086 0.0 0.0 0.0 0.0 0.102032150947 0.492765037992 0.0 0.133248874552 0.410714215772 0.0 0.0 0.414817752749 0.0 0.0 0.483222526556 0.0651320227664 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.148453535154 0.629154833086 0.0 0.638215066598 0.0 0.0 0.0 0.0 0.0 0.0
+a227cwgbxgw4yh
+The German federal anti-crime organization was occupied in investigating the contents of the video.
+the german federal anticrime organization was occupied in investigating the contents of the video
+3 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0
+0.0924462838759 0.320525674937 0.402236091363 0.0 0.0 0.344797237325 0.0 0.0 0.0 0.0 0.381377486074 0.0 0.0 0.0 0.0 0.0 0.0 0.0604797354259 0.472502663697 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0729174831268 0.0 0.0 0.155798551182 0.495875014497 0.62619996393 0.613176995587 0.0
+a3qu3km3iywhif
+The German federal anti-crime organization was occupied in investigating the contents of the video.
+the german federal anticrime organization was occupied in investigating the contents of the video
+3 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 0
+0.0924462838759 0.320525674937 0.402236091363 0.0 0.0 0.344797237325 0.0 0.0 0.0 0.0 0.381377486074 0.0 0.0 0.0 0.0 0.0 0.0 0.0604797354259 0.472502663697 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0729174831268 0.0 0.0 0.155798551182 0.495875014497 0.62619996393 0.613176995587 0.0
+a2zhr3rebfem5a
+The German federal anti-crime organization was investigating the contents of the video.
+the german federal anticrime organization was investigating the contents of the video
+3 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0
+0.107853997855 0.37394662076 0.469275439924 0.0 0.0 0.402263443546 0.0 0.0 0.0 0.0 0.44494040042 0.0 0.0 0.0 0.0 0.0 0.0 0.0705596913302 0.551253107646 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.18176497638 0.0 0.730566624585 0.715373161518 0.0
+a3ohqrf1mdq99b
+The German Federal Anti-crime organization is checking this video.
+the german federal anticrime organization is checking this video
+1 1 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+0.0479351101579 0.498595494346 0.625700586565 0.0 0.0 0.536351258062 0.14737977359 0.0 0.0 0.192470596574 0.593253867226 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.953830882025 0.908779203346

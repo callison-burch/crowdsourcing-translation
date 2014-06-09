@@ -1,0 +1,88 @@
+dew_urd_20090131.0002__1
+provincial elections in iraq provisional state israel iraqi held
+Provincial Elections in Iraq
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+Provincial Elections in Iraq
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+Provincial Elections in Iraq
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+Provincial elections in Iraq
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+Iraq provisional Elections.
+iraq provisional elections
+0 1 0 1 1 0 0 0 0
+0.0 1.65785334186 0.0 1.65190080273 2.63044358589 0.0 0.0 0.0 0.0
+a2llfcd7di80k3
+Provincial elections in Iraq.
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+State elections in Israel
+state elections in israel
+0 1 1 0 0 1 1 0 0
+0.0 1.24339000639 0.255211190944 0.0 0.0 1.09619321509 0.831745641549 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+Iraq provisional elections.
+iraq provisional elections
+0 1 0 1 1 0 0 0 0
+0.0 1.65785334186 0.0 1.65190080273 2.63044358589 0.0 0.0 0.0 0.0
+a2fhqsz1afq4oy
+Iraqi provisional Elections.
+iraqi provisional elections
+0 1 0 0 1 0 0 1 0
+0.0 1.65785334186 0.0 0.0 2.63044358589 0.0 0.0 2.03785251014 0.0
+ah8lf01ktxfg0
+Iraqi provisional elections.
+iraqi provisional elections
+0 1 0 0 1 0 0 1 0
+0.0 1.65785334186 0.0 0.0 2.63044358589 0.0 0.0 2.03785251014 0.0
+a24bjjrcqbm3mi
+Provincial elections held in Iraq.
+provincial elections held in iraq
+1 1 1 1 0 0 0 0 1
+1.19635765056 0.994712005116 0.204168952755 0.991140481636 0.0 0.0 0.0 0.0 1.03009814675
+a5bg8xv8wuysx
+Provincial elections in Iraq.
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+a1ly3njtyw9tff
+Provincial elections in Iraq.
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0
+a31ikb373dzonk
+State Elections In Israel
+state elections in israel
+0 1 1 0 0 1 1 0 0
+0.0 1.24339000639 0.255211190944 0.0 0.0 1.09619321509 0.831745641549 0.0 0.0
+a2bk4fasw056jr
+State Elections in Israel
+state elections in israel
+0 1 1 0 0 1 1 0 0
+0.0 1.24339000639 0.255211190944 0.0 0.0 1.09619321509 0.831745641549 0.0 0.0
+ajh0yow6plss8
+State Elections in Israel
+state elections in israel
+0 1 1 0 0 1 1 0 0
+0.0 1.24339000639 0.255211190944 0.0 0.0 1.09619321509 0.831745641549 0.0 0.0
+a290hg650rgy73
+provincial elections in Iraq
+provincial elections in iraq
+1 1 1 1 0 0 0 0 0
+1.49544706319 1.24339000639 0.255211190944 1.23892560204 0.0 0.0 0.0 0.0 0.0

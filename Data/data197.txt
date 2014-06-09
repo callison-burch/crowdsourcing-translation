@@ -1,0 +1,88 @@
+bbc_urd_20090114.0019__6
+at the time of taking oath workers peoples party shouted slogans in support former prime minister benazir bhutto oathtaking ceremony pakistan chanted favor members raised pakistans swearingin pakistani on occasion during ex ppp eve alaf bindari public had as their oaths were taken swearing exprime to before
+At the time of taking oath, workers of the People's Party shouted slogans in support of former Prime Minister Benazir Bhutto.
+at the time of taking oath workers of the peoples party shouted slogans in support of former prime minister benazir bhutto
+1 2 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147505165006 0.0410872372782 0.183181836628 0.120959470852 0.225783228775 0.239031006323 0.254251657383 0.240398154222 0.187394803182 0.351452625424 0.308781767111 0.0486116554178 0.22595360122 0.25096628255 0.196857816285 0.170983322021 0.208561205659 0.248711705379 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+At the oath-taking ceremony, the workers of Pakistan Peoples Party chanted slogans in favor of the former Prime Minister of Pakistan Benazir Bhutto.
+at the oathtaking ceremony the workers of pakistan peoples party chanted slogans in favor of the former prime minister of pakistan benazir bhutto
+1 3 0 3 0 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.134678628919 0.0562716510549 0.0 0.110441255995 0.0 0.0 0.23214281761 0.219493966898 0.171099602905 0.0 0.281931178667 0.0443845549467 0.0 0.229143127546 0.179739745304 0.156115207063 0.190425448645 0.227084600563 0.355609253483 0.239844565352 0.206715669061 0.421003922908 0.251352937275 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+At the time of oath taking, members of People's Party raised slogans in favor of Pakistan's former Prime Minister, Benazir Bhutto.
+at the time of oath taking members of peoples party raised slogans in favor of pakistans former prime minister benazir bhutto
+1 1 1 3 1 1 0 1 1 0 1 1 0 1 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147505165006 0.0205436186391 0.183181836628 0.120959470852 0.225783228775 0.239031006323 0.0 0.240398154222 0.187394803182 0.0 0.308781767111 0.0486116554178 0.0 0.25096628255 0.196857816285 0.170983322021 0.208561205659 0.248711705379 0.0 0.0 0.0 0.0 0.275291312253 0.229495683131 0.280361954177 0.241096734686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+At the swearing-in ceremony, People's Party workers chanted slogans in support of former Pakistani prime minister Benazir Bhutto.
+at the swearingin ceremony peoples party workers chanted slogans in support of former pakistani prime minister benazir bhutto
+1 1 0 1 0 0 1 1 1 0 1 1 1 1 1 1 1 1 0 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.172089359174 0.0239675550789 0.0 0.0470397942201 0.0 0.0 0.296626933613 0.280464513259 0.218627270379 0.0 0.360245394963 0.0567135979875 0.263612534757 0.292793996308 0.229667452333 0.199480542358 0.243321406602 0.290163656275 0.0 0.306468055727 0.0 0.537949457049 0.0 0.0 0.0 0.0 0.454389601673 0.201853153981 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+On the occasion of oath taking, members of the Peoples Party shouted slogans in favor of former Pakistani Prime Minister, Benazir Bhutto.
+on the occasion of oath taking members of the peoples party shouted slogans in favor of former pakistani prime minister benazir bhutto
+0 2 0 3 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0392196355837 0.0 0.115461313086 0.21552035474 0.228165960581 0.0 0.229470965394 0.178876857583 0.335477506086 0.294746232243 0.046402034717 0.0 0.239558724252 0.187909733727 0.163211352838 0.199081150856 0.237406627861 0.0 0.0 0.0 0.0 0.262778070787 0.21906406117 0.0 0.0 0.0 0.16515258053 0.0849313034028 0.261868949573 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+during the oath taking ceremony, the workers of Pakistan Peoples Party raised slogans in favor of ex prime minister Benazir Bhutto.
+during the oath taking ceremony the workers of pakistan peoples party raised slogans in favor of ex prime minister benazir bhutto
+0 2 0 2 1 1 1 1 1 0 1 1 0 0 1 1 1 1 0 1 1 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0410872372782 0.0 0.0806396472345 0.225783228775 0.239031006323 0.254251657383 0.240398154222 0.187394803182 0.0 0.308781767111 0.0486116554178 0.0 0.0 0.196857816285 0.170983322021 0.208561205659 0.248711705379 0.0 0.262686904909 0.113201437819 0.0 0.275291312253 0.0 0.280361954177 0.0 0.0 0.0 0.0 0.0 0.182423226053 0.346914045433 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+During oath taking ceremony, PPP workers raised slogans in support of Benazir bhutto, Former Prime Minister of Pakistan.
+during oath taking ceremony ppp workers raised slogans in support of benazir bhutto former prime minister of pakistan
+0 0 0 2 1 1 1 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0940795884403 0.263413766904 0.278869507377 0.296626933613 0.0 0.0 0.0 0.360245394963 0.0567135979875 0.263612534757 0.292793996308 0.229667452333 0.199480542358 0.243321406602 0.290163656275 0.0 0.306468055727 0.132068344123 0.0 0.0 0.0 0.32708894654 0.0 0.0 0.0 0.0 0.0 0.212827097062 0.0 0.374369513762 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+On the eve of alaf bindari public party had raised slogans in favor of prime minister Benazir Bhutto.
+on the eve of alaf bindari public party had raised slogans in favor of prime minister benazir bhutto
+0 1 0 2 0 0 0 0 1 0 1 1 0 0 1 1 1 1 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0239675550789 0.0 0.0940795884403 0.0 0.0 0.0 0.0 0.218627270379 0.0 0.360245394963 0.0567135979875 0.0 0.0 0.229667452333 0.199480542358 0.243321406602 0.290163656275 0.0 0.0 0.0 0.0 0.321173197629 0.0 0.32708894654 0.0 0.0 0.0 0.103804926381 0.0 0.0 0.0 0.0 0.51542361771 0.537949457049 0.537949457049 0.255305216203 0.190354497358 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+On the occasion of oath taking, members of the Peoples Party shouted slogans in favor of former Pakistani Prime Minister, Benazir Bhutto.
+on the occasion of oath taking members of the peoples party shouted slogans in favor of former pakistani prime minister benazir bhutto
+0 2 0 3 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0392196355837 0.0 0.115461313086 0.21552035474 0.228165960581 0.0 0.229470965394 0.178876857583 0.335477506086 0.294746232243 0.046402034717 0.0 0.239558724252 0.187909733727 0.163211352838 0.199081150856 0.237406627861 0.0 0.0 0.0 0.0 0.262778070787 0.21906406117 0.0 0.0 0.0 0.16515258053 0.0849313034028 0.261868949573 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+On the occasion of oath taking, members of the Peoples Party shouted slogans in favor of former Pakistani Prime Minister, Benazir Bhutto.
+on the occasion of oath taking members of the peoples party shouted slogans in favor of former pakistani prime minister benazir bhutto
+0 2 0 3 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0392196355837 0.0 0.115461313086 0.21552035474 0.228165960581 0.0 0.229470965394 0.178876857583 0.335477506086 0.294746232243 0.046402034717 0.0 0.239558724252 0.187909733727 0.163211352838 0.199081150856 0.237406627861 0.0 0.0 0.0 0.0 0.262778070787 0.21906406117 0.0 0.0 0.0 0.16515258053 0.0849313034028 0.261868949573 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+As their oaths were taken, members of the Peoples Party shouted slogans in favor of former Pakistani Prime Minister, Benazir Bhutto.
+as their oaths were taken members of the peoples party shouted slogans in favor of former pakistani prime minister benazir bhutto
+0 1 0 2 0 0 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.0 0.0205436186391 0.0 0.0806396472345 0.0 0.0 0.0 0.240398154222 0.187394803182 0.351452625424 0.308781767111 0.0486116554178 0.0 0.25096628255 0.196857816285 0.170983322021 0.208561205659 0.248711705379 0.0 0.0 0.0 0.0 0.275291312253 0.229495683131 0.0 0.0 0.0 0.173016989127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.126107707874 0.142428880209 0.408784663725 0.139009777063 0.207045661296 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+During the swearing in ceremony, the workers of Pakistan Peoples' Party raised slogans in favor of ex prime minister Benazir Bhutto.
+during the swearing in ceremony the workers of pakistan peoples party raised slogans in favor of ex prime minister benazir bhutto
+0 2 0 2 0 0 1 1 1 0 1 2 0 0 1 1 1 1 0 1 1 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0 0.0410872372782 0.0 0.0806396472345 0.0 0.0 0.254251657383 0.240398154222 0.187394803182 0.0 0.308781767111 0.0972233108357 0.0 0.0 0.196857816285 0.170983322021 0.208561205659 0.248711705379 0.0 0.262686904909 0.113201437819 0.0 0.275291312253 0.0 0.280361954177 0.0 0.0 0.0 0.0 0.0 0.182423226053 0.346914045433 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.408784663725 0.0 0.0 0.0
+a1u0rzs5qypubm
+During the oath ceremony, the workers of the Pakistan Peoples Party raised slogans in favor of ex-prime minister Benazir Bhutto.
+during the oath ceremony the workers of the pakistan peoples party raised slogans in favor of exprime minister benazir bhutto
+0 3 0 2 0 1 1 1 1 0 1 1 0 0 0 1 1 1 0 1 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.0 0.0647123987131 0.0 0.0846716295963 0.0 0.250982556639 0.266964240252 0.252418061933 0.196764543341 0.0 0.324220855467 0.0510422381887 0.0 0.0 0.0 0.179532488122 0.218989265942 0.261147290648 0.0 0.275821250154 0.11886150971 0.0 0.289055877866 0.0 0.294380051886 0.0 0.0 0.0 0.0 0.0 0.191544387356 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.42151636292 0.0 0.0
+a291u81kgj6l9n
+During the oath taken in the ceremony, the workers of Pakistan Peoples Party raised slogans in favor of ex prime minister Benazir Bhutto.
+during the oath taken in the ceremony the workers of pakistan peoples party raised slogans in favor of ex prime minister benazir bhutto
+0 3 0 2 0 1 1 1 1 0 1 2 0 0 1 1 1 1 0 1 1 0 1 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0562716510549 0.0 0.0736275039967 0.0 0.218245701425 0.23214281761 0.219493966898 0.171099602905 0.0 0.281931178667 0.0887691098934 0.0 0.0 0.179739745304 0.156115207063 0.190425448645 0.227084600563 0.0 0.239844565352 0.103357834531 0.0 0.251352937275 0.0 0.255982653814 0.0 0.0 0.0 0.0 0.0 0.166560336831 0.3167476067 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.189041690749 0.0 0.0 0.0 0.0
+a3c1u2evw0nuff
+During the oath taking ceremony, PPP workers raised slogans of support to Benazir Bhutto the former Prime Minister of Pakistan.
+during the oath taking ceremony ppp workers raised slogans of support to benazir bhutto the former prime minister of pakistan
+0 2 0 2 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0.0 0.0431415991421 0.0 0.0846716295963 0.237072390214 0.250982556639 0.266964240252 0.0 0.0 0.0 0.324220855467 0.0 0.237251281281 0.263514596677 0.2067007071 0.179532488122 0.218989265942 0.261147290648 0.0 0.275821250154 0.11886150971 0.0 0.0 0.0 0.294380051886 0.0 0.0 0.0 0.0 0.0 0.191544387356 0.0 0.336932562386 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0536203346193 0.0
+a3m4exda4ue7bp
+During the oath taking ceremony, PPP workers raised slogans in support of Benazir bhutto, Former Prime Minister of Pakistan.
+during the oath taking ceremony ppp workers raised slogans in support of benazir bhutto former prime minister of pakistan
+0 1 0 2 1 1 1 0 0 0 1 1 1 1 1 1 1 1 0 1 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0227061048116 0.0 0.089128031154 0.249549884436 0.264192164883 0.281014989739 0.0 0.0 0.0 0.341285111018 0.0537286717776 0.249738190823 0.277383785976 0.217579691684 0.188981566444 0.230515016781 0.274891884892 0.0 0.290338158057 0.125117378642 0.0 0.0 0.0 0.309873738827 0.0 0.0 0.0 0.0 0.0 0.201625670901 0.0 0.354665855143 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a12ezody9kxiim
+During the oath-taking ceremony, PPP workers raised slogans in support of Benazir bhutto, Former Prime Minister of Pakistan.
+during the oathtaking ceremony ppp workers raised slogans in support of benazir bhutto former prime minister of pakistan
+0 1 0 2 0 0 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0239675550789 0.0 0.0940795884403 0.0 0.0 0.296626933613 0.0 0.0 0.0 0.360245394963 0.0567135979875 0.263612534757 0.292793996308 0.229667452333 0.199480542358 0.243321406602 0.290163656275 0.454389601673 0.306468055727 0.132068344123 0.0 0.0 0.0 0.32708894654 0.0 0.0 0.0 0.0 0.0 0.212827097062 0.0 0.374369513762 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+Before Alaf Bindari, the Public Party had raised slogans in favor of Prime Minister Benazir Bhutto.
+before alaf bindari the public party had raised slogans in favor of prime minister benazir bhutto
+0 1 0 1 0 0 0 0 1 0 1 1 0 0 1 1 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1
+0.0 0.0269634994638 0.0 0.0529197684977 0.0 0.0 0.0 0.0 0.245955679176 0.0 0.405276069334 0.0638027977359 0.0 0.0 0.258375883875 0.224415610153 0.273736582427 0.32643411331 0.0 0.0 0.0 0.0 0.361319847332 0.0 0.367975064857 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.605193139181 0.605193139181 0.287218368229 0.214148809528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.270259264908

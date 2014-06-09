@@ -1,0 +1,88 @@
+dew_urd_20090119.0007__15
+they are making germany a target targeting could be
+"They are making Germany a target."
+they are making germany a target
+1 1 1 1 1 1 0 0 0
+0.432238357435 0.352624091813 0.845488749898 0.845488749898 0.238267033091 0.941474931456 0.0 0.0 0.0
+"They are targeting Germany
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+They are targeting Germany."
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+They are targeting Germany.
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a3dd3acpmvdvca
+"They are targeting Germany"
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a3sw1e5d0b9v9a
+They are targeting Germany
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a21xirv18up71h
+"They are targeting Germany.
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a1aczgd5azz3r7
+Germany could be a target.
+germany could be a target
+0 0 0 1 1 1 0 1 1
+0.0 0.0 0.0 1.01458649988 0.285920439709 1.12976991775 0.0 0.864359612236 0.432679564555
+a219vcqzadq45w
+"They are targeting Germany."
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a2bk4fasw056jr
+"They are targeting Germany."
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a3qu3km3iywhif
+"They are targeting Germany."
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+ajfwu2g6a1bhs
+They are targeting Germany
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+au2ar4vob7vlv
+They are targeting Germany.
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a279zamy03pduy
+They are targeting Germany.
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a227cwgbxgw4yh
+"They are targeting Germany."
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a3qu3km3iywhif
+"They are targeting Germany."
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a2zhr3rebfem5a
+They are targeting Germany.
+they are targeting germany
+1 1 0 1 0 0 1 0 0
+0.648357536153 0.528936137719 0.0 1.26823312485 0.0 0.0 1.67816894033 0.0 0.0
+a3ohqrf1mdq99b
+Germany could be a target.
+germany could be a target
+0 0 0 1 1 1 0 1 1
+0.0 0.0 0.0 1.01458649988 0.285920439709 1.12976991775 0.0 0.864359612236 0.432679564555

@@ -1,0 +1,88 @@
+urd-wl-83-174268-11364077-post1__4
+swat taliban demolish boys school sawat a demolished shawat in swatthe pulled down the of students has destroyed south closed swatclaims southern afghanistan
+Swat, Taliban Demolish Boys' School
+swat taliban demolish boys school
+1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.919717016845 0.70123679913 1.54743601557 1.18908412172 1.13334144123 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sawat, Taliban demolish a boys school.
+sawat taliban demolish a boys school
+0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.584363999275 1.28953001297 0.990903434768 0.944451201023 1.13211974483 0.238267033091 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Swat, Taliban Demolish a Boys' School
+swat taliban demolish a boys school
+1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.766430847371 0.584363999275 1.28953001297 0.990903434768 0.944451201023 0.0 0.238267033091 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Swat Taliban boys demolished a boys' school.
+swat taliban boys demolished a boys school
+1 1 0 2 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.656940726318 0.50088342795 0.0 1.69869160246 0.809529600877 0.0 0.204228885506 1.0062904139 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2iouac3vzbks6
+shawat
+shawat
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.98994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+In Swat,the Taliban pulled down the school of students.
+in swatthe taliban pulled down the school of students
+0 1 0 0 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.389575999517 0.0 0.0 0.629634134015 0.0 0.0 0.0 0.0 0.113427195975 1.03084723542 0.77500444731 0.578417045824 0.0479351101579 0.0940795884403 0.663279795576 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Swat, The Taliban has destroyed a boys school.
+swat the taliban has destroyed a boys school
+1 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0
+0.574823135528 0.438272999456 0.0 0.743177576076 0.708338400767 0.0 0.178700274818 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 0.0 0.256003489463 0.621695003197 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+South, taliban has demolished boys school
+south taliban has demolished boys school
+0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0
+0.0 0.584363999275 0.0 0.990903434768 0.944451201023 0.0 0.0 1.17400548288 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.34133798595 0.0 0.868575238921 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+shawat
+shawat
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.98994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a17b7qtkwfq5pq
+shawat
+shawat
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.98994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+shawat
+shawat
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 8.98994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+In Swat,the Taliban pulled down the school of students.
+in swatthe taliban pulled down the school of students
+0 1 0 0 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.389575999517 0.0 0.0 0.629634134015 0.0 0.0 0.0 0.0 0.113427195975 1.03084723542 0.77500444731 0.578417045824 0.0479351101579 0.0940795884403 0.663279795576 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+air4uqnpimfcj
+In Swat,the Taliban closed down the school.
+in swatthe taliban closed down the school
+0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 0 0
+0.0 0.50088342795 0.0 0.0 0.809529600877 0.0 0.0 0.0 0.0 0.145834966254 1.32537501697 0.0 0.743679058916 0.0616308559173 0.0 0.0 0.0 0.0 0.0 0.802009067522 0.0 0.0 0.0
+a6tw9zegog7ph
+In Swat, the Taliban destroyed the school.
+in swat the taliban destroyed the school
+1 1 0 0 1 0 0 0 0 1 0 0 0 2 0 0 0 1 0 0 0 0 0
+0.656940726318 0.50088342795 0.0 0.0 0.809529600877 0.0 0.0 0.0 0.0 0.145834966254 0.0 0.0 0.0 0.123261711835 0.0 0.0 0.0 0.710508575083 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+The Taliban has destroyed a boys school in Swat.
+the taliban has destroyed a boys school in swat
+1 1 0 1 1 0 1 0 0 1 0 0 0 1 0 0 1 1 0 0 0 0 0
+0.510953898247 0.389575999517 0.0 0.660602289845 0.629634134015 0.0 0.158844688727 0.0 0.0 0.113427195975 0.0 0.0 0.0 0.0479351101579 0.0 0.0 0.2275586573 0.55261778062 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+Swat,claims The Taliban has destroyed a boys school.
+swatclaims the taliban has destroyed a boys school
+0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0
+0.0 0.438272999456 0.0 0.743177576076 0.708338400767 0.0 0.178700274818 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 0.0 0.256003489463 0.621695003197 0.0 0.0 1.29702967593 0.0 0.0
+a1wdewmcsp3t61
+Swat: The Taliban has destroyed a boys' school.
+swat the taliban has destroyed a boys school
+1 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0
+0.574823135528 0.438272999456 0.0 0.743177576076 0.708338400767 0.0 0.178700274818 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 0.0 0.256003489463 0.621695003197 0.0 0.0 0.0 0.0 0.0
+a1mmshjhu659at
+Taliban has demolished boys' school in Southern Afghanistan.
+taliban has demolished boys school in southern afghanistan
+0 1 0 1 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 1 1
+0.0 0.438272999456 0.0 0.743177576076 0.708338400767 0.0 0.0 0.880504112159 0.0 0.127605595472 0.0 0.0 0.0 0.0 0.0 0.0 0.256003489463 0.0 0.0 0.0 0.0 0.714099789167 0.516266330246

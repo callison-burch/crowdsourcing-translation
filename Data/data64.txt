@@ -1,0 +1,88 @@
+bbc_urd_20090104.0016__1
+target killing more dead bodies recovered found killings of received cling are discovered were from the targeted in what appear to be
+"Target Killing," More Dead Bodies Recovered
+target killing more dead bodies recovered
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.763363276114 0.78381902338 1.08073618489 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Target Killing, "More Dead Bodies Recovered"
+target killing more dead bodies recovered
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.763363276114 0.78381902338 1.08073618489 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+'Target killing' More Bodies Found
+target killing more bodies found
+1 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.12976991775 1.00487585479 0.725261242732 0.0 0.940582828056 0.0 0.920959256864 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Target killings, more bodies recovered
+target killings more bodies recovered
+1 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.12976991775 0.0 0.725261242732 0.0 0.940582828056 1.29688342187 0.0 1.27378084444 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+More bodies of target killing received.
+more bodies of target killing received
+1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.0 0.78381902338 0.0 0.0 0.0 0.14111938266 0.906960579053 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Target Killing: More dead bodies found.
+target killing more dead bodies found
+1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.763363276114 0.78381902338 0.0 0.767466047387 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2pwmdzucikw4c
+Target Cling- "More dead bodies are discovered".
+target cling more dead bodies are discovered
+1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.806978512677 0.0 0.518043744809 0.654311379526 0.671844877183 0.0 0.0 0.0 0.0 0.0 1.18525655225 0.302249221554 0.978553840405 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+More bodies were recovered from the target killings.
+more bodies were recovered from the target killings
+1 0 1 0 1 1 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+0.706106198592 0.0 0.453288276708 0.0 0.587864267535 0.810552138667 0.0 0.796113027777 0.0 0.0 0.0 0.0 0.0 0.364900664791 0.296818428669 0.0539269989276 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+More bodies of target killing recovered.
+more bodies of target killing recovered
+1 1 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.0 0.78381902338 1.08073618489 0.0 0.0 0.14111938266 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+More Bodies of Target Killing Received.
+more bodies of target killing received
+1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.0 0.78381902338 0.0 0.0 0.0 0.14111938266 0.906960579053 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2esj6gmukae8v
+More bodies of target killing received.
+more bodies of target killing received
+1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.0 0.78381902338 0.0 0.0 0.0 0.14111938266 0.906960579053 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+Targeted Killings: More dead bodies found.
+targeted killings more dead bodies found
+0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.0 0.0 0.604384368944 0.763363276114 0.78381902338 0.0 0.767466047387 1.06148403704 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.10642796486 0.0 0.0 0.0 0.0 0.0
+a44hgmxwywcig
+More Dead Bodies Found in What Appear to be Target Killings
+more dead bodies found in what appear to be target killings
+1 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1
+0.513531780794 0.0 0.329664201242 0.41637996879 0.427537649116 0.0 0.418617844029 0.578991292929 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0928040694341 0.28035456648 0.680533240869 0.0974915174897 0.196672529343
+a6tw9zegog7ph
+Target Killing: More dead bodies found.
+target killing more dead bodies found
+1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.941474931456 0.837396545662 0.604384368944 0.763363276114 0.78381902338 0.0 0.767466047387 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+Target Cling- "More dead bodies are discovered"
+target cling more dead bodies are discovered
+1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.806978512677 0.0 0.518043744809 0.654311379526 0.671844877183 0.0 0.0 0.0 0.0 0.0 1.18525655225 0.302249221554 0.978553840405 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Target Cling- "More dead bodies are discovered".
+target cling more dead bodies are discovered
+1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.806978512677 0.0 0.518043744809 0.654311379526 0.671844877183 0.0 0.0 0.0 0.0 0.0 1.18525655225 0.302249221554 0.978553840405 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+Target Cling- "More Dead Bodies are Discovered".
+target cling more dead bodies are discovered
+1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.806978512677 0.0 0.518043744809 0.654311379526 0.671844877183 0.0 0.0 0.0 0.0 0.0 1.18525655225 0.302249221554 0.978553840405 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+More bodies were recovered from the targeted killings.
+more bodies were recovered from the targeted killings
+0 0 1 0 1 1 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+0.0 0.0 0.453288276708 0.0 0.587864267535 0.810552138667 0.0 0.796113027777 0.0 0.0 0.0 0.0 0.0 0.364900664791 0.296818428669 0.0539269989276 0.829820973646 0.0 0.0 0.0 0.0 0.0

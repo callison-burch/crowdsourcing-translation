@@ -1,0 +1,88 @@
+dew_urd_20090104.0005__7
+national conferences supportive party congress also informed the governor of its support for omar abdullah ally conference their about has that it is backing allied umar umer advocacy a parties allience governer omer and favoured him alliance supported
+National Conference's supportive party Congress also informed the Governor of its support for Omar Abdullah.
+national conferences supportive party congress also informed the governor of its support for omar abdullah
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.295737743649 0.511212480423 0.562021817226 0.262352724454 0.419913330903 0.186607698438 0.435072653716 0.0287610660947 0.371481090848 0.0564477530642 0.222030722038 0.316335041709 0.128659730467 0.451021299654 0.353404239481 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Congress, the ally of the National Conference, also informed the Governor of their support for Omar Abdullah.
+congress the ally of the national conference also informed the governor of their support for omar abdullah
+1 0 0 0 1 1 1 3 1 2 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.260945067925 0.0 0.0 0.0 0.370511762561 0.164653851563 0.383887635632 0.0761322337801 0.327777433101 0.0996136818779 0.0 0.279119154449 0.113523291589 0.397959970283 0.31182727013 0.440345038209 0.27975509069 0.175941557905 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+National Conference ally Congress, also informed the Governor about its support for Omar Abdullah.
+national conference ally congress also informed the governor about its support for omar abdullah
+1 0 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.316861868195 0.0 0.0 0.0 0.449907140253 0.199936819755 0.466149271839 0.0308154279586 0.39801545448 0.0 0.237890059326 0.338930401831 0.137849711215 0.483237106772 0.378647399444 0.534704689254 0.339702610124 0.0 0.225262242045 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The National Conference's ally, the Congress Party, has also informed the governor that it is backing Omar Abdullah.
+the national conferences ally the congress party has also informed the governor that it is backing omar abdullah
+1 1 0 1 1 1 1 3 1 0 0 0 0 1 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.246448119707 0.426010400353 0.0 0.218627270379 0.349927775752 0.155506415365 0.362560544763 0.0719026652368 0.309567575706 0.0 0.0 0.0 0.0 0.375851083045 0.294503532901 0.415881424975 0.0 0.0 0.0 0.11377932865 0.0677153311258 0.113271602386 0.0736898867949 0.397631199032 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The allied party of the National Conference, the Congress also informed the governor of their support for Umar Abdullah.
+the allied party of the national conference the congress also informed the governor of their support for umar abdullah
+1 0 0 1 1 1 1 4 1 2 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.233477166038 0.0 0.0 0.207120571938 0.331510524397 0.147321867188 0.343478410828 0.0908244192465 0.293274545406 0.089128031154 0.0 0.249738190823 0.101573471421 0.0 0.279003346959 0.0 0.250307186407 0.157421393915 0.0 0.0 0.0 0.0 0.0 0.0 0.372652660076 0.378851767216 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2aktvoca80377
+National Conference's allied party Congress also informed governor about their support for Umer Abdullah.
+national conferences allied party congress also informed governor about their support for umer abdullah
+1 1 0 1 1 1 1 0 1 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.316861868195 0.547727657596 0.0 0.281092204773 0.449907140253 0.199936819755 0.466149271839 0.0 0.39801545448 0.0 0.0 0.338930401831 0.137849711215 0.0 0.378647399444 0.0 0.0 0.213643320313 0.225262242045 0.0 0.0 0.0 0.0 0.0 0.505742895818 0.0 0.527178938135 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Congress, the ally of the National conference also informed the governor of the advocacy of Omar Abdullah.
+congress the ally of the national conference also informed the governor of the advocacy of omar abdullah
+1 0 0 0 1 1 1 4 1 3 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.260945067925 0.0 0.0 0.0 0.370511762561 0.164653851563 0.383887635632 0.10150964504 0.327777433101 0.149420522817 0.0 0.0 0.0 0.397959970283 0.31182727013 0.440345038209 0.27975509069 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1is07hajk7bzr
+Congress, a national parties allience ,also informed the governer about the Omer Abdullah and favoured him
+congress a national parties allience also informed the governer about the omer abdullah and favoured him
+1 0 0 0 1 1 1 2 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0
+0.277254134671 0.0 0.0 0.0 0.393668747722 0.174944717286 0.407880612859 0.0539269989276 0.0 0.0 0.0 0.0 0.0 0.0 0.331316474514 0.0 0.0 0.0 0.197104461789 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.089350137409 0.300972236027 0.648514837966 0.536529871139 0.483573754865 0.062539804163 0.648514837966 0.23335941288 0.0 0.0
+a24bjjrcqbm3mi
+The allied party of the National Conference, the Congress also informed the governor of their support for Umar Abdullah.
+the allied party of the national conference the congress also informed the governor of their support for umar abdullah
+1 0 0 1 1 1 1 4 1 2 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.233477166038 0.0 0.0 0.207120571938 0.331510524397 0.147321867188 0.343478410828 0.0908244192465 0.293274545406 0.089128031154 0.0 0.249738190823 0.101573471421 0.0 0.279003346959 0.0 0.250307186407 0.157421393915 0.0 0.0 0.0 0.0 0.0 0.0 0.372652660076 0.378851767216 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2d2264qc2ln18
+The Allied Party of the National Conference, the Congress, also informed the governor of their support for Umar Abdullah.
+the allied party of the national conference the congress also informed the governor of their support for umar abdullah
+1 0 0 1 1 1 1 4 1 2 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.233477166038 0.0 0.0 0.207120571938 0.331510524397 0.147321867188 0.343478410828 0.0908244192465 0.293274545406 0.089128031154 0.0 0.249738190823 0.101573471421 0.0 0.279003346959 0.0 0.250307186407 0.157421393915 0.0 0.0 0.0 0.0 0.0 0.0 0.372652660076 0.378851767216 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The allied party of the National Conference, the Congress also informed the governor of their support for Umar Abdullah.
+the allied party of the national conference the congress also informed the governor of their support for umar abdullah
+1 0 0 1 1 1 1 4 1 2 0 1 1 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.233477166038 0.0 0.0 0.207120571938 0.331510524397 0.147321867188 0.343478410828 0.0908244192465 0.293274545406 0.089128031154 0.0 0.249738190823 0.101573471421 0.0 0.279003346959 0.0 0.250307186407 0.157421393915 0.0 0.0 0.0 0.0 0.0 0.0 0.372652660076 0.378851767216 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+National Conference's allied party Congress also informed the governor about their support for Umer Abdullah.
+national conferences allied party congress also informed the governor about their support for umer abdullah
+1 1 0 1 1 1 1 1 1 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.295737743649 0.511212480423 0.0 0.262352724454 0.419913330903 0.186607698438 0.435072653716 0.0287610660947 0.371481090848 0.0 0.0 0.316335041709 0.128659730467 0.0 0.353404239481 0.0 0.0 0.199400432292 0.210244759242 0.0 0.0 0.0 0.0 0.0 0.472026702763 0.0 0.492033675593 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1gnof24z9gaez
+National Conference's allied party Congress also informed the Governor about their support for Umer Abdullah.
+national conferences allied party congress also informed the governor about their support for umer abdullah
+1 1 0 1 1 1 1 1 1 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.295737743649 0.511212480423 0.0 0.262352724454 0.419913330903 0.186607698438 0.435072653716 0.0287610660947 0.371481090848 0.0 0.0 0.316335041709 0.128659730467 0.0 0.353404239481 0.0 0.0 0.199400432292 0.210244759242 0.0 0.0 0.0 0.0 0.0 0.472026702763 0.0 0.492033675593 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2u70ov2bw11tg
+National Conference's Allied Party Congress also informed the governor about their support for Umer Abdullah.
+national conferences allied party congress also informed the governor about their support for umer abdullah
+1 1 0 1 1 1 1 1 1 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.295737743649 0.511212480423 0.0 0.262352724454 0.419913330903 0.186607698438 0.435072653716 0.0287610660947 0.371481090848 0.0 0.0 0.316335041709 0.128659730467 0.0 0.353404239481 0.0 0.0 0.199400432292 0.210244759242 0.0 0.0 0.0 0.0 0.0 0.472026702763 0.0 0.492033675593 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g9f1kosfkijh
+Congress, the ally of the National conference also informed the governor of the advocacy of Omar Abdullah.
+congress the ally of the national conference also informed the governor of the advocacy of omar abdullah
+1 0 0 0 1 1 1 4 1 3 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.260945067925 0.0 0.0 0.0 0.370511762561 0.164653851563 0.383887635632 0.10150964504 0.327777433101 0.149420522817 0.0 0.0 0.0 0.397959970283 0.31182727013 0.440345038209 0.27975509069 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a21146bd3quzea
+Congress, the ally of the National Conference, also informed the governor of their advocacy of Omar Abdullah.
+congress the ally of the national conference also informed the governor of their advocacy of omar abdullah
+1 0 0 0 1 1 1 3 1 3 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.260945067925 0.0 0.0 0.0 0.370511762561 0.164653851563 0.383887635632 0.0761322337801 0.327777433101 0.149420522817 0.0 0.0 0.0 0.397959970283 0.31182727013 0.440345038209 0.27975509069 0.175941557905 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Congress, the ally of the National Conference, also informed the governor of the advocacy of Omar Abdullah.
+congress the ally of the national conference also informed the governor of the advocacy of omar abdullah
+1 0 0 0 1 1 1 4 1 3 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.260945067925 0.0 0.0 0.0 0.370511762561 0.164653851563 0.383887635632 0.10150964504 0.327777433101 0.149420522817 0.0 0.0 0.0 0.397959970283 0.31182727013 0.440345038209 0.27975509069 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a11q9mm0b90tar
+Congress, a national parties alliance, also informed the governer about Omer Abdullah and supported him.
+congress a national parties alliance also informed the governer about omer abdullah and supported him
+1 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 1 1 1
+0.295737743649 0.0 0.0 0.0 0.419913330903 0.186607698438 0.435072653716 0.0287610660947 0.0 0.0 0.0 0.0 0.0 0.0 0.353404239481 0.0 0.0 0.0 0.210244759242 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0953068132363 0.321037051762 0.0 0.572298529215 0.515812005189 0.0667091244405 0.0 0.248916707072 0.477157438839 0.407570502027

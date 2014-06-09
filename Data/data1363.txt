@@ -1,0 +1,88 @@
+urd-wl-77-174260-11358562-post5__4
+after the girls schools now boys are being destroyed closing down school they demolishing for too first and were its that as well
+After the girls' schools, now the boys' schools are being destroyed.
+after the girls schools now the boys schools are being destroyed
+1 2 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.27017802631 0.0784392711674 0.437777797858 0.920551168801 0.313605488566 0.540492782601 0.192340413716 0.334473014526 0.452141820507 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After girls schools, boys schools are now being destroyed.
+after girls schools boys schools are now being destroyed
+1 0 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.330217587713 0.0 0.535061752937 1.1251180952 0.383295597136 0.660602289845 0.235082727875 0.408800351087 0.55261778062 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After the girls schools, the boys schools are now being destroyed.
+after the girls schools the boys schools are now being destroyed
+1 2 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.27017802631 0.0784392711674 0.437777797858 0.920551168801 0.313605488566 0.540492782601 0.192340413716 0.334473014526 0.452141820507 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Boys' schools are being destroyed after closing down girls' schools.
+boys schools are being destroyed after closing down girls schools
+1 0 1 2 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.297195828941 0.0 0.481555577643 1.01260628568 0.0 0.594542060861 0.211574455088 0.367920315978 0.497356002558 0.708040054145 0.520575341241 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+After the girls schools, now boys schools are being destroyed.
+after the girls schools now boys schools are being destroyed
+1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.297195828941 0.0431415991421 0.481555577643 1.01260628568 0.344966037423 0.594542060861 0.211574455088 0.367920315978 0.497356002558 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+After the girls school, now they are demolishing the schools for boys.
+after the girls school now they are demolishing the schools for boys
+1 2 1 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.247663190784 0.0719026652368 0.401296314703 0.421919285701 0.287471697852 0.495451717384 0.176312045906 0.0 0.0 0.0 0.0 0.472225600511 0.216119178718 0.623822137463 0.160824663084 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2llfcd7di80k3
+After girls schools now boys schools are being destroyed.
+after girls schools now boys schools are being destroyed
+1 0 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.330217587713 0.0 0.535061752937 1.1251180952 0.383295597136 0.660602289845 0.235082727875 0.408800351087 0.55261778062 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alrghxunh1uv7
+After closing the girls schools now they are closing the boys schools too.
+after closing the girls schools now they are closing the boys schools too
+1 2 1 2 1 1 1 0 0 2 0 0 1 0 0 1 0 0 0 0 0 0 0
+0.228612176109 0.0663716909878 0.370427367418 0.778927912063 0.265358490325 0.457340046816 0.162749580837 0.0 0.0 1.08929239099 0.0 0.0 0.199494626508 0.0 0.0 0.387592255981 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a363h2ekg4u5ij
+First the girls schools and now the boys schools are being destroyed.
+first the girls schools and now the boys schools are being destroyed
+0 2 1 2 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.0719026652368 0.401296314703 0.843838571401 0.287471697852 0.495451717384 0.176312045906 0.306600263315 0.414463335465 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.322537778943 0.0833864055507 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+First the girls' schools and now boys' schools are being destroyed.
+first the girls schools and now boys schools are being destroyed
+0 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.0392196355837 0.437777797858 0.920551168801 0.313605488566 0.540492782601 0.192340413716 0.334473014526 0.452141820507 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.351859395211 0.0909669878735 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+After the girls schools, boys schools were being destroyed.
+after the girls schools boys schools were being destroyed
+1 1 1 2 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.330217587713 0.0479351101579 0.535061752937 1.1251180952 0.0 0.660602289845 0.0 0.408800351087 0.55261778062 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.324356146481 0.0 0.0 0.0 0.0
+a3jbnhlk1t5829
+After the girls school, they are demolishing the schools for boys.
+after the girls school they are demolishing the schools for boys
+1 2 1 1 0 1 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.27017802631 0.0784392711674 0.437777797858 0.460275584401 0.0 0.540492782601 0.192340413716 0.0 0.0 0.0 0.0 0.515155200558 0.235766376783 0.680533240869 0.175445087001 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+After the girls' school, now they are demolishing the schools for boys.
+after the girls school now they are demolishing the schools for boys
+1 2 1 1 1 1 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.247663190784 0.0719026652368 0.401296314703 0.421919285701 0.287471697852 0.495451717384 0.176312045906 0.0 0.0 0.0 0.0 0.472225600511 0.216119178718 0.623822137463 0.160824663084 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+am78upj6d5fvk
+After demolishing the girls' school, they are demolishing the schools for boys.
+after demolishing the girls school they are demolishing the schools for boys
+1 2 1 1 0 1 1 0 0 0 0 1 1 2 1 0 0 0 0 0 0 0 0
+0.247663190784 0.0719026652368 0.401296314703 0.421919285701 0.0 0.495451717384 0.176312045906 0.0 0.0 0.0 0.0 0.472225600511 0.216119178718 1.24764427493 0.160824663084 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aa1hdtufsq32b
+After the girls school's now it's the boys school's that are being destroyed.
+after the girls schools now its the boys schools that are being destroyed
+1 2 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.228612176109 0.0663716909878 0.370427367418 0.778927912063 0.265358490325 0.457340046816 0.162749580837 0.283015627676 0.382581540429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.256189294659 0.0937596892511 0.0 0.0
+a3a4p6bwfe7hfn
+The boys schools are being destroyed after the girls schools.
+the boys schools are being destroyed after the girls schools
+1 2 1 2 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.297195828941 0.0862831982842 0.481555577643 1.01260628568 0.0 0.594542060861 0.211574455088 0.367920315978 0.497356002558 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Girls' schools as well as boys' schools are now being destroyed.
+girls schools as well as boys schools are now being destroyed
+0 0 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 2 1
+0.0 0.0 0.437777797858 0.920551168801 0.313605488566 0.540492782601 0.192340413716 0.334473014526 0.452141820507 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.481502157335 0.412062999129
+a312kfq78wb3a4
+After closing the girls schools now they are closing the boys schools too.
+after closing the girls schools now they are closing the boys schools too
+1 2 1 2 1 1 1 0 0 2 0 0 1 0 0 1 0 0 0 0 0 0 0
+0.228612176109 0.0663716909878 0.370427367418 0.778927912063 0.265358490325 0.457340046816 0.162749580837 0.0 0.0 1.08929239099 0.0 0.0 0.199494626508 0.0 0.0 0.387592255981 0.0 0.0 0.0 0.0 0.0 0.0 0.0

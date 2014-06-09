@@ -1,0 +1,88 @@
+bbc_urd_20090102.0020__11
+the minister of state for foreign affairs said that problem palestine should be solved according to resolutions united nations kashmir issue resolved in accordance with secretary palestinian un has prime external falastin planning states issues saidissues on palestinians
+The Minister of State for Foreign Affairs said that the problem of Palestine should be solved according to the resolutions of the United Nations.
+the minister of state for foreign affairs said that the problem of palestine should be solved according to the resolutions of the united nations
+4 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.149610406768 0.105839536995 0.182698869181 0.0804123315419 0.188621359479 0.221932558342 0.092309728604 0.0507864983444 0.201950346664 0.202785377951 0.125434357093 0.0901415759489 0.279694823388 0.135962304114 0.0446836121828 0.281888312284 0.168308819846 0.186514168911 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Minister of State for Foreign Affairs said that the Kashmir issue should be resolved according to the resolutions of the United Nations.
+the minister of state for foreign affairs said that the kashmir issue should be resolved according to the resolutions of the united nations
+4 1 2 1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0750288680732 0.156115207063 0.0736275039967 0.190642298276 0.0839085198698 0.196822288152 0.231581800009 0.096323195065 0.052994606968 0.0 0.0 0.130888024793 0.0940607749032 0.0 0.141873708641 0.0466263779298 0.294144325861 0.175626594622 0.194623480603 0.192644208645 0.219283418008 0.288633382138 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Minister of State for Foreign Affairs said that the Palestine issue should be resolved in accordance with the United Nations' resolutions.
+the minister of state for foreign affairs said that the palestine issue should be resolved in accordance with the united nations resolutions
+3 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0588294533756 0.163211352838 0.0384871043619 0.199307857288 0.0877225435003 0.205768755796 0.242108245464 0.100701522113 0.0554034527393 0.0 0.22122041231 0.136837480465 0.0983362646715 0.0 0.0 0.0 0.307514522491 0.18360962165 0.203470002449 0.0 0.229250846099 0.301753081326 0.046402034717 0.315556827407 0.107269068588 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Secretary of State for Foreign Affairs said that the Palestinian issue should be resolved in accordance with UN resolutions.
+the secretary of state for foreign affairs said that the palestinian issue should be resolved in accordance with un resolutions
+2 0 1 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.0 0.0423358147981 0.219238643017 0.0964947978503 0.226345631375 0.26631907001 0.110771674325 0.0609437980132 0.0 0.0 0.150521228512 0.108169891139 0.0 0.0 0.0 0.33826597474 0.0 0.0 0.0 0.252175930709 0.331928389458 0.0510422381887 0.347112510148 0.117995975447 0.300976429038 0.251695157774 0.313268177164 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Minister of foreign affairs said that issue of Palestine should be solved according to the resolutions of the United Nations.
+minister of foreign affairs said that issue of palestine should be solved according to the resolutions of the united nations
+2 1 3 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.179532488122 0.127007444394 0.0 0.0 0.226345631375 0.26631907001 0.110771674325 0.0609437980132 0.0 0.243342453541 0.150521228512 0.108169891139 0.335633788066 0.163154764937 0.0536203346193 0.33826597474 0.201970583815 0.223817002693 0.0 0.252175930709 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+minister of state for foreign affairs has said that the issue of Palestine should be resolved in accordance with the resolutions of the United Nations.
+minister of state for foreign affairs has said that the issue of palestine should be resolved in accordance with the resolutions of the united nations
+3 1 3 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.0517699189705 0.143625990498 0.101605955516 0.175390914414 0.0771958382802 0.1810765051 0.213055256008 0.0886173394598 0.0487550384106 0.0 0.194673962833 0.12041698281 0.0865359129109 0.0 0.0 0.0 0.270612779792 0.161576467052 0.179053602155 0.0 0.201740744567 0.265542711567 0.040833790551 0.277690008119 0.0943967803579 0.0 0.0 0.0 0.081921116628 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+The prime minister of external affairs said that the issue of Falastin should be solved according to the planning of The United States.
+the prime minister of external affairs said that the issue of falastin should be solved according to the planning of the united states
+4 1 3 0 0 0 1 1 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.0750288680732 0.156115207063 0.110441255995 0.0 0.0 0.0 0.231581800009 0.096323195065 0.052994606968 0.0 0.0 0.130888024793 0.0940607749032 0.291855467883 0.141873708641 0.0466263779298 0.0 0.175626594622 0.0 0.0 0.219283418008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.179739745304 0.290754693623 0.301836965346 0.290754693623 0.218657820727 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+The Minister of External Affairs of state said that the Palestine issues should be resolved according to the UN resolutions .
+the minister of external affairs of state said that the palestine issues should be resolved according to the un resolutions 
+3 1 2 1 0 0 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0
+0.0647123987131 0.179532488122 0.0846716295963 0.219238643017 0.0 0.0 0.26631907001 0.110771674325 0.0609437980132 0.0 0.243342453541 0.150521228512 0.108169891139 0.0 0.163154764937 0.0536203346193 0.33826597474 0.0 0.0 0.0 0.0 0.331928389458 0.0 0.0 0.0 0.0 0.0 0.313268177164 0.0 0.0 0.334367897667 0.0 0.0 0.0 0.271373875854 0.0 0.0 0.0
+a3edprdq0s0hp3
+Minister of foreign affairs said that issue of Palestine should be solved according to the resolutions of the United Nations.
+minister of foreign affairs said that issue of palestine should be solved according to the resolutions of the united nations
+2 1 3 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.179532488122 0.127007444394 0.0 0.0 0.226345631375 0.26631907001 0.110771674325 0.0609437980132 0.0 0.243342453541 0.150521228512 0.108169891139 0.335633788066 0.163154764937 0.0536203346193 0.33826597474 0.201970583815 0.223817002693 0.0 0.252175930709 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajh0yow6plss8
+The Minister of Foreign Affairs said that the issue of Palestine should be resolved according to the resolutions of the United Nations.
+the minister of foreign affairs said that the issue of palestine should be resolved according to the resolutions of the united nations
+4 1 3 0 0 1 1 1 1 0 1 1 1 0 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0784392711674 0.163211352838 0.115461313086 0.0 0.0 0.205768755796 0.242108245464 0.100701522113 0.0554034527393 0.0 0.22122041231 0.136837480465 0.0983362646715 0.0 0.148322513579 0.0487457587448 0.307514522491 0.18360962165 0.203470002449 0.0 0.229250846099 0.301753081326 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+at8qsogdc42wo
+The Minister of foreign affairs said,"issues on the Palestinians should be solved according to the resolutions of the United Nations."
+the minister of foreign affairs saidissues on the palestinians should be solved according to the resolutions of the united nations
+4 1 2 0 0 1 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0.0862831982842 0.179532488122 0.0846716295963 0.0 0.0 0.226345631375 0.26631907001 0.0 0.0 0.0 0.0 0.150521228512 0.108169891139 0.335633788066 0.163154764937 0.0536203346193 0.33826597474 0.201970583815 0.223817002693 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.518811870372 0.0934244337431 0.269290241034
+a2sb2bw2w4t4ww
+The Minister of State for Foreign Affairs said that the issue of Palestine should be resolved in accordance with the resolutions of the United Nations.
+the minister of state for foreign affairs said that the issue of palestine should be resolved in accordance with the resolutions of the united nations
+4 1 3 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0690265586273 0.143625990498 0.101605955516 0.175390914414 0.0771958382802 0.1810765051 0.213055256008 0.0886173394598 0.0487550384106 0.0 0.194673962833 0.12041698281 0.0865359129109 0.0 0.0 0.0 0.270612779792 0.161576467052 0.179053602155 0.0 0.201740744567 0.265542711567 0.040833790551 0.277690008119 0.0943967803579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+The Minister of State for Foreign Affairs has said that the issue of Palestine should be resolved in accordance with the resolutions of the United Nations.
+the minister of state for foreign affairs has said that the issue of palestine should be resolved in accordance with the resolutions of the united nations
+4 1 3 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.0663716909878 0.13810191394 0.0976980341495 0.168645110013 0.0742267675771 0.174112024135 0.204860823085 0.0852089802498 0.0468798446256 0.0 0.187186502724 0.115785560394 0.0832076085682 0.0 0.0 0.0 0.260204595954 0.15536198755 0.172166925149 0.0 0.193981485161 0.255329530353 0.0392632601452 0.267009623191 0.0907661349595 0.0 0.0 0.0 0.07877030445 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a279zamy03pduy
+The Minister of State for Foreign Affairs has said that the issue of Palestine should be resolved in accordance with the resolutions of the United Nations.
+the minister of state for foreign affairs has said that the issue of palestine should be resolved in accordance with the resolutions of the united nations
+4 1 3 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.0663716909878 0.13810191394 0.0976980341495 0.168645110013 0.0742267675771 0.174112024135 0.204860823085 0.0852089802498 0.0468798446256 0.0 0.187186502724 0.115785560394 0.0832076085682 0.0 0.0 0.0 0.260204595954 0.15536198755 0.172166925149 0.0 0.193981485161 0.255329530353 0.0392632601452 0.267009623191 0.0907661349595 0.0 0.0 0.0 0.07877030445 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a38xqb9846w49n
+The prime minister of external affairs said that the issue of Falastin should be solved according to the planning of The United States.
+the prime minister of external affairs said that the issue of falastin should be solved according to the planning of the united states
+4 1 3 0 0 0 1 1 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.0750288680732 0.156115207063 0.110441255995 0.0 0.0 0.0 0.231581800009 0.096323195065 0.052994606968 0.0 0.0 0.130888024793 0.0940607749032 0.291855467883 0.141873708641 0.0466263779298 0.0 0.175626594622 0.0 0.0 0.219283418008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.179739745304 0.290754693623 0.301836965346 0.290754693623 0.218657820727 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+The prime minister of external affairs said that the issue of Falastin should be solved according to the planning of The United States.
+the prime minister of external affairs said that the issue of falastin should be solved according to the planning of the united states
+4 1 3 0 0 0 1 1 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.0750288680732 0.156115207063 0.110441255995 0.0 0.0 0.0 0.231581800009 0.096323195065 0.052994606968 0.0 0.0 0.130888024793 0.0940607749032 0.291855467883 0.141873708641 0.0466263779298 0.0 0.175626594622 0.0 0.0 0.219283418008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.179739745304 0.290754693623 0.301836965346 0.290754693623 0.218657820727 0.0 0.0 0.0 0.0
+a19b522xqflysa
+The Prime Minister of External Affairs said that the issue of Falastin should be solved according to the planning of the United States.
+the prime minister of external affairs said that the issue of falastin should be solved according to the planning of the united states
+4 1 3 0 0 0 1 1 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.0750288680732 0.156115207063 0.110441255995 0.0 0.0 0.0 0.231581800009 0.096323195065 0.052994606968 0.0 0.0 0.130888024793 0.0940607749032 0.291855467883 0.141873708641 0.0466263779298 0.0 0.175626594622 0.0 0.0 0.219283418008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.179739745304 0.290754693623 0.301836965346 0.290754693623 0.218657820727 0.0 0.0 0.0 0.0
+a3f5rr1245milw
+The Minister of External Affairs of State said that the Palestine issues should be resolved according to the UN resolutions .
+the minister of external affairs of state said that the palestine issues should be resolved according to the un resolutions 
+3 1 2 1 0 0 1 1 1 0 1 1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0
+0.0647123987131 0.179532488122 0.0846716295963 0.219238643017 0.0 0.0 0.26631907001 0.110771674325 0.0609437980132 0.0 0.243342453541 0.150521228512 0.108169891139 0.0 0.163154764937 0.0536203346193 0.33826597474 0.0 0.0 0.0 0.0 0.331928389458 0.0 0.0 0.0 0.0 0.0 0.313268177164 0.0 0.0 0.334367897667 0.0 0.0 0.0 0.271373875854 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+dew_urd_20090120.0008__7
+even though former american president george w bushs policies have faced criticism although the of bush always been criticized had in face while previous us as such presidents were subject to previously he criticize facing addition meanwhile
+Even though former American President George W. Bush's policies have faced criticism,
+even though former american president george w bushs policies have faced criticism
+1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.308367848818 0.467838622721 0.439190994462 0.262260294138 0.235464680362 0.429656798531 0.542086366378 0.49063341981 0.465728805389 0.190690821067 0.511844241904 0.563776624567 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Although the policies of the former American President George W. Bush have always been criticized,
+although the policies of the former american president george w bush have always been criticized
+0 0 1 1 1 1 1 0 1 1 0 0 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.35135279557 0.20980823531 0.18837174429 0.343725438825 0.433669093103 0.0 0.372583044311 0.152552656854 0.0 0.0 0.347430095568 0.0575221321894 0.0564477530642 0.265733116026 0.345182691746 0.193696242217 0.414490288273 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Although, former American President George Bush's policies had been in the face of criticism.
+although former american president george bushs policies had been in the face of criticism
+0 0 1 1 1 1 0 1 1 0 0 1 1 1 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.376449423825 0.224794537833 0.201826868882 0.368277255884 0.0 0.420542931266 0.399196118905 0.0 0.0 0.483237106772 0.372246530966 0.0308154279586 0.0604797354259 0.0 0.0 0.20753168809 0.0 0.244741496604 0.0729174831268 0.344243524696 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+While the previous US President George Bush's policies had been criticized,
+while the previous us president george bushs policies had been criticized
+0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.256870560395 0.468716507488 0.0 0.535236457974 0.508067787697 0.0 0.0 0.0 0.0 0.0392196355837 0.0 0.0 0.0 0.264131239387 0.565214029463 0.311489177495 0.0 0.0 0.360700783308 0.547229870978 0.333579551895 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+As such, the previous American president's policies were subject to criticism.
+as such the previous american presidents policies were subject to criticism
+0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.28610213906 0.0 0.0 0.0 0.0 0.508067787697 0.0 0.0 0.615029044982 0.0 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.547229870978 0.0 0.240751078668 0.361603861174 0.680533240869 0.265382301666 0.622716080258 0.0974915174897 0.0 0.0 0.0 0.0 0.0 0.0
+amwxjmcv94h5s
+previously he criticize Bush policies.
+previously he criticize bush policies
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.11774913293 0.0 0.0 0.0 0.0 0.0 0.0 0.797199348077 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.33253306815 0.473308409941 1.65935917315 0.0 0.0 0.0
+a143bvgouf83je
+although the policies of former American president George W. Bush have been facing criticism.
+although the policies of former american president george w bush have been facing criticism
+0 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.0 0.0 0.376449423825 0.224794537833 0.201826868882 0.368277255884 0.464645456896 0.0 0.399196118905 0.163449275201 0.0 0.483237106772 0.372246530966 0.0308154279586 0.0604797354259 0.284714052885 0.0 0.20753168809 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.390783044929 0.0 0.0
+a3kwcqj39dxkt4
+The policies of the former American president, George W. Bush faced criticism.
+the policies of the former american president george w bush faced criticism
+0 0 1 1 1 1 1 0 1 0 1 1 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.439190994462 0.262260294138 0.235464680362 0.429656798531 0.542086366378 0.0 0.465728805389 0.0 0.511844241904 0.563776624567 0.0 0.0719026652368 0.0705596913302 0.332166395032 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2eldzaxlm8quo
+As such, the previous American president's policies were subject to criticism.
+as such the previous american presidents policies were subject to criticism
+0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.28610213906 0.0 0.0 0.0 0.0 0.508067787697 0.0 0.0 0.615029044982 0.0 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.547229870978 0.0 0.240751078668 0.361603861174 0.680533240869 0.265382301666 0.622716080258 0.0974915174897 0.0 0.0 0.0 0.0 0.0 0.0
+a1kf7gs7yulm10
+As such, the previous American president's policies were subject to criticism.
+as such the previous american presidents policies were subject to criticism
+0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.28610213906 0.0 0.0 0.0 0.0 0.508067787697 0.0 0.0 0.615029044982 0.0 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.547229870978 0.0 0.240751078668 0.361603861174 0.680533240869 0.265382301666 0.622716080258 0.0974915174897 0.0 0.0 0.0 0.0 0.0 0.0
+a2bk4fasw056jr
+In addition, the previous American president's policies were subject to criticism.
+in addition the previous american presidents policies were subject to criticism
+0 0 0 1 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0 0 1 0
+0.0 0.0 0.0 0.28610213906 0.0 0.0 0.0 0.0 0.508067787697 0.0 0.0 0.615029044982 0.0 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.0 0.0928040694341 0.0 0.0 0.547229870978 0.0 0.0 0.0 0.680533240869 0.265382301666 0.622716080258 0.0974915174897 0.0 0.0 0.0 0.0 0.539416922815 0.0
+a3m4exda4ue7bp
+Previously, he criticized Bush's policies.
+previously he criticized bushs policies
+0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17752020754 1.11774913293 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.24347086482 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.33253306815 0.473308409941 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Previously he criticized Bush's policies.
+previously he criticized bushs policies
+0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17752020754 1.11774913293 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.24347086482 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.33253306815 0.473308409941 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+Previously he criticized Bush's policies.
+previously he criticized bushs policies
+0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17752020754 1.11774913293 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.24347086482 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.33253306815 0.473308409941 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+The policies of former American president George W. Bush have been facing criticism.
+the policies of former american president george w bush have been facing criticism
+0 0 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.0 0.0 0.405407071811 0.242086425358 0.217352012642 0.396606275567 0.500387415119 0.0 0.429903512667 0.17602229637 0.0 0.520409191908 0.0 0.0331858454939 0.0651320227664 0.306615133876 0.0 0.223495664097 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.420843279155 0.0 0.0
+a3qu3km3iywhif
+Though the policies of former American president George W. Bush have been facing criticism.
+though the policies of former american president george w bush have been facing criticism
+0 1 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.0 0.401004533761 0.376449423825 0.224794537833 0.201826868882 0.368277255884 0.464645456896 0.0 0.399196118905 0.163449275201 0.0 0.483237106772 0.0 0.0308154279586 0.0604797354259 0.284714052885 0.0 0.20753168809 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.390783044929 0.0 0.0
+a2ylf04uakyvf1
+Meanwhile, the policies of former American President George W. Bush have been facing criticism.
+meanwhile the policies of former american president george w bush have been facing criticism
+0 0 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
+0.0 0.0 0.376449423825 0.224794537833 0.201826868882 0.368277255884 0.464645456896 0.0 0.399196118905 0.163449275201 0.0 0.483237106772 0.0 0.0308154279586 0.0604797354259 0.284714052885 0.0 0.20753168809 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.390783044929 0.0 0.402236091363
+a477wg206bmm6
+The policies of the former American president, George W. Bush faced criticism.
+the policies of the former american president george w bush faced criticism
+0 0 1 1 1 1 1 0 1 0 1 1 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.439190994462 0.262260294138 0.235464680362 0.429656798531 0.542086366378 0.0 0.465728805389 0.0 0.511844241904 0.563776624567 0.0 0.0719026652368 0.0705596913302 0.332166395032 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+bbc_urd_20090119.0003__10
+its organizers think that two million people will attend the celebration twomillion be attending this ceremony believe expect 2 to function management thinks observers around according are gathering approximately government
+Its organizers think that two million people will attend the celebration.
+its organizers think that two million people will attend the celebration
+1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.302769166415 0.754254169615 0.380911707595 0.110806905479 0.337554973769 0.492126616108 0.248563000416 0.202473958127 0.617519860818 0.0392196355837 0.780407085293 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Organizers think that two-million people will be attending this ceremony.
+organizers think that twomillion people will be attending this ceremony
+0 1 1 1 0 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.829679586577 0.419002878355 0.121887596026 0.0 0.0 0.273419300458 0.22272135394 0.0 0.0 0.0 1.03762374074 0.216339782277 0.754302406339 0.173223536917 0.551642500309 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Organizers believe that two million people will attend the ceremony.
+organizers believe that two million people will attend the ceremony
+0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.829679586577 0.0 0.121887596026 0.371310471146 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0431415991421 0.0 0.0 0.0 0.0 0.0 0.551642500309 0.525824359503 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Organizers expect 2 million people to attend the ceremony.
+organizers expect 2 million people to attend the ceremony
+0 1 0 0 0 1 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.921866207308 0.0 0.0 0.0 0.601488086354 0.303799222731 0.0 0.754746496555 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.612936111454 0.0 0.716045752747 0.666023419197 0.119156299154 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Organizers believe that 2 million people will attend the function.
+organizers believe that 2 million people will attend the function
+0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0
+0.0 0.829679586577 0.0 0.121887596026 0.0 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0431415991421 0.0 0.0 0.0 0.0 0.0 0.0 0.525824359503 0.0 0.599421077278 0.0 0.733171496973 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Management thinks that 2 million people will attend this ceremony.
+management thinks that 2 million people will attend this ceremony
+0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.121887596026 0.0 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0 0.0 0.0 0.0 0.0 0.173223536917 0.551642500309 0.0 0.0 0.599421077278 0.0 0.0 0.629869996354 0.71981835771 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a21xirv18up71h
+Observers believe that around two million people will attend the ceremony.
+observers believe that around two million people will attend the ceremony
+0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.0 0.110806905479 0.337554973769 0.492126616108 0.248563000416 0.202473958127 0.617519860818 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.501493182099 0.478022145003 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.481348458406 0.0 0.0 0.0 0.0 0.0
+a1is07hajk7bzr
+According to management two million people are attending this gathering
+according to management two million people are attending this gathering
+0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1 1 0 0
+0.0 0.0 0.0 0.0 0.371310471146 0.541339277719 0.273419300458 0.0 0.0 0.0 0.0 0.0 0.0 0.754302406339 0.173223536917 0.0 0.0 0.0 0.0 0.107240669239 0.0 0.629869996354 0.0 0.0 0.0 0.326309529874 0.211574455088 0.648441710934 0.0 0.0
+a3edprdq0s0hp3
+Organizers believe that 2 million people will attend the function.
+organizers believe that 2 million people will attend the function
+0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0
+0.0 0.829679586577 0.0 0.121887596026 0.0 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0431415991421 0.0 0.0 0.0 0.0 0.0 0.0 0.525824359503 0.0 0.599421077278 0.0 0.733171496973 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Organizers believe that approximately 2 million people will attend the function.
+organizers believe that approximately 2 million people will attend the function
+0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0
+0.0 0.754254169615 0.0 0.110806905479 0.0 0.492126616108 0.248563000416 0.202473958127 0.617519860818 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.0 0.478022145003 0.0 0.544928252071 0.0 0.666519542702 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.628227409514 0.0
+a6tw9zegog7ph
+Organizers believe that two million people will attend the function.
+organizers believe that two million people will attend the function
+0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.0 0.829679586577 0.0 0.121887596026 0.371310471146 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0431415991421 0.0 0.0 0.0 0.0 0.0 0.0 0.525824359503 0.0 0.0 0.0 0.733171496973 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2unp2crnrfiw8
+Management thinks that 2 million people will attend this ceremony.
+management thinks that 2 million people will attend this ceremony
+0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.121887596026 0.0 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0 0.0 0.0 0.0 0.0 0.173223536917 0.551642500309 0.0 0.0 0.599421077278 0.0 0.0 0.629869996354 0.71981835771 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1ly3njtyw9tff
+Management thinks that 2 million people will attend this ceremony.
+management thinks that 2 million people will attend this ceremony
+0 0 0 1 0 1 1 1 1 0 0 0 0 0 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.121887596026 0.0 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0 0.0 0.0 0.0 0.0 0.173223536917 0.551642500309 0.0 0.0 0.599421077278 0.0 0.0 0.629869996354 0.71981835771 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Management thinks that two million people will attend this ceremony.
+management thinks that two million people will attend this ceremony
+0 0 0 1 1 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.121887596026 0.371310471146 0.541339277719 0.273419300458 0.22272135394 0.679271846899 0.0 0.0 0.0 0.0 0.0 0.173223536917 0.551642500309 0.0 0.0 0.0 0.0 0.0 0.629869996354 0.71981835771 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajh0yow6plss8
+Observers believe that around two million people will attend the ceremony.
+observers believe that around two million people will attend the ceremony
+0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.0 0.110806905479 0.337554973769 0.492126616108 0.248563000416 0.202473958127 0.617519860818 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.501493182099 0.478022145003 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.481348458406 0.0 0.0 0.0 0.0 0.0
+ajcv8bvciqxhp
+Observers believe that around two million people will attend the ceremony.
+observers believe that around two million people will attend the ceremony
+0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.0 0.110806905479 0.337554973769 0.492126616108 0.248563000416 0.202473958127 0.617519860818 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.501493182099 0.478022145003 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.481348458406 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+Observers believe that around two million people will attend the ceremony.
+observers believe that around two million people will attend the ceremony
+0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.0 0.110806905479 0.337554973769 0.492126616108 0.248563000416 0.202473958127 0.617519860818 0.0392196355837 0.0 0.0 0.0 0.0 0.0 0.501493182099 0.478022145003 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.481348458406 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+According to the government, two million people are attending this gathering.
+according to the government two million people are attending this gathering
+0 0 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 1 1 0 1
+0.0 0.0 0.0 0.0 0.337554973769 0.492126616108 0.248563000416 0.0 0.0 0.0392196355837 0.0 0.0 0.0 0.685729460309 0.157475942652 0.0 0.0 0.0 0.0 0.0974915174897 0.0 0.0 0.0 0.0 0.0 0.296645027158 0.192340413716 0.589492464485 0.0 0.274193948587

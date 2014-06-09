@@ -1,0 +1,88 @@
+dew_urd_20090131.0002__9
+provincial elections are being held in iraq with the help of united nations and approximately 800 international advisors observing election process around eighthundred observers reviewing under supervision commentators monitoring electoral will be un assistance while foreign them starting provisional almost observer investigate this approximate correspondents monitor state from supervisors overlooking started their investigating who result counting currently overseen by nearly as eight hundred taking stock
+Provincial elections are being held in Iraq with the help of the United Nations and approximately 800 international advisors are observing the election process.
+provincial elections are being held in iraq with the help of the united nations and approximately 800 international advisors are observing the election process
+1 1 2 1 1 1 1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.249241177199 0.207231667732 0.176312045906 0.153300131658 0.214603780572 0.0425351984906 0.206487600341 0.0983299795394 0.0539269989276 0.189593220836 0.0352798456651 0.168308819846 0.186514168911 0.0416932027753 0.287937562694 0.296589202893 0.190840819029 0.314292669308 0.311911068731 0.218107243789 0.254731563767 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Provincial elections are being held in Iraq with the help of the United Nations, and around eight-hundred international observers are reviewing the election process.
+provincial elections are being held in iraq with the help of the united nations and around eighthundred international observers are reviewing the election process
+1 1 2 1 1 1 1 1 3 1 1 1 1 1 0 0 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.249241177199 0.207231667732 0.176312045906 0.153300131658 0.214603780572 0.0425351984906 0.206487600341 0.0983299795394 0.0539269989276 0.189593220836 0.0352798456651 0.168308819846 0.186514168911 0.0416932027753 0.0 0.0 0.190840819029 0.0 0.0 0.218107243789 0.254731563767 0.220618043436 0.374580960264 0.311911068731 0.386567713283 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Provincial elections are being held under the supervision of the United Nations and around 800 international commentators are monitoring the electoral process.
+provincial elections are being held under the supervision of the united nations and around 800 international commentators are monitoring the electoral process
+1 1 2 1 1 0 0 0 3 0 1 1 1 1 0 1 1 0 0 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.271899466035 0.226070910254 0.192340413716 0.167236507263 0.23411321517 0.0 0.0 0.0 0.0588294533756 0.0 0.0384871043619 0.18360962165 0.203470002449 0.0454834939367 0.0 0.323551857701 0.208189984395 0.0 0.0 0.0 0.277888978655 0.240674229203 0.0 0.0 0.0 0.198743197288 0.296640445715 0.398490886137 0.377127084808 0.421710232672 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The provincial elections in Iraq will be held with UN assistance while 800 foreign observers will be monitoring them.
+the provincial elections in iraq will be held with un assistance while 800 foreign observers will be monitoring them
+1 1 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 2 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.314830960672 0.261766317136 0.0 0.0 0.27107845967 0.0537286717776 0.260826442536 0.124206289945 0.0227061048116 0.0 0.0 0.0 0.0 0.0 0.0 0.374638993128 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.393992928924 0.0 0.0 0.0 0.0 0.436673466619 0.0 0.234443530463 0.227726086608 0.329755975962 0.363710605508 0.208826769284 0.238258559342 0.181354875868 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+with the help of United Nations starting provisional election in Iraq and almost 800 international observer investigate this election.
+with the help of united nations starting provisional election in iraq and almost 800 international observer investigate this election
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0537286717776 0.260826442536 0.124206289945 0.0227061048116 0.239486173688 0.044564015577 0.212600614542 0.23559684494 0.0526650982425 0.0 0.374638993128 0.241062087194 0.0 0.0 0.551007773784 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.407220004097 0.415333197772 0.287556974827 0.488296058883 0.350666596881 0.0911702825879 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2llfcd7di80k3
+Provincial elections are being held in Iraq With the help of United Nations and approximate 800 international correspondents will monitor the elections.
+provincial elections are being held in iraq with the help of united nations and approximate 800 international correspondents will monitor the elections
+1 2 1 1 1 1 1 1 2 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.271899466035 0.452141820507 0.096170206858 0.167236507263 0.23411321517 0.046402034717 0.225259200372 0.107269068588 0.0392196355837 0.206828968185 0.0384871043619 0.18360962165 0.203470002449 0.0454834939367 0.0 0.323551857701 0.208189984395 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.101236979064 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.408633774833 0.310040424816 0.355058547727 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The state elections are being held with help from the United Nations and almost 800 international supervisors are overlooking the elections.
+the state elections are being held with help from the united nations and almost 800 international supervisors are overlooking the elections
+0 2 2 1 1 0 0 1 3 1 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.473672383388 0.201499481036 0.175200150466 0.245261463511 0.0 0.0 0.112377119474 0.0616308559173 0.21667796667 0.0 0.192352936967 0.213159050184 0.0476493746004 0.0 0.33895908902 0.218103793175 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.260170596272 0.0 0.0 0.0 0.0 0.0 0.0 0.208798707635 0.113073687112 0.395085517418 0.441791672323 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+With the help of United Nations starting provisional election in Iraq and almost 800 international observer investigate this election.
+with the help of united nations starting provisional election in iraq and almost 800 international observer investigate this election
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0537286717776 0.260826442536 0.124206289945 0.0227061048116 0.239486173688 0.044564015577 0.212600614542 0.23559684494 0.0526650982425 0.0 0.374638993128 0.241062087194 0.0 0.0 0.551007773784 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.407220004097 0.415333197772 0.287556974827 0.488296058883 0.350666596881 0.0911702825879 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2fhqsz1afq4oy
+with the help of United Nations starting provisional election in Iraq and almost 800 international observer investigate this election.
+with the help of united nations starting provisional election in iraq and almost 800 international observer investigate this election
+0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0537286717776 0.260826442536 0.124206289945 0.0227061048116 0.239486173688 0.044564015577 0.212600614542 0.23559684494 0.0526650982425 0.0 0.374638993128 0.241062087194 0.0 0.0 0.551007773784 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.407220004097 0.415333197772 0.287556974827 0.488296058883 0.350666596881 0.0911702825879 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ah8lf01ktxfg0
+With the help of the United Nations, Iraq started their provisional election with almost 800 international observers investigating.
+with the help of the united nations iraq started their provisional election with almost 800 international observers investigating
+0 0 0 0 0 0 1 2 2 1 1 1 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.275316800454 0.262213278772 0.0479351101579 0.252790961115 0.0470397942201 0.224411759795 0.248685558548 0.0 0.0 0.395452270524 0.254454425371 0.0 0.0 0.290809658386 0.0 0.0 0.0 0.415881424975 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.438407264315 0.303532362317 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.257224123162 0.16616702691 0.367502071764 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a24bjjrcqbm3mi
+Provincial elections are being held in Iraq with the help of the United Nations and approximate 800 international correspondents who will monitor the elections and result counting.
+provincial elections are being held in iraq with the help of the united nations and approximate 800 international correspondents who will monitor the elections and result counting
+1 2 1 1 1 1 1 1 3 1 1 1 1 2 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.221547713066 0.368411853746 0.0783609092917 0.136266783696 0.190758916064 0.037809065325 0.183544533636 0.0874044262573 0.0479351101579 0.16852730741 0.0313598628134 0.149607839863 0.165790372365 0.0741212493784 0.0 0.263634847016 0.169636283581 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0824893903481 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.332960853568 0.252625531332 0.289306964814 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.10962440475 0.186976342173 0.34361574514 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a5bg8xv8wuysx
+Provincial elections are currently being held in Iraq with the help of the United Nations. Approximately 800 international correspondents will be monitoring the elections.
+provincial elections are currently being held in iraq with the help of the united nations approximately 800 international correspondents will be monitoring the elections
+1 2 1 1 1 1 1 1 3 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.249241177199 0.414463335465 0.0881560229532 0.153300131658 0.214603780572 0.0425351984906 0.206487600341 0.0983299795394 0.0539269989276 0.189593220836 0.0352798456651 0.168308819846 0.186514168911 0.0 0.287937562694 0.296589202893 0.190840819029 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.34569982774 0.0 0.0928005641416 0.0901415759489 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.284203722748 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.295016689227 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1ly3njtyw9tff
+Provincial elections are being held in Iraq with the help of United Nations and approximately 800 international correspondents will monitor the elections.
+provincial elections are being held in iraq with the help of united nations and approximately 800 international correspondents will monitor the elections
+1 2 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.271899466035 0.452141820507 0.096170206858 0.167236507263 0.23411321517 0.046402034717 0.225259200372 0.107269068588 0.0392196355837 0.206828968185 0.0384871043619 0.18360962165 0.203470002449 0.0454834939367 0.314113704757 0.323551857701 0.208189984395 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.101236979064 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.310040424816 0.355058547727 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31ikb373dzonk
+The state elections are being overseen by the United Nations and nearly 800 international supervisors.
+the state elections are being overseen by the united nations and nearly 800 international supervisors
+0 1 1 1 0 0 0 0 2 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+0.0 0.331570668372 0.141049636725 0.245280210652 0.0 0.0 0.0 0.0 0.0575221321894 0.0 0.0 0.269294111754 0.298422670258 0.0667091244405 0.0 0.474542724629 0.305345310446 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.292318190689 0.0 0.553119724385 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.691749160497 0.166211203743 0.428332912591 0.0 0.0 0.0 0.0 0.0
+a2bk4fasw056jr
+The state elections are being held with help from the United Nations and almost 800 international supervisors are overlooking the elections.
+the state elections are being held with help from the united nations and almost 800 international supervisors are overlooking the elections
+0 2 2 1 1 0 0 1 3 1 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.473672383388 0.201499481036 0.175200150466 0.245261463511 0.0 0.0 0.112377119474 0.0616308559173 0.21667796667 0.0 0.192352936967 0.213159050184 0.0476493746004 0.0 0.33895908902 0.218103793175 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.260170596272 0.0 0.0 0.0 0.0 0.0 0.0 0.208798707635 0.113073687112 0.395085517418 0.441791672323 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajh0yow6plss8
+The state elections are being held with help from the United Nations as almost 800 international supervisors are overlooking the elections.
+the state elections are being held with help from the united nations as almost 800 international supervisors are overlooking the elections
+0 2 2 1 1 0 0 1 3 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.473672383388 0.201499481036 0.175200150466 0.245261463511 0.0 0.0 0.112377119474 0.0616308559173 0.21667796667 0.0 0.192352936967 0.213159050184 0.0 0.0 0.33895908902 0.218103793175 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.260170596272 0.0 0.0 0.0 0.0 0.0 0.0 0.208798707635 0.113073687112 0.395085517418 0.441791672323 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.126107707874 0.0 0.0 0.0 0.0
+a290hg650rgy73
+The United Nations help سےعراق provincial elections are being held in and around eight hundred international observers are taking stock of the electoral process .
+the united nations help  provincial elections are being held in and around eight hundred international observers are taking stock of the electoral process 
+1 1 2 1 1 1 0 0 2 1 1 1 1 1 0 0 1 0 0 0 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1
+0.260077750121 0.216241740243 0.183977787033 0.159965354773 0.223934379728 0.0443845549467 0.0 0.0 0.0375144340366 0.197836404351 0.0368137519984 0.175626594622 0.194623480603 0.0435059507221 0.0 0.0 0.199138245943 0.0 0.0 0.0 0.265806849148 0.230210132281 0.0 0.325472419546 0.0 0.0 0.0 0.0 0.0 0.403375005164 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.235061917734 0.2584965482 0.206149904534 0.366535967756

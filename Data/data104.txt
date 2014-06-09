@@ -1,0 +1,88 @@
+bbc_urd_20090108.0018__1
+rocket fire from lebanon also counterbombing firing too counter bombing rockets fired bombardment in retaliation retaliatory answer give back bombarding and response bring fires
+Rocket Fire from Lebanon; also Counter-bombing
+rocket fire from lebanon also counterbombing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.949017696721 0.851396541398 0.395757904892 0.940006493176 0.466519246096 1.72937290124 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Rocket Firing from Lebanon too; Counter Bombing
+rocket firing from lebanon too counter bombing
+1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.813443740047 0.0 0.339221061336 0.805719851294 0.0 0.0 0.863643438166 0.719814189678 1.05435787627 0.863643438166 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Rockets Fired from Lebanon Also, Bombardment in Retaliation
+rockets fired from lebanon also bombardment in retaliation
+0 0 1 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.296818428669 0.705004869882 0.349889434572 0.0 0.0 0.0 0.0 0.0 0.746189770023 0.720139611326 0.950456085651 0.127605595472 0.950456085651 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Rockets fired from Lebanon, bombing in retaliation
+rockets fired from lebanon bombing in retaliation
+0 0 1 1 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.339221061336 0.805719851294 0.0 0.0 0.0 0.0 0.0 0.863643438166 0.852788308598 0.823016698658 0.0 0.145834966254 1.08623552646 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+Rocket firing from Lebanon, retaliatory bombardment.
+rocket firing from lebanon retaliatory bombardment
+1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0
+0.949017696721 0.0 0.395757904892 0.940006493176 0.0 0.0 1.00758401119 0.0 0.0 0.0 0.0 0.0 1.26727478087 0.0 0.0 1.49832384105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Rockets fired from Lebanon, bombing in answer
+rockets fired from lebanon bombing in answer
+0 0 1 1 0 0 0 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.339221061336 0.805719851294 0.0 0.0 0.0 0.0 0.0 0.863643438166 0.852788308598 0.823016698658 0.0 0.145834966254 0.0 0.0 0.785862869178 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+Rockets fired from Lebanon, give fire back bombarding.
+rockets fired from lebanon give fire back bombarding
+0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 0 0 0
+0.0 0.638547406048 0.296818428669 0.705004869882 0.0 0.0 0.0 0.0 0.0 0.0 0.746189770023 0.720139611326 0.0 0.0 0.0 0.0 0.0 0.556163922685 0.618910923746 0.958523400793 0.0 0.0 0.0 0.0
+a3u16uhguaktzs
+Rocket Fire from Lebanon too, and bombing in response.
+rocket fire from lebanon too and bombing in response
+1 1 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0
+0.632678464481 0.567597694265 0.263838603261 0.626670995451 0.0 0.0 0.0 0.559855480861 0.0 0.671722674129 0.0 0.0 0.0 0.113427195975 0.0 0.0 0.0 0.0 0.0 0.0 0.111181874068 0.649293101589 0.0 0.0
+awmob8jnvgesj
+Rockets fired from Lebanon, retaliatory bombardment.
+rockets fired from lebanon retaliatory bombardment
+0 0 1 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.395757904892 0.940006493176 0.0 0.0 0.0 0.0 0.0 0.0 0.994919693364 0.960186148435 1.26727478087 0.0 0.0 1.49832384105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a363eba76te7vz
+Rocket firing from Lebanon, retaliatory bombardment.
+rocket firing from lebanon retaliatory bombardment
+1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0
+0.949017696721 0.0 0.395757904892 0.940006493176 0.0 0.0 1.00758401119 0.0 0.0 0.0 0.0 0.0 1.26727478087 0.0 0.0 1.49832384105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+Rocket firing from Lebanon, retaliatory bombardment.
+rocket firing from lebanon retaliatory bombardment
+1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0
+0.949017696721 0.0 0.395757904892 0.940006493176 0.0 0.0 1.00758401119 0.0 0.0 0.0 0.0 0.0 1.26727478087 0.0 0.0 1.49832384105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1nee8mf6oybf8
+Rockets fired from Lebanon
+rockets fired from lebanon
+0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.593636857338 1.41000973976 0.0 0.0 0.0 0.0 0.0 0.0 1.49237954005 1.44027922265 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Rockets fired from Lebanon bring bombardment in retaliation.
+rockets fired from lebanon bring bombardment in retaliation
+0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 1 0
+0.0 0.0 0.296818428669 0.705004869882 0.0 0.0 0.0 0.0 0.0 0.0 0.746189770023 0.720139611326 0.950456085651 0.127605595472 0.950456085651 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.64516270623 0.0
+a330jjzgjl7ig2
+Rockets fired from Lebanon, bombing in answer Lebanon Fires Rockets in Response
+rockets fired from lebanon bombing in answer lebanon fires rockets in response
+0 0 1 2 0 0 0 0 0 1 2 1 0 2 0 0 1 0 0 0 0 1 0 1
+0.0 0.0 0.197878952446 0.940006493176 0.0 0.0 0.0 0.0 0.0 0.503792005597 0.994919693364 0.480093074217 0.0 0.170140793962 0.0 0.0 0.458420007021 0.0 0.0 0.0 0.0 0.486969826191 0.0 0.702527271533
+a2vjscdqr23qkd
+Rockets fired from Lebanon, Lebanon fires back!
+rockets fired from lebanon lebanon fires back
+0 0 1 2 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1
+0.0 0.0 0.339221061336 1.61143970259 0.0 0.0 0.0 0.0 0.0 0.0 0.852788308598 0.823016698658 0.0 0.0 0.0 0.0 0.0 0.0 0.707326769995 0.0 0.0 0.0 0.0 1.20433246548
+a2d2264qc2ln18
+Rockets fired from Lebanon, give fire back bombarding.
+rockets fired from lebanon give fire back bombarding
+0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 0 0 0
+0.0 0.638547406048 0.296818428669 0.705004869882 0.0 0.0 0.0 0.0 0.0 0.0 0.746189770023 0.720139611326 0.0 0.0 0.0 0.0 0.0 0.556163922685 0.618910923746 0.958523400793 0.0 0.0 0.0 0.0
+a3fk32fvhmy8mz
+Rockets fired from Lebanon, give fire back bombarding.
+rockets fired from lebanon give fire back bombarding
+0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 0 0 0
+0.0 0.638547406048 0.296818428669 0.705004869882 0.0 0.0 0.0 0.0 0.0 0.0 0.746189770023 0.720139611326 0.0 0.0 0.0 0.0 0.0 0.556163922685 0.618910923746 0.958523400793 0.0 0.0 0.0 0.0
+a2f69lkq5jcvdg
+Rocket Fire from Lebanon too, and bombing in response.
+rocket fire from lebanon too and bombing in response
+1 1 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0
+0.632678464481 0.567597694265 0.263838603261 0.626670995451 0.0 0.0 0.0 0.559855480861 0.0 0.671722674129 0.0 0.0 0.0 0.113427195975 0.0 0.0 0.0 0.0 0.0 0.0 0.111181874068 0.649293101589 0.0 0.0

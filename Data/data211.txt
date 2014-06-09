@@ -1,0 +1,88 @@
+bbc_urd_20090117.0016__1
+demand for quick report on indias dossier immediate demanded indian information early the a advantages of such an agreement are great ask urgent delivery statement asking requested regarding
+"Demand for Quick Report on India's Dossier"
+demand for quick report on indias dossier
+1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.996434289398 0.275699422429 1.02831193959 0.731248862203 0.266926953552 0.833277517883 1.06940937851 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+'Immediate Report Demanded on Indian Information'
+immediate report demanded on indian information
+0 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.85312367257 0.311414779144 0.0 0.0 0.983150098829 1.01429632772 0.62099305981 0.78324726753 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+'Demand for Immediate Report on Indian Information'
+demand for immediate report on indian information
+1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.996434289398 0.275699422429 0.0 0.731248862203 0.266926953552 0.0 0.0 0.84270008471 0.0 0.532279765552 0.67135480074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+'Demand for early report on Indian dossier'
+demand for early report on indian dossier
+1 1 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.996434289398 0.275699422429 0.0 0.731248862203 0.266926953552 0.0 1.06940937851 0.0 0.0 0.532279765552 0.0 1.0343918845 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+'The Demand for a Quick Report on Indian Information'
+the demand for a quick report on indian information
+1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.77500444731 0.214432884112 0.799798175234 0.568749115047 0.207609852762 0.0 0.0 0.0 0.0 0.413995373207 0.52216484502 0.0 0.0479351101579 0.158844688727 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a172x4w90uost1
+The advantages of such an agreement are great
+the advantages of such an agreement are great
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 1.02237660376 0.105839536995 0.497205309114 0.366718085582 0.767766362857 0.26446806886 0.594479567717 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+ask for urgent report on Indian information.
+ask for urgent report on indian information
+0 1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.275699422429 0.0 0.731248862203 0.266926953552 0.0 0.0 0.0 0.0 0.532279765552 0.67135480074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.830269887997 1.15337890207 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+Delivery of The Indian Information.
+delivery of the indian information
+0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.745191671772 0.939896721036 0.0 0.0862831982842 0.0 0.0 0.169343259193 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.79798860927 0.0 0.0 0.0 0.0
+a2m2x4nfhzuqky
+'The Demand- Quick Report on Indian Information'
+the demand quick report on indian information
+1 0 1 1 1 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.996434289398 0.0 1.02831193959 0.731248862203 0.266926953552 0.0 0.0 0.0 0.0 0.532279765552 0.67135480074 0.0 0.0616308559173 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+'The Demand for a Quick Report on Indian Information'
+the demand for a quick report on indian information
+1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.77500444731 0.214432884112 0.799798175234 0.568749115047 0.207609852762 0.0 0.0 0.0 0.0 0.413995373207 0.52216484502 0.0 0.0479351101579 0.158844688727 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1c0lbe9vl3ax
+'The Demand for a Quick Report on Indian Information'
+the demand for a quick report on indian information
+1 1 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.77500444731 0.214432884112 0.799798175234 0.568749115047 0.207609852762 0.0 0.0 0.0 0.0 0.413995373207 0.52216484502 0.0 0.0479351101579 0.158844688727 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2bk4fasw056jr
+The advantages of such an agreement are great.
+the advantages of such an agreement are great
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 1.02237660376 0.105839536995 0.497205309114 0.366718085582 0.767766362857 0.26446806886 0.594479567717 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+Great Advantages of a Statement
+great advantages of a statement
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.285920439709 1.63580256602 0.169343259193 0.0 0.0 0.0 0.0 0.951167308347 0.0 0.0 0.0 1.02479279588 0.0 0.0 0.0
+a307ah7ktmo57u
+The advantages of such an agreement are great.
+the advantages of such an agreement are great
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 1.02237660376 0.105839536995 0.497205309114 0.366718085582 0.767766362857 0.26446806886 0.594479567717 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+Asking for urgent report on Indian information.
+asking for urgent report on indian information
+0 1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
+0.0 0.275699422429 0.0 0.731248862203 0.266926953552 0.0 0.0 0.0 0.0 0.532279765552 0.67135480074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.15337890207 0.0 0.0 0.907269388102 0.0 0.0
+a6tw9zegog7ph
+Ask for urgent report on Indian information.
+ask for urgent report on indian information
+0 1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.275699422429 0.0 0.731248862203 0.266926953552 0.0 0.0 0.0 0.0 0.532279765552 0.67135480074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.830269887997 1.15337890207 0.0 0.0 0.0 0.0 0.0
+a6iowpyua159p
+Urgent report requested regarding Indian information.
+urgent report requested regarding indian information
+0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1
+0.0 0.0 0.0 0.85312367257 0.0 0.0 0.0 0.0 0.0 0.62099305981 0.78324726753 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.34560871908 0.0 0.0 0.0 1.11877929355 0.892059481101
+arq4j4tltpbnc
+Delivery of The Indian Information.
+delivery of the indian information
+0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.745191671772 0.939896721036 0.0 0.0862831982842 0.0 0.0 0.169343259193 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.79798860927 0.0 0.0 0.0 0.0

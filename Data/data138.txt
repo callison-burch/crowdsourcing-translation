@@ -1,0 +1,88 @@
+bbc_urd_20090110.0032__2
+when officials found out about natalie maltais the police officers and fire extinguishing forces of massachusetts city athol came into action after authorities to know were alerted firefighters town a officer firefighter in joined that had been taken heard nataly firefighting acton maltise athule alive nitali maltis agarbijhon natali maltrice force started learned maltaiss disappearance mass jumped went work was missing sprang reported got
+When officials found out about Natalie Maltais, the police officers and fire extinguishing forces of the Massachusetts city of Athol came into action.
+when officials found out about natalie maltais the police officers and fire extinguishing forces of the massachusetts city of athol came into action
+1 1 1 1 1 1 1 2 1 1 1 1 1 1 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.142659696964 0.195587027203 0.200208534101 0.174114154792 0.137116147332 0.287610317033 0.31481492137 0.0375144340366 0.165940094346 0.297820734036 0.0435059507221 0.222103445582 0.421003922908 0.197453333495 0.0736275039967 0.327957567974 0.208380047768 0.34310133729 0.210730796519 0.199403358111 0.1824443806 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After the authorities came to know about Natalie Maltais, the police officers and fire extinguishing forces of Athol, the city of Massachusetts, came into action.
+after the authorities came to know about natalie maltais the police officers and fire extinguishing forces of athol the city of massachusetts came into action
+0 0 0 0 1 1 1 3 1 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.126146855545 0.26460149167 0.289629727661 0.0517699189705 0.152664886798 0.273995075313 0.0400254746643 0.204335169935 0.387323609076 0.181657066815 0.067737303677 0.301720962536 0.191709643947 0.315653230306 0.387744665595 0.183451089462 0.167848830152 0.118878331577 0.234615116037 0.0428962676955 0.180277619773 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After authorities were alerted about Natalie Maltais, police officers and firefighters of the Town of Athol, Massachusetts, came into action.
+after authorities were alerted about natalie maltais police officers and firefighters of the town of athol massachusetts came into action
+0 0 0 0 1 1 1 1 1 1 1 0 0 0 2 1 0 1 1 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.157683569431 0.330751864588 0.362037159576 0.021570799571 0.190831108498 0.342493844142 0.0500318433304 0.0 0.0 0.0 0.0846716295963 0.37715120317 0.0 0.394566537883 0.242340415997 0.229313861828 0.20981103769 0.148597914471 0.293268895047 0.0 0.0 0.145960265916 0.484154511344 0.42151636292 0.322220588736 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+A police officer and a firefighter in Athol, Massachusetts, joined forces after authorities were alerted that Natalie Maltais had been taken.
+a police officer and a firefighter in athol massachusetts joined forces after authorities were alerted that natalie maltais had been taken
+0 0 0 0 0 1 1 0 1 0 1 0 0 1 0 1 0 1 0 0 0 1 1 0 0 1 1 0 0 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.315001775798 0.344797294834 0.0 0.181743912855 0.0 0.0476493746004 0.0 0.0 0.216258412876 0.0 0.359191622066 0.0 0.375777655127 0.0 0.0 0.0 0.141521823305 0.279303709568 0.0 0.0 0.139009777063 0.461099534614 0.0 0.0 0.136152590338 0.305952080422 0.494106543212 0.0486116554178 0.32480425457 0.0580417123936 0.163160997736 0.138354458726 0.207045661296 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+When the officials heard of Nataly Maltais, the police and firefighting forces of the city of Acton, Massachusetts came in to action.
+when the officials heard of nataly maltais the police and firefighting forces of the city of acton massachusetts came in to action
+1 1 0 0 0 0 1 3 1 0 1 0 0 1 3 1 1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.149144228644 0.204477346621 0.0 0.0 0.0 0.0 0.329124690524 0.0588294533756 0.173482825907 0.0 0.0454834939367 0.0 0.0 0.206428485018 0.115461313086 0.342864730154 0.217851868121 0.0 0.220309469088 0.0 0.190737306991 0.0 0.0 0.0487457587448 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.046402034717 0.0 0.0 0.0 0.0 0.0 0.305121625515 0.421710232672 0.408633774833 0.408633774833 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+When officials came to know about Natalie Maltise, the police and firefighters of Athule city in Massachusetts came alive.
+when officials came to know about natalie maltise the police and firefighters of athule city in massachusetts came alive
+1 1 0 0 1 1 0 1 1 0 1 0 0 0 1 1 1 0 2 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.172693317377 0.236763243456 0.0 0.0 0.165982704665 0.348159857461 0.0 0.0227061048116 0.20087485105 0.0 0.0526650982425 0.0 0.0 0.0 0.044564015577 0.397001266494 0.252249531509 0.0 0.510190349467 0.0 0.0 0.0 0.0 0.056442457494 0.237207394438 0.0 0.0 0.443701434652 0.0 0.0 0.0 0.0 0.0537286717776 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.415333197772 0.436673466619 0.308704100049 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+authorities when came to know about Nitali Maltis, Massachusetts city Police officer and Agarbijhon forces came into action.
+authorities when came to know about nitali maltis massachusetts city police officer and agarbijhon forces came into action
+1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 1 1 0 2 1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.182287390565 0.0 0.0 0.0 0.175203966035 0.0 0.0 0.0 0.212034564998 0.0 0.0555909370338 0.0 0.0 0.252301481688 0.0 0.419056892411 0.26626339437 0.0 0.538534257771 0.254793179808 0.233123375211 0.0 0.32585432783 0.059578149577 0.250385583018 0.0 0.0 0.0 0.0 0.0 0.356944093826 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.499441280352 0.499441280352 0.499441280352 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+When officials came to know about Natali Maltrice, firefighters and police force of Athol city of Massachusetts started the action.
+when officials came to know about natali maltrice firefighters and police force of athol city of massachusetts started the action
+1 1 0 0 1 0 0 1 1 0 1 0 0 0 2 1 1 1 1 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.164058651508 0.224925081284 0.0 0.0 0.157683569431 0.0 0.0 0.021570799571 0.190831108498 0.0 0.0500318433304 0.0 0.0 0.0 0.0846716295963 0.37715120317 0.239637054933 0.394566537883 0.242340415997 0.0 0.20981103769 0.0 0.0 0.0536203346193 0.225347024716 0.0 0.0 0.42151636292 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.414839793289 0.484154511344 0.244572023698 0.231501710845 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a17ezclrdz3xmg
+When the officials learned of Nataly Maltais's disappearance, the police and firefighting forces of the city of Acton, Mass., jumped into action.
+when the officials learned of nataly maltaiss disappearance the police and firefighting forces of the city of acton mass jumped into action
+1 1 0 0 0 0 0 3 1 0 1 0 0 1 3 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
+0.149144228644 0.204477346621 0.0 0.0 0.0 0.0 0.0 0.0588294533756 0.173482825907 0.0 0.0454834939367 0.0 0.0 0.206428485018 0.115461313086 0.0 0.217851868121 0.0 0.0 0.208467147116 0.190737306991 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.421710232672 0.408633774833 0.408633774833 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.345620394782 0.471647154884 0.440140464859 0.310040424816 0.335477506086 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+When the officials heard of Nataly Maltais, the police and firefighting forces of the city of Acton, Massachusetts went to work.
+when the officials heard of nataly maltais the police and firefighting forces of the city of acton massachusetts went to work
+1 1 0 0 0 0 1 3 1 0 1 0 0 1 3 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.15624633477 0.214214363127 0.0 0.0 0.0 0.0 0.344797294834 0.0616308559173 0.181743912855 0.0 0.0476493746004 0.0 0.0 0.216258412876 0.120959470852 0.359191622066 0.228225766603 0.0 0.0 0.0 0.0 0.0 0.0 0.0510669853517 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.31965122673 0.441791672323 0.428092526016 0.428092526016 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.266931084904 0.198459399112 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+When the officials heard that Natalie Maltais was missing, the police and firefighting forces of the city of Acton, Massachusetts came into action.
+when the officials heard that natalie maltais was missing the police and firefighting forces of the city of acton massachusetts came into action
+1 1 0 0 0 1 1 3 1 0 1 0 0 1 2 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+0.142659696964 0.195587027203 0.0 0.0 0.0 0.287610317033 0.31481492137 0.0562716510549 0.165940094346 0.0 0.0435059507221 0.0 0.0 0.197453333495 0.0736275039967 0.327957567974 0.208380047768 0.0 0.210730796519 0.199403358111 0.1824443806 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.052994606968 0.0 0.0 0.0 0.291855467883 0.0 0.390867088971 0.390867088971 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0948339007198 0.366535967756 0.0 0.0 0.0
+a330jjzgjl7ig2
+When officials heard about Natalie Maltise, the police and firefighters of Athule City, Massachusetts came alive.
+when officials heard about natalie maltise the police and firefighters of athule city massachusetts came alive
+1 1 0 0 1 1 0 1 1 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.205073314385 0.281156351604 0.0 0.0 0.197104461789 0.413439830735 0.0 0.0269634994638 0.238538885622 0.0 0.062539804163 0.0 0.0 0.0 0.0529197684977 0.471439003962 0.299546318667 0.0 0.302925519996 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.52689545365 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.419542235083 0.0 0.0 0.0 0.493208172354 0.518549741611 0.366586118808 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2nrt6osd133jj
+When officials came to know about Natalie Maltise, the police and firefighters of Athule, Massachusetts came alive.
+when officials came to know about natalie maltise the police and firefighters of athule massachusetts came alive
+1 1 0 0 1 1 0 1 1 0 1 0 0 0 1 1 0 0 2 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.193010178245 0.264617742686 0.0 0.0 0.185510081684 0.389119840692 0.0 0.02537741126 0.224507186468 0.0 0.0588609921534 0.0 0.0 0.0 0.049806840939 0.443707297847 0.0 0.0 0.570212743522 0.0 0.0 0.0 0.0 0.063082746611 0.265114146724 0.0 0.0 0.495901603435 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.464195926921 0.488046815634 0.345022229467 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143awku99stc9
+Police and firefighters of Athule City, Massachusetts, sprang to action when Natalie Maltise was reported missing.
+police and firefighters of athule city massachusetts sprang to action when natalie maltise was reported missing
+1 0 0 0 0 1 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0
+0.205073314385 0.0 0.0 0.0 0.0 0.413439830735 0.0 0.0 0.238538885622 0.0 0.062539804163 0.0 0.0 0.0 0.0529197684977 0.471439003962 0.299546318667 0.0 0.0 0.0 0.262263797112 0.0 0.0 0.0670254182741 0.0 0.0 0.0 0.52689545365 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.493208172354 0.518549741611 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.136323732285 0.52689545365 0.648514837966 0.368681287061 0.0
+a2u70ov2bw11tg
+When authorities learned of the disappearance of Nitali Maltis, Massachusetts city Police officer and Agarbijhon jumped to action.
+when authorities learned of the disappearance of nitali maltis massachusetts city police officer and agarbijhon jumped to action
+1 0 0 0 0 0 0 1 1 0 1 0 0 0 2 1 1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0
+0.182287390565 0.0 0.0 0.0 0.0 0.0 0.0 0.0239675550789 0.212034564998 0.0 0.0555909370338 0.0 0.0 0.0 0.0940795884403 0.419056892411 0.26626339437 0.0 0.0 0.0 0.233123375211 0.0 0.32585432783 0.059578149577 0.0 0.0 0.0 0.0 0.0 0.0 0.356944093826 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.499441280352 0.499441280352 0.499441280352 0.0 0.0 0.0 0.0 0.422424926956 0.0 0.537949457049 0.0 0.410028062994 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1fnqhv04k4cvd
+Authorities when came to know about Nitali Maltis, Massachusetts city Police officer and Agarbijhon forces came into action.
+authorities when came to know about nitali maltis massachusetts city police officer and agarbijhon forces came into action
+1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 1 1 0 2 1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.182287390565 0.0 0.0 0.0 0.175203966035 0.0 0.0 0.0 0.212034564998 0.0 0.0555909370338 0.0 0.0 0.252301481688 0.0 0.419056892411 0.26626339437 0.0 0.538534257771 0.254793179808 0.233123375211 0.0 0.32585432783 0.059578149577 0.250385583018 0.0 0.0 0.0 0.0 0.0 0.356944093826 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.499441280352 0.499441280352 0.499441280352 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+Authorities when got to know about Nitali Maltis, Massachusetts city Police officer and Agarbijhon forces came into action.
+authorities when got to know about nitali maltis massachusetts city police officer and agarbijhon forces came into action
+1 0 0 0 1 0 0 0 1 0 1 0 0 1 0 1 1 0 1 1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.182287390565 0.0 0.0 0.0 0.175203966035 0.0 0.0 0.0 0.212034564998 0.0 0.0555909370338 0.0 0.0 0.252301481688 0.0 0.419056892411 0.26626339437 0.0 0.269267128885 0.254793179808 0.233123375211 0.0 0.32585432783 0.059578149577 0.250385583018 0.0 0.0 0.0 0.0 0.0 0.356944093826 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.499441280352 0.499441280352 0.499441280352 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.272911422357
+a1ayptb7ayz623
+When officials came to know about Natali Maltrice, firefighters and police of Athol City, Massachusetts started the action.
+when officials came to know about natali maltrice firefighters and police of athol city massachusetts started the action
+1 1 0 0 1 0 0 1 1 0 1 0 0 0 1 1 1 1 1 0 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.182287390565 0.249916756982 0.0 0.0 0.175203966035 0.0 0.0 0.0239675550789 0.212034564998 0.0 0.0555909370338 0.0 0.0 0.0 0.0470397942201 0.419056892411 0.26626339437 0.438407264315 0.269267128885 0.0 0.233123375211 0.0 0.0 0.059578149577 0.250385583018 0.0 0.0 0.468351514355 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.460933103654 0.537949457049 0.0 0.257224123162 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

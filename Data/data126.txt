@@ -1,0 +1,88 @@
+bbc_urd_20090109.0005__5
+according to dr richard batistas attorney although batista is demanding his kidney back in reality he wants a cash payment equal the value of batistes batiste return actually monetary compensation equivalent asking for be returned lawyer said client was seeking that gave wife though but accordint batistan rischard barrister doctor saying returning infect money looking not has demanded backhe batistants batistant or statement and fact possible due infection
+According to Dr. Richard Batista's attorney, although Dr. Batista is demanding his kidney back, in reality he wants a cash payment equal to the value of the kidney.
+according to dr richard batistas attorney although dr batista is demanding his kidney back in reality he wants a cash payment equal to the value of the kidney
+1 2 2 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.360944816308 0.20050226688 0.284940790523 0.261846963205 0.186123265483 0.233842714677 0.0473720700825 0.306588497794 0.0952634930858 0.449907140253 0.176831692499 0.0364587415634 0.201118045682 0.0845193589181 0.179611781312 0.0510572213766 0.267352344627 0.276327859923 0.265421372439 0.0308154279586 0.263589469068 0.0302398677129 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to Dr. Batiste's attorney, although Dr. Batiste is demanding the return of his kidney, he actually wants monetary compensation equivalent to the value of the kidney.
+according to dr batistes attorney although dr batiste is demanding the return of his kidney he actually wants monetary compensation equivalent to the value of the kidney
+1 2 2 0 0 1 1 0 1 1 1 2 0 0 0 1 1 0 0 0 0 3 1 2 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.120855381435 0.0794375327694 0.374313142838 0.0 0.0 0.271544998879 0.19301671976 0.0 0.0491265911966 0.317943627342 0.0987917706075 0.46657036767 0.0 0.0 0.0 0.0876497055447 0.186264069509 0.0 0.0 0.0 0.0 0.0479351101579 0.273352041996 0.0627197256269 0.384305089165 0.332960853568 0.202083573393 0.211585122716 0.277254283317 0.262237057091 0.307288735769 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to the attorney of Dr. Batista, although he is asking for his kidney to be returned, he actually wants monetary compensation for the kidney.
+according to the attorney of dr batista although he is asking for his kidney to be returned he actually wants monetary compensation for the kidney
+1 2 1 0 0 1 1 1 1 0 1 2 0 0 0 2 1 0 0 0 0 2 0 1 0 0 0 1 1 1 0 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0857925353909 0.202129097132 0.0 0.0 0.293268598789 0.208458057341 0.261903840438 0.0530567184924 0.0 0.106695112256 0.503895997084 0.0 0.0 0.0 0.189323363977 0.201165195069 0.0 0.0 0.0 0.0 0.0345132793137 0.0 0.0338686518385 0.0 0.0 0.0 0.228511932534 0.299434625982 0.283216021658 0.0 0.254035428669 0.15439167656 0.0865359129109 0.270612779792 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Dr Batista's lawyer said his client was seeking the value of the kidney that he gave to his wife.
+dr batistas lawyer said his client was seeking the value of the kidney that he gave to his wife
+0 1 1 0 1 0 0 0 0 0 2 1 0 0 0 1 0 0 0 0 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.056442457494 0.265959338332 0.0 0.419912743929 0.0 0.0 0.0 0.0 0.0 0.2807766112 0.331510524397 0.0 0.0 0.0 0.124554844721 0.0 0.0 0.0 0.0 0.0 0.0454122096232 0.388447638626 0.044564015577 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.316146818683 0.116601762447 0.546117758287 0.11479893245 0.393992928924 0.0641513663297 0.279999558005 0.267787914566 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+According to Dr. Richard Batista's lawyer, though Dr. Batista is demanding his kidney back, but he actually wants a monetary compensation for the kidney.
+according to dr richard batistas lawyer though dr batista is demanding his kidney back but he actually wants a monetary compensation for the kidney
+1 1 2 1 1 0 0 1 1 1 1 2 1 0 0 1 1 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.421102285693 0.233919311361 0.332430922277 0.0 0.0 0.272816500457 0.0552674150962 0.357686580759 0.111140741933 0.524891663629 0.206303641249 0.0 0.0 0.0986059187378 0.209547078197 0.0595667582727 0.0 0.0 0.0 0.0179756663092 0.0 0.0 0.0 0.0 0.0 0.238033263056 0.311911068731 0.295016689227 0.0 0.0 0.0804123315419 0.0 0.0 0.250282898124 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.233919311361 0.110234305891 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+Accordint to lawyer of Dr. Richard Batistan, Dr. Rischard is asking for the return of kidney but actually he is asking for the Payment of his kidney.
+accordint to lawyer of dr richard batistan dr rischard is asking for the return of kidney but actually he is asking for the payment of his kidney
+0 1 2 1 0 0 0 0 2 0 1 2 0 0 0 1 0 0 0 1 0 2 0 3 0 0 1 1 0 0 0 2 2 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0397187663847 0.374313142838 0.207928276765 0.0 0.0 0.0 0.0 0.0982531823932 0.0 0.0987917706075 0.46657036767 0.0 0.0 0.0 0.0876497055447 0.0 0.0 0.0 0.286562225105 0.0 0.0319567401052 0.0 0.0940795884403 0.0 0.0 0.202083573393 0.211585122716 0.0 0.0 0.0 0.470435979016 0.142955256074 0.0 0.0 0.222473687222 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.097986049681 0.384305089165 0.302926401115 0.384305089165 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+According to the barrister of Doctor Richard Batista that the Doctor is saying the returning of his kidney but infect he wants to return the money of that kidney.
+according to the barrister of doctor richard batista that the doctor is saying the returning of his kidney but infect he wants to return the money of that kidney
+1 2 0 1 0 0 0 1 1 0 1 2 0 0 0 1 1 0 0 0 0 4 0 3 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 0 0 1 2 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.112520527543 0.0739590822335 0.0 0.193588395609 0.0 0.0 0.0 0.225779172792 0.0457385504244 0.0 0.0919785450484 0.434393100934 0.0 0.0 0.0 0.0816048982658 0.173418271611 0.0 0.0 0.0 0.0 0.0595056539891 0.0 0.0875913409616 0.0 0.0 0.188146775228 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0840604110527 0.0 0.0 0.0 0.0912283910823 0.0 0.0 0.0 0.319918107544 0.406041450877 0.163498200148 0.25626891132 0.333899662996 0.1854836253 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3u16uhguaktzs
+According to Dr. Richard Batista's lawyer, he is asking for his kidney back, but in reality is looking for monetary compensation for his kidney.
+according to dr richard batistas lawyer he is asking for his kidney back but in reality is looking for monetary compensation for his kidney
+1 1 1 1 1 0 0 0 2 0 2 2 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 3 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.210551142846 0.233919311361 0.332430922277 0.0 0.0 0.0 0.110534830192 0.0 0.222281483867 0.524891663629 0.206303641249 0.0425351984906 0.234637719962 0.0986059187378 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.311911068731 0.295016689227 0.0 0.264620238196 0.241236994626 0.0 0.0 0.250282898124 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.110234305891 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.266914395579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2vjscdqr23qkd
+According to Dr. Richard Batista's lawyer, though Dr. Batista is not demanding his kidney back, he wants monetary compensation for the kidney.
+according to dr richard batistas lawyer though dr batista is not demanding his kidney back he wants monetary compensation for the kidney
+1 1 2 1 1 0 0 1 1 1 1 2 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.148322513579 0.0487457587448 0.459384311665 0.255184703302 0.362651915211 0.0 0.0 0.297618000498 0.0602917255595 0.390203542646 0.121244445746 0.572609087595 0.225058517726 0.0 0.0 0.107570093168 0.228596812579 0.0 0.0 0.0 0.0 0.0196098177919 0.0 0.0 0.0 0.0 0.0 0.0 0.340266620434 0.321836388248 0.0 0.0 0.0877225435003 0.0 0.0 0.273035888863 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.255184703302 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0973849408288 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ancf53mqwds6z
+According to Dr. Richard Batista's lawyer, though Dr. Batista is demanding his kidney back, but he actually wants a monetary compensation for the kidney.
+according to dr richard batistas lawyer though dr batista is demanding his kidney back but he actually wants a monetary compensation for the kidney
+1 1 2 1 1 0 0 1 1 1 1 2 1 0 0 1 1 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.421102285693 0.233919311361 0.332430922277 0.0 0.0 0.272816500457 0.0552674150962 0.357686580759 0.111140741933 0.524891663629 0.206303641249 0.0 0.0 0.0986059187378 0.209547078197 0.0595667582727 0.0 0.0 0.0 0.0179756663092 0.0 0.0 0.0 0.0 0.0 0.238033263056 0.311911068731 0.295016689227 0.0 0.0 0.0804123315419 0.0 0.0 0.250282898124 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.233919311361 0.110234305891 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+According to Dr. Richard Batista's lawyer, though the doctor has demanded his kidney back,he actually wants monetary compensation for the kidney.
+according to dr richard batistas lawyer though the doctor has demanded his kidney backhe actually wants monetary compensation for the kidney
+1 1 1 1 1 0 0 0 0 0 1 2 0 0 0 0 1 0 0 0 0 2 0 0 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.155385490416 0.0510669853517 0.240629877539 0.267336355841 0.379921054031 0.0 0.0 0.0 0.0 0.0 0.127017990781 0.599876187004 0.0 0.0 0.0 0.0 0.239482375082 0.0 0.0 0.0 0.0 0.0410872372782 0.0 0.0 0.0 0.0 0.0 0.272038014921 0.356469792836 0.337161930545 0.0 0.0 0.0918998074765 0.0 0.0 0.286037597856 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.267336355841 0.0 0.0 0.0 0.0 0.0 0.280361954177 0.0 0.0 0.0 0.0 0.0 0.0 0.0975251388429 0.289798950776 0.494106543212 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3andctf0w1pqd
+According to Dr. Richard Batistant's lawyer, Batistant is asking for the return or payment of his kidney.
+according to dr richard batistants lawyer batistant is asking for the return or payment of his kidney
+1 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+0.191946782279 0.063082746611 0.297248672254 0.330239027803 0.0 0.0 0.0 0.0 0.0780245860182 0.0 0.156904576847 0.370511762561 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.455128239873 0.0 0.02537741126 0.0 0.049806840939 0.0 0.0 0.320956263625 0.0 0.0 0.0 0.0 0.373581512748 0.113523291589 0.0 0.0 0.353340562058 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.610366906321 0.495901603435 0.189003824506 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+According to lawyer of Dr. Richard Batistan, Dr. Richard is asking for the return of kidney but actually he is asking for the payment of his kidney.
+according to lawyer of dr richard batistan dr richard is asking for the return of kidney but actually he is asking for the payment of his kidney
+1 1 2 2 0 0 0 0 2 0 1 2 0 0 0 1 0 0 0 1 0 2 0 3 0 0 1 1 0 0 0 2 2 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.120855381435 0.0397187663847 0.374313142838 0.41585655353 0.0 0.0 0.0 0.0 0.0982531823932 0.0 0.0987917706075 0.46657036767 0.0 0.0 0.0 0.0876497055447 0.0 0.0 0.0 0.286562225105 0.0 0.0319567401052 0.0 0.0940795884403 0.0 0.0 0.202083573393 0.211585122716 0.0 0.0 0.0 0.470435979016 0.142955256074 0.0 0.0 0.222473687222 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.097986049681 0.0 0.302926401115 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+According to a lawyer for Dr. Richard Batistan, he is asking for the return of the kidney, but actually he is asking for payment for his kidney.
+according to a lawyer for dr richard batistan he is asking for the return of the kidney but actually he is asking for payment for his kidney
+1 1 1 1 0 0 0 0 2 0 1 2 0 0 0 2 0 1 0 1 0 2 0 1 0 0 1 1 0 0 0 2 4 0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.120855381435 0.0397187663847 0.187156571419 0.207928276765 0.0 0.0 0.0 0.0 0.0982531823932 0.0 0.0987917706075 0.46657036767 0.0 0.0 0.0 0.175299411089 0.0 0.0529482295757 0.0 0.286562225105 0.0 0.0319567401052 0.0 0.0313598628134 0.0 0.0 0.202083573393 0.211585122716 0.0 0.0 0.0 0.470435979016 0.285910512149 0.0 0.0 0.222473687222 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.097986049681 0.0 0.302926401115 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1e4smxrh1paux
+According to the statement of Doctor Richard Batista, he is asking for his kidney back, and in fact he wants to return the money for that kidney.
+according to the statement of doctor richard batista he is asking for his kidney back and in fact he wants to return the money for that kidney
+1 2 0 1 0 0 0 1 1 0 1 2 1 1 0 2 1 0 0 0 0 2 0 1 0 0 1 0 0 0 0 1 2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.120855381435 0.0794375327694 0.0 0.207928276765 0.0 0.0 0.0 0.242503555962 0.0491265911966 0.0 0.0987917706075 0.46657036767 0.183381014443 0.037809065325 0.0 0.175299411089 0.186264069509 0.0 0.0 0.0 0.0 0.0319567401052 0.0 0.0313598628134 0.0 0.0 0.202083573393 0.0 0.0 0.0 0.0 0.235217989508 0.142955256074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0451435540839 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.218059297693 0.0 0.0 0.0 0.199223153099 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.189776443682 0.0370606246892 0.201814211937 0.0 0.0 0.0
+a3edprdq0s0hp3
+According to the barrister of Doctor Richard Batista, the Doctor is saying the returning of his kidney but infect he wants to return the money of that kidney.
+according to the barrister of doctor richard batista the doctor is saying the returning of his kidney but infect he wants to return the money of that kidney
+1 2 0 1 0 0 0 1 1 0 1 2 0 0 0 1 1 0 0 0 0 4 0 3 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 2 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.0 0.20050226688 0.0 0.0 0.0 0.233842714677 0.0473720700825 0.0 0.0952634930858 0.449907140253 0.0 0.0 0.0 0.0845193589181 0.179611781312 0.0 0.0 0.0 0.0 0.0616308559173 0.0 0.0907196031388 0.0 0.0 0.194866302915 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0435312842952 0.0 0.0 0.0 0.0944865479066 0.0 0.0 0.0 0.331343754242 0.420542931266 0.169337421581 0.265421372439 0.34582465096 0.192108040489 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1c0lbe9vl3ax
+According to the barrister of Doctor Richard Batista the returning of his kidney is possible, but due to possible infection he wants to return the money of that kidney.
+according to the barrister of doctor richard batista the returning of his kidney is possible but due to possible infection he wants to return the money of that kidney
+1 3 0 1 0 0 0 1 1 0 1 2 0 0 0 1 1 0 0 0 0 3 0 3 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 2 1 1
+0.112520527543 0.11093862335 0.0 0.193588395609 0.0 0.0 0.0 0.225779172792 0.0457385504244 0.0 0.0919785450484 0.434393100934 0.0 0.0 0.0 0.0816048982658 0.173418271611 0.0 0.0 0.0 0.0 0.0446292404918 0.0 0.0875913409616 0.0 0.0 0.188146775228 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0420302055264 0.0 0.0 0.0 0.0912283910823 0.0 0.0 0.0 0.319918107544 0.203020725439 0.0 0.25626891132 0.0 0.1854836253 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.33263984983 0.149434640475 0.260104278048
+amd40d0gc1l4r
+According to Dr. Richard Batista's lawyer, he is asking for his kidney back, but in reality is looking for monetary compensation for his kidney.
+according to dr richard batistas lawyer he is asking for his kidney back but in reality is looking for monetary compensation for his kidney
+1 1 1 1 1 0 0 0 2 0 2 2 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 3 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.210551142846 0.233919311361 0.332430922277 0.0 0.0 0.0 0.110534830192 0.0 0.222281483867 0.524891663629 0.206303641249 0.0425351984906 0.234637719962 0.0986059187378 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.311911068731 0.295016689227 0.0 0.264620238196 0.241236994626 0.0 0.0 0.250282898124 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.110234305891 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.266914395579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

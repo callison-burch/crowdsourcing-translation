@@ -1,0 +1,88 @@
+bbc_urd_20090107.0021__8
+however the government continued to deny this nonetheless kept on denying had been it pakistani but has continuously denied all of that these claims governments refused comment
+However, the government continued to deny this.
+however the government continued to deny this
+1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.619426099453 0.0616308559173 0.430876204923 0.783698325604 0.153200956055 1.15337890207 0.247462195596 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Nonetheless, the government kept on denying this.
+nonetheless the government kept on denying this
+0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.247462195596 1.25239992786 0.810822434522 0.266926953552 1.08623552646 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, the government had been denying it.
+however the government had been denying it
+1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.619426099453 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.08623552646 0.489482993207 0.415063376179 0.291269834708 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, the Pakistani government kept denying it.
+however the pakistani government kept denying it
+1 1 1 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.619426099453 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.0 0.0 0.810822434522 0.0 1.08623552646 0.0 0.0 0.291269834708 0.51905096738 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+But government has continuously denied this.
+but government has continuously denied this
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.502688905743 0.0 0.0 0.0 0.288705894862 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.440937223564 0.34133798595 1.06454222681 1.04422725721 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+however the government had been denying it.
+however the government had been denying it
+1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.619426099453 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.08623552646 0.489482993207 0.415063376179 0.291269834708 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+all government kept deny of that.
+all government kept deny of that
+0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+0.0 0.0 0.502688905743 0.0 0.0 1.34560871908 0.0 0.0 0.945959506943 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.527569825663 0.14111938266 0.203145993377 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+awmob8jnvgesj
+But government has continuously denied this.
+but government has continuously denied this
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.502688905743 0.0 0.0 0.0 0.288705894862 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.440937223564 0.34133798595 1.06454222681 1.04422725721 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a363eba76te7vz
+But government has continued to denied this.
+but government has continued to denied this
+0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.430876204923 0.783698325604 0.153200956055 0.0 0.247462195596 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.377946191627 0.292575416529 0.0 0.895051934754 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+But government has continuously denied this.
+but government has continuously denied this
+0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.502688905743 0.0 0.0 0.0 0.288705894862 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.440937223564 0.34133798595 1.06454222681 1.04422725721 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1nee8mf6oybf8
+However, the government had been denying it.
+however the government had been denying it
+1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.619426099453 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.08623552646 0.489482993207 0.415063376179 0.291269834708 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+However, the government had been denying these claims.
+however the government had been denying these claims
+1 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+0.541997837022 0.0539269989276 0.377016679308 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.950456085651 0.428297619056 0.363180454157 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.38221223236 0.729117828147 0.0 0.0 0.0
+a330jjzgjl7ig2
+However, the government had been denying it.
+however the government had been denying it
+1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.619426099453 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.08623552646 0.489482993207 0.415063376179 0.291269834708 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2vjscdqr23qkd
+The government kept denying it.
+the government kept denying it
+0 1 1 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0862831982842 0.603226686892 0.0 0.0 0.0 0.0 0.0 1.13515140833 0.0 1.52072973704 0.0 0.0 0.407777768591 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2d2264qc2ln18
+All government deny that.
+all government deny that
+0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0
+0.0 0.0 0.754033358615 0.0 0.0 2.01841307861 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.791354738494 0.0 0.304718990066 0.0 0.0 0.0 0.0 0.0
+a3fk32fvhmy8mz
+All governments kept denying it.
+all governments kept denying it
+0 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.13515140833 0.0 1.52072973704 0.0 0.0 0.407777768591 0.0 0.0 0.0 0.0 0.0 0.633083790796 0.0 0.0 0.0 0.0 1.11119116837 0.0 0.0
+a2f69lkq5jcvdg
+However, the government had been refused comment.
+however the government had been refused comment
+1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+0.619426099453 0.0616308559173 0.430876204923 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.489482993207 0.415063376179 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.912464765841 1.0062904139

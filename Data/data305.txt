@@ -1,0 +1,88 @@
+bbc_urd_20090125.0020__3
+this center includes hospitals schools and student hostels has a hospital school for the students hostel it also central
+This Center includes hospitals, schools and student hostels.
+this center includes hospitals schools and student hostels
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.216529421146 0.64791006957 0.849089808624 0.859966230748 0.632878928551 0.125079608326 0.849089808624 1.03709948322 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+This center has a hospital, a school and hostels for the students.
+this center has a hospital a school and hostels for the students
+1 1 0 0 0 1 0 1 1 2 1 1 1 1 1 0 0 0 0
+0.144352947431 0.43194004638 0.0 0.0 0.0 0.0833864055507 0.0 0.691399655481 0.170668992975 0.238267033091 0.463671087673 0.472225600511 0.160824663084 0.0359513326184 0.497459846682 0.0 0.0 0.0 0.0
+This Center includes a hospital, a school and a hostel for students.
+this center includes a hospital a school and a hostel for students
+1 1 1 0 0 1 0 0 0 3 1 1 1 0 1 1 0 0 0
+0.144352947431 0.43194004638 0.566059872416 0.0 0.0 0.0833864055507 0.0 0.0 0.0 0.357400549636 0.463671087673 0.472225600511 0.160824663084 0.0 0.497459846682 0.672804359538 0.0 0.0 0.0
+It has a hospital, school and hostel for students.
+it has a hospital school and hostel for students
+0 0 0 0 0 1 0 0 1 1 1 1 1 0 1 1 1 0 0
+0.0 0.0 0.0 0.0 0.0 0.111181874068 0.0 0.0 0.2275586573 0.158844688727 0.618228116897 0.629634134015 0.214432884112 0.0 0.663279795576 0.897072479384 0.226543204773 0.0 0.0
+a1wyssw33m2fz2
+This center has hospital, school and also hostel for students.
+this center has hospital school and also hostel for students
+1 1 0 0 0 1 0 0 1 0 1 1 1 0 1 1 0 1 0
+0.173223536917 0.518328055656 0.0 0.0 0.0 0.100063686661 0.0 0.0 0.20480279157 0.0 0.556405305208 0.566670720614 0.192989595701 0.0 0.596951816019 0.807365231446 0.0 0.279911547657 0.0
+a143bvgouf83je
+the center includes hospital, schools and student hostels.
+the center includes hospital schools and student hostels
+0 1 1 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0
+0.0 0.64791006957 0.849089808624 0.0 0.632878928551 0.125079608326 0.849089808624 1.03709948322 0.0 0.0 0.69550663151 0.0 0.0 0.0539269989276 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+This center includes a hospital, a school and a hostel for students.
+this center includes a hospital a school and a hostel for students
+1 1 1 0 0 1 0 0 0 3 1 1 1 0 1 1 0 0 0
+0.144352947431 0.43194004638 0.566059872416 0.0 0.0 0.0833864055507 0.0 0.0 0.0 0.357400549636 0.463671087673 0.472225600511 0.160824663084 0.0 0.497459846682 0.672804359538 0.0 0.0 0.0
+alrghxunh1uv7
+This central has hospitals, schools and hostels for students
+this central has hospitals schools and hostels for students
+1 0 0 1 1 1 0 1 1 0 0 0 1 0 1 0 0 0 1
+0.192470596574 0.0 0.0 0.764414427331 0.562559047601 0.111181874068 0.0 0.921866207308 0.2275586573 0.0 0.0 0.0 0.214432884112 0.0 0.663279795576 0.0 0.0 0.0 0.716045752747
+a3lhs82826iskx
+This center has a hospital, a school and also a hostel for students.
+this center has a hospital a school and also a hostel for students
+1 1 0 0 0 1 0 0 1 3 1 1 1 0 1 1 0 1 0
+0.133248874552 0.398713888966 0.0 0.0 0.0 0.0769720666622 0.0 0.0 0.1575406089 0.329908199664 0.428004080929 0.435900554318 0.148453535154 0.0 0.45919370463 0.621050178035 0.0 0.215316575121 0.0
+amjejkgf6r4hk
+This center has a hospital, a school and a hostel for students.
+this center has a hospital a school and a hostel for students
+1 1 0 0 0 1 0 0 1 3 1 1 1 0 1 1 0 0 0
+0.144352947431 0.43194004638 0.0 0.0 0.0 0.0833864055507 0.0 0.0 0.170668992975 0.357400549636 0.463671087673 0.472225600511 0.160824663084 0.0 0.497459846682 0.672804359538 0.0 0.0 0.0
+a6tw9zegog7ph
+This center has a hospital, a school and also a hostel for students.
+this center has a hospital a school and also a hostel for students
+1 1 0 0 0 1 0 0 1 3 1 1 1 0 1 1 0 1 0
+0.133248874552 0.398713888966 0.0 0.0 0.0 0.0769720666622 0.0 0.0 0.1575406089 0.329908199664 0.428004080929 0.435900554318 0.148453535154 0.0 0.45919370463 0.621050178035 0.0 0.215316575121 0.0
+al9ouse16p4du
+the center includes hospital, schools and student hostels.
+the center includes hospital schools and student hostels
+0 1 1 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0
+0.0 0.64791006957 0.849089808624 0.0 0.632878928551 0.125079608326 0.849089808624 1.03709948322 0.0 0.0 0.69550663151 0.0 0.0 0.0539269989276 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+The center includes hospital, schools and student hostels.
+the center includes hospital schools and student hostels
+0 1 1 0 1 1 1 1 0 0 1 0 0 1 0 0 0 0 0
+0.0 0.64791006957 0.849089808624 0.0 0.632878928551 0.125079608326 0.849089808624 1.03709948322 0.0 0.0 0.69550663151 0.0 0.0 0.0539269989276 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+The center includes a hospital, schools and student hostels.
+the center includes a hospital schools and student hostels
+0 1 1 0 1 1 1 1 0 1 1 0 0 1 0 0 0 0 0
+0.0 0.57592006184 0.754746496555 0.0 0.562559047601 0.111181874068 0.754746496555 0.921866207308 0.0 0.158844688727 0.618228116897 0.0 0.0 0.0479351101579 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+This center includes a hospital, a school, and a hostel for students.
+this center includes a hospital a school and a hostel for students
+1 1 1 0 0 1 0 0 0 3 1 1 1 0 1 1 0 0 0
+0.144352947431 0.43194004638 0.566059872416 0.0 0.0 0.0833864055507 0.0 0.0 0.0 0.357400549636 0.463671087673 0.472225600511 0.160824663084 0.0 0.497459846682 0.672804359538 0.0 0.0 0.0
+awmob8jnvgesj
+This center includes a hospital, a school and a hostel for students.
+this center includes a hospital a school and a hostel for students
+1 1 1 0 0 1 0 0 0 3 1 1 1 0 1 1 0 0 0
+0.144352947431 0.43194004638 0.566059872416 0.0 0.0 0.0833864055507 0.0 0.0 0.0 0.357400549636 0.463671087673 0.472225600511 0.160824663084 0.0 0.497459846682 0.672804359538 0.0 0.0 0.0
+a6tw9zegog7ph
+This center includes a hospital, a school and a hostel for students.
+this center includes a hospital a school and a hostel for students
+1 1 1 0 0 1 0 0 0 3 1 1 1 0 1 1 0 0 0
+0.144352947431 0.43194004638 0.566059872416 0.0 0.0 0.0833864055507 0.0 0.0 0.0 0.357400549636 0.463671087673 0.472225600511 0.160824663084 0.0 0.497459846682 0.672804359538 0.0 0.0 0.0
+a3ohqrf1mdq99b
+This center has hospitals, schools and hostels for students.
+this center has hospitals schools and hostels for students
+1 1 0 1 1 1 0 1 1 0 0 0 1 0 1 0 0 0 0
+0.192470596574 0.57592006184 0.0 0.764414427331 0.562559047601 0.111181874068 0.0 0.921866207308 0.2275586573 0.0 0.0 0.0 0.214432884112 0.0 0.663279795576 0.0 0.0 0.0 0.0

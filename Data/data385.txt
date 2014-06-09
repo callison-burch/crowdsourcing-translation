@@ -1,0 +1,88 @@
+bbc_urd_20090131.0009__7
+however after losing in the senate elections he was made chairman of partys political conservative committee appointed party but loss his defeat served as gopac a action loosing one interference from sant has been elected charman polatical conservanto voting for seat became given chairmanship politically conservation conservant race republican senatorial election polls recent years chemical and herbal health supplements have greatly increased popularity an important these is human growth hormone commonly known hgh
+However, after losing in the Senate elections, he was made chairman of the party's political Conservative Committee.
+however after losing in the senate elections he was made chairman of the partys political conservative committee
+1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.255057805657 0.174821075848 0.459487532352 0.0600496919867 0.0507548225201 0.319682057932 0.292562354446 0.139208355865 0.128304689209 0.231581590374 0.315232798273 0.049806840939 0.428540879652 0.223844379124 0.421021269564 0.290993634029 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, after losing in the elections, he was appointed chairman of the Political Conservative Committee of the party.
+however after losing in the elections he was appointed chairman of the political conservative committee of the party
+1 1 1 1 3 0 1 1 1 0 1 2 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.240887927565 0.165108793856 0.433960447222 0.0567135979875 0.0719026652368 0.0 0.27630889031 0.131474558317 0.12117665092 0.0 0.297719865035 0.0940795884403 0.0 0.211408580284 0.397631199032 0.274827321028 0.319514699676 0.218627270379 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+But after the loss of the Senate elections he was made Chairman of the Party's Political Conservative Committee.
+but after the loss of the senate elections he was made chairman of the partys political conservative committee
+0 1 0 0 3 1 1 1 1 1 1 2 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.165108793856 0.0 0.0 0.0719026652368 0.301921943602 0.27630889031 0.131474558317 0.12117665092 0.218715946464 0.297719865035 0.0940795884403 0.404733053005 0.211408580284 0.397631199032 0.274827321028 0.0 0.0 0.146979074521 0.313335497725 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After his senate defeat, he served as the chairman of GOPAC, a conservative political action committee.
+after his senate defeat he served as the chairman of gopac a conservative political action committee
+0 1 0 0 1 1 0 1 0 0 1 1 0 1 1 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.185747393088 0.0 0.0 0.0269634994638 0.339662186553 0.0 0.147908878107 0.0 0.0 0.334934848165 0.0529197684977 0.0 0.237834652819 0.447335098911 0.309180736156 0.0 0.0 0.0 0.0 0.1667111129 0.360691701341 0.52689545365 0.165516366584 0.648514837966 0.089350137409 0.262263797112 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+But after loosing in the senate elections he was appointed as the chairman of one political conservative committee of the party.
+but after loosing in the senate elections he was appointed as the chairman of one political conservative committee of the party
+0 1 0 1 3 1 1 1 1 0 1 2 0 1 1 1 1 1 1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.141521823305 0.0 0.0486116554178 0.0616308559173 0.258790237373 0.236836191694 0.112692478557 0.103865700788 0.0 0.255188455745 0.0806396472345 0.0 0.181207354529 0.340826742028 0.235566275166 0.273869742579 0.187394803182 0.125982063876 0.0 0.0 0.0 0.0 0.126107707874 0.0 0.0 0.0 0.461099534614 0.138872506724 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+az9utcfpk0ude
+but after the interference from sant he has been elected as charman of polatical conservanto committee.
+but after the interference from sant he has been elected as charman of polatical conservanto committee
+0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.185747393088 0.0 0.0 0.0269634994638 0.0 0.0 0.147908878107 0.0 0.0 0.0 0.0529197684977 0.0 0.0 0.0 0.309180736156 0.0 0.0 0.165351458837 0.0 0.0 0.0 0.0 0.165516366584 0.0 0.0 0.0 0.0 0.0 0.471439003962 0.148409214334 0.536529871139 0.128001744731 0.181590227078 0.304178066926 0.648514837966 0.648514837966 0.648514837966 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+But after losing in the voting for the senate seat, he became the chairman of the Political Conservative Committee of the party.
+but after losing in the voting for the senate seat he became the chairman of the political conservative committee of the party
+0 1 1 1 5 1 0 1 0 0 1 2 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.135089013155 0.355058547727 0.046402034717 0.0980490889593 0.247027044765 0.0 0.107570093168 0.0 0.0 0.243588980483 0.0769742087239 0.0 0.172970656596 0.32533461739 0.224858717204 0.0 0.178876857583 0.120255606427 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.421710232672 0.0877225435003 0.323551857701 0.243288949391 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a28e6z78qj2yz6
+But after losing in the Senate elections ,He was given the Chairmanship of party's political conservative committee.
+but after losing in the senate elections he was given the chairmanship of partys political conservative committee
+0 1 1 1 2 1 1 1 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.174821075848 0.459487532352 0.0600496919867 0.0507548225201 0.319682057932 0.292562354446 0.139208355865 0.128304689209 0.0 0.0 0.049806840939 0.428540879652 0.223844379124 0.421021269564 0.290993634029 0.0 0.0 0.155624902434 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.256475308691 0.443707297847 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+But after losing in the senate elections he was appointed as the chairman of one politically conservative party committee.
+but after losing in the senate elections he was appointed as the chairman of one politically conservative party committee
+0 1 1 1 2 1 1 1 1 0 1 1 0 0 1 1 1 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.156418857338 0.411120423684 0.0537286717776 0.0454122096232 0.286031314992 0.261766317136 0.124554844721 0.11479893245 0.0 0.282050398454 0.044564015577 0.0 0.0 0.376703241189 0.260362725184 0.302698136535 0.207120571938 0.139243333757 0.0 0.0 0.0 0.0 0.139382203439 0.0 0.0 0.0 0.0 0.153490665327 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.443701434652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+But after losing in the senate elections he was appointed as the chairman of one political conservative committee of the party.
+but after losing in the senate elections he was appointed as the chairman of one political conservative committee of the party
+0 1 1 1 3 1 1 1 1 0 1 2 0 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.141521823305 0.371966097618 0.0486116554178 0.0616308559173 0.258790237373 0.236836191694 0.112692478557 0.103865700788 0.0 0.255188455745 0.0806396472345 0.0 0.181207354529 0.340826742028 0.235566275166 0.273869742579 0.187394803182 0.125982063876 0.0 0.0 0.0 0.0 0.126107707874 0.0 0.0 0.0 0.0 0.138872506724 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2scjh3oqhuw2a
+But after losing in the Senate elections, he was appointed as the chairman of one political conservative committee of the party.
+but after losing in the senate elections he was appointed as the chairman of one political conservative committee of the party
+0 1 1 1 3 1 1 1 1 0 1 2 0 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.141521823305 0.371966097618 0.0486116554178 0.0616308559173 0.258790237373 0.236836191694 0.112692478557 0.103865700788 0.0 0.255188455745 0.0806396472345 0.0 0.181207354529 0.340826742028 0.235566275166 0.273869742579 0.187394803182 0.125982063876 0.0 0.0 0.0 0.0 0.126107707874 0.0 0.0 0.0 0.0 0.138872506724 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+but after the interference from senate he has been elected as chairman of political conservation committee.
+but after the interference from senate he has been elected as chairman of political conservation committee
+0 1 0 0 1 1 0 1 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.185747393088 0.0 0.0 0.0269634994638 0.339662186553 0.0 0.147908878107 0.0 0.0 0.334934848165 0.0529197684977 0.0 0.237834652819 0.0 0.309180736156 0.0 0.0 0.165351458837 0.0 0.0 0.0 0.0 0.165516366584 0.0 0.0 0.0 0.0 0.0 0.471439003962 0.148409214334 0.0 0.128001744731 0.181590227078 0.304178066926 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.648514837966 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+But after the interference from Sant, he has been elected as chairman of Political conservant committee.
+but after the interference from sant he has been elected as chairman of political conservant committee
+0 1 0 0 1 0 0 1 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.185747393088 0.0 0.0 0.0269634994638 0.0 0.0 0.147908878107 0.0 0.0 0.334934848165 0.0529197684977 0.0 0.237834652819 0.0 0.309180736156 0.0 0.0 0.165351458837 0.0 0.0 0.0 0.0 0.165516366584 0.0 0.0 0.0 0.0 0.0 0.471439003962 0.148409214334 0.536529871139 0.128001744731 0.181590227078 0.304178066926 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.648514837966 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+But after the interference from Sant he has been elected as chairman of the political conservative committee.
+but after the interference from sant he has been elected as chairman of the political conservative committee
+0 1 0 0 2 0 0 1 0 0 1 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.174821075848 0.0 0.0 0.0507548225201 0.0 0.0 0.139208355865 0.0 0.0 0.315232798273 0.049806840939 0.0 0.223844379124 0.421021269564 0.290993634029 0.0 0.0 0.155624902434 0.0 0.0 0.0 0.0 0.155780109726 0.0 0.0 0.0 0.0 0.0 0.443707297847 0.13967926055 0.504969290484 0.120472230335 0.170908449015 0.28628523946 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2mrhza4l9w9cl
+But after losing in the race for the senate seat, he became the chairman of the Political Conservative Committee of the Republican party.
+but after losing in the race for the senate seat he became the chairman of the political conservative committee of the republican party
+0 1 1 1 5 1 0 1 0 0 1 2 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.129215577801 0.339621219565 0.0443845549467 0.0937860850915 0.236286738471 0.0 0.102893132596 0.0 0.0 0.232998155245 0.0736275039967 0.0 0.165450193266 0.311189634025 0.215082251239 0.0 0.171099602905 0.115027101799 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0839085198698 0.309484385627 0.232711168983 0.0 0.0 0.0 0.0 0.0 0.307843501802 0.232711168983 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1kf7gs7yulm10
+After losing the Senatorial election, he became the chairman of the Political Conservative Committee of the party.
+after losing the senatorial election he became the chairman of the political conservative committee of the party
+0 1 1 0 4 0 0 1 0 0 1 2 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.174821075848 0.459487532352 0.0 0.10150964504 0.0 0.0 0.139208355865 0.0 0.0 0.315232798273 0.0996136818779 0.0 0.223844379124 0.421021269564 0.290993634029 0.0 0.231487698048 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.314844522741 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.569593542758 0.307916108879 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+After losing in the polls for the senate seat, he became the chairman of the Political Conservative Committee.
+after losing in the polls for the senate seat he became the chairman of the political conservative committee
+0 1 1 1 4 1 0 1 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.165108793856 0.433960447222 0.0567135979875 0.0958702203157 0.301921943602 0.0 0.131474558317 0.0 0.0 0.297719865035 0.0470397942201 0.0 0.211408580284 0.397631199032 0.274827321028 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.107216442056 0.395452270524 0.297353160367 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.537949457049 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+In recent years, chemical and herbal health supplements have greatly increased in popularity. An important one of these is human growth hormone, commonly known as HGH.
+in recent years chemical and herbal health supplements have greatly increased in popularity an important one of these is human growth hormone commonly known as hgh
+0 0 0 2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+0.0 0.0 0.0 0.0785265202904 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0325660113832 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.10185622559 0.0 0.0 0.0 0.0 0.112166255431 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.212771166192 0.157031466485 0.252675958372 0.0384860333311 0.255329530353 0.217605328314 0.255329530353 0.0880111481849 0.239734718502 0.188776048704 0.233545089009 0.112836334025 0.18022607512 0.117603763803 0.0510160754734 0.171230061924 0.254424511221 0.255329530353 0.257206075128 0.198095797451 0.256256359259

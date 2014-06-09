@@ -1,0 +1,88 @@
+urd-wl-79-174263-11378012-post11__13
+the snow will disappear ice be vanished vanish till it disappears melt
+The snow will disappear.
+the snow will disappear
+1 1 1 1 0 0 0 0 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 1.88575601585 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The snow will disappear.
+the snow will disappear
+1 1 1 1 0 0 0 0 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 1.88575601585 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The snow will disappear.
+the snow will disappear
+1 1 1 1 0 0 0 0 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 1.88575601585 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Ice will be vanished.
+ice will be vanished
+0 0 1 0 1 1 1 0 0 0 0 0
+0.0 0.0 0.55680338485 0.0 2.19169987375 0.540849455693 2.01841307861 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+ice will disappear.
+ice will disappear
+0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.742404513133 2.51434135446 2.92226649834 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+the snow will vanish.
+the snow will vanish
+1 1 1 0 0 0 0 1 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 0.0 0.0 0.0 0.0 1.97283268942 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Snow till disappear
+snow till disappear
+0 1 0 1 0 0 0 0 1 0 0 0
+0.0 2.51434135446 0.0 2.51434135446 0.0 0.0 0.0 0.0 1.84401677366 0.0 0.0 0.0
+a1aczgd5azz3r7
+Snow will disappear.
+snow will disappear
+0 1 1 1 0 0 0 0 0 0 0 0
+0.0 2.51434135446 0.742404513133 2.51434135446 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+Ice will disappear.
+ice will disappear
+0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.742404513133 2.51434135446 2.92226649834 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3andctf0w1pqd
+Ice will disappear.
+ice will disappear
+0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.742404513133 2.51434135446 2.92226649834 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31ikb373dzonk
+Ice will disappear.
+ice will disappear
+0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.742404513133 2.51434135446 2.92226649834 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+The snow will vanish.
+the snow will vanish
+1 1 1 0 0 0 0 1 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 0.0 0.0 0.0 0.0 1.97283268942 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+The snow will vanish.
+the snow will vanish
+1 1 1 0 0 0 0 1 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 0.0 0.0 0.0 0.0 1.97283268942 0.0 0.0 0.0 0.0
+a3l62wt9zlhu7v
+The snow will vanish.
+the snow will vanish
+1 1 1 0 0 0 0 1 0 0 0 0
+0.107853997855 1.88575601585 0.55680338485 0.0 0.0 0.0 0.0 1.97283268942 0.0 0.0 0.0 0.0
+a3of46tb7y6sbp
+It will snow till it disappears.
+it will snow till it disappears
+0 1 1 0 0 0 0 0 1 2 1 0
+0.0 1.25717067723 0.371202256566 0.0 0.0 0.0 0.0 0.0 0.922008386832 0.679629614318 1.72937290124 0.0
+a291u81kgj6l9n
+Snow till disappear
+snow till disappear
+0 1 0 1 0 0 0 0 1 0 0 0
+0.0 2.51434135446 0.0 2.51434135446 0.0 0.0 0.0 0.0 1.84401677366 0.0 0.0 0.0
+air4uqnpimfcj
+Snow till disappear
+snow till disappear
+0 1 0 1 0 0 0 0 1 0 0 0
+0.0 2.51434135446 0.0 2.51434135446 0.0 0.0 0.0 0.0 1.84401677366 0.0 0.0 0.0
+a1aklmhymfgmc2
+The snow will melt.
+the snow will melt
+1 1 1 0 0 0 0 0 0 0 0 1
+0.107853997855 1.88575601585 0.55680338485 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.19169987375

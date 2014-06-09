@@ -1,0 +1,88 @@
+bbc_urd_20090130.0002__1
+bitterness between israeli president and turkish prime minister tension bitter exchange of heated words israel turk has in among summarize the turkey are
+Bitterness between Israeli President and Turkish Prime Minister
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Tension Between Israeli President and Turkish Prime Minister
+tension between israeli president and turkish prime minister
+0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.803124211109 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Bitter Exchange Between Israeli President and Turkish Prime Minister
+bitter exchange between israeli president and turkish prime minister
+0 1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.438501992157 0.436547949434 0.313952907149 0.111181874068 0.867920894443 0.459334904666 0.398961084716 0.0 0.886482459406 0.761097431426 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Exchange of heated words between Turkish prime minister and Israeli president
+exchange of heated words between turkish prime minister and israeli president
+0 1 1 1 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.358774357219 0.357175594992 0.256870560395 0.0909669878735 0.710117095453 0.375819467454 0.326422705677 0.0 0.0 0.622716080258 0.0769742087239 0.880280929717 0.504356697286 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+Israel President and Turk Prime Minister has bitterness in between
+israel president and turk prime minister has bitterness in between
+1 1 0 1 1 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+0.715736158258 0.394651792941 0.0 0.282557616434 0.100063686661 0.0 0.413401414199 0.359064976244 0.0 0.0 0.0 0.0 0.0 0.0 0.332698256619 0.927762511878 0.20480279157 0.102084476377 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Bitterness among Israeli president and Turkish Prime Minister
+bitterness among israeli president and turkish prime minister
+1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.894670197823 0.0 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.609372399613 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Bitterness between Israeli President and Turkish Prime Minister
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alrghxunh1uv7
+President of Israel has summarize the prime minister of turkey.
+president of israel has summarize the prime minister of turkey
+0 0 0 1 0 0 1 1 0 0 0 2 0 0 1 0 1 0 0 1 1 1 0
+0.0 0.0 0.0 0.282557616434 0.0 0.0 0.413401414199 0.359064976244 0.0 0.0 0.0 0.169343259193 0.0 0.0 0.332698256619 0.0 0.20480279157 0.0 0.0 0.968309022689 0.0431415991421 0.73805051339 0.0
+a1wdewmcsp3t61
+Bitterness Between Israeli President and Turkish Prime Minister.
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+Bitterness Between Israel President and Turk Prime Minister
+bitterness between israel president and turk prime minister
+1 1 0 1 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.0 0.353197020543 0.125079608326 0.0 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.415872820774 1.15970313985 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+Israel President and Turk Prime Minister are Bitter
+israel president and turk prime minister are bitter
+0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1
+0.0 0.0 0.0 0.353197020543 0.125079608326 0.0 0.516751767749 0.448831220305 0.0 0.997292766831 0.0 0.0 0.0 0.0 0.415872820774 1.15970313985 0.0 0.0 0.0 0.0 0.0 0.0 0.26446806886
+a1gs7jkyim7v5u
+Bitterness among Israeli president and Turkish Prime Minister
+bitterness among israeli president and turkish prime minister
+1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.894670197823 0.0 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.609372399613 0.0 0.0 0.0 0.0
+a3andctf0w1pqd
+Bitterness among Israeli president and Turkish Prime Minister
+bitterness among israeli president and turkish prime minister
+1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.894670197823 0.0 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.609372399613 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Bitterness between Israeli President and Turkish Prime Minister
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2f9ej3llu44
+Bitterness between Israeli President and Turkish Prime Minister
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+Bitterness Between Israeli President and Turkish Prime Minister
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Bitterness between Israeli President and Turkish Prime Minister
+bitterness between israeli president and turkish prime minister
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.894670197823 0.493314741176 0.491116443114 0.353197020543 0.125079608326 0.976411006249 0.516751767749 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a477wg206bmm6
+The President of Israel has summarize the prime minister of Turkey.
+the president of israel has summarize the prime minister of turkey
+0 0 0 1 0 0 1 1 0 0 0 2 0 0 1 0 1 0 0 1 2 1 0
+0.0 0.0 0.0 0.256870560395 0.0 0.0 0.375819467454 0.326422705677 0.0 0.0 0.0 0.153948417448 0.0 0.0 0.302452960563 0.0 0.186184355973 0.0 0.0 0.880280929717 0.0784392711674 0.670955012172 0.0

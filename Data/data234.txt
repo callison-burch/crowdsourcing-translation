@@ -1,0 +1,88 @@
+bbc_urd_20090119.0003__9
+extraordinary steps are being taken for the oathtaking ceremony inauguration arrangements made swearingin unprecedented security measures have been extra normal oath taking unusual of ordinary preparations on way special cermony swearing in progress underway
+Extraordinary steps are being taken for the oath-taking ceremony.
+extraordinary steps are being taken for the oathtaking ceremony
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.876814528629 0.56991259281 0.235082727875 0.408800351087 0.483106543024 0.214432884112 0.0479351101579 0.908779203346 0.612936111454 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Extraordinary steps are being taken for the inauguration ceremony.
+extraordinary steps are being taken for the inauguration ceremony
+1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.876814528629 0.56991259281 0.235082727875 0.408800351087 0.483106543024 0.214432884112 0.0479351101579 0.0 0.612936111454 0.886482459406 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+extraordinary arrangements are being made for the swearing-in ceremony.
+extraordinary arrangements are being made for the swearingin ceremony
+1 0 1 1 0 1 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.876814528629 0.0 0.235082727875 0.408800351087 0.0 0.214432884112 0.0479351101579 0.0 0.612936111454 0.0 0.699855551505 0.437431892928 0.908779203346 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Unprecedented security measures have been taken for the inauguration ceremony.
+unprecedented security measures have been taken for the inauguration ceremony
+0 0 0 0 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.434795888722 0.192989595701 0.0431415991421 0.0 0.551642500309 0.797834213465 0.0 0.0 0.0 0.766818720635 0.39273480133 0.661503729176 0.228828985281 0.290544363325 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Extra normal steps are being taken for the oath taking ceremony.
+extra normal steps are being taken for the oath taking ceremony
+0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.46629212139 0.192340413716 0.334473014526 0.395268989747 0.175445087001 0.0392196355837 0.0 0.501493182099 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.566645698278 0.456331921162 0.43104070948 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Unusual steps are being taken for the ceremony of the oath taking.
+unusual steps are being taken for the ceremony of the oath taking
+0 1 1 1 1 1 2 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.427434444607 0.176312045906 0.306600263315 0.362329907268 0.160824663084 0.0719026652368 0.0 0.459702083591 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.418304261065 0.395120650357 0.681584402509 0.0705596913302 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a21xirv18up71h
+Extra ordinary preparations are on the way for the oath taking ceremony.
+extra ordinary preparations are on the way for the oath taking ceremony
+0 0 1 0 0 1 2 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.176312045906 0.0 0.0 0.160824663084 0.0719026652368 0.0 0.459702083591 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.623822137463 0.0 0.418304261065 0.395120650357 0.0 0.0 0.590033378454 0.575875125388 0.155707389572 0.367081297305 0.0 0.0 0.0 0.0 0.0 0.0
+a1is07hajk7bzr
+Special arrangements have been made for the oath taking cermony
+special arrangements have been made for the oath taking cermony
+0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.192989595701 0.0431415991421 0.0 0.0 0.0 0.629869996354 0.393688703635 0.0 0.0 0.0 0.0 0.228828985281 0.290544363325 0.0 0.0 0.501965113278 0.474144780428 0.0 0.0 0.0 0.0 0.0 0.0 0.571279831334 1.03762374074 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Extra normal steps are being taken for the oath taking ceremony.
+extra normal steps are being taken for the oath taking ceremony
+0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.46629212139 0.192340413716 0.334473014526 0.395268989747 0.175445087001 0.0392196355837 0.0 0.501493182099 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.566645698278 0.456331921162 0.43104070948 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Extra normal steps are being taken for the oath taking ceremony.
+extra normal steps are being taken for the oath taking ceremony
+0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.46629212139 0.192340413716 0.334473014526 0.395268989747 0.175445087001 0.0392196355837 0.0 0.501493182099 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.680533240869 0.566645698278 0.456331921162 0.43104070948 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Extraordinary steps are being taken for the swearing-in ceremony.
+extraordinary steps are being taken for the swearingin ceremony
+1 1 1 1 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.876814528629 0.56991259281 0.235082727875 0.408800351087 0.483106543024 0.214432884112 0.0479351101579 0.0 0.612936111454 0.0 0.0 0.0 0.908779203346 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2unp2crnrfiw8
+Unusual steps are being taken for the ceremony of the oath taking.
+unusual steps are being taken for the ceremony of the oath taking
+0 1 1 1 1 1 2 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.427434444607 0.176312045906 0.306600263315 0.362329907268 0.160824663084 0.0719026652368 0.0 0.459702083591 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.418304261065 0.395120650357 0.681584402509 0.0705596913302 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1ly3njtyw9tff
+Unusual steps are being taken for the ceremony of the oath taking.
+unusual steps are being taken for the ceremony of the oath taking
+0 1 1 1 1 1 2 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.427434444607 0.176312045906 0.306600263315 0.362329907268 0.160824663084 0.0719026652368 0.0 0.459702083591 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.418304261065 0.395120650357 0.681584402509 0.0705596913302 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Unusual steps are being taken for the swearing in ceremony.
+unusual steps are being taken for the swearing in ceremony
+0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0
+0.0 0.512921333529 0.211574455088 0.367920315978 0.434795888722 0.192989595701 0.0431415991421 0.0 0.551642500309 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.817901283011 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.858447793822 0.102084476377 0.0 0.0
+ajh0yow6plss8
+Extraordinary preparations are on the way for the oath taking ceremony.
+extraordinary preparations are on the way for the oath taking ceremony
+1 0 1 0 0 1 2 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 0 0
+0.717393705242 0.0 0.192340413716 0.0 0.0 0.175445087001 0.0784392711674 0.0 0.501493182099 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.456331921162 0.43104070948 0.0 0.0 0.0 0.628227409514 0.169862606806 0.400452324333 0.0 0.0 0.0 0.0 0.0 0.0
+ajcv8bvciqxhp
+Extraordinary preparations are in progress for the oath taking ceremony.
+extraordinary preparations are in progress for the oath taking ceremony
+1 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 1 1 0
+0.789133075766 0.0 0.211574455088 0.0 0.0 0.192989595701 0.0431415991421 0.0 0.551642500309 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.501965113278 0.474144780428 0.0 0.0 0.0 0.691050150465 0.0 0.0 0.0 0.0 0.0 0.102084476377 0.626536354328 0.0
+a2zhr3rebfem5a
+Extra ordinary preparations are underway for the oath taking ceremony.
+extra ordinary preparations are underway for the oath taking ceremony
+0 0 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 1
+0.0 0.0 0.211574455088 0.0 0.0 0.192989595701 0.0431415991421 0.0 0.551642500309 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.748586564955 0.0 0.501965113278 0.474144780428 0.0 0.0 0.708040054145 0.691050150465 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.781128804999
+a3ohqrf1mdq99b
+Special arrangements have been made for the inauguration.
+special arrangements have been made for the inauguration
+0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.241236994626 0.0539269989276 0.0 0.0 0.997292766831 0.787337495443 0.492110879544 0.0 0.0 0.0 0.0 0.286036231601 0.363180454157 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.714099789167 0.0 0.0 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+urd-ng-102-174502-11516103-post1__2
+highest number of schools have been destroyed in swat district which the majority were girls maximum that lie sawat most amongst them are largest whom for among province has suffered and girl those all
+Highest number of schools have been destroyed in Swat District, of which the majority were girls' schools.
+highest number of schools have been destroyed in swat district of which the majority were girls schools
+1 1 2 2 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.488046815634 0.268535083204 0.0996136818779 0.595650756283 0.134605285459 0.170908449015 0.292562354446 0.0600496919867 0.270505004955 0.327297238357 0.176786896524 0.02537741126 0.319682057932 0.171717959902 0.283267986849 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The maximum number of schools that have been destroyed, lie in Sawat District, most amongst them are girls schools.
+the maximum number of schools that have been destroyed lie in sawat district most amongst them are girls schools
+0 1 1 2 1 1 1 1 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.240268232341 0.044564015577 0.532950676675 0.120436308042 0.152918085961 0.261766317136 0.0537286717776 0.0 0.292844897478 0.0 0.0227061048116 0.0 0.0 0.253450304023 0.436673466619 0.0641513663297 0.367107369778 0.357511498368 0.238868787383 0.346949882817 0.181354875868 0.111354976362 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The largest number of the schools, most of whom were for girls, have been destroyed in district Swat.
+the largest number of the schools most of whom were for girls have been destroyed in district swat
+0 1 2 1 1 1 1 1 1 1 0 2 0 1 1 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.253616467471 0.0940795884403 0.2812795238 0.127127214045 0.161413535181 0.27630889031 0.0567135979875 0.255476949124 0.309114058449 0.0 0.0479351101579 0.0 0.16217807324 0.267530876469 0.0 0.0 0.0 0.0 0.252139275571 0.0 0.0 0.0 0.395452270524 0.361390910919 0.107216442056 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Most of the schools destroyed are in the Swat district. Among them, most are girls' schools.
+most of the schools destroyed are in the swat district among them most are girls schools
+0 0 1 2 0 0 1 1 1 1 0 2 0 0 1 0 0 0 0 2 0 1 2 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0529197684977 0.632878928551 0.0 0.0 0.310847501599 0.0638027977359 0.287411567764 0.347753315755 0.0 0.0539269989276 0.0 0.0 0.300972236027 0.0 0.0 0.0 0.0 0.567313370035 0.0 0.215358915094 0.26446806886 0.0 0.0 0.0 0.304686199807 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The most schools were destroyed in Swat province, of which the majority were girls schools.
+the most schools were destroyed in swat province of which the majority were girls schools
+0 0 1 2 0 0 1 1 1 0 1 2 1 2 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0 0.0564477530642 0.675070857121 0.0 0.0 0.331570668372 0.068056317585 0.306572338948 0.0 0.200358482728 0.0575221321894 0.362306332323 0.389227375777 0.321037051762 0.0 0.0 0.0 0.0 0.302567130686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.349755912835 0.0 0.0 0.0 0.0 0.0 0.0
+a21xirv18up71h
+Swat has suffered the highest number of schools destroyed and the majority of them have been girl schools.
+swat has suffered the highest number of schools destroyed and the majority of them have been girl schools
+1 1 2 2 1 1 1 0 1 0 0 2 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0
+0.460933103654 0.253616467471 0.0940795884403 0.562559047601 0.127127214045 0.161413535181 0.27630889031 0.0 0.255476949124 0.0 0.0 0.0479351101579 0.301921943602 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.19143014675 0.0 0.0 0.0 0.0 0.0 0.0 0.11377932865 0.374369513762 0.0555909370338 0.344547229864 0.0 0.0
+a3sw1e5d0b9v9a
+The maximum number of schools have been destroyed in district Swat in which majority are the girls schools.
+the maximum number of schools have been destroyed in district swat in which majority are the girls schools
+0 1 1 2 1 1 1 2 1 1 1 2 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.253616467471 0.0470397942201 0.562559047601 0.127127214045 0.161413535181 0.27630889031 0.113427195975 0.255476949124 0.309114058449 0.166965402273 0.0479351101579 0.301921943602 0.0 0.267530876469 0.460933103654 0.0 0.0 0.0 0.0 0.0 0.0 0.117541363938 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Most schools are destroyed in Swat majority of those are of girls.
+most schools are destroyed in swat majority of those are of girls
+0 0 2 1 0 0 1 1 1 0 0 0 1 0 1 0 0 0 0 1 0 0 2 0 0 0 0 0 0 0 0 0 1 0
+0.0 0.0 0.14111938266 0.421919285701 0.0 0.0 0.414463335465 0.0850703969812 0.383215423686 0.0 0.0 0.0 0.452882915403 0.0 0.401296314703 0.0 0.0 0.0 0.0 0.378208913357 0.0 0.0 0.352624091813 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.33272756438 0.0
+a1wgq344wqriu5
+The most schools were destroyed in Swat province, of which the majority were the girls schools.
+the most schools were destroyed in swat province of which the majority were the girls schools
+0 0 1 2 0 0 1 1 1 0 1 3 1 2 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0 0.0529197684977 0.632878928551 0.0 0.0 0.310847501599 0.0638027977359 0.287411567764 0.0 0.187836077557 0.0808904983914 0.339662186553 0.364900664791 0.300972236027 0.0 0.0 0.0 0.0 0.283656685018 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.327896168283 0.0 0.0 0.0 0.0 0.0 0.0
+a1yyp7540py83g
+The most schools were destroyed in Swat province, of which the majority were girls schools.
+the most schools were destroyed in swat province of which the majority were girls schools
+0 0 1 2 0 0 1 1 1 0 1 2 1 2 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0 0.0564477530642 0.675070857121 0.0 0.0 0.331570668372 0.068056317585 0.306572338948 0.0 0.200358482728 0.0575221321894 0.362306332323 0.389227375777 0.321037051762 0.0 0.0 0.0 0.0 0.302567130686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.349755912835 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+The most schools were destroyed in Swat province, of which the majority were girls' schools.
+the most schools were destroyed in swat province of which the majority were girls schools
+0 0 1 2 0 0 1 1 1 0 1 2 1 2 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0 0.0564477530642 0.675070857121 0.0 0.0 0.331570668372 0.068056317585 0.306572338948 0.0 0.200358482728 0.0575221321894 0.362306332323 0.389227375777 0.321037051762 0.0 0.0 0.0 0.0 0.302567130686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.349755912835 0.0 0.0 0.0 0.0 0.0 0.0
+ajcv8bvciqxhp
+Swat has suffered the highest number of schools destroyed, and the majority of them have been all girls schools.
+swat has suffered the highest number of schools destroyed and the majority of them have been all girls schools
+1 1 2 2 1 1 1 0 1 0 0 2 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 1
+0.436673466619 0.240268232341 0.089128031154 0.532950676675 0.120436308042 0.152918085961 0.261766317136 0.0 0.242030793907 0.0 0.0 0.0454122096232 0.286031314992 0.0 0.253450304023 0.0 0.0 0.0 0.0 0.0 0.0 0.181354875868 0.0 0.0 0.0 0.0 0.0 0.0 0.107790942932 0.354665855143 0.0526650982425 0.0 0.0 0.166600997578
+a3odrygim0wb3t
+Swat has suffered the highest number of schools destroyed and the majority of them have been girls schools.
+swat has suffered the highest number of schools destroyed and the majority of them have been girls schools
+1 1 2 2 1 1 1 0 1 0 0 2 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0
+0.460933103654 0.253616467471 0.0940795884403 0.562559047601 0.127127214045 0.161413535181 0.27630889031 0.0 0.255476949124 0.0 0.0 0.0479351101579 0.301921943602 0.0 0.267530876469 0.0 0.0 0.0 0.0 0.0 0.0 0.19143014675 0.0 0.0 0.0 0.0 0.0 0.0 0.11377932865 0.374369513762 0.0555909370338 0.0 0.0 0.0
+a1ezv3q6pgmqty
+Swat has suffered the highest number of schools destroyed and the majority of them have been girls' schools.
+swat has suffered the highest number of schools destroyed and the majority of them have been girls schools
+1 1 2 2 1 1 1 0 1 0 0 2 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0
+0.460933103654 0.253616467471 0.0940795884403 0.562559047601 0.127127214045 0.161413535181 0.27630889031 0.0 0.255476949124 0.0 0.0 0.0479351101579 0.301921943602 0.0 0.267530876469 0.0 0.0 0.0 0.0 0.0 0.0 0.19143014675 0.0 0.0 0.0 0.0 0.0 0.0 0.11377932865 0.374369513762 0.0555909370338 0.0 0.0 0.0
+au2ar4vob7vlv
+Most of the schools that have been destroyed in district Swat are the girl's schools.
+most of the schools that have been destroyed in district swat are the girls schools
+0 0 1 2 1 1 1 1 1 1 0 2 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0564477530642 0.675070857121 0.152552656854 0.193696242217 0.331570668372 0.068056317585 0.306572338948 0.370936870138 0.0 0.0575221321894 0.0 0.0 0.321037051762 0.0 0.081258397351 0.0 0.0 0.302567130686 0.0 0.0 0.141049636725 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1nee8mf6oybf8
+The maximum number of schools have been destroyed in district Swat in which majority are the girls schools.
+the maximum number of schools have been destroyed in district swat in which majority are the girls schools
+0 1 1 2 1 1 1 2 1 1 1 2 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.253616467471 0.0470397942201 0.562559047601 0.127127214045 0.161413535181 0.27630889031 0.113427195975 0.255476949124 0.309114058449 0.166965402273 0.0479351101579 0.301921943602 0.0 0.267530876469 0.460933103654 0.0 0.0 0.0 0.0 0.0 0.0 0.117541363938 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a301gnfg8w711q
+The largest number of schools destroyed has been in the district of Swat, and the majority of those are girls schools.
+the largest number of schools destroyed has been in the district of swat and the majority of those are girls schools
+0 1 3 2 0 1 1 1 1 1 0 3 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 1 0
+0.0 0.217385543546 0.120959470852 0.482193469372 0.0 0.138354458726 0.236836191694 0.0486116554178 0.218980242106 0.264954907242 0.0 0.0616308559173 0.258790237373 0.0 0.22931217983 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.100749740518 0.33895908902 0.0 0.0 0.0 0.0 0.0975251388429 0.0 0.0476493746004 0.0 0.190130036789 0.0
+a3ohqrf1mdq99b
+Most of the schools destroyed in Swat were for girls.
+most of the schools destroyed in swat were for girls
+0 0 1 1 0 0 1 1 1 0 0 1 0 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0846716295963 0.506303142841 0.0 0.0 0.497356002558 0.102084476377 0.459858508423 0.0 0.0 0.0431415991421 0.0 0.291920531833 0.481555577643 0.0 0.0 0.0 0.0 0.453850696028 0.0 0.0 0.0 0.0 0.0 0.192989595701 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

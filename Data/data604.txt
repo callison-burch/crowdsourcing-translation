@@ -1,0 +1,88 @@
+voa_urd_20090109.0007__2
+foreign minister welcomed american vice presidentelect the elected president elect received us of america receives tthe
+Foreign Minister welcomed American Vice President-elect
+foreign minister welcomed american vice presidentelect
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.754485437917 0.598441627074 1.08768163429 0.524520588276 0.876373932506 1.24764427493 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Foreign Minister welcomed the elected American Vice President.
+the foreign minister welcomed the elected american vice president
+1 1 1 1 1 0 2 1 1 0 0 0 0 0 0 0
+0.502990291945 0.398961084716 0.725121089527 0.349680392184 0.584249288337 0.0 0.0958702203157 0.540761007869 0.313952907149 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Foreign Minister welcomed American Vice President elect
+the foreign minister welcomed american vice president elect
+1 1 1 1 1 0 1 0 1 1 0 0 0 0 0 0
+0.565864078438 0.448831220305 0.815761225717 0.393390441207 0.657280449379 0.0 0.0539269989276 0.0 0.353197020543 1.00920653931 0.0 0.0 0.0 0.0 0.0 0.0
+The foreign minister received the US Vice President.
+the foreign minister received the us vice president
+1 1 0 0 1 0 2 0 1 0 1 1 0 0 0 0
+0.565864078438 0.448831220305 0.0 0.0 0.657280449379 0.0 0.107853997855 0.0 0.353197020543 0.0 0.68022043429 0.458671883856 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Foreign Minister received American elected Vice president.
+foreign minister received american elected vice president
+1 1 0 1 1 0 0 1 1 0 1 0 0 0 0 0
+0.646701803929 0.512949966063 0.0 0.449589075665 0.751177656433 0.0 0.0 0.695264152975 0.403653737764 0.0 0.777394782046 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+the Foreign Minister welcomed the American Vice President.
+the foreign minister welcomed the american vice president
+1 1 1 1 1 0 2 0 1 0 0 0 0 0 0 0
+0.565864078438 0.448831220305 0.815761225717 0.393390441207 0.657280449379 0.0 0.107853997855 0.0 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The foreign minister received the elected American Vice President.
+the foreign minister received the elected american vice president
+1 1 0 1 1 0 2 1 1 0 1 0 0 0 0 0
+0.502990291945 0.398961084716 0.0 0.349680392184 0.584249288337 0.0 0.0958702203157 0.540761007869 0.313952907149 0.0 0.604640386035 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Foreign Minister received the elected Vice President of America
+foreign minister received the elected vice president of america
+1 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0
+0.502990291945 0.398961084716 0.0 0.0 0.584249288337 0.0 0.0479351101579 0.540761007869 0.313952907149 0.0 0.604640386035 0.0 0.0940795884403 0.340780560195 0.0 0.0
+aw4q48bn2x4nt
+Foreign Minister received American elected Vice President.
+foreign minister received american elected vice president
+1 1 0 1 1 0 0 1 1 0 1 0 0 0 0 0
+0.646701803929 0.512949966063 0.0 0.449589075665 0.751177656433 0.0 0.0 0.695264152975 0.403653737764 0.0 0.777394782046 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+The foreign minister received the American elected vice president.
+the foreign minister received the american elected vice president
+1 1 0 1 1 0 2 1 1 0 1 0 0 0 0 0
+0.502990291945 0.398961084716 0.0 0.349680392184 0.584249288337 0.0 0.0958702203157 0.540761007869 0.313952907149 0.0 0.604640386035 0.0 0.0 0.0 0.0 0.0
+a174ngc3rag9z7
+Foreign Minister Receives American elected Vice president.
+foreign minister receives american elected vice president
+1 1 0 1 1 0 0 1 1 0 0 0 0 0 1 0
+0.646701803929 0.512949966063 0.0 0.449589075665 0.751177656433 0.0 0.0 0.695264152975 0.403653737764 0.0 0.0 0.0 0.0 0.0 1.25239992786 0.0
+a3lhs82826iskx
+Tthe Foreign Minister welcomed the American Vice President.
+tthe foreign minister welcomed the american vice president
+1 1 1 1 1 0 1 0 1 0 0 0 0 0 0 1
+0.565864078438 0.448831220305 0.815761225717 0.393390441207 0.657280449379 0.0 0.0539269989276 0.0 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.0 1.21038627836
+a1395pss402i1j
+The Foreign Minister welcomed the American Vice President.
+the foreign minister welcomed the american vice president
+1 1 1 1 1 0 2 0 1 0 0 0 0 0 0 0
+0.565864078438 0.448831220305 0.815761225717 0.393390441207 0.657280449379 0.0 0.107853997855 0.0 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3m6cl5oao31z
+The Foreign Minister welcomed the American Vice President.
+the foreign minister welcomed the american vice president
+1 1 1 1 1 0 2 0 1 0 0 0 0 0 0 0
+0.565864078438 0.448831220305 0.815761225717 0.393390441207 0.657280449379 0.0 0.107853997855 0.0 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+The foreign minister received the elected American Vice President.
+the foreign minister received the elected american vice president
+1 1 0 1 1 0 2 1 1 0 1 0 0 0 0 0
+0.502990291945 0.398961084716 0.0 0.349680392184 0.584249288337 0.0 0.0958702203157 0.540761007869 0.313952907149 0.0 0.604640386035 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+The foreign minister received the elected American Vice President.
+the foreign minister received the elected american vice president
+1 1 0 1 1 0 2 1 1 0 1 0 0 0 0 0
+0.502990291945 0.398961084716 0.0 0.349680392184 0.584249288337 0.0 0.0958702203157 0.540761007869 0.313952907149 0.0 0.604640386035 0.0 0.0 0.0 0.0 0.0
+awixls3wmymbf
+The foreign minister received the American Vice President.
+the foreign minister received the american vice president
+1 1 0 1 1 0 2 0 1 0 1 0 0 0 0 0
+0.565864078438 0.448831220305 0.0 0.393390441207 0.657280449379 0.0 0.107853997855 0.0 0.353197020543 0.0 0.68022043429 0.0 0.0 0.0 0.0 0.0
+a1rhjj60p0jwi3
+The foreign minister welcomed the U.S. Vice President.
+the foreign minister welcomed the us vice president
+1 1 1 0 1 0 2 0 1 0 0 1 0 0 0 0
+0.565864078438 0.448831220305 0.815761225717 0.0 0.657280449379 0.0 0.107853997855 0.0 0.353197020543 0.0 0.0 0.458671883856 0.0 0.0 0.0 0.0

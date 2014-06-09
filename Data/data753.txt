@@ -1,0 +1,88 @@
+voa_urd_20090129.0012__20
+a detailed report about this has been published in the journal of american medical association with reference to regard study appeared matter is magazine there publication concerning on from associations more these complications and treatments
+A detailed report about this has been published in the Journal of the American Medical Association.
+a detailed report about this has been published in the journal of the american medical association
+1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.089350137409 0.471439003962 0.319921377214 0.197104461789 0.108264710573 0.128001744731 0.181590227078 0.357049894584 0.0638027977359 0.0539269989276 0.518549741611 0.0529197684977 0.196695220604 0.360069805663 0.421165702983 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The detailed report with reference to this has been published in the journal of the American Medical Association.
+the detailed report with reference to this has been published in the journal of the american medical association
+0 1 1 0 1 1 1 1 1 3 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.419056892411 0.284374557523 0.0 0.0962352982872 0.11377932865 0.161413535181 0.317377684074 0.0567135979875 0.0719026652368 0.460933103654 0.0470397942201 0.174840196092 0.320062049478 0.374369513762 0.131106639386 0.371519886296 0.059578149577 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+A detailed report in this regard has been published in the Journal of American Medical Association.
+a detailed report in this regard has been published in the journal of american medical association
+1 1 1 0 1 1 1 1 2 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.089350137409 0.471439003962 0.319921377214 0.0 0.108264710573 0.128001744731 0.181590227078 0.357049894584 0.127605595472 0.0269634994638 0.518549741611 0.0529197684977 0.196695220604 0.360069805663 0.421165702983 0.0 0.0 0.0 0.383883181428 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+This study has appeared in the Journal of the American Medical Association.
+this study has appeared in the journal of the american medical association
+0 0 0 0 1 1 0 0 1 2 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.144352947431 0.170668992975 0.0 0.0 0.0850703969812 0.0719026652368 0.691399655481 0.0705596913302 0.262260294138 0.480093074217 0.561554270644 0.0 0.0 0.0 0.0 0.511844241904 0.644765006486 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+a detailed report in this matter is published in a magazine of American Medical Association.
+a detailed report in this matter is published in a magazine of american medical association
+2 1 1 0 1 0 0 1 2 0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.190613626473 0.502868270893 0.341249469028 0.0 0.115482357945 0.0 0.0 0.380853220889 0.13611263517 0.0 0.0 0.0564477530642 0.20980823531 0.384074459374 0.449243416515 0.0 0.0 0.0 0.0 0.0 0.0 0.330380160545 0.0884278641539 0.482716212768 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+A detailed report of this has been published in the magazine of the American Medical Association.
+a detailed report of this has been published in the magazine of the american medical association
+1 1 1 0 1 1 1 1 1 2 0 2 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.089350137409 0.471439003962 0.319921377214 0.0 0.108264710573 0.128001744731 0.181590227078 0.357049894584 0.0638027977359 0.0539269989276 0.0 0.105839536995 0.196695220604 0.360069805663 0.421165702983 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.45254644947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+A detailed report has been published in the Journal of American Medical Association.
+a detailed report has been published in the journal of american medical association
+1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.109969399888 0.580232620261 0.39374938734 0.0 0.0 0.1575406089 0.223495664097 0.439446024103 0.0785265202904 0.0331858454939 0.638215066598 0.0651320227664 0.242086425358 0.443162837739 0.518357788286 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3u16uhguaktzs
+There has been a detailed report about this in the American Medical Association Publication.
+there has been a detailed report about this in the american medical association publication
+1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.102114442753 0.5387874331 0.365624431102 0.225262242045 0.123731097798 0.146287708264 0.20753168809 0.0 0.0729174831268 0.0308154279586 0.0 0.0 0.224794537833 0.411508349329 0.48133223198 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.205883108619 0.642138789024 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+amjejkgf6r4hk
+A detailed report concerning this matter is published in a magazine of American Medical Association.
+a detailed report concerning this matter is published in a magazine of american medical association
+2 1 1 0 1 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+0.190613626473 0.502868270893 0.341249469028 0.0 0.115482357945 0.0 0.0 0.380853220889 0.068056317585 0.0 0.0 0.0564477530642 0.20980823531 0.384074459374 0.449243416515 0.0 0.0 0.0 0.0 0.0 0.0 0.330380160545 0.0884278641539 0.482716212768 0.0 0.0 0.482716212768 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2ll7aqr2r43j0
+A detailed report on this matter is published in a magazine from the American Medical Association.
+a detailed report on this matter is published in a magazine from the american medical association
+2 1 1 0 1 0 0 1 1 1 0 0 1 1 1 0 0 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0
+0.178700274818 0.471439003962 0.319921377214 0.0 0.108264710573 0.0 0.0 0.357049894584 0.0638027977359 0.0269634994638 0.0 0.0 0.196695220604 0.360069805663 0.421165702983 0.0 0.0 0.0 0.0 0.0 0.0 0.309731400511 0.0829011226443 0.45254644947 0.0 0.0 0.0 0.116780542179 0.148409214334 0.0 0.0 0.0 0.0 0.0 0.0
+a2unp2crnrfiw8
+A detailed report in this matter is published in a magazine of the American Medical Association.
+a detailed report in this matter is published in a magazine of the american medical association
+2 1 1 0 1 0 0 1 2 1 0 1 1 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.178700274818 0.471439003962 0.319921377214 0.0 0.108264710573 0.0 0.0 0.357049894584 0.127605595472 0.0269634994638 0.0 0.0529197684977 0.196695220604 0.360069805663 0.421165702983 0.0 0.0 0.0 0.0 0.0 0.0 0.309731400511 0.0829011226443 0.45254644947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3uewlcbe68lil
+A detailed report of this has been published in the American Medical Association's magazine.
+a detailed report of this has been published in the american medical associations magazine
+1 1 1 0 1 1 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0
+0.102114442753 0.5387874331 0.365624431102 0.0 0.123731097798 0.146287708264 0.20753168809 0.408057022381 0.0729174831268 0.0308154279586 0.0 0.0604797354259 0.224794537833 0.411508349329 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.517195942251 0.0 0.0 0.0 0.0 0.0 0.552655719845 0.0 0.0 0.0 0.0 0.0
+ag2iom8p24oek
+A detailed report of this has been published in the magazine of the American Medical Association.
+a detailed report of this has been published in the magazine of the american medical association
+1 1 1 0 1 1 1 1 1 2 0 2 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.089350137409 0.471439003962 0.319921377214 0.0 0.108264710573 0.128001744731 0.181590227078 0.357049894584 0.0638027977359 0.0539269989276 0.0 0.105839536995 0.196695220604 0.360069805663 0.421165702983 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.45254644947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1u6t1v9680bs9
+A more detailed report on these complications and treatments has been published in the American Medical Association's magazine.
+a more detailed report on these complications and treatments has been published in the american medical associations magazine
+1 1 1 0 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 1 1 1 1 1 1
+0.0794223443636 0.419056892411 0.284374557523 0.0 0.0 0.11377932865 0.161413535181 0.317377684074 0.0567135979875 0.0239675550789 0.0 0.0 0.174840196092 0.320062049478 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.40226351064 0.0 0.0 0.0 0.103804926381 0.0 0.429843337657 0.201461456315 0.169872103271 0.537949457049 0.0555909370338 0.576457633747
+a2r89rxgevg05i
+A detailed report has been published in the Journal of the American Medical Association.
+a detailed report has been published in the journal of the american medical association
+1 1 1 0 0 1 1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.102114442753 0.5387874331 0.365624431102 0.0 0.0 0.146287708264 0.20753168809 0.408057022381 0.0729174831268 0.0616308559173 0.592628276126 0.0604797354259 0.224794537833 0.411508349329 0.48133223198 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+A detailed report has been published in the Journal of the American Medical Association.
+a detailed report has been published in the journal of the american medical association
+1 1 1 0 0 1 1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.102114442753 0.5387874331 0.365624431102 0.0 0.0 0.146287708264 0.20753168809 0.408057022381 0.0729174831268 0.0616308559173 0.592628276126 0.0604797354259 0.224794537833 0.411508349329 0.48133223198 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2sb2bw2w4t4ww
+A detailed report has been published in the Journal of the American Medical Association.
+a detailed report has been published in the journal of the american medical association
+1 1 1 0 0 1 1 1 1 2 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.102114442753 0.5387874331 0.365624431102 0.0 0.0 0.146287708264 0.20753168809 0.408057022381 0.0729174831268 0.0616308559173 0.592628276126 0.0604797354259 0.224794537833 0.411508349329 0.48133223198 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+arq4j4tltpbnc
+A detailed report concerning this appeared in the American Medical Association Publication.
+a detailed report concerning this appeared in the american medical association publication
+1 1 1 0 1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.119133516545 0.628585338616 0.426561836285 0.0 0.144352947431 0.0 0.0 0.0 0.0850703969812 0.0359513326184 0.0 0.0 0.262260294138 0.480093074217 0.561554270644 0.0 0.0 0.0 0.0 0.0 0.644765006486 0.0 0.0 0.0 0.0 0.749161920527 0.60339526596 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+bbc_urd_20090120.0027__9
+according to a government worker the kidnappers first disarmed guards present in car then sat additional political agent and took him away official abductors security vehicle they from there unarmed fled with another officials who were after that seated govt of agents take members say available cars made sit resources inspected was taken afterwords moved which drove measures forced get into
+According to a government worker, the kidnappers first disarmed the guards present in the car, then sat the Additional Political Agent in a car and took him away.
+according to a government worker the kidnappers first disarmed the guards present in the car then sat the additional political agent in a car and took him away
+1 1 2 1 1 4 1 1 1 1 1 2 2 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0383002390138 0.102114442753 0.107719051231 0.278974573214 0.0616308559173 0.263589469068 0.13823047669 0.273863828798 0.260185534075 0.159190841185 0.0729174831268 0.41010774423 0.125481410514 0.370579907409 0.197293112269 0.135905515897 0.186533779034 0.0357370309503 0.176518407282 0.133348235932 0.183564123022 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to a government official, the abductors first disarmed the security guards present in the vehicle, and then they took the additional political agent from there in a vehicle.
+according to a government official the abductors first disarmed the security guards present in the vehicle and then they took the additional political agent from there in a vehicle
+1 1 2 1 0 4 0 1 1 1 1 2 0 1 0 1 1 1 1 1 0 0 1 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.112520527543 0.0369795411168 0.098593255072 0.104004601188 0.0 0.0595056539891 0.0 0.133463908528 0.264420248495 0.251213619107 0.153701501834 0.0704030871569 0.0 0.121154465324 0.0 0.190489901501 0.131219118797 0.180101579757 0.0345047195382 0.170431565652 0.0 0.0 0.193294923551 0.319918107544 0.135425793562 0.528840496989 0.0894286256762 0.0818809458397 0.0993918455402 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to government official, the abductors first unarmed the security guards present in the vehicle and then fled away with the Additional Political Agent in another car.
+according to government official the abductors first unarmed the security guards present in the vehicle and then fled away with the additional political agent in another car
+1 1 0 1 0 4 0 1 0 1 1 2 1 1 0 1 1 1 1 0 0 1 1 1 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.120855381435 0.0397187663847 0.0 0.111708645721 0.0 0.0639134802105 0.0 0.143350123975 0.0 0.269822035337 0.165086798266 0.07561813065 0.212648459971 0.130128870163 0.0 0.204600264575 0.140939053523 0.193442437517 0.0370606246892 0.0 0.0 0.190362794245 0.207613066036 0.34361574514 0.145457333826 0.284006933568 0.0 0.0 0.0 0.251582165518 0.302926401115 0.0874044262573 0.178070107544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to officials, the abductors first disarmed the guards who were present in the car and then took away the political agent in another car.
+according to officials the abductors first disarmed the guards who were present in the car and then took away the political agent in another car
+1 1 0 0 0 4 0 1 1 1 1 2 2 1 0 0 1 1 1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0428962676955 0.0 0.0 0.0 0.0690265586273 0.0 0.154818133893 0.306727488254 0.291407798164 0.178293742127 0.081667581102 0.459320673538 0.140539179776 0.0 0.0 0.152214177804 0.208917832518 0.0400254746643 0.197700616156 0.0 0.205591817785 0.0 0.371105004751 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.192315716148 0.179940065027 0.11839435713 0.116768212733 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+According to the government agent, the kidnappers first disarmed the guards, and after that they seated the additional political agent in another car, and took him away from there.
+according to the government agent the kidnappers first disarmed the guards and after that they seated the additional political agent in another car and took him away from there
+1 1 0 1 0 4 1 1 1 1 0 1 1 0 0 1 1 2 2 1 1 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.112520527543 0.0369795411168 0.0 0.104004601188 0.0 0.0595056539891 0.254500177031 0.133463908528 0.264420248495 0.251213619107 0.0 0.0352015435784 0.197983048939 0.0 0.0 0.190489901501 0.131219118797 0.360203159514 0.0690094390764 0.170431565652 0.128750020899 0.177234325677 0.0 0.0 0.0 0.0 0.0894286256762 0.0818809458397 0.0993918455402 0.0 0.0 0.0 0.165789410472 0.0 0.0 0.0 0.102481320325 0.0420302055264 0.319918107544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+According Govt. officials, kidnappers first disarmed the security guards of the political agents and then take him away from there.
+according govt officials kidnappers first disarmed the security guards of the political agents and then take him away from there
+1 0 0 0 0 2 1 1 1 1 0 0 0 1 0 0 1 0 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.163154764937 0.0 0.0 0.0 0.0 0.0431415991421 0.369025256695 0.193522667366 0.383409360317 0.364259747705 0.0 0.0 0.0 0.17567397472 0.0 0.0 0.190267722256 0.0 0.0500318433304 0.0 0.186687530304 0.256989772231 0.0 0.0 0.196367400665 0.0 0.0 0.118727371468 0.144118176033 0.0 0.0 0.0 0.0 0.224925081284 0.0 0.0 0.0 0.0 0.0 0.325251819827 0.0423358147981 0.341044467298 0.193597461696 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+Official members say that the kidnappers first unarmed the security available in the cars and then made the Additional Political Agent to sit in another car and took him away.
+official members say that the kidnappers first unarmed the security available in the cars and then made the additional political agent to sit in another car and took him away
+0 1 0 0 0 4 1 1 0 0 0 2 1 1 0 1 1 1 2 1 1 1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0357468897462 0.0 0.0 0.0 0.0575221321894 0.246016837797 0.129015111577 0.0 0.0 0.0 0.068056317585 0.191383613974 0.117115983147 0.0 0.184140238118 0.12684514817 0.174098193765 0.0667091244405 0.164750513463 0.124458353536 0.171326514821 0.186851759433 0.0 0.130911600443 0.0 0.0 0.0 0.0 0.226423948966 0.0 0.0 0.16026309679 0.0 0.0 0.0 0.0 0.0406291986755 0.0 0.0 0.0 0.0 0.0 0.160646978192 0.131820504655 0.221285592972 0.238578719419 0.131229567878 0.244390498991 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+According to resources first the kidnappers inspected the vehicle and then additional agent was taken in a vehicle and taken away
+according to resources first the kidnappers inspected the vehicle and then additional agent was taken in a vehicle and taken away
+1 1 1 0 0 2 1 1 0 0 0 1 0 1 0 1 0 1 2 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 2 0 0 0 0 0 0 0 0
+0.155385490416 0.0510669853517 0.0680762951688 0.0 0.0 0.0410872372782 0.351452625424 0.184307302253 0.0 0.0 0.0 0.0486116554178 0.0 0.167308547352 0.0 0.263057483025 0.0 0.248711705379 0.0952987492008 0.0 0.0 0.24475216403 0.0 0.0 0.0 0.730303543462 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.304154921947 0.349129284273 0.103865700788 0.414091322592 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1xh9d9a4nhg4
+According to the government agent, the kidnappers first disarmed the guards, and afterwords moved him to another car which drove away.
+according to the government agent the kidnappers first disarmed the guards and afterwords moved him to another car which drove away
+1 2 0 1 0 3 1 1 1 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0
+0.155385490416 0.102133970703 0.0 0.143625401641 0.0 0.0616308559173 0.351452625424 0.184307302253 0.365151771731 0.346914045433 0.0 0.0 0.27340516282 0.0 0.0 0.0 0.0 0.248711705379 0.0476493746004 0.0 0.177797647909 0.24475216403 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.228947281128 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.494106543212 0.329071500221 0.143113201948 0.461099534614 0.0 0.0 0.0 0.0
+a14b80scbt25dr
+According to the government agent, the kidnappers first disarmed the guards and after that they seated the additional political agent in another car and took him away from there.
+according to the government agent the kidnappers first disarmed the guards and after that they seated the additional political agent in another car and took him away from there
+1 1 0 1 0 4 1 1 1 1 0 1 1 0 0 1 1 2 2 1 1 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.112520527543 0.0369795411168 0.0 0.104004601188 0.0 0.0595056539891 0.254500177031 0.133463908528 0.264420248495 0.251213619107 0.0 0.0352015435784 0.197983048939 0.0 0.0 0.190489901501 0.131219118797 0.360203159514 0.0690094390764 0.170431565652 0.128750020899 0.177234325677 0.0 0.0 0.0 0.0 0.0894286256762 0.0818809458397 0.0993918455402 0.0 0.0 0.0 0.165789410472 0.0 0.0 0.0 0.102481320325 0.0420302055264 0.319918107544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+According to the government agent, the kidnappers first disarmed the guards, and after that they seated the additional political agent in another car, and took him away from there.
+according to the government agent the kidnappers first disarmed the guards and after that they seated the additional political agent in another car and took him away from there
+1 1 0 1 0 4 1 1 1 1 0 1 1 0 0 1 1 2 2 1 1 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.112520527543 0.0369795411168 0.0 0.104004601188 0.0 0.0595056539891 0.254500177031 0.133463908528 0.264420248495 0.251213619107 0.0 0.0352015435784 0.197983048939 0.0 0.0 0.190489901501 0.131219118797 0.360203159514 0.0690094390764 0.170431565652 0.128750020899 0.177234325677 0.0 0.0 0.0 0.0 0.0894286256762 0.0818809458397 0.0993918455402 0.0 0.0 0.0 0.165789410472 0.0 0.0 0.0 0.102481320325 0.0420302055264 0.319918107544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+According govt. officials, kidnappers first disarmed the security guards of the political agent and then took him away from there.
+according govt officials kidnappers first disarmed the security guards of the political agent and then took him away from there
+1 0 0 0 0 2 1 1 1 1 0 0 0 1 0 0 1 1 1 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.163154764937 0.0 0.0 0.0 0.0 0.0431415991421 0.369025256695 0.193522667366 0.383409360317 0.364259747705 0.0 0.0 0.0 0.17567397472 0.0 0.0 0.190267722256 0.261147290648 0.0500318433304 0.247125770195 0.186687530304 0.256989772231 0.0 0.0 0.196367400665 0.0 0.0 0.118727371468 0.144118176033 0.0 0.0 0.0 0.0 0.224925081284 0.0 0.0 0.0 0.0 0.0 0.325251819827 0.0423358147981 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3m6cl5oao31z
+According to govt. officials, kidnappers first disarmed the security guards of the political agents and then took him away from there.
+according to govt officials kidnappers first disarmed the security guards of the political agents and then took him away from there
+1 1 0 0 0 2 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.155385490416 0.0510669853517 0.0 0.0 0.0 0.0410872372782 0.351452625424 0.184307302253 0.365151771731 0.346914045433 0.0 0.0 0.0 0.167308547352 0.0 0.0 0.181207354529 0.0 0.0476493746004 0.235357876376 0.177797647909 0.24475216403 0.0 0.0 0.187016572062 0.0 0.0 0.113073687112 0.137255405746 0.0 0.0 0.0 0.0 0.214214363127 0.0 0.0 0.0 0.0 0.0 0.309763637931 0.0403198236173 0.32480425457 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+According to government officials, kidnappers first disarmed the security guards of the political agents and then took him away from there.
+according to government officials kidnappers first disarmed the security guards of the political agents and then took him away from there
+1 1 0 1 0 2 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.155385490416 0.0510669853517 0.0 0.143625401641 0.0 0.0410872372782 0.351452625424 0.184307302253 0.365151771731 0.346914045433 0.0 0.0 0.0 0.167308547352 0.0 0.0 0.181207354529 0.0 0.0476493746004 0.235357876376 0.177797647909 0.24475216403 0.0 0.0 0.187016572062 0.0 0.0 0.113073687112 0.137255405746 0.0 0.0 0.0 0.0 0.214214363127 0.0 0.0 0.0 0.0 0.0 0.0 0.0403198236173 0.32480425457 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Official members say that the kidnappers first unarmed the security available in the cars and then made the Additional Political Agent to sit in another car and took him away.
+official members say that the kidnappers first unarmed the security available in the cars and then made the additional political agent to sit in another car and took him away
+0 1 0 0 0 4 1 1 0 0 0 2 1 1 0 1 1 1 2 1 1 1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0357468897462 0.0 0.0 0.0 0.0575221321894 0.246016837797 0.129015111577 0.0 0.0 0.0 0.068056317585 0.191383613974 0.117115983147 0.0 0.184140238118 0.12684514817 0.174098193765 0.0667091244405 0.164750513463 0.124458353536 0.171326514821 0.186851759433 0.0 0.130911600443 0.0 0.0 0.0 0.0 0.226423948966 0.0 0.0 0.16026309679 0.0 0.0 0.0 0.0 0.0406291986755 0.0 0.0 0.0 0.0 0.0 0.160646978192 0.131820504655 0.221285592972 0.238578719419 0.131229567878 0.244390498991 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Official members say that the kidnappers first unarmed the security available in the cars and then made the Additional Political Agent to sit in another car and took him away.
+official members say that the kidnappers first unarmed the security available in the cars and then made the additional political agent to sit in another car and took him away
+0 1 0 0 0 4 1 1 0 0 0 2 1 1 0 1 1 1 2 1 1 1 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0357468897462 0.0 0.0 0.0 0.0575221321894 0.246016837797 0.129015111577 0.0 0.0 0.0 0.068056317585 0.191383613974 0.117115983147 0.0 0.184140238118 0.12684514817 0.174098193765 0.0667091244405 0.164750513463 0.124458353536 0.171326514821 0.186851759433 0.0 0.130911600443 0.0 0.0 0.0 0.0 0.226423948966 0.0 0.0 0.16026309679 0.0 0.0 0.0 0.0 0.0406291986755 0.0 0.0 0.0 0.0 0.0 0.160646978192 0.131820504655 0.221285592972 0.238578719419 0.131229567878 0.244390498991 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+Official members say that the kidnappers first disarmed the security measures in the cars, then forced the agent to get into another car and took him away.
+official members say that the kidnappers first disarmed the security measures in the cars then forced the agent to get into another car and took him away
+0 1 0 0 0 4 1 1 1 0 0 1 1 1 0 0 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1
+0.0 0.0397187663847 0.0 0.0 0.0 0.0639134802105 0.273352041996 0.143350123975 0.284006933568 0.0 0.0 0.037809065325 0.212648459971 0.130128870163 0.0 0.0 0.0 0.193442437517 0.0370606246892 0.18305612607 0.138287059485 0.190362794245 0.207613066036 0.0 0.145457333826 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.178070107544 0.0 0.0 0.0 0.0 0.0451435540839 0.0 0.0 0.0 0.0 0.0 0.178496642435 0.146467227394 0.0 0.265087466022 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.245001381176 0.220644325913 0.16085745132 0.169862119872
+a1i3buq2a7w9zl
+According to resources first the kidnappers inspected the vehicle and then the additional agent was taken away in a vehicle.
+according to resources first the kidnappers inspected the vehicle and then the additional agent was taken away in a vehicle
+1 1 1 0 0 3 1 1 0 0 0 1 0 1 0 1 0 1 1 0 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.163154764937 0.0536203346193 0.0714801099272 0.0 0.0 0.0647123987131 0.369025256695 0.193522667366 0.0 0.0 0.0 0.0510422381887 0.0 0.17567397472 0.0 0.276210357177 0.0 0.261147290648 0.0500318433304 0.0 0.0 0.256989772231 0.0 0.0 0.0 0.766818720635 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.319362668044 0.366585748486 0.109058985828 0.217397944361 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

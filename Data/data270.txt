@@ -1,0 +1,88 @@
+bbc_urd_20090123.0023__9
+but the government attorneys say that interior secretary had used his authority home discretionary powers however lawyers said acted within her prosecutors of advocates claimed rights governments secretarial department has their options says
+But the government attorneys say that the Interior Secretary had used his authority.
+but the government attorneys say that the interior secretary had used his authority
+1 2 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.203509487799 0.0663716909878 0.232010264189 0.595167698295 0.304201164588 0.0937596892511 0.445482302214 0.463040660058 0.263567765573 0.358908491544 0.205182908185 0.47825802493 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+But the government attorneys say that the Home Secretary used his discretionary powers.
+but the government attorneys say that the home secretary used his discretionary powers
+1 2 1 1 1 1 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.203509487799 0.0663716909878 0.232010264189 0.595167698295 0.304201164588 0.0937596892511 0.0 0.463040660058 0.0 0.358908491544 0.205182908185 0.0 0.414817752749 0.798172108265 0.475890974263 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, government lawyers said, the Home Secretary had acted within her powers.
+however government lawyers said the home secretary had acted within her powers
+0 1 1 0 0 0 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0359513326184 0.251344452872 0.0 0.0 0.0 0.0 0.50162738173 0.285531746037 0.0 0.0 0.0 0.449385898812 0.0 0.515548555452 0.361331891348 0.533828791158 0.184619457208 0.623822137463 0.457157356602 0.314810698236 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, government lawyers said that the Home Secretary had acted within her powers.
+however government lawyers said that the home secretary had acted within her powers
+0 1 1 0 0 1 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0331858454939 0.232010264189 0.0 0.0 0.0937596892511 0.0 0.463040660058 0.263567765573 0.0 0.0 0.0 0.414817752749 0.0 0.475890974263 0.333537130475 0.492765037992 0.1704179605 0.575835819196 0.421991406094 0.29059449068 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+but the government prosecutors say that the secretary of interior had used his authority.
+but the government prosecutors say that the secretary of interior had used his authority
+1 2 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.188973095813 0.0616308559173 0.215438102461 0.0 0.282472509975 0.0870625685903 0.41366213777 0.429966327197 0.244741496604 0.33327217072 0.190526986172 0.444096737435 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.642138789024 0.0604797354259 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+However, the government advocates claimed that the Home Secretary had used his rights.
+however the government advocates claimed that the home secretary had used his rights
+0 2 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.232010264189 0.0 0.0 0.0937596892511 0.0 0.463040660058 0.263567765573 0.358908491544 0.205182908185 0.0 0.414817752749 0.0 0.0 0.333537130475 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.453761584075 0.36780969445 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+But the Government's advocates said that the secretarial department has used their options.
+but the governments advocates said that the secretarial department has used their options
+1 2 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 1 0
+0.203509487799 0.0663716909878 0.0 0.0 0.0 0.0937596892511 0.0 0.0 0.0 0.358908491544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.0 0.0 0.427381218603 0.638215066598 0.483222526556 0.1575406089 0.230077421876 0.691534080487 0.0
+a8v7wa74iohz9
+But government's attorneys says that Interior Secretary had used his powers.
+but governments attorneys says that interior secretary had used his powers
+1 0 0 1 0 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+0.240511212853 0.0 0.0 0.703380007076 0.0 0.110806905479 0.526479084434 0.547229870978 0.311489177495 0.424164580916 0.242488891491 0.0 0.0 0.0 0.562416605948 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.505086894713 0.0 0.0 0.0 0.0 0.0 0.400917333484
+a6tw9zegog7ph
+But the government prosecutors say that the secretary of interior had used his authority.
+but the government prosecutors say that the secretary of interior had used his authority
+1 2 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.188973095813 0.0616308559173 0.215438102461 0.0 0.282472509975 0.0870625685903 0.41366213777 0.429966327197 0.244741496604 0.33327217072 0.190526986172 0.444096737435 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.642138789024 0.0604797354259 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143awku99stc9
+But the government prosecutors said the secretary of interior had used his authority.
+but the government prosecutors said the secretary of interior had used his authority
+1 2 1 0 0 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.203509487799 0.0663716909878 0.232010264189 0.0 0.0 0.0 0.445482302214 0.463040660058 0.263567765573 0.358908491544 0.205182908185 0.47825802493 0.0 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.691534080487 0.0651320227664 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3a4p6bwfe7hfn
+The government prosecutors said that the secretary of interior had used his authority.
+the government prosecutors said that the secretary of interior had used his authority
+0 2 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.232010264189 0.0 0.0 0.0937596892511 0.445482302214 0.463040660058 0.263567765573 0.358908491544 0.205182908185 0.47825802493 0.0 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.691534080487 0.0651320227664 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a19b522xqflysa
+However, the government claimed that the Home Secretary had used his rights.
+however the government claimed that the home secretary had used his rights
+0 2 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+0.0 0.0719026652368 0.251344452872 0.0 0.0 0.101572996689 0.0 0.50162738173 0.285531746037 0.388817532506 0.222281483867 0.0 0.449385898812 0.0 0.0 0.361331891348 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.491575049414 0.398460502321 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+However, the government advocates claimed that the Home Secretary had used his rights.
+however the government advocates claimed that the home secretary had used his rights
+0 2 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.232010264189 0.0 0.0 0.0937596892511 0.0 0.463040660058 0.263567765573 0.358908491544 0.205182908185 0.0 0.414817752749 0.0 0.0 0.333537130475 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.453761584075 0.36780969445 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a87c5tu9lryej
+The government advocates claimed however, that the Home Secretary had used his rights.
+the government advocates claimed however that the home secretary had used his rights
+0 2 1 0 0 1 0 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.232010264189 0.0 0.0 0.0937596892511 0.0 0.463040660058 0.263567765573 0.358908491544 0.205182908185 0.0 0.414817752749 0.0 0.0 0.333537130475 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.453761584075 0.36780969445 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+But the Government's advocates said that the secretarial department had used their options.
+but the governments advocates said that the secretarial department had used their options
+1 2 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 1 0 1 1 0
+0.203509487799 0.0663716909878 0.0 0.0 0.0 0.0937596892511 0.0 0.0 0.263567765573 0.358908491544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.0 0.0 0.427381218603 0.638215066598 0.483222526556 0.0 0.230077421876 0.691534080487 0.0
+a2t28y99qhlkek
+But the Government's advocates said that the secretarial department had used their options.
+but the governments advocates said that the secretarial department had used their options
+1 2 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 1 0 1 1 0
+0.203509487799 0.0663716909878 0.0 0.0 0.0 0.0937596892511 0.0 0.0 0.263567765573 0.358908491544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.0 0.0 0.427381218603 0.638215066598 0.483222526556 0.0 0.230077421876 0.691534080487 0.0
+a2qv233zodzqg8
+But the Government's advocates said that the secretarial department has used their options.
+but the governments advocates said that the secretarial department has used their options
+1 2 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 1 0
+0.203509487799 0.0663716909878 0.0 0.0 0.0 0.0937596892511 0.0 0.0 0.0 0.358908491544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.0 0.0 0.553706429008 0.0 0.0 0.427381218603 0.638215066598 0.483222526556 0.1575406089 0.230077421876 0.691534080487 0.0
+a2x3f103glztzs
+But government's attorneys says that Interior Secretary had used his powers.
+but governments attorneys says that interior secretary had used his powers
+1 0 0 1 0 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1
+0.240511212853 0.0 0.0 0.703380007076 0.0 0.110806905479 0.526479084434 0.547229870978 0.311489177495 0.424164580916 0.242488891491 0.0 0.0 0.0 0.562416605948 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.505086894713 0.0 0.0 0.0 0.0 0.0 0.400917333484

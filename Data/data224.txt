@@ -1,0 +1,88 @@
+bbc_urd_20090117.0016__14
+investigating the information provided to pakistan by india regarding mumbai attacks is attack on studying has about given from bombay being verified this team informations investigate which will was investigated
+investigating the information provided to Pakistan by India regarding the Mumbai attacks.
+investigating the information provided to pakistan by india regarding the mumbai attacks
+1 2 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.551253107646 0.0719026652368 0.391623633765 0.457157356602 0.0893672243655 0.198102516184 0.207764004679 0.253220805326 0.44602974055 0.316647319867 0.268078791888 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+is investigating the Mumbai attack on the information provided to Pakistan by India.
+is investigating the mumbai attack on the information provided to pakistan by india
+1 2 1 1 1 1 1 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.508849022443 0.0663716909878 0.36149873886 0.421991406094 0.0824928224913 0.182863861093 0.191782158165 0.233742281839 0.0 0.292289833723 0.0 0.102032150947 0.288119540139 0.143729898066 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+studying the information India has provided to Pakistan regarding Mumbai attacks.
+studying the information india has provided to pakistan regarding mumbai attacks
+0 1 1 1 1 1 0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0392196355837 0.427225782289 0.498717116293 0.0974915174897 0.216111835837 0.0 0.276240878537 0.486577898782 0.345433439855 0.29244959115 0.0 0.0 0.0 0.615029044982 0.186184355973 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+to Pakistan about the Mumbai attacks.
+to pakistan about the mumbai attacks
+0 1 0 0 1 1 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0719026652368 0.0 0.0 0.178734448731 0.396205032368 0.0 0.0 0.0 0.633294639734 0.536157583775 0.0 0.0 0.0 0.0 0.0 0.525611898105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+the information given to Pakistan from India regarding the Bombay attacks.
+the information given to pakistan from india regarding the bombay attacks
+0 2 1 0 1 1 0 1 1 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.0784392711674 0.427225782289 0.0 0.0974915174897 0.216111835837 0.0 0.276240878537 0.486577898782 0.0 0.29244959115 0.0 0.0 0.0 0.0 0.0 0.0 0.396370931614 0.215867948123 0.53026751138 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+to Pakistan, is being verified by this team.
+to pakistan is being verified by this team
+0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.134050836548 0.297153774276 0.311646007018 0.0 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.459900394973 0.894670197823 0.216529421146 0.574823135528 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+investigating on informations provided to Pakistan.
+investigating on informations provided to pakistan
+1 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+1.10250621529 0.0 0.0 0.914314713205 0.178734448731 0.396205032368 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.311414779144 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.43074632304 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+Pakistan is to investigate on the Information.
+pakistan is to investigate on the information
+0 1 1 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0616308559173 0.67135480074 0.0 0.153200956055 0.339604313458 0.0 0.0 0.0 0.0 0.0 0.18948828033 0.0 0.266926953552 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.951809334392 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+which will investigate the information given to Pakistan from India regarding the Bombay attacks.
+which will investigate the information given to pakistan from india regarding the bombay attacks
+0 2 1 0 1 1 0 1 1 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 1 1 0 0
+0.0 0.0616308559173 0.33567740037 0.0 0.0766004780276 0.169802156729 0.0 0.217046404565 0.382311206186 0.0 0.229781821618 0.0 0.0 0.0 0.0 0.0 0.0 0.311434303411 0.169610530668 0.416638758941 0.0 0.0 0.0 0.0 0.0 0.475904667196 0.214669802922 0.159086681386 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+Information was given to Pakistan from India regarding the Bombay attacks.
+information was given to pakistan from india regarding the bombay attacks
+0 1 1 0 1 1 0 1 1 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0
+0.0 0.0392196355837 0.427225782289 0.0 0.0974915174897 0.216111835837 0.0 0.276240878537 0.486577898782 0.0 0.29244959115 0.0 0.0 0.0 0.0 0.0 0.0 0.396370931614 0.215867948123 0.53026751138 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.198289065141 0.0
+adu3xkpx6ttsa
+to Pakistan is being verified by this team.
+to pakistan is being verified by this team
+0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.134050836548 0.297153774276 0.311646007018 0.0 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.459900394973 0.894670197823 0.216529421146 0.574823135528 0.0 0.0 0.0 0.0 0.0 0.0
+a2qjcd350isb7f
+to Pakistan, is being verified by this team.
+to pakistan is being verified by this team
+0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.134050836548 0.297153774276 0.311646007018 0.0 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.459900394973 0.894670197823 0.216529421146 0.574823135528 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+to Pakistan, is being verified by this team.
+to pakistan is being verified by this team
+0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.134050836548 0.297153774276 0.311646007018 0.0 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.459900394973 0.894670197823 0.216529421146 0.574823135528 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+investigating on informations provided to Pakistan.
+investigating on informations provided to pakistan
+1 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+1.10250621529 0.0 0.0 0.914314713205 0.178734448731 0.396205032368 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.311414779144 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.43074632304 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+Investigated information was provided to Pakistan.
+investigated information was provided to pakistan
+0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
+0.0 0.0 0.78324726753 0.914314713205 0.178734448731 0.396205032368 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.363529952759 1.38279931096
+a2qxd8jqk5bvez
+investigating on information provided to Pakistan.
+investigating on information provided to pakistan
+1 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.10250621529 0.0 0.78324726753 0.914314713205 0.178734448731 0.396205032368 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.311414779144 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31i8s2vq4xqm7
+Pakistan is to investigate on the Information.
+pakistan is to investigate on the information
+0 1 1 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0616308559173 0.67135480074 0.0 0.153200956055 0.339604313458 0.0 0.0 0.0 0.0 0.0 0.18948828033 0.0 0.266926953552 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.951809334392 0.0 0.0 0.0 0.0

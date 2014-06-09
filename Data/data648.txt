@@ -1,0 +1,88 @@
+voa_urd_20090117.0003__6
+on behalf of the democratic party presidentelect barack obama shed light historical significance oathtaking ceremony in his radio speech saturday saturdays newly elected president highlighted importance inauguration address swearingin historic broadcast spoke oath taking new bark defined at from barrack threw platform weekly a for during last presidential
+On behalf of the Democratic Party, President-elect Barack Obama shed light on the historical significance of the oath-taking ceremony in his radio speech on Saturday.
+on behalf of the democratic party presidentelect barack obama shed light on the historical significance of the oathtaking ceremony in his radio speech on saturday
+3 1 2 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.224218640983 0.251275713809 0.067737303677 0.0517699189705 0.221916946806 0.157411634673 0.299434625982 0.177548048095 0.138222636128 0.273995075313 0.250614541731 0.246861791522 0.327160513205 0.327160513205 0.220657000124 0.040833790551 0.106695112256 0.243982851537 0.211793321699 0.245109686616 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+In his speech on Saturday's radio, on behalf of the Democratic Party, the newly elected president, Barack Obama, highlighted the historical importance of the inauguration ceremony.
+in his speech on saturdays radio on behalf of the democratic party the newly elected president barack obama highlighted the historical importance of the inauguration ceremony
+2 1 2 4 1 1 0 1 1 0 0 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.143729898066 0.241611263278 0.0651320227664 0.0663716909878 0.213381679621 0.151357341031 0.0 0.170719277014 0.132906380892 0.0 0.0 0.237367107233 0.0 0.0 0.212170192426 0.0392632601452 0.102591454092 0.234598895709 0.20364742471 0.0 0.372426547188 0.220455634935 0.187186502724 0.108676006321 0.303512721449 0.232016614831 0.306859312871 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The newly elected President Obama in his Saturday radio address highlighted the historical importance of the swearing-in ceremony.
+the newly elected president obama in his saturday radio address highlighted the historical importance of the swearingin ceremony
+0 0 1 3 0 0 0 0 1 0 0 1 0 0 1 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0470397942201 0.0719026652368 0.0 0.0 0.0 0.0 0.191975883511 0.0 0.0 0.342863599337 0.0 0.0 0.306468055727 0.0567135979875 0.148187655911 0.33886507158 0.0 0.3404301203 0.0 0.318435917128 0.270380503935 0.156976453575 0.438407264315 0.335135110311 0.0 0.354847408938 0.454389601673 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+In his radio speech on behalf of the Democratic Party on Saturday, President-elect Barack Obama highlighted the historic significance of his inauguration.
+in his radio speech on behalf of the democratic party on saturday presidentelect barack obama highlighted the historic significance of his inauguration
+2 1 2 2 1 1 1 1 1 0 0 0 1 0 0 1 2 1 1 1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.169862606806 0.285540583874 0.0769742087239 0.0392196355837 0.252178348643 0.178876857583 0.340266620434 0.201759145562 0.157071177418 0.0 0.0 0.0 0.37177331046 0.0 0.0 0.046402034717 0.242488891491 0.277253240383 0.240674229203 0.278533734791 0.0 0.0 0.0 0.0 0.358696852621 0.0 0.362651915211 0.0 0.0 0.301753081326 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Newly elected president Barack Obama, in the radio broadcast on behalf of the Democratic party, on Saturday, spoke on the historical importance of the oath taking ceremony.
+newly elected president barack obama in the radio broadcast on behalf of the democratic party on saturday spoke on the historical importance of the oath taking ceremony
+3 1 2 4 1 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.207609852762 0.232662697971 0.0627197256269 0.0639134802105 0.20547865445 0.145751513586 0.0 0.164396340828 0.127983922341 0.0 0.0 0.228575732891 0.0 0.0 0.204312037151 0.037809065325 0.0 0.22591004772 0.0 0.226953413533 0.0 0.212290611419 0.18025366929 0.10465096905 0.0 0.223423406874 0.0 0.0 0.0 0.0 0.317943627342 0.25833481577 0.185913004918 0.175609177936 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+New elected President Bark Obama defined at the importance taking oath party from democratic party.
+new elected president bark obama defined at the importance taking oath party from democratic party
+0 0 0 1 1 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0287610660947 0.36986157801 0.524705448909 0.0 0.0 0.230371060213 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.324456604721 0.18837174429 0.0 0.402162132373 0.0 0.0 0.0 0.0 0.0 0.0 0.334643408852 0.316096520285 0.244706554173 0.520752536666 0.599329536422 0.206507231009 0.158303161957 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Newly elected President Barrack Obama shed light on the historical importance of his oath taking ceremony in his speech on radio on Saturday.
+newly elected president barrack obama shed light on the historical importance of his oath taking ceremony in his speech on radio on saturday
+3 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 2 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.243715914112 0.0 0.0368137519984 0.0187572170183 0.0 0.0 0.0 0.0 0.150241995791 0.297820734036 0.272407110577 0.268328034263 0.0 0.0 0.239844565352 0.0443845549467 0.231945896209 0.265198751671 0.230210132281 0.266423572409 0.0 0.249210717753 0.211602133514 0.12285113758 0.0 0.262279651548 0.0 0.0 0.0 0.0 0.0 0.0 0.218245701425 0.206149904534 0.0 0.0 0.0 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Newly elected President Barack Obama threw light from the platform of Democratic party on the historical importance of Oath ceremony in his speech on weekly radio.
+newly elected president barack obama threw light from the platform of democratic party on the historical importance of oath ceremony in his speech on weekly radio
+2 0 2 2 1 1 0 1 1 0 1 1 0 0 1 1 1 1 1 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0
+0.143729898066 0.0 0.0651320227664 0.0331858454939 0.213381679621 0.151357341031 0.0 0.170719277014 0.132906380892 0.0 0.240975520895 0.237367107233 0.0 0.0 0.212170192426 0.0392632601452 0.102591454092 0.234598895709 0.20364742471 0.0 0.0 0.220455634935 0.187186502724 0.108676006321 0.0 0.232016614831 0.0 0.0 0.0 0.0 0.0 0.0 0.193063505107 0.0 0.0 0.0 0.0 0.0 0.0913287472827 0.0 0.294930277167 0.297583849147 0.264604994076 0.0 0.0 0.0 0.0 0.0
+a32er0cmyxljd0
+In a radio broadcast on behalf of the Democratic party on Saturday, newly elected president Barack Obama spoke on the historical importance of the oath taking ceremony.
+in a radio broadcast on behalf of the democratic party on saturday newly elected president barack obama spoke on the historical importance of the oath taking ceremony
+3 1 2 3 1 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.207609852762 0.232662697971 0.0627197256269 0.0479351101579 0.20547865445 0.145751513586 0.0 0.164396340828 0.127983922341 0.0 0.0 0.228575732891 0.0 0.0 0.204312037151 0.037809065325 0.0 0.22591004772 0.0 0.226953413533 0.0 0.212290611419 0.18025366929 0.10465096905 0.0 0.223423406874 0.0 0.0 0.0 0.0 0.317943627342 0.25833481577 0.185913004918 0.175609177936 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0529482295757 0.0 0.0 0.0 0.0
+a3m4exda4ue7bp
+Newly elected president, Barack Obama, in the radio broadcast on behalf of the Democratic party, on Saturday, spoke on the historical importance of the oath taking ceremony.
+newly elected president barack obama in the radio broadcast on behalf of the democratic party on saturday spoke on the historical importance of the oath taking ceremony
+3 1 2 4 1 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.207609852762 0.232662697971 0.0627197256269 0.0639134802105 0.20547865445 0.145751513586 0.0 0.164396340828 0.127983922341 0.0 0.0 0.228575732891 0.0 0.0 0.204312037151 0.037809065325 0.0 0.22591004772 0.0 0.226953413533 0.0 0.212290611419 0.18025366929 0.10465096905 0.0 0.223423406874 0.0 0.0 0.0 0.0 0.317943627342 0.25833481577 0.185913004918 0.175609177936 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2u70ov2bw11tg
+Newly elected president Barack Obama, spoke on the historical importance of the oath taking ceremony, in the radio broadcast behalf of the Democratic party on Saturday.
+newly elected president barack obama spoke on the historical importance of the oath taking ceremony in the radio broadcast behalf of the democratic party on saturday
+2 1 2 4 1 1 0 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.143729898066 0.241611263278 0.0651320227664 0.0663716909878 0.213381679621 0.151357341031 0.0 0.170719277014 0.132906380892 0.0 0.0 0.237367107233 0.0 0.0 0.212170192426 0.0392632601452 0.0 0.234598895709 0.0 0.235682390977 0.0 0.220455634935 0.187186502724 0.108676006321 0.0 0.232016614831 0.0 0.0 0.0 0.0 0.330172228393 0.268270770223 0.193063505107 0.182363377088 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+New elected President Bark Obama defined at the importance taking oath party from democratic party.
+new elected president bark obama defined at the importance taking oath party from democratic party
+0 0 0 1 1 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0287610660947 0.36986157801 0.524705448909 0.0 0.0 0.230371060213 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.324456604721 0.18837174429 0.0 0.402162132373 0.0 0.0 0.0 0.0 0.0 0.0 0.334643408852 0.316096520285 0.244706554173 0.520752536666 0.599329536422 0.206507231009 0.158303161957 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a12zj8iew88ie8
+New elected President Barack Obama defined the importance of taking the oath for the democratic party.
+new elected president barack obama defined the importance of taking the oath for the democratic party
+0 0 1 3 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0
+0.0 0.0 0.0529197684977 0.0808904983914 0.346745229384 0.245955679176 0.0 0.277418825148 0.21597286895 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.304178066926 0.176598510272 0.0 0.3770269991 0.0 0.0 0.0 0.0 0.0 0.0 0.313728195799 0.296340487768 0.229412394537 0.0 0.561871440396 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120618497313 0.0 0.0 0.0
+a2qv233zodzqg8
+Newly elected President Bark Obama defined the importance taking oath from the democratic party.
+newly elected president bark obama defined the importance taking oath from the democratic party
+0 0 0 2 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0616308559173 0.396280262153 0.281092204773 0.0 0.0 0.246826135943 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.409417607736 0.347632076487 0.201826868882 0.0 0.430887998971 0.0 0.0 0.0 0.0 0.0 0.0 0.358546509484 0.338674843163 0.0 0.557949146428 0.642138789024 0.0 0.169610530668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+During his radio speech last Saturday, newly elected President Barrack Obama shed light on the historical importance of his presidential oath taking ceremony.
+during his radio speech last saturday newly elected president barrack obama shed light on the historical importance of his presidential oath taking ceremony
+1 0 1 1 0 0 0 0 1 1 1 1 0 0 1 0 2 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1
+0.0812386380375 0.0 0.0368137519984 0.0187572170183 0.0 0.0 0.0 0.0 0.150241995791 0.297820734036 0.272407110577 0.268328034263 0.0 0.0 0.239844565352 0.0 0.231945896209 0.265198751671 0.230210132281 0.266423572409 0.0 0.249210717753 0.211602133514 0.12285113758 0.0 0.262279651548 0.0 0.0 0.0 0.0 0.0 0.0 0.218245701425 0.206149904534 0.0 0.0 0.0 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.0 0.0 0.166560336831 0.175167312948 0.259017252159
+a2zhr3rebfem5a
+Newly elected President Barrack Obama shed light on the historical importance of his oath taking ceremony in his speech on radio on Saturday.
+newly elected president barrack obama shed light on the historical importance of his oath taking ceremony in his speech on radio on saturday
+3 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 2 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.243715914112 0.0 0.0368137519984 0.0187572170183 0.0 0.0 0.0 0.0 0.150241995791 0.297820734036 0.272407110577 0.268328034263 0.0 0.0 0.239844565352 0.0443845549467 0.231945896209 0.265198751671 0.230210132281 0.266423572409 0.0 0.249210717753 0.211602133514 0.12285113758 0.0 0.262279651548 0.0 0.0 0.0 0.0 0.0 0.0 0.218245701425 0.206149904534 0.0 0.0 0.0 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a14431riqpx72z
+Newly elected President Barrack Obama shed light on the historical importance of his oath taking ceremony in his speech on radio on Saturday.
+newly elected president barrack obama shed light on the historical importance of his oath taking ceremony in his speech on radio on saturday
+3 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 2 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.243715914112 0.0 0.0368137519984 0.0187572170183 0.0 0.0 0.0 0.0 0.150241995791 0.297820734036 0.272407110577 0.268328034263 0.0 0.0 0.239844565352 0.0443845549467 0.231945896209 0.265198751671 0.230210132281 0.266423572409 0.0 0.249210717753 0.211602133514 0.12285113758 0.0 0.262279651548 0.0 0.0 0.0 0.0 0.0 0.0 0.218245701425 0.206149904534 0.0 0.0 0.0 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3i6odkoktfoow
+President-elect Barack Obama threw light from the platform of Democratic party, on the historical importance of Oath ceremony, in his weekly speech on radio.
+presidentelect barack obama threw light from the platform of democratic party on the historical importance of oath ceremony in his weekly speech on radio
+2 0 2 2 1 1 1 1 1 0 1 1 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0
+0.155707389572 0.0 0.0705596913302 0.0359513326184 0.231163486256 0.163970452784 0.311911068731 0.184945883432 0.143981912633 0.0 0.261056814303 0.257147699502 0.0 0.0 0.229851041795 0.0425351984906 0.111140741933 0.254148803685 0.220618043436 0.0 0.0 0.0 0.0 0.0 0.0 0.251351332733 0.0 0.0 0.0 0.0 0.0 0.0 0.209152130532 0.0 0.0 0.0 0.0 0.0 0.0989394762229 0.0 0.319507800264 0.322382503243 0.286655410249 0.0 0.0 0.0 0.0 0.0

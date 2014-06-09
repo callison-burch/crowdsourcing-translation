@@ -1,0 +1,88 @@
+bbc_urd_20090113.0021__1
+consitutional amendment committee will be formed constitutional to constituted amendments a legal council comitte has been chosen was look at environmental changes comittee
+"Consitutional Amendment": Committee Will Be Formed
+consitutional amendment committee will be formed
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.72937290124 0.852257869758 0.824481963083 0.371202256566 0.360566303796 0.98126683962 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Constitutional Amendment: Committee to be Constituted
+constitutional amendment committee to be constituted
+0 1 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.852257869758 0.824481963083 0.0 0.360566303796 0.0 1.23008418898 0.178734448731 1.49832384105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+'Constitutional Amendment': Committee to be Formed.
+constitutional amendment committee to be formed
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.852257869758 0.824481963083 0.0 0.360566303796 0.98126683962 1.23008418898 0.178734448731 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Constitutional Amendment: Committee Constituted
+constitutional amendment committee constituted
+0 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 1.27838680464 1.23672294462 0.0 0.0 0.0 1.84512628347 0.0 2.24748576158 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qlm59qc9g1uf
+Constitutional Amendments: A committee will be formed.
+constitutional amendments a committee will be formed
+0 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.706698825499 0.318173362771 0.309056831825 0.841085862531 1.05435787627 0.0 0.0 1.12733296538 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Legal committee formed.
+legal committee formed
+0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 1.64896392617 0.0 0.0 1.96253367924 0.0 0.0 0.0 0.0 0.0 2.05224323409 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Constitutional Amendment; Committee to be formed
+constitutional amendment committee to be formed
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.852257869758 0.824481963083 0.0 0.360566303796 0.98126683962 1.23008418898 0.178734448731 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+Council: 'comitte has been chosen'
+council comitte has been chosen
+0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.06146664105 2.07524748149 0.40960558314 0.581088726651 1.39500800516 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Constitutional Amendments: A committee will be formed.
+constitutional amendments a committee will be formed
+0 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.706698825499 0.318173362771 0.309056831825 0.841085862531 1.05435787627 0.0 0.0 1.12733296538 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1b6zigmal4vx5
+Constitutional Amendments: A committee will be formed.
+constitutional amendments a committee will be formed
+0 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.706698825499 0.318173362771 0.309056831825 0.841085862531 1.05435787627 0.0 0.0 1.12733296538 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Constitutional Amendments: A committee will be formed.
+constitutional amendments a committee will be formed
+0 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.706698825499 0.318173362771 0.309056831825 0.841085862531 1.05435787627 0.0 0.0 1.12733296538 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a24bjjrcqbm3mi
+Legal committee was formed to look at environmental changes.
+legal committee was formed to look at environmental changes
+0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 0 1 1 1 1 1 0
+0.0 0.0 0.549654642055 0.0 0.0 0.65417789308 0.0 0.119156299154 0.0 0.0 0.0 0.68408107803 0.0 0.0 0.0 0.0 0.0 0.242353301839 0.634755368149 0.344178718348 0.844849853912 0.646928946205 0.0
+a12ezody9kxiim
+Legal committee formed.
+legal committee formed
+0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 1.64896392617 0.0 0.0 1.96253367924 0.0 0.0 0.0 0.0 0.0 2.05224323409 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Legal committee formed.
+legal committee formed
+0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 1.64896392617 0.0 0.0 1.96253367924 0.0 0.0 0.0 0.0 0.0 2.05224323409 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Constitutional Amendment; Committee to be formed.
+constitutional amendment committee to be formed
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.852257869758 0.824481963083 0.0 0.360566303796 0.98126683962 1.23008418898 0.178734448731 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+Constitutional Amendment Committee to be Formed
+constitutional amendment committee to be formed
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.852257869758 0.824481963083 0.0 0.360566303796 0.98126683962 1.23008418898 0.178734448731 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Constitutional Amendment; Committee to be formed
+constitutional amendment committee to be formed
+0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.852257869758 0.824481963083 0.0 0.360566303796 0.98126683962 1.23008418898 0.178734448731 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+Council: 'comittee has been chosen'
+council comittee has been chosen
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 1
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.06146664105 0.0 0.40960558314 0.581088726651 1.39500800516 0.0 0.0 0.0 0.0 0.0 1.85552502376

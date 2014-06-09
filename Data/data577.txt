@@ -1,0 +1,88 @@
+voa_urd_20090101.0016__8
+on the occasion of strike there were widespread arrangements for security made by government and police officers posted at important locations all over city time a huge scale officials deployed strategic points throughout had large been stationed extraordinary because personnel to in many under taken main during behalf biggest appointed places whole amount was provided arranged vastly undertaken tight major traffic areas olice heavy
+On the occasion of the strike, there were widespread arrangements for security made by the government, and police officers were posted at important locations all over the city.
+on the occasion of the strike there were widespread arrangements for security made by the government and police officers were posted at important locations all over the city
+1 4 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0667317383879 0.0616308559173 0.205754174665 0.0302398677129 0.199301673638 0.10294155431 0.208514665595 0.306588497794 0.224953570127 0.0689248556073 0.140262429047 0.140603108441 0.0890417162909 0.107719051231 0.0357370309503 0.136307934641 0.244638460101 0.230864800072 0.110628873755 0.16735278404 0.281833241345 0.113050676928 0.134531720153 0.171169324952 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+At the time of the strike, security arrangements were made on a huge scale by the government, and police officials were deployed at the strategic points throughout the city.
+at the time of the strike security arrangements were made on a huge scale by the government and police officials were deployed at the strategic points throughout the city
+1 5 0 1 1 0 2 0 1 0 1 1 1 1 1 1 0 0 2 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0644306439607 0.0743820674863 0.0 0.0291971136539 0.192429202133 0.0 0.201324504712 0.0 0.217196550467 0.0 0.135425793562 0.135754725391 0.0859713122808 0.104004601188 0.0345047195382 0.131607661033 0.0 0.0 0.213628170009 0.0 0.0 0.0 0.0 0.165266934437 0.132648916179 0.049296627536 0.228104734198 0.235203080895 0.155120745713 0.211301453979 0.25626891132 0.260104278048 0.208922389445 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Government had made large scale security arrangements for the strike and police officials had been stationed at important locations throughout the city.
+government had made large scale security arrangements for the strike and police officials had been stationed at important locations throughout the city
+0 2 0 0 1 0 0 0 1 1 1 1 0 1 1 1 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 0 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0392196355837 0.0 0.0 0.253656675539 0.0 0.0 0.0 0.286304543797 0.0877225435003 0.178515818787 0.178949410743 0.0 0.137096974294 0.0454834939367 0.173482825907 0.0 0.0 0.140800384779 0.212994452415 0.358696852621 0.0 0.0 0.217851868121 0.0 0.0 0.0 0.310040424816 0.204477346621 0.0 0.0 0.0 0.275397695178 0.311489177495 0.247681078286 0.132065619693 0.377127084808 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The government made extraordinary security arrangements because of the strike and police personnel were deployed to all important locations in the city.
+the government made extraordinary security arrangements because of the strike and police personnel were deployed to all important locations in the city
+0 3 0 1 1 0 1 0 1 0 1 1 0 1 1 1 0 0 0 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0588294533756 0.0 0.0384871043619 0.253656675539 0.0 0.132691150833 0.0 0.286304543797 0.0 0.178515818787 0.178949410743 0.0 0.137096974294 0.0454834939367 0.173482825907 0.0 0.0 0.0 0.212994452415 0.358696852621 0.143882679726 0.0 0.217851868121 0.0 0.0 0.0 0.0 0.0 0.278533734791 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.358696852621 0.179534043181 0.303970816061 0.0487457587448 0.046402034717 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+On the time of strike many arrangements were under taken by government and there were police at main points.
+on the time of strike many arrangements were under taken by government and there were police at main points
+1 1 0 1 1 1 2 0 1 0 0 0 1 1 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0983415092032 0.0227061048116 0.0 0.044564015577 0.293707729571 0.151703343193 0.30728477035 0.0 0.331510524397 0.0 0.0 0.0 0.131219371376 0.158743864972 0.0526650982425 0.20087485105 0.0 0.0 0.16303202448 0.0 0.0 0.0 0.0 0.0 0.20246413522 0.0 0.0 0.0 0.0 0.0 0.0 0.397001266494 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.205876268619 0.230123702123 0.228839941433 0.308704100049 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+During the strike on behalf of the government security arrangements were made at the biggest and the police were appointed on the main places of the whole city.
+during the strike on behalf of the government security arrangements were made at the biggest and the police were appointed on the main places of the whole city
+2 6 0 2 1 0 2 0 1 0 1 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.133463476776 0.0924462838759 0.0 0.0604797354259 0.199301673638 0.0 0.208514665595 0.0 0.224953570127 0.0 0.140262429047 0.140603108441 0.0 0.107719051231 0.0357370309503 0.136307934641 0.0 0.0 0.110628873755 0.0 0.0 0.0 0.0 0.171169324952 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.209477782176 0.13681741954 0.224353315901 0.191155603093 0.205402306934 0.222610810038 0.165017685495 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+A large amount of security was provided by the government during the strike, and police officers were posted throughout the city, at important locations.
+a large amount of security was provided by the government during the strike and police officers were posted throughout the city at important locations
+0 3 0 1 1 0 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0539269989276 0.0 0.0352798456651 0.232518619244 0.0 0.12163355493 0.0 0.0 0.0 0.163639500554 0.0 0.103882002339 0.125672226436 0.0416932027753 0.159025923748 0.285411536785 0.269342266751 0.12906701938 0.195244914714 0.328805448236 0.0 0.0 0.199697545778 0.0 0.0595667582727 0.0 0.0 0.0 0.0 0.0 0.0 0.252447887246 0.0 0.227040988429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.159620322796 0.0 0.0 0.0 0.0 0.0 0.303549789754 0.0908824881898 0.228578678301 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Government arranged security vastly during strike and police was deployed at all the important places of the city.
+government arranged security vastly during strike and police was deployed at all the important places of the city
+0 2 0 1 1 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0
+0.0 0.0479351101579 0.0 0.0470397942201 0.310024825659 0.0 0.0 0.0 0.0 0.0 0.218186000739 0.0 0.0 0.167562968581 0.0555909370338 0.212034564998 0.0 0.0 0.172089359174 0.260326552951 0.0 0.175856608554 0.0 0.26626339437 0.0 0.0 0.0 0.0 0.0 0.3404301203 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.212827097062 0.0 0.0 0.0 0.346283482281 0.0 0.0 0.12117665092 0.0 0.448536239692 0.576457633747 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+During the strike, many arrangements were undertaken by government and there were police at main points.
+during the strike many arrangements were undertaken by government and there were police at main points
+0 1 0 0 1 1 2 0 1 0 0 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0269634994638 0.0 0.0 0.348777928866 0.180147720042 0.364900664791 0.0 0.393668747722 0.0 0.0 0.0 0.155823003509 0.188508339654 0.062539804163 0.238538885622 0.0 0.0 0.193600529071 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.471439003962 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.244478068985 0.0 0.0 0.366586118808 0.239430484195 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.511188301882 0.0 0.0 0.0 0.0 0.0 0.0
+a2miig4vdudbb6
+On the time of strike, many arrangements were undertaken by government, and there were police at main points.
+on the time of strike many arrangements were undertaken by government and there were police at main points
+1 1 0 1 1 1 2 0 1 0 0 0 1 1 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.103804926381 0.0239675550789 0.0 0.0470397942201 0.310024825659 0.160131306704 0.324356146481 0.0 0.349927775752 0.0 0.0 0.0 0.138509336452 0.167562968581 0.0555909370338 0.212034564998 0.0 0.0 0.172089359174 0.0 0.0 0.0 0.0 0.0 0.213712142733 0.0 0.0 0.0 0.0 0.0 0.0 0.419056892411 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.217313839098 0.0 0.0 0.32585432783 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.454389601673 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+At the time of strike, many arrangements were under taken by the government and there were police at main points.
+at the time of strike many arrangements were under taken by the government and there were police at main points
+0 2 0 1 1 1 2 0 1 0 0 0 1 1 1 1 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0431415991421 0.0 0.0423358147981 0.279022343093 0.144118176033 0.291920531833 0.0 0.314934998177 0.0 0.0 0.0 0.124658402807 0.150806671723 0.0500318433304 0.190831108498 0.0 0.0 0.309760846513 0.0 0.0 0.0 0.0 0.0 0.192340928459 0.0 0.0 0.0 0.0 0.0 0.0 0.37715120317 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.195582455188 0.218617517017 0.217397944361 0.293268895047 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+During the strike on behalf of the government security arrangements were made at the biggest and the police were appointed on the main places of the whole city.
+during the strike on behalf of the government security arrangements were made at the biggest and the police were appointed on the main places of the whole city
+2 6 0 2 1 0 2 0 1 0 1 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.133463476776 0.0924462838759 0.0 0.0604797354259 0.199301673638 0.0 0.208514665595 0.0 0.224953570127 0.0 0.140262429047 0.140603108441 0.0 0.107719051231 0.0357370309503 0.136307934641 0.0 0.0 0.110628873755 0.0 0.0 0.0 0.0 0.171169324952 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.209477782176 0.13681741954 0.224353315901 0.191155603093 0.205402306934 0.222610810038 0.165017685495 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g9f1kosfkijh
+During the strike on behalf of the government security arrangements were made and the police were appointed to the main places of the whole city.
+during the strike on behalf of the government security arrangements were made and the police were appointed to the main places of the whole city
+1 5 0 2 1 0 2 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0747395469945 0.0862831982842 0.0 0.067737303677 0.223217874474 0.0 0.233536425466 0.0 0.251947998542 0.0 0.157093920532 0.157475481454 0.0 0.120645337378 0.0400254746643 0.152664886798 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.191709643947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0428962676955 0.0 0.0 0.0 0.0 0.234615116037 0.153235509885 0.251275713809 0.0 0.230050583767 0.249324107242 0.184819807755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1gnof24z9gaez
+During the strike, on behalf of the government, tight security arrangements were made and police were appointed at major city traffic areas.
+during the strike on behalf of the government tight security arrangements were made and police were appointed at major city traffic areas
+1 2 0 1 1 0 2 0 1 0 1 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0
+0.0849313034028 0.0392196355837 0.0 0.0384871043619 0.253656675539 0.0 0.265382301666 0.0 0.286304543797 0.0 0.178515818787 0.178949410743 0.0 0.137096974294 0.0454834939367 0.173482825907 0.0 0.0 0.140800384779 0.0 0.0 0.0 0.0 0.217851868121 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.174131261233 0.285540583874 0.0 0.261421117917 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.37177331046 0.265619905195 0.286304543797 0.225058517726 0.0 0.0
+a230hf2okthmdz
+A large amount of security was provided by the government during the strike and police officers were posted throughout the city at important locations.
+a large amount of security was provided by the government during the strike and police officers were posted throughout the city at important locations
+0 3 0 1 1 0 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0539269989276 0.0 0.0352798456651 0.232518619244 0.0 0.12163355493 0.0 0.0 0.0 0.163639500554 0.0 0.103882002339 0.125672226436 0.0416932027753 0.159025923748 0.285411536785 0.269342266751 0.12906701938 0.195244914714 0.328805448236 0.0 0.0 0.199697545778 0.0 0.0595667582727 0.0 0.0 0.0 0.0 0.0 0.0 0.252447887246 0.0 0.227040988429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.159620322796 0.0 0.0 0.0 0.0 0.0 0.303549789754 0.0908824881898 0.228578678301 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+A large amount of security was provided by the government during the strike, and police officers were posted throughout the city, at important locations.
+a large amount of security was provided by the government during the strike and police officers were posted throughout the city at important locations
+0 3 0 1 1 0 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0539269989276 0.0 0.0352798456651 0.232518619244 0.0 0.12163355493 0.0 0.0 0.0 0.163639500554 0.0 0.103882002339 0.125672226436 0.0416932027753 0.159025923748 0.285411536785 0.269342266751 0.12906701938 0.195244914714 0.328805448236 0.0 0.0 0.199697545778 0.0 0.0595667582727 0.0 0.0 0.0 0.0 0.0 0.0 0.252447887246 0.0 0.227040988429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.159620322796 0.0 0.0 0.0 0.0 0.0 0.303549789754 0.0908824881898 0.228578678301 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3pkikuziexv59
+A large amount of security was provided by the government during the strike and olice officers were posted throughout the city.
+a large amount of security was provided by the government during the strike and olice officers were posted throughout the city
+0 3 0 1 1 0 1 0 0 0 1 0 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0
+0.0 0.0616308559173 0.0 0.0403198236173 0.26573556485 0.0 0.139009777063 0.0 0.0 0.0 0.187016572062 0.0 0.118722288388 0.143625401641 0.0476493746004 0.0 0.326184613468 0.30781973343 0.0 0.0 0.0 0.0 0.0 0.228225766603 0.0 0.0680762951688 0.0 0.0 0.0 0.0 0.0 0.0 0.288511871139 0.0 0.259475415347 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.182423226053 0.0 0.0 0.0 0.0 0.0 0.346914045433 0.103865700788 0.261232775201 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.494106543212 0.0
+a3ohqrf1mdq99b
+Government arranged heavy security during the strike, and police were deployed to all the important places of the city.
+government arranged heavy security during the strike and police were deployed to all the important places of the city
+0 3 0 1 1 0 1 0 0 0 1 0 0 1 1 1 0 0 0 1 0 1 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1
+0.0 0.0681183144349 0.0 0.044564015577 0.293707729571 0.0 0.153642385175 0.0 0.0 0.0 0.206702527016 0.0 0.0 0.158743864972 0.0526650982425 0.20087485105 0.0 0.0 0.0 0.246625155428 0.0 0.166600997578 0.0 0.252249531509 0.0 0.0 0.0 0.0 0.0 0.322512745547 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.056442457494 0.0 0.0 0.0 0.0 0.0 0.201625670901 0.0 0.0 0.0 0.328058035845 0.0 0.0 0.0 0.0 0.424929069182 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.393992928924

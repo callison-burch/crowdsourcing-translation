@@ -1,0 +1,88 @@
+bbc_urd_20090102.0020__14
+the demonstrators were holding banners and signs featuring slogans against israel placards on which there protesters also posters with written them protestors carried inscribed antiisraeli having anti it strikers hold pads containing raised that spoke israeli attacks of had antiisrael held displayed
+The demonstrators were holding banners and signs featuring slogans against Israel.
+the demonstrators were holding banners and signs featuring slogans against israel
+1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0392196355837 0.743546620919 0.265382301666 0.571081167748 0.680533240869 0.0909669878735 0.654380325191 0.943294309768 0.589492464485 0.290768635569 0.302452960563 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The demonstrators were holding banners and placards on which there were slogans against Israel.
+the demonstrators were holding banners and placards on which there were slogans against israel
+1 1 2 1 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0308154279586 0.584215202151 0.41702933119 0.448706631802 0.534704689254 0.0714740619006 0.0 0.0 0.463172650667 0.228461070804 0.237641611871 0.576689451033 0.133463476776 0.214669802922 0.205883108619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Protesters were also holding banners and posters with slogans written on them against Israel.
+protesters were also holding banners and posters with slogans written on them against israel
+0 0 1 1 1 1 0 0 1 1 1 0 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.208514665595 0.448706631802 0.534704689254 0.0714740619006 0.0 0.0 0.463172650667 0.228461070804 0.237641611871 0.0 0.133463476776 0.0 0.0 0.527178938135 0.199936819755 0.547727657596 0.16856567921 0.395711107178 0.246124474393 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The protestors carried banners and placards inscribed with anti-Israeli slogans.
+the protestors carried banners and placards inscribed with antiisraeli slogans
+1 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.0 0.0 0.0 0.748586564955 0.100063686661 0.0 0.0 0.648441710934 0.0 0.0 0.807365231446 0.0 0.0 0.0 0.0 0.0 0.0 0.235991950895 0.0 0.0 0.829679586577 0.557221636272 1.03762374074 0.968309022689 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Protesters carried banners and placards, on which slogans against Israel were written.
+protesters carried banners and placards on which slogans against israel were written
+0 0 1 0 1 1 0 0 1 1 1 1 1 1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.243267109861 0.0 0.623822137463 0.0833864055507 0.0 0.0 0.540368092445 0.266537915938 0.277248547183 0.672804359538 0.155707389572 0.250448103409 0.0 0.615042094491 0.0 0.0 0.0 0.461662958375 0.0 0.0 0.46435136356 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+the protesters were holding banners and placards having anti Israel slogans written on it.
+the protesters were holding banners and placards having anti israel slogans written on it
+1 0 1 1 1 1 0 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0308154279586 0.0 0.208514665595 0.448706631802 0.534704689254 0.0714740619006 0.0 0.0 0.463172650667 0.0 0.237641611871 0.576689451033 0.133463476776 0.0 0.0 0.527178938135 0.0 0.0 0.0 0.395711107178 0.0 0.0 0.0 0.0 0.0 0.38818535606 0.511240113042 0.145634917354 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+The strikers hold banners and pads containing slogans against Israel.
+the strikers hold banners and pads containing slogans against israel
+1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.0 0.0 0.0 0.748586564955 0.100063686661 0.0 0.0 0.648441710934 0.319845499125 0.332698256619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876679949502 0.691050150465 0.797834213465 0.781128804999 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+The demonstrators also raised banners and slogans against Israel.
+the demonstrators also raised banners and slogans against israel
+1 1 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.0479351101579 0.908779203346 0.0 0.0 0.83176284995 0.111181874068 0.0 0.0 0.720490789927 0.355383887917 0.369664729577 0.0 0.0 0.0 0.0 0.0 0.31101283073 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.65417789308 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Protesters carried banners and placards, on which slogans against Israel were written.
+protesters carried banners and placards on which slogans against israel were written
+0 0 1 0 1 1 0 0 1 1 1 1 1 1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.243267109861 0.0 0.623822137463 0.0833864055507 0.0 0.0 0.540368092445 0.266537915938 0.277248547183 0.672804359538 0.155707389572 0.250448103409 0.0 0.615042094491 0.0 0.0 0.0 0.461662958375 0.0 0.0 0.46435136356 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajh0yow6plss8
+Protesters carried banners and placards, on which slogans against Israel were written.
+protesters carried banners and placards on which slogans against israel were written
+0 0 1 0 1 1 0 0 1 1 1 1 1 1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.243267109861 0.0 0.623822137463 0.0833864055507 0.0 0.0 0.540368092445 0.266537915938 0.277248547183 0.672804359538 0.155707389572 0.250448103409 0.0 0.615042094491 0.0 0.0 0.0 0.461662958375 0.0 0.0 0.46435136356 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+at8qsogdc42wo
+Protesters carried banners and placards, that spoke against the Israeli attacks.
+protesters carried banners and placards that spoke against the israeli attacks
+1 0 0 0 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+0.0392196355837 0.0 0.0 0.0 0.680533240869 0.0909669878735 0.0 0.0 0.0 0.290768635569 0.0 0.733968392223 0.0 0.0 0.0 0.670955012172 0.0 0.0 0.0 0.0 0.0 0.0 0.506565123883 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.110806905479 0.634094547799 0.357175594992 0.29244959115 0.0 0.0 0.0 0.0 0.0
+a2sb2bw2w4t4ww
+The protesters were holding banners and placards with anti-Israeli slogans on them.
+the protesters were holding banners and placards with antiisraeli slogans on them
+1 0 1 1 1 1 0 0 1 0 0 1 1 0 0 1 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0359513326184 0.0 0.243267109861 0.523491070436 0.623822137463 0.0833864055507 0.0 0.0 0.540368092445 0.0 0.0 0.672804359538 0.155707389572 0.0 0.0 0.615042094491 0.0 0.0 0.196659959079 0.0 0.287145220125 0.0 0.0 0.0 0.806924185574 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+The protesters were holding banners and placards, of which had anti-Israel slogans written on them.
+the protesters were holding banners and placards of which had antiisrael slogans written on them
+1 0 1 1 1 1 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0
+0.0287610660947 0.0 0.194613687889 0.418792856349 0.49905770997 0.0667091244405 0.0 0.0 0.432294473956 0.0 0.0 0.53824348763 0.124565911657 0.200358482728 0.0 0.492033675593 0.0 0.0 0.0 0.3693303667 0.2297161761 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0564477530642 0.22842539683 0.691749160497 0.0 0.0
+a279zamy03pduy
+The protesters were holding banners and placards with anti- Israel slogans.
+the protesters were holding banners and placards with anti israel slogans
+1 0 1 1 1 1 0 0 1 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0392196355837 0.0 0.265382301666 0.571081167748 0.680533240869 0.0909669878735 0.0 0.0 0.589492464485 0.0 0.302452960563 0.733968392223 0.0 0.0 0.0 0.670955012172 0.0 0.0 0.214538137177 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.65066923478 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a38xqb9846w49n
+The strikers held banners and pads containing slogans against Israel.
+the strikers held banners and pads containing slogans against israel
+1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0
+0.0431415991421 0.0 0.0 0.0 0.748586564955 0.100063686661 0.0 0.0 0.648441710934 0.319845499125 0.332698256619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876679949502 0.0 0.797834213465 0.781128804999 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.515049073374 0.0
+a3edprdq0s0hp3
+The strikers hold banners and pads containing slogans against Israel.
+the strikers hold banners and pads containing slogans against israel
+1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.0 0.0 0.0 0.748586564955 0.100063686661 0.0 0.0 0.648441710934 0.319845499125 0.332698256619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876679949502 0.691050150465 0.797834213465 0.781128804999 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a19b522xqflysa
+The strikers held banners and pads containing slogans against Israel.
+the strikers held banners and pads containing slogans against israel
+1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0
+0.0431415991421 0.0 0.0 0.0 0.748586564955 0.100063686661 0.0 0.0 0.648441710934 0.319845499125 0.332698256619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876679949502 0.0 0.797834213465 0.781128804999 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.515049073374 0.0
+a3f5rr1245milw
+The demonstrators also displayed banners and slogans against Israel.
+the demonstrators also displayed banners and slogans against israel
+1 1 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.0479351101579 0.908779203346 0.0 0.0 0.83176284995 0.111181874068 0.0 0.0 0.720490789927 0.355383887917 0.369664729577 0.0 0.0 0.0 0.0 0.0 0.31101283073 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876814528629

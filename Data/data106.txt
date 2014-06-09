@@ -1,0 +1,88 @@
+bbc_urd_20090108.0018__3
+in response to the rockets fired from area of lebanon israeli artillery bombed responding rocket side corps launched bombing on shelled territory rounds answer lebanese has reply attack tanks bombarded attacks a
+In response to the rockets fired from the area of Lebanon, Israeli artillery bombed Lebanon.
+in response to the rockets fired from the area of lebanon israeli artillery bombed lebanon
+1 1 1 2 1 1 1 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.068056317585 0.389575860953 0.0714937794924 0.0575221321894 0.397967877346 0.384074459374 0.158303161957 0.301030078932 0.0564477530642 0.752005194541 0.261928769661 0.458648656399 0.472026702763 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Responding to the rocket fired from the Lebanon side, the Israeli Artillery Corps launched bombing on Lebanon.
+responding to the rocket fired from the lebanon side the israeli artillery corps launched bombing on lebanon
+0 0 1 3 0 1 1 0 0 2 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.063082746611 0.0761322337801 0.0 0.338889228859 0.13967926055 0.0 0.0 0.663533995183 0.231113620289 0.40468999094 0.0 0.455128239873 0.334947422372 0.284410227194 0.488046815634 0.421021269564 0.355617886304 0.109911098521 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+In response to the rockets fired from Lebanon, Israeli artillery shelled Lebanon.
+in response to the rockets fired from lebanon israeli artillery shelled lebanon
+1 1 1 1 1 1 1 0 0 2 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0850703969812 0.486969826191 0.0893672243655 0.0359513326184 0.497459846682 0.480093074217 0.197878952446 0.0 0.0 0.940006493176 0.327410962076 0.573310820499 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.749161920527 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Israeli artillery shelled Lebanon in response to the rockets fired from Lebanon.
+israeli artillery shelled lebanon in response to the rockets fired from lebanon
+1 1 1 1 1 1 1 0 0 2 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.0850703969812 0.486969826191 0.0893672243655 0.0359513326184 0.497459846682 0.480093074217 0.197878952446 0.0 0.0 0.940006493176 0.327410962076 0.573310820499 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.749161920527 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+In response to rockets fired from Lebanon territory, Israeli artillery fired rounds in to Lebanon.
+in response to rockets fired from lebanon territory israeli artillery fired rounds in to lebanon
+2 1 2 0 1 2 1 0 0 2 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.13611263517 0.389575860953 0.142987558985 0.0 0.397967877346 0.768148918748 0.158303161957 0.0 0.0 0.752005194541 0.261928769661 0.458648656399 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.441002486117 0.584453299668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+in answer to the rockets fired from the Lebanese territory, the Israeli artillery has bombed Lebanon.
+in answer to the rockets fired from the lebanese territory the israeli artillery has bombed lebanon
+1 0 1 3 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0
+0.0638027977359 0.0 0.0670254182741 0.0808904983914 0.373094885012 0.360069805663 0.148409214334 0.0 0.0 0.352502434941 0.245558221557 0.429983115374 0.44252503384 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.413439830735 0.0 0.343815005266 0.467866603097 0.128001744731 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+in reply of Lebanon rockets attack Israeli tanks bombarded on Lebanon.
+in reply of lebanon rockets attack israeli tanks bombarded on lebanon
+1 0 0 0 1 0 0 0 1 2 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0
+0.0928040694341 0.0 0.0 0.0 0.542683469108 0.0 0.0 0.0 0.0769742087239 1.02546162892 0.357175594992 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.169862606806 0.0 0.0 0.0 0.0 0.0 0.0 0.599277070321 0.340504911073 0.559702700207 0.725303830423 0.0 0.0
+a3u16uhguaktzs
+In response to the rockets launched from Lebanon, Israeli tanks bombed Lebanon.
+in response to the rockets launched from lebanon israeli tanks bombed lebanon
+1 1 1 1 1 0 1 0 0 2 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0850703969812 0.486969826191 0.0893672243655 0.0359513326184 0.497459846682 0.0 0.197878952446 0.0 0.0 0.940006493176 0.327410962076 0.0 0.590033378454 0.0 0.0 0.0 0.0 0.596446798548 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.513060808523 0.0 0.0 0.0
+awmob8jnvgesj
+In response to the rockets fired from Lebanon territory, Israeli artillery fired rounds in to Lebanon.
+in response to the rockets fired from lebanon territory israeli artillery fired rounds in to lebanon
+2 1 2 1 1 2 1 0 0 2 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.127605595472 0.365227369644 0.134050836548 0.0269634994638 0.373094885012 0.720139611326 0.148409214334 0.0 0.0 0.705004869882 0.245558221557 0.429983115374 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.413439830735 0.547924968438 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a363eba76te7vz
+In response to rockets fired from Lebanon territory, Israeli artillery fired rounds in to Lebanon.
+in response to rockets fired from lebanon territory israeli artillery fired rounds in to lebanon
+2 1 2 0 1 2 1 0 0 2 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.13611263517 0.389575860953 0.142987558985 0.0 0.397967877346 0.768148918748 0.158303161957 0.0 0.0 0.752005194541 0.261928769661 0.458648656399 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.441002486117 0.584453299668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+In response to rockets fired from Lebanon territory, Israeli artillery fired rounds in to Lebanon.
+in response to rockets fired from lebanon territory israeli artillery fired rounds in to lebanon
+2 1 2 0 1 2 1 0 0 2 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.13611263517 0.389575860953 0.142987558985 0.0 0.397967877346 0.768148918748 0.158303161957 0.0 0.0 0.752005194541 0.261928769661 0.458648656399 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.441002486117 0.584453299668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1nee8mf6oybf8
+In answer to the rockets fired from the Lebanese territory, the Israeli artillery has bombed Lebanon.
+in answer to the rockets fired from the lebanese territory the israeli artillery has bombed lebanon
+1 0 1 3 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0
+0.0638027977359 0.0 0.0670254182741 0.0808904983914 0.373094885012 0.360069805663 0.148409214334 0.0 0.0 0.352502434941 0.245558221557 0.429983115374 0.44252503384 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.413439830735 0.0 0.343815005266 0.467866603097 0.128001744731 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Israeli artillery has bombarded Lebanon in answer to the rockets fired from Lebanese territory.
+israeli artillery has bombarded lebanon in answer to the rockets fired from lebanese territory
+1 0 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 1 0 0
+0.0729174831268 0.0 0.0766004780276 0.0308154279586 0.426394154299 0.411508349329 0.169610530668 0.0 0.0 0.402859925647 0.280637967493 0.491409274713 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.472502663697 0.0 0.392931434589 0.534704689254 0.146287708264 0.0 0.0 0.0 0.569881581047 0.0 0.0
+a330jjzgjl7ig2
+In response to the rockets fired from the Lebanese territory, the Israeli artillery has bombed Lebanon.
+in response to the rockets fired from the lebanese territory the israeli artillery has bombed lebanon
+1 1 1 3 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0
+0.0638027977359 0.365227369644 0.0670254182741 0.0808904983914 0.373094885012 0.360069805663 0.148409214334 0.0 0.0 0.352502434941 0.245558221557 0.429983115374 0.44252503384 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.413439830735 0.0 0.0 0.467866603097 0.128001744731 0.0 0.0 0.0 0.0 0.0 0.0
+a2vjscdqr23qkd
+In reply, Israeli tanks bombarded on Lebanon.
+in reply israeli tanks bombarded on lebanon
+1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 0 0
+0.145834966254 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.805719851294 0.561275934987 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.266926953552 0.0 0.0 0.0 0.0 0.0 0.0 0.941721110505 0.0 0.879532814611 1.13976316209 0.0 0.0
+a2d2264qc2ln18
+In reply of Lebanon rocket attacks, Israeli tanks bombarded on Lebanon.
+in reply of lebanon rocket attacks israeli tanks bombarded on lebanon
+1 0 0 0 0 0 0 0 1 2 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 0
+0.0928040694341 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0769742087239 1.02546162892 0.357175594992 0.0 0.0 0.0 0.517646016393 0.0 0.0 0.0 0.0 0.169862606806 0.0 0.0 0.0 0.0 0.0 0.0 0.599277070321 0.0 0.559702700207 0.725303830423 0.29244959115 0.0
+a3fk32fvhmy8mz
+In response to a Lebanon rocket attack, Israeli tanks bombarded Lebanon.
+in response to a lebanon rocket attack israeli tanks bombarded lebanon
+1 1 1 0 0 0 0 0 0 2 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 1
+0.0928040694341 0.531239810391 0.0974915174897 0.0 0.0 0.0 0.0 0.0 0.0 1.02546162892 0.357175594992 0.0 0.0 0.0 0.517646016393 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.340504911073 0.559702700207 0.725303830423 0.0 0.129963836231
+a2f69lkq5jcvdg
+In response to the rockets launched from Lebanon, Israeli tanks bombed Lebanon.
+in response to the rockets launched from lebanon israeli tanks bombed lebanon
+1 1 1 1 1 0 1 0 0 2 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0850703969812 0.486969826191 0.0893672243655 0.0359513326184 0.497459846682 0.0 0.197878952446 0.0 0.0 0.940006493176 0.327410962076 0.0 0.590033378454 0.0 0.0 0.0 0.0 0.596446798548 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.513060808523 0.0 0.0 0.0

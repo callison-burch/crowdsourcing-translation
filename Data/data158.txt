@@ -1,0 +1,88 @@
+bbc_urd_20090113.0015__1
+mumbai attacks special judge for hearing will hear case bombay blasts the a has been nominated attack in testimony on hearings
+Mumbai Attacks; Special Judge for Hearing
+mumbai attacks special judge for hearing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.633294639734 0.536157583775 0.952133052223 1.146621641 0.321649326168 1.12755324913 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Mumbai Attacks, Special Judge for Hearing
+mumbai attacks special judge for hearing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.633294639734 0.536157583775 0.952133052223 1.146621641 0.321649326168 1.12755324913 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Mumbai Attacks, Special Judge for Hearing
+mumbai attacks special judge for hearing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.633294639734 0.536157583775 0.952133052223 1.146621641 0.321649326168 1.12755324913 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Mumbai attacks: special judge will hear case
+mumbai attacks special judge will hear case
+1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.542823976915 0.459563643236 0.816114044763 0.982818549426 0.0 0.0 0.318173362771 1.0062904139 0.726133226104 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Bombay Blasts, special judge for the hearing.
+bombay blasts special judge for the hearing
+0 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.816114044763 0.982818549426 0.275699422429 0.966474213544 0.0 0.0 0.0 0.833277517883 0.941721110505 0.0616308559173 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Mumbai attacks, special judge for hearing.
+mumbai attacks special judge for hearing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.633294639734 0.536157583775 0.952133052223 1.146621641 0.321649326168 1.12755324913 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+A special Judge has been nominated for hearing Mumbai attack.
+a special judge has been nominated for hearing mumbai attack
+1 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.37997678384 0.0 0.571279831334 0.687972984598 0.192989595701 0.676531949481 0.0 0.0 0.0 0.0 0.0 0.0 0.142960219854 0.20480279157 0.290544363325 0.704403289727 0.374555402181 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+Bombay Blasts, special judge for the hearing.
+bombay blasts special judge for the hearing
+0 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.816114044763 0.982818549426 0.275699422429 0.966474213544 0.0 0.0 0.0 0.833277517883 0.941721110505 0.0616308559173 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6blj6mrntxad
+Special judge for hearing in Bombay blasts.
+special judge for hearing in bombay blasts
+0 0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0
+0.0 0.0 0.816114044763 0.982818549426 0.275699422429 0.966474213544 0.0 0.0 0.0 0.833277517883 0.941721110505 0.0 0.0 0.0 0.0 0.0 0.0 0.145834966254 0.0 0.0 0.0
+a980evuaw8ya7
+Bombay Blasts, special judge for the hearing.
+bombay blasts special judge for the hearing
+0 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.816114044763 0.982818549426 0.275699422429 0.966474213544 0.0 0.0 0.0 0.833277517883 0.941721110505 0.0616308559173 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+Mumbai attacks, special judge for hearing.
+mumbai attacks special judge for hearing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.633294639734 0.536157583775 0.952133052223 1.146621641 0.321649326168 1.12755324913 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+Special Judge for Mumbai Attacks Hearing
+special judge for mumbai attacks hearing
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.633294639734 0.536157583775 0.952133052223 1.146621641 0.321649326168 1.12755324913 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+Special Judge Will Hear Testimony on Mumbai Attacks
+special judge will hear testimony on mumbai attacks
+1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0
+0.4749709798 0.402118187832 0.714099789167 0.859966230748 0.0 0.0 0.278401692425 0.880504112159 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.12374288079 0.233561084358 0.0
+a3ohqrf1mdq99b
+A special Judge has been nominated for the hearings on the Mumbai attack.
+a special judge has been nominated for the hearings on the mumbai attack
+1 0 1 1 1 0 0 0 0 0 0 2 1 1 1 1 1 0 0 1 1
+0.292289833723 0.0 0.439446024103 0.529209988153 0.148453535154 0.0 0.0 0.0 0.0 0.0 0.0 0.0663716909878 0.109969399888 0.1575406089 0.223495664097 0.541848684406 0.288119540139 0.0 0.0 0.143729898066 0.798172108265

@@ -1,0 +1,88 @@
+urd-ng-102-174502-11516165-post1__3
+india accuses lashkaretayaba of involvement in the mumbai attacks alleges that lashkaretaiba is involved believes behind claims lashkaretayyaba was indias accusation blames lasharitayba has role lashkr e taiba for to be with on had lashkaritayba claimed group based a
+India accuses Lashkar-e-Tayaba of involvement in the Mumbai attacks.
+india accuses lashkaretayaba of involvement in the mumbai attacks
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.337627740435 1.0758989141 0.838113784822 0.0940795884403 0.725121089527 0.113427195975 0.0479351101579 0.422196426489 0.357438389184 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+India alleges that Lashkar-e-Taiba is involved in the Mumbai attacks.
+india alleges that lashkaretaiba is involved in the mumbai attacks
+1 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.303864966391 0.0 0.0 0.0 0.0 0.102084476377 0.0431415991421 0.37997678384 0.321694550265 0.927762511878 0.121887596026 0.54783976075 0.132641796231 0.508797037676 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+India alleges that Lashkar-e-Taiba is involved in Mumbai attacks.
+india alleges that lashkaretaiba is involved in mumbai attacks
+1 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.337627740435 0.0 0.0 0.0 0.0 0.113427195975 0.0 0.422196426489 0.357438389184 1.03084723542 0.135430662252 0.608710845278 0.14737977359 0.565330041862 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+India believes that Lashkar-e-Taiba is behind the Mumbai attacks.
+india believes that lashkaretaiba is behind the mumbai attacks
+1 0 0 0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.337627740435 0.0 0.0 0.0 0.0 0.0 0.0479351101579 0.422196426489 0.357438389184 0.0 0.135430662252 0.608710845278 0.14737977359 0.0 0.867920894443 0.579050159281 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3hs2e871iw2fi
+. India claims that in Mumbai attacks Lashkar-e-Tayyaba was involved.
+ india claims that in mumbai attacks lashkaretayyaba was involved
+1 0 0 0 0 1 0 1 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.337627740435 0.0 0.0 0.0 0.0 0.113427195975 0.0 0.422196426489 0.357438389184 0.0 0.135430662252 0.0 0.0 0.565330041862 0.0 0.0 0.648104736131 0.838113784822 0.242353301839 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+India's accusation is that Lashkar-e-Taiba is involved in the Mumbai attacks.
+indias accusation is that lashkaretaiba is involved in the mumbai attacks
+0 0 0 0 0 1 1 1 1 0 1 1 2 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0928040694341 0.0392196355837 0.345433439855 0.29244959115 0.0 0.110806905479 0.498036146136 0.241166902238 0.462542761523 0.0 0.0 0.0 0.0 0.0 0.53026751138 0.572609087595 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+India blames that Lashar-i-tayba has role in Mumbai Attacks.
+india blames that lasharitayba has role in mumbai attacks
+1 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.337627740435 0.0 0.0 0.0 0.0 0.113427195975 0.0 0.422196426489 0.357438389184 0.0 0.135430662252 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.820056125988 0.953830882025 0.2275586573 0.519532648229 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+India blames Lashkr e Taiba for Mumbai attacks.
+india blames lashkr e taiba for mumbai attacks
+1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.379831207989 0.0 0.0 0.0 0.0 0.0 0.0 0.4749709798 0.402118187832 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.922563141737 0.0 0.0 0.0 1.02237660376 0.856234610354 0.815761225717 0.241236994626 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+India claims that Lashkar-e-Tayyaba was involved in the Mumbai attacks.
+india claims that lashkaretayyaba was involved in the mumbai attacks
+1 0 0 0 0 1 1 1 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.303864966391 0.0 0.0 0.0 0.0 0.102084476377 0.0431415991421 0.37997678384 0.321694550265 0.0 0.121887596026 0.0 0.0 0.508797037676 0.0 0.0 0.583294262518 0.754302406339 0.218117971655 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ayeowkx2r19vz
+India claims to be involved with the Mumbai attacks on Lashkar-e-Tayyaba.
+india claims to be involved with the mumbai attacks on lashkaretayyaba
+1 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.276240878537 0.0 0.0 0.0 0.0 0.0 0.0392196355837 0.345433439855 0.29244959115 0.0 0.0 0.0 0.0 0.462542761523 0.0 0.0 0.53026751138 0.685729460309 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0974915174897 0.196672529343 0.214538137177 0.169862606806 0.0 0.0 0.0 0.0 0.0 0.0
+a3m6cl5oao31z
+India claims that the Lashkar-e-Tayyaba was involved in the Mumbai attacks.
+india claims that the lashkaretayyaba was involved in the mumbai attacks
+1 0 0 0 0 1 2 1 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.276240878537 0.0 0.0 0.0 0.0 0.0928040694341 0.0784392711674 0.345433439855 0.29244959115 0.0 0.110806905479 0.0 0.0 0.462542761523 0.0 0.0 0.53026751138 0.685729460309 0.198289065141 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a262d9pq8d093q
+India's accusation is that Lashkar-e-Taiba is involved in the Mumbai attacks.
+indias accusation is that lashkaretaiba is involved in the mumbai attacks
+0 0 0 0 0 1 1 1 1 0 1 1 2 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0928040694341 0.0392196355837 0.345433439855 0.29244959115 0.0 0.110806905479 0.498036146136 0.241166902238 0.462542761523 0.0 0.0 0.0 0.0 0.0 0.53026751138 0.572609087595 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a227cwgbxgw4yh
+India's accusation is that Lashkar-e-Taiba is involved in the Mumbai attacks.
+indias accusation is that lashkaretaiba is involved in the mumbai attacks
+0 0 0 0 0 1 1 1 1 0 1 1 2 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0928040694341 0.0392196355837 0.345433439855 0.29244959115 0.0 0.110806905479 0.498036146136 0.241166902238 0.462542761523 0.0 0.0 0.0 0.0 0.0 0.53026751138 0.572609087595 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+India's accusation is that Lashkar-e-Taiba is involved in the Mumbai attacks.
+indias accusation is that lashkaretaiba is involved in the mumbai attacks
+0 0 0 0 0 1 1 1 1 0 1 1 2 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0928040694341 0.0392196355837 0.345433439855 0.29244959115 0.0 0.110806905479 0.498036146136 0.241166902238 0.462542761523 0.0 0.0 0.0 0.0 0.0 0.53026751138 0.572609087595 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ac8dxx921q9m
+India blames that Lashar-i-tayba had role in the Mumbai Attacks.
+india blames that lasharitayba had role in the mumbai attacks
+1 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.303864966391 0.0 0.0 0.0 0.0 0.102084476377 0.0431415991421 0.37997678384 0.321694550265 0.0 0.121887596026 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.73805051339 0.858447793822 0.0 0.467579383406 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.342638095245 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+India blames that Lashkar-i-tayba has role in Mumbai Attacks.
+india blames that lashkaritayba has role in mumbai attacks
+1 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.337627740435 0.0 0.0 0.0 0.0 0.113427195975 0.0 0.422196426489 0.357438389184 0.0 0.135430662252 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.820056125988 0.0 0.2275586573 0.519532648229 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0758989141 0.0 0.0 0.0 0.0
+a2ylf04uakyvf1
+India has claimed that the group based in Lashar-i-tayba had a role in the Mumbai attacks.
+india has claimed that the group based in lasharitayba had a role in the mumbai attacks
+1 0 0 0 0 2 2 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1
+0.189915603994 0.0 0.0 0.0 0.0 0.127605595472 0.0539269989276 0.2374854899 0.201059093916 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.536529871139 0.128001744731 0.292237114629 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.214148809528 0.0 0.368681287061 0.274676449762 0.345262946471 0.089350137409
+a3kgfvvjyor2nl
+India blames Lashkar-e-Taiba for Mumbai attacks.
+india blames lashkaretaiba for mumbai attacks
+1 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.506441610652 0.0 0.0 0.0 0.0 0.0 0.0 0.633294639734 0.536157583775 0.0 0.0 0.913066267916 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.23008418898 0.0 0.0 0.0 0.0 0.0 0.0 0.321649326168 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

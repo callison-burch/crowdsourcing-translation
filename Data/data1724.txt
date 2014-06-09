@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370259-post1__5
+is the indian governments decision harmful for cricket not to this made by government counter productive isnt of towards a loss india view counterproductive about
+Is the Indian government's decision harmful for cricket?
+is the indian governments decision harmful for cricket
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.165802245289 0.0539269989276 0.465744794858 0.694494480231 0.674078848218 0.916464371216 0.241236994626 0.668224935757 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Is the Indian government's decision not harmful to cricket?
+is the indian governments decision not harmful to cricket
+1 1 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.14737977359 0.0479351101579 0.413995373207 0.617328426872 0.599181198416 0.814634996636 0.0 0.593977720673 0.238052077581 0.119156299154 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Is Indian government's decision not harmful to cricket?
+is indian governments decision not harmful to cricket
+1 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.165802245289 0.0 0.465744794858 0.694494480231 0.674078848218 0.916464371216 0.0 0.668224935757 0.267808587279 0.134050836548 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Is this decision made by the Indian government harmful to cricket?
+is this decision made by the indian government harmful to cricket
+1 1 1 0 1 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.120583451119 0.0392196355837 0.338723487169 0.0 0.49023916234 0.666519542702 0.0 0.48598177146 0.0 0.0974915174897 0.157475942652 0.357898821486 0.226651641468 0.274193948587 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+Is the Indian Government's decision counter productive for cricket?
+is the indian governments decision counter productive for cricket
+1 1 1 1 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.14737977359 0.0479351101579 0.413995373207 0.617328426872 0.599181198416 0.0 0.214432884112 0.593977720673 0.0 0.0 0.0 0.0 0.0 0.0 0.820056125988 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Is the Indian government's decision not harmful for cricket?
+is the indian governments decision not harmful for cricket
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.14737977359 0.0479351101579 0.413995373207 0.617328426872 0.599181198416 0.814634996636 0.214432884112 0.593977720673 0.238052077581 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+Isn't the decision of the Indian Government towards cricket a loss?
+isnt the decision of the indian government towards cricket a loss
+0 2 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0
+0.0 0.0784392711674 0.338723487169 0.0 0.49023916234 0.0 0.0 0.48598177146 0.0 0.0 0.0 0.0 0.0 0.274193948587 0.0 0.0 0.620080849633 0.0769742087239 0.463003061701 0.129963836231 0.51273081446 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+India view for cricket is not harmful?
+india view for cricket is not harmful
+1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.18948828033 0.0 0.0 0.0 0.0 1.04738785282 0.275699422429 0.763685640865 0.30606695689 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43409280913 0.75203565987 0.0 0.0
+a1dndzlo2d5d48
+Is the Indian Government's decision counterproductive for cricket?
+is the indian governments decision counterproductive for cricket
+1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0.165802245289 0.0539269989276 0.465744794858 0.694494480231 0.674078848218 0.0 0.241236994626 0.668224935757 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.21038627836 0.0
+a1ly3njtyw9tff
+Is the Indian Government's decision counter-productive for cricket?
+is the indian governments decision counterproductive for cricket
+1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0.165802245289 0.0539269989276 0.465744794858 0.694494480231 0.674078848218 0.0 0.241236994626 0.668224935757 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.21038627836 0.0
+ah8lf01ktxfg0
+Is the Indian Government's decision counter productive for cricket?
+is the indian governments decision counter productive for cricket
+1 1 1 1 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.14737977359 0.0479351101579 0.413995373207 0.617328426872 0.599181198416 0.0 0.214432884112 0.593977720673 0.0 0.0 0.0 0.0 0.0 0.0 0.820056125988 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a20yg0n9vwzjs7
+Is the Indian government's decision harmful for cricket?
+is the indian governments decision harmful for cricket
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.165802245289 0.0539269989276 0.465744794858 0.694494480231 0.674078848218 0.916464371216 0.241236994626 0.668224935757 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Is the Indian government's decision harmful for cricket?
+is the indian governments decision harmful for cricket
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.165802245289 0.0539269989276 0.465744794858 0.694494480231 0.674078848218 0.916464371216 0.241236994626 0.668224935757 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Is the Indian government's decision not harmful for cricket?
+is the indian governments decision not harmful for cricket
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.14737977359 0.0479351101579 0.413995373207 0.617328426872 0.599181198416 0.814634996636 0.214432884112 0.593977720673 0.238052077581 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g9f1kosfkijh
+Isn't the decision of the Indian government towards cricket a loss?
+isnt the decision of the indian government towards cricket a loss
+0 2 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0
+0.0 0.0784392711674 0.338723487169 0.0 0.49023916234 0.0 0.0 0.48598177146 0.0 0.0 0.0 0.0 0.0 0.274193948587 0.0 0.0 0.620080849633 0.0769742087239 0.463003061701 0.129963836231 0.51273081446 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Isn't the decision of the Indian Government about cricket a loss?
+isnt the decision of the indian government about cricket a loss
+0 2 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1 0 1 1 0 0 0 1
+0.0 0.0784392711674 0.338723487169 0.0 0.49023916234 0.0 0.0 0.48598177146 0.0 0.0 0.0 0.0 0.0 0.274193948587 0.0 0.0 0.620080849633 0.0769742087239 0.0 0.129963836231 0.51273081446 0.0 0.0 0.0 0.286697398966
+a38xqb9846w49n
+Isn't the decision of the Indian Government towards cricket a loss?
+isnt the decision of the indian government towards cricket a loss
+0 2 1 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0
+0.0 0.0784392711674 0.338723487169 0.0 0.49023916234 0.0 0.0 0.48598177146 0.0 0.0 0.0 0.0 0.0 0.274193948587 0.0 0.0 0.620080849633 0.0769742087239 0.463003061701 0.129963836231 0.51273081446 0.0 0.0 0.0 0.0
+amd40d0gc1l4r
+India view for cricket is not harmful?
+india view for cricket is not harmful
+1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.18948828033 0.0 0.0 0.0 0.0 1.04738785282 0.275699422429 0.763685640865 0.30606695689 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43409280913 0.75203565987 0.0 0.0

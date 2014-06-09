@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370254-post8__4
+the government has no control over its institutions there is departments have lost does not any this sounds good these
+The government has no control over its institutions.
+the government has no control over its institutions
+1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0539269989276 0.377016679308 0.256003489463 0.419171165171 0.614581486663 0.470861020535 0.416307603821 0.664205296803 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The government has no control over the institutions.
+the government has no control over the institutions
+2 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.107853997855 0.377016679308 0.256003489463 0.419171165171 0.614581486663 0.470861020535 0.0 0.664205296803 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The government has no control over the institutions.
+the government has no control over the institutions
+2 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.107853997855 0.377016679308 0.256003489463 0.419171165171 0.614581486663 0.470861020535 0.0 0.664205296803 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Government has no control over institutions.
+government has no control over institutions
+0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.502688905743 0.34133798595 0.558894886895 0.819441982218 0.627814694047 0.0 0.885607062404 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+There is no control over government institutions.
+there is no control over government institutions
+0 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.430876204923 0.0 0.479052760195 0.702378841901 0.538126880612 0.0 0.759091767775 0.411766217238 0.18948828033 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Government has no control over the institutions.
+government has no control over the institutions
+1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.430876204923 0.292575416529 0.479052760195 0.702378841901 0.538126880612 0.0 0.759091767775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a172x4w90uost1
+Government departments have lost control.
+government departments have lost control
+0 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.603226686892 0.0 0.0 0.983330378661 0.0 0.0 0.0 0.0 0.0 1.30521796115 0.457657970561 1.19635765056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a132zmwemnnusa
+The government does not have any control over the institutions.
+the government does not have any control over the institutions
+2 1 0 0 1 1 0 1 0 0 0 1 0 1 1 1 0 0 0 0
+0.0862831982842 0.301613343446 0.0 0.0 0.491665189331 0.376688816428 0.0 0.531364237442 0.0 0.0 0.0 0.228828985281 0.0 0.422137931343 0.214246869823 0.356059741738 0.0 0.0 0.0 0.0
+a2sb2bw2w4t4ww
+There is no control over government institutions.
+there is no control over government institutions
+0 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.430876204923 0.0 0.479052760195 0.702378841901 0.538126880612 0.0 0.759091767775 0.411766217238 0.18948828033 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1lcle8gy2eo0v
+There is no control over government institutions. This sounds good.
+there is no control over government institutions this sounds good
+0 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 1 1 1 0
+0.0 0.301613343446 0.0 0.335336932137 0.491665189331 0.376688816428 0.0 0.531364237442 0.288236352067 0.132641796231 0.0 0.0 0.0 0.0 0.0 0.0 0.173223536917 0.858447793822 0.463644449527 0.0
+a3be22a89fb8uj
+There is no control over government institutions.
+there is no control over government institutions
+0 1 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.430876204923 0.0 0.479052760195 0.702378841901 0.538126880612 0.0 0.759091767775 0.411766217238 0.18948828033 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wrvfwizbd6rc
+The government has no control over these institutions.
+the government has no control over these institutions
+1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1
+0.0539269989276 0.377016679308 0.256003489463 0.419171165171 0.614581486663 0.470861020535 0.0 0.664205296803 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.38221223236
+a1b6zigmal4vx5
+The government has no control over the institutions.
+the government has no control over the institutions
+2 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.107853997855 0.377016679308 0.256003489463 0.419171165171 0.614581486663 0.470861020535 0.0 0.664205296803 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3rdqwamikxjnn
+Government has no control over the institutions.
+government has no control over the institutions
+1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.430876204923 0.292575416529 0.479052760195 0.702378841901 0.538126880612 0.0 0.759091767775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g9f1kosfkijh
+Government departments have lost control.
+government departments have lost control
+0 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.603226686892 0.0 0.0 0.983330378661 0.0 0.0 0.0 0.0 0.0 1.30521796115 0.457657970561 1.19635765056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Government departments have lost control.
+government departments have lost control
+0 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.603226686892 0.0 0.0 0.983330378661 0.0 0.0 0.0 0.0 0.0 1.30521796115 0.457657970561 1.19635765056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1ly3njtyw9tff
+Government departments have lost control.
+government departments have lost control
+0 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0 0.603226686892 0.0 0.0 0.983330378661 0.0 0.0 0.0 0.0 0.0 1.30521796115 0.457657970561 1.19635765056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1mmshjhu659at
+The government does not have any control over institutions.
+the government does not have any control over institutions
+1 1 0 0 1 1 0 1 0 0 0 1 0 1 1 1 0 0 0 0
+0.0479351101579 0.335125937162 0.0 0.0 0.546294654812 0.418543129365 0.0 0.590404708269 0.0 0.0 0.0 0.25425442809 0.0 0.469042145937 0.238052077581 0.395621935264 0.0 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+voa_urd_20090129.0012__4
+it makes your heart stronger lowers cholesterol levels helps in keeping weight low prevent diabetes and slows down the progress of alzheimers or senility energetic level controlling process meaning forgetfulness rejuvenates reduces lower onset alzheimer is helpful reducing reduced control limiting energizes preventing dementia this keeps healthyreduces cholesterolhelps reduction sugar decreases speed stop chances exercise to healthy also so will decrease exercize blood
+It makes your heart stronger, lowers cholesterol levels, helps in keeping weight low, helps prevent diabetes, and slows down the progress of Alzheimer's or senility.
+it makes your heart stronger lowers cholesterol levels helps in keeping weight low helps prevent diabetes and slows down the progress of alzheimers or senility
+1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0815555537181 0.265542711567 0.150675526571 0.185975586395 0.270612779792 0.387323609076 0.304145947408 0.312451522 0.552840120372 0.040833790551 0.235956023719 0.265542711567 0.256237819756 0.279001601032 0.309487203113 0.0400254746643 0.312451522 0.208230136496 0.0172566396568 0.250614541731 0.0338686518385 0.315653230306 0.128522600664 0.415049496298 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+It makes your heart energetic, lowers the cholesterol level, helps in keeping weight low, helps in controlling diabetes, and slows the process of Alzheimers, meaning forgetfulness.
+it makes your heart energetic lowers the cholesterol level helps in keeping weight low helps in controlling diabetes and slows the process of alzheimers meaning forgetfulness
+1 1 1 1 0 1 1 0 2 2 1 1 1 0 1 1 1 0 2 0 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.078418801652 0.255329530353 0.144880314011 0.178822679225 0.0 0.372426547188 0.292448026354 0.0 0.531577038819 0.0785265202904 0.226880792037 0.255329530353 0.246382518996 0.0 0.297583849147 0.0384860333311 0.300434155769 0.0 0.0331858454939 0.0 0.0325660113832 0.303512721449 0.0 0.0 0.399086054133 0.239734718502 0.278490122751 0.235136828093 0.275283137792 0.399086054133 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+It rejuvenates your heart, reduces cholesterol levels, helps lower weight, helps prevent diabetes and slows down the onset of Alzheimer.
+it rejuvenates your heart reduces cholesterol levels helps lower weight helps prevent diabetes and slows down the onset of alzheimer
+1 0 1 1 0 0 1 1 2 0 0 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.101944442148 0.0 0.188344408214 0.232469482993 0.0 0.0 0.380182434261 0.390564402499 0.691050150465 0.0 0.0 0.331928389458 0.0 0.348752001289 0.386859003892 0.0500318433304 0.390564402499 0.260287670621 0.021570799571 0.0 0.0423358147981 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.518811870372 0.355907043471 0.348752001289 0.484154511344 0.438339974751 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+It makes your heart stronger, reduces your cholesterol level, is helpful in reducing weight, helps prevent diabetes and slows Alzheimer's.
+it makes your heart stronger reduces your cholesterol level is helpful in reducing weight helps prevent diabetes and slows alzheimers
+1 1 2 1 1 0 1 0 1 1 0 1 0 1 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.101944442148 0.331928389458 0.376688816428 0.232469482993 0.33826597474 0.0 0.380182434261 0.0 0.345525075233 0.0510422381887 0.0 0.331928389458 0.0 0.348752001289 0.386859003892 0.0500318433304 0.390564402499 0.0 0.0 0.0 0.0 0.394566537883 0.0 0.0 0.0 0.311655134053 0.0 0.0 0.0 0.0 0.0 0.355907043471 0.0 0.0 0.0 0.0663208981154 0.369025256695 0.369025256695 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+It makes your heart stronger, reduced Cholesterol levels, helps control weight, helps in limiting Diabetes and slows the Alzheimer's process.
+it makes your heart stronger reduced cholesterol levels helps control weight helps in limiting diabetes and slows the alzheimers process
+1 1 1 1 1 0 1 1 2 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.101944442148 0.331928389458 0.188344408214 0.232469482993 0.33826597474 0.0 0.380182434261 0.390564402499 0.691050150465 0.0510422381887 0.0 0.331928389458 0.0 0.0 0.386859003892 0.0500318433304 0.390564402499 0.0 0.021570799571 0.0 0.0 0.394566537883 0.0 0.0 0.0 0.0 0.0 0.30567787652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.310867716205 0.245832594665 0.429223896911 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+it energizes your heart, reduces the cholesterol level, helps in keeping the weight low, helps in preventing diabetes and slows down the process of Alzheimer or dementia.
+it energizes your heart reduces the cholesterol level helps in keeping the weight low helps in preventing diabetes and slows down the process of alzheimer or dementia
+1 0 1 1 0 0 1 0 2 2 1 1 1 0 1 1 1 1 3 0 1 0 1 0 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0755144015908 0.0 0.139514376455 0.172199617032 0.0 0.0 0.281616617971 0.0 0.511889000344 0.07561813065 0.21847779974 0.24587288108 0.237257240515 0.0 0.286562225105 0.0370606246892 0.289306964814 0.192805681941 0.0479351101579 0.0 0.0313598628134 0.0 0.119002408022 0.0 0.0 0.230855654854 0.0 0.226428056682 0.0 0.0 0.0 0.263634847016 0.0 0.0 0.324696277593 0.0 0.0 0.0 0.0 0.0 0.0 0.332960853568 0.307288735769 0.292271509543 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3sw1e5d0b9v9a
+This keeps the heart healthy,reduces the level of cholesterol,Helps in keeping the weight low, helps in reduction of sugar and reduces Alzheimer meaning decreases the speed of dementia.
+this keeps the heart healthyreduces the level of cholesterolhelps in keeping the weight low helps in reduction of sugar and reduces alzheimer meaning decreases the speed of dementia
+0 0 0 1 0 0 0 0 1 2 1 1 1 0 0 1 0 0 4 0 3 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.166049630709 0.0 0.0 0.0 0.0 0.246803625166 0.0729174831268 0.210675021178 0.237091706756 0.228783767639 0.0 0.0 0.0357370309503 0.0 0.0 0.0616308559173 0.0 0.0907196031388 0.0 0.0 0.0 0.0 0.222610810038 0.0 0.0 0.255620056521 0.0 0.0 0.254219316765 0.0 0.0 0.313099981965 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.281833241345 0.0618655488989 0.229464060317 0.331343754242 0.34582465096 0.252871447909 0.321069394512 0.278974573214 0.306588497794 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3u16uhguaktzs
+This makes your heart stronger, decreases cholesterol levels, helps in reducing weight, helps stop diabetes and decreases the chances of Alzheimer's.
+this makes your heart stronger decreases cholesterol levels helps in reducing weight helps stop diabetes and decreases the chances of alzheimers
+0 1 1 1 1 0 1 1 2 1 0 1 0 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 2 0 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.316122275675 0.179375626871 0.221399507613 0.322158071181 0.0 0.36207850882 0.371966097618 0.658143000443 0.0486116554178 0.0 0.316122275675 0.0 0.0 0.368437146564 0.0476493746004 0.0 0.0 0.0205436186391 0.0 0.0403198236173 0.375777655127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.351452625424 0.0 0.0 0.0 0.0 0.0 0.0 0.0824873985319 0.0 0.0 0.0 0.0 0.0 0.743932195237 0.0 0.220477819853 0.289151062583 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3w129h6a0hk4d
+It makes your heart stronger, reduced Cholesterol levels, helps control weight, helps in limiting Diabetes and slows the Alzheimer's process.
+it makes your heart stronger reduced cholesterol levels helps control weight helps in limiting diabetes and slows the alzheimers process
+1 1 1 1 1 0 1 1 2 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.101944442148 0.331928389458 0.188344408214 0.232469482993 0.33826597474 0.0 0.380182434261 0.390564402499 0.691050150465 0.0510422381887 0.0 0.331928389458 0.0 0.0 0.386859003892 0.0500318433304 0.390564402499 0.0 0.021570799571 0.0 0.0 0.394566537883 0.0 0.0 0.0 0.0 0.0 0.30567787652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.310867716205 0.245832594665 0.429223896911 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+anisia5rl4ppg
+It makes your heart stronger, reduced Cholesterol levels, helps control weight, helps in limiting Diabetes and slows the Alzheimer's process.
+it makes your heart stronger reduced cholesterol levels helps control weight helps in limiting diabetes and slows the alzheimers process
+1 1 1 1 1 0 1 1 2 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.101944442148 0.331928389458 0.188344408214 0.232469482993 0.33826597474 0.0 0.380182434261 0.390564402499 0.691050150465 0.0510422381887 0.0 0.331928389458 0.0 0.0 0.386859003892 0.0500318433304 0.390564402499 0.0 0.021570799571 0.0 0.0 0.394566537883 0.0 0.0 0.0 0.0 0.0 0.30567787652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.310867716205 0.245832594665 0.429223896911 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+It makes your heart stronger, reduces cholesterol levels, helps control weight, helps in limiting diabetes and slows the Alzheimer's process.
+it makes your heart stronger reduces cholesterol levels helps control weight helps in limiting diabetes and slows the alzheimers process
+1 1 1 1 1 0 1 1 2 1 0 1 0 0 1 1 1 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.101944442148 0.331928389458 0.188344408214 0.232469482993 0.33826597474 0.0 0.380182434261 0.390564402499 0.691050150465 0.0510422381887 0.0 0.331928389458 0.0 0.0 0.386859003892 0.0500318433304 0.390564402499 0.0 0.021570799571 0.0 0.0 0.394566537883 0.0 0.0 0.0 0.0 0.0 0.30567787652 0.0 0.0 0.0 0.355907043471 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.245832594665 0.429223896911 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1nee8mf6oybf8
+Exercise energizes your heart, reduces your cholesterol level, helps in keeping your weight low, helps in preventing diabetes and slows down the process of Alzheimer or dementia.
+exercise energizes your heart reduces your cholesterol level helps in keeping your weight low helps in preventing diabetes and slows down the process of alzheimer or dementia
+0 0 3 1 0 0 1 0 2 2 1 1 1 0 1 1 1 1 1 0 1 0 1 0 0 1 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.418543129365 0.172199617032 0.0 0.0 0.281616617971 0.0 0.511889000344 0.07561813065 0.21847779974 0.24587288108 0.237257240515 0.0 0.286562225105 0.0370606246892 0.289306964814 0.192805681941 0.0159783700526 0.0 0.0313598628134 0.0 0.119002408022 0.0 0.0 0.230855654854 0.0 0.226428056682 0.0 0.0 0.0 0.263634847016 0.0 0.0 0.324696277593 0.0 0.0 0.0 0.0 0.0 0.0 0.332960853568 0.307288735769 0.292271509543 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.194308840464 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dwqf4zhhblow
+It energizes your heart, reduces the cholesterol level, helps in keeping the weight low, helps in preventing diabetes and slows down the process of Alzheimer's or dementia.
+it energizes your heart reduces the cholesterol level helps in keeping the weight low helps in preventing diabetes and slows down the process of alzheimers or dementia
+1 0 1 1 0 0 1 0 2 2 1 1 1 0 1 1 1 1 3 0 1 1 1 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0755144015908 0.0 0.139514376455 0.172199617032 0.0 0.0 0.281616617971 0.0 0.511889000344 0.07561813065 0.21847779974 0.24587288108 0.237257240515 0.0 0.286562225105 0.0370606246892 0.289306964814 0.192805681941 0.0479351101579 0.0 0.0313598628134 0.292271509543 0.119002408022 0.0 0.0 0.230855654854 0.0 0.226428056682 0.0 0.0 0.0 0.263634847016 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.332960853568 0.307288735769 0.292271509543 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+awixls3wmymbf
+It energizes your heart, reduces cholesterol levels, helps in keeping weight low, helps to prevent diabetes and slows down the process of Alzheimer's or dementia.
+it energizes your heart reduces cholesterol levels helps in keeping weight low helps to prevent diabetes and slows down the process of alzheimers or dementia
+1 0 1 1 0 0 1 1 2 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.0815555537181 0.0 0.150675526571 0.185975586395 0.0 0.0 0.304145947408 0.312451522 0.552840120372 0.040833790551 0.235956023719 0.265542711567 0.256237819756 0.279001601032 0.309487203113 0.0400254746643 0.312451522 0.208230136496 0.0172566396568 0.0 0.0338686518385 0.315653230306 0.128522600664 0.0 0.0 0.0 0.0 0.244542301216 0.0 0.0 0.0 0.284725634777 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.359597721853 0.0 0.315653230306 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0428962676955 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+afw2zl3qmyhzy
+This keeps the heart healthy, reducing the level of cholesterol, and keeping weight low. It also helps in the reduction of sugar and reducing Alzheimers so the speed of dementia will decrease.
+this keeps the heart healthy reducing the level of cholesterol and keeping weight low it also helps in the reduction of sugar and reducing alzheimers so the speed of dementia will decrease
+1 0 0 1 0 0 1 0 1 1 1 1 1 0 0 2 0 0 4 0 3 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 0 0 0 1 1 1 1 1 0 0
+0.0637152763423 0.0 0.0 0.145293426871 0.0 0.0 0.237614021413 0.0 0.21595317202 0.031901398868 0.18434064353 0.207455243411 0.200185796684 0.0 0.0 0.062539804163 0.0 0.0 0.0539269989276 0.0 0.0793796527465 0.246604086177 0.0 0.0 0.0 0.194784458783 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.461281570868 0.0 0.0 0.0 0.0 0.0 0.246604086177 0.0541323552866 0.200781052777 0.0 0.0 0.22126251692 0.280935720198 0.0 0.268264935569 0.0 0.0 0.0 0.0 0.273962484219 0.0874723586429 0.111166041943 0.0696004231062 0.226273224735 0.0 0.0
+ajfwu2g6a1bhs
+Exercize keeps the heart healthy,reduces the level of cholesterol, helps in keeping the weight low, helps in reduction of blood sugar, and decreases the progress of dementia.
+exercize keeps the heart healthyreduces the level of cholesterol helps in keeping the weight low helps in reduction of blood sugar and decreases the progress of dementia
+0 0 0 1 0 0 1 0 2 2 1 1 1 0 0 1 0 0 4 1 3 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1
+0.0 0.0 0.0 0.172199617032 0.0 0.0 0.281616617971 0.0 0.511889000344 0.07561813065 0.21847779974 0.24587288108 0.237257240515 0.0 0.0 0.0370606246892 0.0 0.0 0.0639134802105 0.232050501603 0.0940795884403 0.0 0.0 0.0 0.0 0.230855654854 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.292271509543 0.0 0.237962729217 0.34361574514 0.0 0.262237057091 0.332960853568 0.289306964814 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.384305089165 0.174694636729
+a123m28dwj1gun
+This keeps the heart healthy,reduces the level of cholesterol,Helps in keeping the weight low, helps in reduction of sugar and reduces Alzheimer meaning decreases the speed of dementia.
+this keeps the heart healthyreduces the level of cholesterolhelps in keeping the weight low helps in reduction of sugar and reduces alzheimer meaning decreases the speed of dementia
+0 0 0 1 0 0 0 0 1 2 1 1 1 0 0 1 0 0 4 0 3 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.166049630709 0.0 0.0 0.0 0.0 0.246803625166 0.0729174831268 0.210675021178 0.237091706756 0.228783767639 0.0 0.0 0.0357370309503 0.0 0.0 0.0616308559173 0.0 0.0907196031388 0.0 0.0 0.0 0.0 0.222610810038 0.0 0.0 0.255620056521 0.0 0.0 0.254219316765 0.0 0.0 0.313099981965 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.281833241345 0.0618655488989 0.229464060317 0.331343754242 0.34582465096 0.252871447909 0.321069394512 0.278974573214 0.306588497794 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+This makes your heart stronger, decreases cholesterol levels, helps in reducing weight, helps stop diabetes and decreases the chances of Alzheimer's.
+this makes your heart stronger decreases cholesterol levels helps in reducing weight helps stop diabetes and decreases the chances of alzheimers
+0 1 1 1 1 0 1 1 2 1 0 1 0 0 1 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 2 0 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.316122275675 0.179375626871 0.221399507613 0.322158071181 0.0 0.36207850882 0.371966097618 0.658143000443 0.0486116554178 0.0 0.316122275675 0.0 0.0 0.368437146564 0.0476493746004 0.0 0.0 0.0205436186391 0.0 0.0403198236173 0.375777655127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.351452625424 0.0 0.0 0.0 0.0 0.0 0.0 0.0824873985319 0.0 0.0 0.0 0.0 0.0 0.743932195237 0.0 0.220477819853 0.289151062583 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

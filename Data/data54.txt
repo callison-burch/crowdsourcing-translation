@@ -1,0 +1,88 @@
+bbc_urd_20090104.0004__1
+coeducation banned taliban ban on restriction taaliban stops coeducationtaliban joint education resists bans
+Co-Education Banned: Taliban
+coeducation banned taliban
+1 1 1 0 0 0 0 0 0 0 0 0 0
+2.26423948966 1.79526827356 1.16872799855 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Ban on Co-Education :Taliban
+ban on coeducation taliban
+1 0 1 1 1 0 0 0 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 1.37335887122 0.467122168715 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Co-education banned: Taliban
+coeducation banned taliban
+1 1 1 0 0 0 0 0 0 0 0 0 0
+2.26423948966 1.79526827356 1.16872799855 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Ban on co-education: Taliban
+ban on coeducation taliban
+1 0 1 1 1 0 0 0 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 1.37335887122 0.467122168715 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+Restriction on Co-education : Taaliban
+restriction on coeducation  taaliban
+1 0 0 0 1 1 1 0 0 0 0 0 0
+1.69817961725 0.0 0.0 0.0 0.467122168715 1.77010013536 1.85794960707 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+stops on co-education:Taliban
+stops on coeducationtaliban
+0 0 0 0 1 0 0 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.622829558287 0.0 0.0 2.47726614276 3.2276967423 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Ban on Joint Education: Taliban
+ban on joint education taliban
+0 0 1 1 1 0 0 0 0 1 1 0 0
+0.0 0.0 0.70123679913 1.09868709697 0.373697734972 0.0 0.0 0.0 0.0 1.15222337812 0.924099038773 0.0 0.0
+a8v7wa74iohz9
+Ban on coeducation: Taliban
+ban on coeducation taliban
+1 0 1 1 1 0 0 0 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 1.37335887122 0.467122168715 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+Restriction on Co-education : Taaliban
+restriction on coeducation  taaliban
+1 0 0 0 1 1 1 0 0 0 0 0 0
+1.69817961725 0.0 0.0 0.0 0.467122168715 1.77010013536 1.85794960707 0.0 0.0 0.0 0.0 0.0 0.0
+ac00w60nppf9z
+Restriction on Co-education : Taliban
+restriction on coeducation  taliban
+1 0 1 0 1 1 0 0 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 0.0 0.467122168715 1.77010013536 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Restriction on Co-education: Taliban
+restriction on coeducation taliban
+1 0 1 0 1 1 0 0 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 0.0 0.467122168715 1.77010013536 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+stops on co-education:Taliban
+stops on coeducationtaliban
+0 0 0 0 1 0 0 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.622829558287 0.0 0.0 2.47726614276 3.2276967423 0.0 0.0 0.0 0.0
+a1x4s2g0dzysyw
+Taliban resists co-education
+taliban resists coeducation
+1 0 1 0 0 0 0 0 0 0 0 1 0
+2.26423948966 0.0 1.16872799855 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.2276967423 0.0
+a2rcbwy8ulhnj0
+Stops on co-education: Taliban
+stops on coeducation taliban
+1 0 1 0 1 0 0 1 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 0.0 0.467122168715 0.0 0.0 1.85794960707 0.0 0.0 0.0 0.0 0.0
+a1gnof24z9gaez
+Ban on Joint Education: Taliban
+ban on joint education taliban
+0 0 1 1 1 0 0 0 0 1 1 0 0
+0.0 0.0 0.70123679913 1.09868709697 0.373697734972 0.0 0.0 0.0 0.0 1.15222337812 0.924099038773 0.0 0.0
+a1g9f1kosfkijh
+Ban on Joint Education: Taliban
+ban on joint education taliban
+0 0 1 1 1 0 0 0 0 1 1 0 0
+0.0 0.0 0.70123679913 1.09868709697 0.373697734972 0.0 0.0 0.0 0.0 1.15222337812 0.924099038773 0.0 0.0
+a3qu3km3iywhif
+Taliban Bans Joint Education
+taliban bans joint education
+0 0 1 0 0 0 0 0 0 1 1 0 1
+0.0 0.0 0.876545998913 0.0 0.0 0.0 0.0 0.0 0.0 1.44027922265 1.15512379847 0.0 2.19169987375
+a1ayptb7ayz623
+Ban on coeducation: Taliban
+ban on coeducation taliban
+1 0 1 1 1 0 0 0 0 0 0 0 0
+1.69817961725 0.0 0.876545998913 1.37335887122 0.467122168715 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

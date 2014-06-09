@@ -1,0 +1,88 @@
+bbc_urd_20090107.0021__1
+ajmal kasab is pakistani information minister qasab in fact a indeed for media pakistan the of and butcher
+Ajmal Kasab is Pakistani: Information Minister
+ajmal kasab is pakistani information minister
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.81662897592 1.00979154899 0.221069660385 0.605559461943 0.78324726753 0.598441627074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Ajmal Qasab is in fact a Pakistani: Information Minister
+ajmal qasab is in fact a pakistani information minister
+1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+0.54441931728 0.0 0.14737977359 0.403706307962 0.52216484502 0.398961084716 0.687398073936 0.113427195975 0.60544263581 0.158844688727 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Ajmal Kasab is Indeed Pakistani: Information Minister
+ajmal kasab is indeed pakistani information minister
+1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0
+0.699967693645 0.865535613416 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.0 0.0 0.0 0.0 1.25239992786 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Information minister: Ajmal Kasab is a Pakistani
+information minister ajmal kasab is a pakistani
+1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0
+0.699967693645 0.865535613416 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.0 0.0 0.0 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Ajmal Qasab is a Pakistani : Information Minister
+ajmal qasab is a pakistani  information minister
+1 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+0.699967693645 0.0 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.883797523632 0.0 0.0 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Ajmal Kasab is Pakistani, Information Minister.
+ajmal kasab is pakistani information minister
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.81662897592 1.00979154899 0.221069660385 0.605559461943 0.78324726753 0.598441627074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Ajmal Qasab is a Pakistani: Minister for Media
+ajmal qasab is a pakistani minister for media
+1 0 1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 0
+0.61247173194 0.0 0.165802245289 0.454169596457 0.0 0.448831220305 0.773322833178 0.0 0.0 0.178700274818 0.0 0.241236994626 0.594027487658 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dwqf4zhhblow
+Ajmal Qasab is a Pakistan Information Minister.
+ajmal qasab is a pakistan information minister
+1 0 1 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0
+0.699967693645 0.0 0.18948828033 0.0 0.67135480074 0.512949966063 0.883797523632 0.0 0.0 0.204228885506 0.0 0.0 0.0 0.339604313458 0.0 0.0 0.0 0.0
+a1g46au4nrpshg
+Ajmal Qasab is a Pakistani : Information Minister
+ajmal qasab is a pakistani  information minister
+1 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+0.699967693645 0.0 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.883797523632 0.0 0.0 0.204228885506 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a29s1rn1ux7u8z
+Ajmal Qasab is the Pakistani : Information Minister
+ajmal qasab is the pakistani  information minister
+1 0 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.699967693645 0.0 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.883797523632 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0616308559173 0.0 0.0 0.0
+a87c5tu9lryej
+Ajmal Kasab is the Pakistani Information Minister.
+ajmal kasab is the pakistani information minister
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0
+0.699967693645 0.865535613416 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0616308559173 0.0 0.0 0.0
+aaul30gxuqax9
+Ajmal Kasab is the Information Minister of Pakistan.
+ajmal kasab is the information minister of pakistan
+1 1 1 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0
+0.61247173194 0.757343661739 0.165802245289 0.0 0.587435450648 0.448831220305 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.297153774276 0.0539269989276 0.105839536995 0.0 0.0
+al2rcq9eyun61
+Ajmal Kasab is Pakistani Information Minister.
+ajmal kasab is pakistani information minister
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.81662897592 1.00979154899 0.221069660385 0.605559461943 0.78324726753 0.598441627074 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+Ajmal Qasab is a Pakistani and is the Minister for Media.
+ajmal qasab is a pakistani and is the minister for media
+1 0 2 1 0 1 1 0 0 1 0 1 1 0 1 0 1 0
+0.445433986865 0.0 0.241166902238 0.33030516106 0.0 0.326422705677 0.562416605948 0.0 0.0 0.129963836231 0.0 0.175445087001 0.432019991024 0.0 0.0392196355837 0.0 0.0909669878735 0.0
+avktegthhn2vp
+Ajmal Qasab is a Pakistani Minister for Media.
+ajmal qasab is a pakistani minister for media
+1 0 1 1 0 1 1 0 0 1 0 1 1 0 0 0 0 0
+0.61247173194 0.0 0.165802245289 0.454169596457 0.0 0.448831220305 0.773322833178 0.0 0.0 0.178700274818 0.0 0.241236994626 0.594027487658 0.0 0.0 0.0 0.0 0.0
+a262d9pq8d093q
+Ajmal Qasab is the Pakistani Minister for Media.
+ajmal qasab is the pakistani minister for media
+1 0 1 1 0 1 1 0 0 0 0 1 1 0 1 0 0 0
+0.61247173194 0.0 0.165802245289 0.454169596457 0.0 0.448831220305 0.773322833178 0.0 0.0 0.0 0.0 0.241236994626 0.594027487658 0.0 0.0539269989276 0.0 0.0 0.0
+a3mq8jwi317m6m
+Ajmal butcher is : THE Pakistani INFORMATION Minister
+ajmal butcher is  the pakistani information minister
+1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 1
+0.699967693645 0.0 0.18948828033 0.51905096738 0.67135480074 0.512949966063 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0616308559173 0.0 0.0 1.20433246548

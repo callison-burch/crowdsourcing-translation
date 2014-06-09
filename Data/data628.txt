@@ -1,0 +1,88 @@
+voa_urd_20090114.0020__1
+quetta dsp killed with four police officers policemen including cops deputy superintendent queta men qwetta the members personnel were in was among
+Quetta: DSP Killed with Four Police Officers
+quetta dsp killed with four police officers
+1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.833277517883 0.883797523632 0.520235106782 0.337131358421 0.658273773094 0.545231738565 0.978553840405 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Quetta: Four Policemen Killed Including DSP
+quetta four policemen killed including dsp
+1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.972157104197 1.0310971109 0.606940957913 0.0 0.767986068609 0.0 0.0 1.18006675691 0.780417544775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Quetta: Four Policemen Including DSP Killed
+quetta four policemen including dsp killed
+1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.972157104197 1.0310971109 0.606940957913 0.0 0.767986068609 0.0 0.0 1.18006675691 0.780417544775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Quetta: four cops, including DSP Deputy Superintendent Police, killed
+quetta four cops including dsp deputy superintendent police killed
+1 1 1 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.648104736131 0.687398073936 0.404627305275 0.0 0.511990712406 0.424069129995 0.0 0.0 0.520278363183 0.97408883278 0.782670321919 0.814634996636 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Quetta, four policemen including DSP killed.
+quetta four policemen including dsp killed
+1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.972157104197 1.0310971109 0.606940957913 0.0 0.767986068609 0.0 0.0 1.18006675691 0.780417544775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+Queta, including DSP four police men killed.
+queta including dsp four police men killed
+0 1 1 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.883797523632 0.520235106782 0.0 0.658273773094 0.545231738565 0.0 0.0 0.668929324092 0.0 0.0 0.0 1.28427757805 0.7609116286 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+Qwetta, with the DSP four police members killed
+qwetta with the dsp four police members killed
+0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+0.0 0.773322833178 0.455205718435 0.294989938618 0.575989551457 0.477077771245 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.12374288079 0.0539269989276 0.602426168219 0.0 0.0 0.0 0.0 0.0
+alrghxunh1uv7
+Quetta, DSP, including four police personnel were killed
+quetta dsp including four police personnel were killed
+1 1 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0
+0.729117828147 0.773322833178 0.455205718435 0.0 0.575989551457 0.477077771245 0.0 0.0 0.585313158581 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.835919744167 0.364900664791 0.0 0.0 0.0
+a7vga4xtn363o
+Quetta, four policemen including DSP killed.
+quetta four policemen including dsp killed
+1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.972157104197 1.0310971109 0.606940957913 0.0 0.767986068609 0.0 0.0 1.18006675691 0.780417544775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3l62wt9zlhu7v
+Four Quetta Policemen Killed
+four quetta policemen killed
+1 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.45823565629 0.0 0.910411436869 0.0 1.15197910291 0.0 0.0 1.77010013536 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Quetta, four policemen including DSP killed.
+quetta four policemen including dsp killed
+1 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.972157104197 1.0310971109 0.606940957913 0.0 0.767986068609 0.0 0.0 1.18006675691 0.780417544775 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+Four Police Men Killed
+four police men killed
+0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.910411436869 0.0 1.15197910291 0.954155542489 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.33159535005 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Queta, including DSP, four police men killed.
+queta including dsp four police men killed
+0 1 1 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.883797523632 0.520235106782 0.0 0.658273773094 0.545231738565 0.0 0.0 0.668929324092 0.0 0.0 0.0 1.28427757805 0.7609116286 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+In Queta, including the DSP four police men killed.
+in queta including the dsp four police men killed
+0 1 1 0 1 1 0 0 1 0 0 0 1 1 0 1 0 0 0 1 0 0
+0.0 0.687398073936 0.404627305275 0.0 0.511990712406 0.424069129995 0.0 0.0 0.520278363183 0.0 0.0 0.0 0.998882560703 0.591820155578 0.0 0.0479351101579 0.0 0.0 0.0 0.113427195975 0.0 0.0
+a143awku99stc9
+Qwetta was among the four DSP police members killed
+qwetta was among the four dsp police members killed
+0 1 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 1 1
+0.0 0.687398073936 0.404627305275 0.0 0.511990712406 0.424069129995 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.998882560703 0.0479351101579 0.535489927306 0.0 0.0 0.0 0.242353301839 0.541664355212
+a6tw9zegog7ph
+Qwetta, with the DSP four police members killed
+qwetta with the dsp four police members killed
+0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+0.0 0.773322833178 0.455205718435 0.294989938618 0.575989551457 0.477077771245 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.12374288079 0.0539269989276 0.602426168219 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+Qwetta, DSP four police members killed
+qwetta dsp four police members killed
+0 1 1 0 1 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0
+0.0 1.0310971109 0.606940957913 0.0 0.767986068609 0.636103694993 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.49832384105 0.0 0.803234890958 0.0 0.0 0.0 0.0 0.0
+aonmraht4motn
+Quetta, DSP, including four police personnel were killed
+quetta dsp including four police personnel were killed
+1 1 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0
+0.729117828147 0.773322833178 0.455205718435 0.0 0.575989551457 0.477077771245 0.0 0.0 0.585313158581 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.835919744167 0.364900664791 0.0 0.0 0.0

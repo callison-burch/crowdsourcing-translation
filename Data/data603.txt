@@ -1,0 +1,88 @@
+voa_urd_20090109.0007__1
+american vice presidentelect joseph biden reached pakistan elected president reaches elect arrives in us has the of america just presidentjoseph joe arrived
+American Vice President-elect Joseph Biden Reached Pakistan
+american vice presidentelect joseph biden reached pakistan
+1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.449589075665 0.751177656433 1.06940937851 0.82021548846 0.713106049237 0.770375826535 0.339604313458 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Elected American Vice President Joseph Biden Reaches Pakistan
+elected american vice president joseph biden reaches pakistan
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.393390441207 0.657280449379 0.0 0.717688552403 0.623967793083 0.0 0.297153774276 0.608356133853 0.353197020543 1.03709948322 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+American Vice President Elect Joseph Biden Arrives in Pakistan
+american vice president elect joseph biden arrives in pakistan
+1 1 0 1 1 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.349680392184 0.584249288337 0.0 0.637945379913 0.554638038296 0.0 0.264136688245 0.0 0.313952907149 0.0 0.897072479384 0.998882560703 0.113427195975 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+US Vice President Joseph Biden arrives in Pakistan
+us vice president joseph biden arrives in pakistan
+0 1 0 1 1 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.657280449379 0.0 0.717688552403 0.623967793083 0.0 0.297153774276 0.0 0.353197020543 0.0 0.0 1.12374288079 0.127605595472 0.458671883856 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Elected vice president Joseph Biden has reached Pakistan.
+elected vice president joseph biden has reached pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.657280449379 0.0 0.717688552403 0.623967793083 0.674078848218 0.297153774276 0.608356133853 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.256003489463 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+the elected vice president of America, Joseph Biden has reached Pakistan.
+the elected vice president of america joseph biden has reached pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 0 0 0 0
+0.0 0.478022145003 0.0 0.521955310838 0.453794758606 0.49023916234 0.216111835837 0.44244082462 0.256870560395 0.0 0.0 0.0 0.0 0.0 0.186184355973 0.0392196355837 0.0769742087239 0.278820458342 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The elected American Vice President, Joseph Biden reached Pakistan.
+the elected american vice president joseph biden reached pakistan
+1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.349680392184 0.584249288337 0.0 0.637945379913 0.554638038296 0.599181198416 0.264136688245 0.540761007869 0.313952907149 0.0 0.0 0.0 0.0 0.0 0.0 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Elected Vice President of America Joseph Biden reaches Pakistan
+elected vice president of america joseph biden reaches pakistan
+0 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0
+0.0 0.584249288337 0.0 0.637945379913 0.554638038296 0.0 0.264136688245 0.540761007869 0.313952907149 0.921866207308 0.0 0.0 0.0 0.0 0.0 0.0 0.0940795884403 0.340780560195 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+Elected Vice President Joseph Biden has Reached Pakistan.
+elected vice president joseph biden has reached pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.657280449379 0.0 0.717688552403 0.623967793083 0.674078848218 0.297153774276 0.608356133853 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.256003489463 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+Elected vice president Joseph Biden has reached Pakistan.
+elected vice president joseph biden has reached pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.657280449379 0.0 0.717688552403 0.623967793083 0.674078848218 0.297153774276 0.608356133853 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.256003489463 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a174ngc3rag9z7
+Elected vice president Joseph Biden, has reached Pakistan.
+elected vice president joseph biden has reached pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.657280449379 0.0 0.717688552403 0.623967793083 0.674078848218 0.297153774276 0.608356133853 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.256003489463 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+Elected American Vice President, Joseph Biden Reached Pakistan.
+elected american vice president joseph biden reached pakistan
+1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.393390441207 0.657280449379 0.0 0.717688552403 0.623967793083 0.674078848218 0.297153774276 0.608356133853 0.353197020543 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Elected Vice President of America, Joseph Biden, has reached Pakistan.
+elected vice president of america joseph biden has reached pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 1 1 0 0 0 0
+0.0 0.525824359503 0.0 0.574150841922 0.499174234466 0.539263078574 0.237723019421 0.486684907082 0.282557616434 0.0 0.0 0.0 0.0 0.0 0.20480279157 0.0 0.0846716295963 0.306702504176 0.0 0.0 0.0 0.0
+a3m6cl5oao31z
+The elected Vice President of America, Joseph Biden has reached just Pakistan.
+the elected vice president of america joseph biden has reached just pakistan
+0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0
+0.0 0.438186966253 0.0 0.478459034935 0.415978528722 0.449385898812 0.198102516184 0.405570755902 0.235464680362 0.0 0.0 0.0 0.0 0.0 0.170668992975 0.0359513326184 0.0705596913302 0.255585420146 0.380925203211 0.0 0.0 0.0
+attzel5iaoiw5
+Elected American Vice President, Joseph Biden reaches Pakistan.
+elected american vice president joseph biden reaches pakistan
+1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.393390441207 0.657280449379 0.0 0.717688552403 0.623967793083 0.0 0.297153774276 0.608356133853 0.353197020543 1.03709948322 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+The elected American Vice President,Joseph Biden reached Pakistan.
+the elected american vice presidentjoseph biden reached pakistan
+1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0
+0.393390441207 0.657280449379 0.0 0.0 0.623967793083 0.674078848218 0.297153774276 0.608356133853 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0539269989276 0.0 0.0 0.0 1.29702967593 0.0 0.0
+awixls3wmymbf
+American Vice President, Joseph Biden reached Pakistan.
+american vice president joseph biden reached pakistan
+1 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.449589075665 0.751177656433 0.0 0.82021548846 0.713106049237 0.770375826535 0.339604313458 0.0 0.403653737764 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1rhjj60p0jwi3
+U.S. Vice President Joe Biden arrived in Pakistan.
+us vice president joe biden arrived in pakistan
+0 1 0 0 1 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 1 1
+0.0 0.657280449379 0.0 0.0 0.623967793083 0.0 0.297153774276 0.0 0.353197020543 0.0 0.0 0.0 0.127605595472 0.458671883856 0.0 0.0 0.0 0.0 0.0 0.0 0.725190803618 0.889767608679

@@ -1,0 +1,88 @@
+bbc_urd_20090116.0025__13
+china brazil russia india america and britain are among these countries include russian the united states england some of those this includes like such as great just affected by virus
+China, Brazil, Russia, India, America and Britain are among these countries.
+china brazil russia india america and britain are among these countries
+1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.476939881139 0.680533240869 0.537302662618 0.276240878537 0.278820458342 0.0909669878735 0.507313351078 0.192340413716 0.443179926991 0.277972532626 0.338020578325 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+These countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+These countries include China, Brazil, Russian, India, America and Britain.
+these countries include china brazil russian india america and britain
+1 1 0 1 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.0 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.743179842828 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+These countries include China, Brazil, Russia, India, the United States and Britain.
+these countries include china brazil russia india the united states and britain
+1 1 1 1 0 1 1 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.437194891044 0.623822137463 0.492527440733 0.253220805326 0.0 0.0833864055507 0.465037238488 0.0 0.0 0.254808154907 0.309852196798 0.473740793768 0.0 0.0359513326184 0.336617639692 0.419094156394 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a28z6a8uc4er3x
+These countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+these countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+China, Brazil, Russia, India, America and England are some of those countries.
+china brazil russia india america and england are some of those countries
+1 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.437194891044 0.623822137463 0.492527440733 0.253220805326 0.255585420146 0.0833864055507 0.0 0.176312045906 0.0 0.0 0.309852196798 0.0 0.0 0.0 0.0 0.0 0.561554270644 0.328876494118 0.0705596913302 0.33272756438 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+This includes countries like Brazil, China, Russia, India, the United States and Britain.
+this includes countries like brazil china russia india the united states and britain
+1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.40356451481 0.575835819196 0.454640714523 0.233742281839 0.0 0.0769720666622 0.429265143219 0.0 0.0 0.0 0.286017412429 0.0 0.0 0.0331858454939 0.3107239751 0.386856144364 0.0 0.0 0.0 0.0 0.133248874552 0.522516805307 0.293368716443 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wgq344wqriu5
+These countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+These countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a21146bd3quzea
+These countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g9f1kosfkijh
+These countries include China, Brazil, Russia, India, America and Britain.
+these countries include china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.524633869253 0.748586564955 0.59103292888 0.303864966391 0.306702504176 0.100063686661 0.558044686185 0.0 0.0 0.305769785888 0.371822636158 0.568488952522 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ancf53mqwds6z
+This includes countries such as China, Brazil, Russia, India, America and Britain.
+this includes countries such as china brazil russia india america and britain
+1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0
+0.437194891044 0.623822137463 0.492527440733 0.253220805326 0.255585420146 0.0833864055507 0.465037238488 0.0 0.0 0.0 0.309852196798 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.144352947431 0.566059872416 0.0 0.331470206076 0.220688488779 0.0 0.0 0.0 0.0 0.0
+a1q4bk19vweq6c
+These countries include China, Brazil, Russia, India, the United States and Great Britain.
+these countries include china brazil russia india the united states and great britain
+1 1 1 1 0 1 1 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.40356451481 0.575835819196 0.454640714523 0.233742281839 0.0 0.0769720666622 0.429265143219 0.0 0.0 0.235207527606 0.286017412429 0.437299194248 0.0 0.0331858454939 0.3107239751 0.386856144364 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.365833580133 0.0 0.0 0.0 0.0
+ao4irwzdpd1xj
+China, Brazil, Russia, India, America and England are just some of those countries.
+china brazil russia india america and england are just some of those countries
+1 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0
+0.40356451481 0.575835819196 0.454640714523 0.233742281839 0.235925003212 0.0769720666622 0.0 0.162749580837 0.0 0.0 0.286017412429 0.0 0.0 0.0 0.0 0.0 0.518357788286 0.303578302262 0.0651320227664 0.307133136351 0.0 0.0 0.0 0.0 0.0 0.0 0.351623264503 0.0 0.0 0.0
+a3enrl83pe9r33
+China, Brazil, Russia, India, America and England are some of those countries affected.
+china brazil russia india america and england are some of those countries affected
+1 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0
+0.40356451481 0.575835819196 0.454640714523 0.233742281839 0.235925003212 0.0769720666622 0.0 0.162749580837 0.0 0.0 0.286017412429 0.0 0.0 0.0 0.0 0.0 0.518357788286 0.303578302262 0.0651320227664 0.307133136351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43054722418 0.0 0.0
+a1dndzlo2d5d48
+China, Brazil, Russia, India, America and England are some of those countries affected by the virus.
+china brazil russia india america and england are some of those countries affected by the virus
+1 1 1 1 1 1 0 1 0 0 1 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1
+0.327896168283 0.467866603097 0.36939558055 0.189915603994 0.19168906511 0.062539804163 0.0 0.13223403443 0.0 0.0 0.232389147599 0.0 0.0 0.0269634994638 0.0 0.0 0.421165702983 0.246657370588 0.0529197684977 0.249545673285 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.349819619646 0.155823003509 0.319921377214
+a11q9mm0b90tar
+This includes countries like Brazil, China, Russia, India, the United States and Britain.
+this includes countries like brazil china russia india the united states and britain
+1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.40356451481 0.575835819196 0.454640714523 0.233742281839 0.0 0.0769720666622 0.429265143219 0.0 0.0 0.0 0.286017412429 0.0 0.0 0.0331858454939 0.3107239751 0.386856144364 0.0 0.0 0.0 0.0 0.133248874552 0.522516805307 0.293368716443 0.0 0.0 0.0 0.0 0.0 0.0 0.0

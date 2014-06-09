@@ -1,0 +1,88 @@
+urd-ng-102-174502-11516101-post94__2
+how would this change affect the relations between pakistan and america is policy going to impact pakistaniamerican will what have on pakus americas relationship be affected by these changes effect of
+How would this change affect the relations between Pakistan and America?
+how would this change affect the relations between pakistan and america
+1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.358044159792 0.317060449808 0.157475942652 0.463003061701 0.612604658884 0.0392196355837 0.437777797858 0.358774357219 0.216111835837 0.0909669878735 0.278820458342 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+How is this policy going to impact Pakistani-American relations.
+how is this policy going to impact pakistaniamerican relations
+1 0 1 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.437609528635 0.0 0.192470596574 0.0 0.0 0.0 0.535061752937 0.0 0.0 0.0 0.0 0.14737977359 0.510953898247 0.492896239414 0.119156299154 0.936703028711 0.936703028711 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+How will this change affect the relations between Pakistan and America.
+how will this change affect the relations between pakistan and america
+1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.612604658884 0.0392196355837 0.437777797858 0.358774357219 0.216111835837 0.0909669878735 0.278820458342 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+What impact will this change have on Pak-US relations?
+what impact will this change have on pakus relations
+0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.192470596574 0.565892630968 0.0 0.0 0.535061752937 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.936703028711 0.0 0.247468171044 0.342655581253 0.25425442809 0.207609852762 1.0758989141 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+How Pakistan and America's relationship will be affected by this change.
+how pakistan and americas relationship will be affected by this change
+1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.0 0.0 0.0 0.0 0.216111835837 0.0909669878735 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.504356697286 0.514339866923 0.196672529343 0.508828537667 0.226651641468 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+How will these changes affect Pakistani-American relations?
+how will these changes affect pakistaniamerican relations
+1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.56264082253 0.0 0.0 0.0 0.962664463961 0.0 0.687936539491 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.20433246548 0.318173362771 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43681397984 0.831765787978 0.0 0.0
+a1wyssw33m2fz2
+How will this change effect the relationship between America and Pakistan.
+how will this change effect the relationship between america and pakistan
+1 0 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.0 0.0392196355837 0.0 0.358774357219 0.216111835837 0.0909669878735 0.278820458342 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.0 0.514339866923 0.0 0.0 0.0 0.0 0.0 0.527411493541 0.0
+a2i57ww1b3evwx
+What will be the effect of these changes on relationship between Pakistan and America
+what will be the effect of these changes on relationship between pakistan and america
+0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 1 1 0 1 0 0 1 1 0 0 1 1 1 1
+0.0 0.0 0.0 0.0 0.0 0.0308154279586 0.0 0.281894137815 0.169802156729 0.0714740619006 0.219073217268 0.0 0.0 0.0 0.0 0.0 0.0 0.159086681386 0.220278587948 0.0 0.133463476776 0.0 0.0 0.404124181154 0.154528415912 0.0 0.0 0.21840698992 0.415882893989 0.414394744925 0.0604797354259
+a1gnof24z9gaez
+How will Pakistan and America's relationship be affected by this change?
+how will pakistan and americas relationship be affected by this change
+1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.0 0.0 0.0 0.0 0.216111835837 0.0909669878735 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.504356697286 0.514339866923 0.196672529343 0.508828537667 0.226651641468 0.0 0.0 0.0 0.0
+aclg2ttpdpj36
+How Pakistan and America's relationship will be affected by this change:
+how pakistan and americas relationship will be affected by this change
+1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.0 0.0 0.0 0.0 0.216111835837 0.0909669878735 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.504356697286 0.514339866923 0.196672529343 0.508828537667 0.226651641468 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+How will Pakistan and America's relationship will be affected by this change.
+how will pakistan and americas relationship will be affected by this change
+1 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 2 0 0 0 0 1 1 1 1 1 0 0 0 0
+0.328207146476 0.0 0.144352947431 0.424419473226 0.0 0.0 0.0 0.0 0.198102516184 0.0833864055507 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.371202256566 0.0 0.0 0.0 0.0 0.462326972512 0.471478211346 0.180283151898 0.466426159528 0.207764004679 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+How will these changes affect Pakistani-American relations?
+how will these changes affect pakistaniamerican relations
+1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.56264082253 0.0 0.0 0.0 0.962664463961 0.0 0.687936539491 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.20433246548 0.318173362771 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43681397984 0.831765787978 0.0 0.0
+air4uqnpimfcj
+How will these changes affect Pakistani-American relations?
+how will these changes affect pakistaniamerican relations
+1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.56264082253 0.0 0.0 0.0 0.962664463961 0.0 0.687936539491 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.20433246548 0.318173362771 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43681397984 0.831765787978 0.0 0.0
+ao4irwzdpd1xj
+How will these changes affect Pakistani-American relations?
+how will these changes affect pakistaniamerican relations
+1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.56264082253 0.0 0.0 0.0 0.962664463961 0.0 0.687936539491 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.20433246548 0.318173362771 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.43681397984 0.831765787978 0.0 0.0
+a6tw9zegog7ph
+How will this change affect the relationship between America and Pakistan?
+how will this change affect the relationship between america and pakistan
+1 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.612604658884 0.0392196355837 0.0 0.358774357219 0.216111835837 0.0909669878735 0.278820458342 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.0 0.514339866923 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3w129h6a0hk4d
+How will this change effect the relationship between America and Pakistan?
+how will this change effect the relationship between america and pakistan
+1 0 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.0 0.0392196355837 0.0 0.358774357219 0.216111835837 0.0909669878735 0.278820458342 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.0 0.514339866923 0.0 0.0 0.0 0.0 0.0 0.527411493541 0.0
+a2zhr3rebfem5a
+How will this change effect the relationship between America and Pakistan?
+how will this change effect the relationship between america and pakistan
+1 0 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0
+0.358044159792 0.0 0.157475942652 0.463003061701 0.0 0.0392196355837 0.0 0.358774357219 0.216111835837 0.0909669878735 0.278820458342 0.0 0.0 0.0 0.0 0.0 0.0 0.202473958127 0.0 0.0 0.0 0.0 0.0 0.514339866923 0.0 0.0 0.0 0.0 0.0 0.527411493541 0.0
+amd40d0gc1l4r
+What will be the effect of these changes on the relationship between Pakistan and America?
+what will be the effect of these changes on the relationship between pakistan and america
+0 0 0 0 0 2 0 1 1 1 1 0 0 0 0 0 0 1 1 0 1 0 0 1 1 0 0 1 1 1 1
+0.0 0.0 0.0 0.0 0.0 0.0575221321894 0.0 0.263101195294 0.158482012947 0.0667091244405 0.204468336117 0.0 0.0 0.0 0.0 0.0 0.0 0.148480902627 0.205593348752 0.0 0.124565911657 0.0 0.0 0.377182569077 0.144226521518 0.0 0.0 0.203846523925 0.388157367723 0.386768428596 0.0564477530642

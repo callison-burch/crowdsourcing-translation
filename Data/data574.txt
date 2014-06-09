@@ -1,0 +1,88 @@
+voa_urd_20090101.0016__5
+the president of anjumanetajiran abdul rahim kakar demanded that police officers involved in incident be arrested and action taken against them traders association officials should anjumanetajeran abdur has strict merchant union abdurrahim kakron showed his want disable men leader kakkar asked to arrest accused policemen call an inquiry anjuman tajiran raheem kakad guilty agents organization punished desire have for he wanted disabled take called at fault
+The president of Anjuman-e-Tajiran, Abdul Rahim Kakar, demanded that the police officers involved in the incident be arrested and action be taken against them.
+the president of anjumanetajiran abdul rahim kakar demanded that the police officers involved in the incident be arrested and action be taken against them
+3 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0539269989276 0.117732340181 0.0352798456651 0.403462092787 0.298223399274 0.336402179769 0.357686580759 0.253574081929 0.0507864983444 0.159025923748 0.285411536785 0.211998765698 0.0425351984906 0.195385918796 0.180283151898 0.229851041795 0.0416932027753 0.174842531408 0.181164953634 0.133268957969 0.143572610062 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The president of the Traders Association Abdul Rahim Kakar demanded that the police officials involved in the incident should be arrested and action should be taken against them.
+the president of the traders association abdul rahim kakar demanded that the police officials involved in the incident should be arrested and action should be taken against them
+4 1 1 0 1 1 1 1 1 1 0 1 1 1 2 1 1 1 1 1 1 1 1 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.100913434441 0.0302398677129 0.0 0.255620056521 0.288344725516 0.306588497794 0.217349213082 0.0435312842952 0.136307934641 0.0 0.181713227741 0.0364587415634 0.167473644683 0.154528415912 0.197015178682 0.0357370309503 0.149865026921 0.155284245972 0.114230535402 0.123062237196 0.243603190927 0.24066611599 0.160660772345 0.215030326446 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President of Anjuman-e-Tajeran Abdur Rahim Kakar has demanded that police officials involved in the incident should be arrested and strict action taken against them.
+president of anjumanetajeran abdur rahim kakar has demanded that police officials involved in the incident should be arrested and strict action taken against them
+1 1 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0179756663092 0.117732340181 0.0352798456651 0.0 0.0 0.336402179769 0.357686580759 0.253574081929 0.0507864983444 0.159025923748 0.0 0.211998765698 0.0425351984906 0.195385918796 0.0901415759489 0.229851041795 0.0416932027753 0.174842531408 0.181164953634 0.133268957969 0.143572610062 0.0 0.0 0.187437567736 0.125434357093 0.43234322531 0.365283312292 0.0853344964875 0.283029936208 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Abdul Rahim Kakar, president of traders association, demanded that officers involved in the incident be arrested and that action be taken against them.
+abdul rahim kakar president of traders association demanded that officers involved in the incident be arrested and that action be taken against them
+1 1 1 0 1 1 1 1 2 0 1 1 1 1 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0187572170183 0.12285113758 0.0368137519984 0.0 0.311189634025 0.351028361498 0.373238171227 0.264599042013 0.105989213936 0.0 0.297820734036 0.221216103337 0.0443845549467 0.203880958744 0.188121549806 0.239844565352 0.0435059507221 0.1824443806 0.189041690749 0.139063260489 0.149814897456 0.296560406346 0.292984836858 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+The president of Merchant Union Abdurrahim Kakron showed his want that the disable police men should be taken action against them.
+the president of merchant union abdurrahim kakron showed his want that the disable police men should be taken action against them
+2 1 1 0 0 0 0 0 1 1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 1 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0410872372782 0.134551245921 0.0403198236173 0.0 0.0 0.0 0.0 0.0 0.0580417123936 0.181743912855 0.0 0.0 0.0 0.0 0.103018943942 0.0 0.0 0.199820035895 0.207045661296 0.152307380536 0.164082982928 0.0 0.0 0.0 0.143353550964 0.0 0.0 0.0 0.0 0.428092526016 0.248987758602 0.428092526016 0.428092526016 0.289151062583 0.127017990781 0.220477819853 0.494106543212 0.253637209533 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+The leader of Traders Union Abdul Rahim Kakkar asked to arrest the accused policemen of the incident and call an inquiry against them.
+the leader of traders union abdul rahim kakkar asked to arrest the accused policemen of the incident and call an inquiry against them
+3 0 2 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0562716510549 0.0 0.0736275039967 0.0 0.311189634025 0.351028361498 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.203880958744 0.0 0.0 0.0435059507221 0.0 0.0 0.139063260489 0.149814897456 0.296560406346 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.227336649158 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.19333253322 0.390867088971 0.205228069419 0.0466263779298 0.264599042013 0.242628124428 0.307843501802 0.237228542679 0.127554116724 0.373238171227 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The president of the Anjuman Tajiran, Abdur Raheem Kakad demanded that the guilty police agents should be arrested and action should be taken against them.
+the president of the anjuman tajiran abdur raheem kakad demanded that the guilty police agents should be arrested and action should be taken against them
+3 1 1 0 0 0 0 1 1 1 0 0 0 0 2 1 1 1 1 1 1 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0517699189705 0.113023046574 0.0338686518385 0.0 0.0 0.0 0.0 0.243431118652 0.0487550384106 0.152664886798 0.0 0.0 0.0 0.0 0.173071825822 0.220657000124 0.0400254746643 0.167848830152 0.173918355489 0.12793819965 0.13782970566 0.0 0.0 0.0 0.240833965619 0.0 0.350671979801 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.331871834631 0.331871834631 0.359597721853 0.359597721853 0.267494318133 0.272835573838 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Abdul Rahim Kakar President of Traders Organization has demanded that police officials involved in the incident should be arrested and punished.
+abdul rahim kakar president of traders organization has demanded that police officials involved in the incident should be arrested and punished
+1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.0205436186391 0.134551245921 0.0403198236173 0.0 0.340826742028 0.384459634022 0.408784663725 0.289798950776 0.0580417123936 0.181743912855 0.0 0.242284303655 0.0486116554178 0.22329819291 0.103018943942 0.262686904909 0.0476493746004 0.0 0.0 0.0 0.0 0.32480425457 0.0 0.214214363127 0.143353550964 0.0 0.0 0.0975251388429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.229864824884 0.337161930545 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+The president of the Merchant Union Abdurrahim Kakron showed his desire that the police men should have action taken against them.
+the president of the merchant union abdurrahim kakron showed his desire that the police men should have action taken against them
+3 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0616308559173 0.134551245921 0.0403198236173 0.0 0.0 0.0 0.0 0.0 0.0580417123936 0.181743912855 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.199820035895 0.207045661296 0.152307380536 0.164082982928 0.0 0.0 0.0 0.143353550964 0.0 0.0 0.0 0.0 0.428092526016 0.248987758602 0.428092526016 0.428092526016 0.289151062583 0.127017990781 0.0 0.0 0.253637209533 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.333759122736 0.108966183467 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2miig4vdudbb6
+The president of Merchant Union Abdurrahim Kakron showed his desire for the police men to have action taken against them.
+the president of merchant union abdurrahim kakron showed his desire for the police men to have action taken against them
+2 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0431415991421 0.141278808217 0.0423358147981 0.0 0.0 0.0 0.0 0.0 0.0 0.190831108498 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.20981103769 0.217397944361 0.159922749563 0.172287132075 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.449497152316 0.261437146532 0.449497152316 0.449497152316 0.303608615712 0.13336889032 0.0 0.0 0.26631907001 0.0 0.0 0.0 0.0536203346193 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.350447078873 0.11441449264 0.0964947978503 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+The president of Merchant Union, Abdurrahim Kakron, showed that he wanted the disabled police men to take action against them.
+the president of merchant union abdurrahim kakron showed that he wanted the disabled police men to take action against them
+2 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0
+0.0431415991421 0.141278808217 0.0423358147981 0.0 0.0 0.0 0.0 0.0 0.0609437980132 0.190831108498 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.20981103769 0.0 0.159922749563 0.172287132075 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.449497152316 0.261437146532 0.449497152316 0.449497152316 0.303608615712 0.0 0.0 0.0 0.26631907001 0.0 0.0 0.0 0.0536203346193 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.118327102485 0.314934998177 0.518811870372 0.193597461696 0.0 0.0 0.0
+a1395pss402i1j
+The leader of Traders Union Abdul Rahim Kakkar asked to arrest the accused policemen of the incident and call an inquiry against them.
+the leader of traders union abdul rahim kakkar asked to arrest the accused policemen of the incident and call an inquiry against them
+3 0 2 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0562716510549 0.0 0.0736275039967 0.0 0.311189634025 0.351028361498 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.203880958744 0.0 0.0 0.0435059507221 0.0 0.0 0.139063260489 0.149814897456 0.296560406346 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.227336649158 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.19333253322 0.390867088971 0.205228069419 0.0466263779298 0.264599042013 0.242628124428 0.307843501802 0.237228542679 0.127554116724 0.373238171227 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g9f1kosfkijh
+The leader of the Traders Union, Abdul Rahim Kakkar, asked to arrest the accused policemen of the incident and call an inquiry against them.
+the leader of the traders union abdul rahim kakkar asked to arrest the accused policemen of the incident and call an inquiry against them
+4 0 2 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.0 0.0705596913302 0.0 0.298223399274 0.336402179769 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.195385918796 0.0 0.0 0.0416932027753 0.0 0.0 0.133268957969 0.143572610062 0.284203722748 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.217864288777 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.185277011002 0.374580960264 0.19667689986 0.0446836121828 0.253574081929 0.232518619244 0.295016689227 0.227344020068 0.122239361861 0.357686580759 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1gnof24z9gaez
+The leader of Traders Union Abdul Rahim Kakkar called for an arrest of the accused policemen and an inquiry of the incident.
+the leader of traders union abdul rahim kakkar called for an arrest of the accused policemen and an inquiry of the incident
+3 0 3 0 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 2 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0
+0.0588294533756 0.0 0.115461313086 0.0 0.32533461739 0.366984196112 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.21314827505 0.0 0.0 0.0454834939367 0.0 0.0 0.0 0.0 0.310040424816 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.237670133211 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.202120375639 0.408633774833 0.0 0.0 0.276626271196 0.253656675539 0.321836388248 0.0 0.266704062241 0.390203542646 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0877225435003 0.0 0.0 0.0 0.0 0.21959363468 0.0 0.0
+a230hf2okthmdz
+The president of the Anjuman Tajiran, Abdur Raheem Kakad demanded that police agents at fault should be arrested and action should be taken against them.
+the president of the anjuman tajiran abdur raheem kakad demanded that police agents at fault should be arrested and action should be taken against them
+2 1 1 0 0 0 0 1 1 1 0 0 0 0 2 1 1 1 1 1 1 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1
+0.0345132793137 0.113023046574 0.0338686518385 0.0 0.0 0.0 0.0 0.243431118652 0.0487550384106 0.152664886798 0.0 0.0 0.0 0.0 0.173071825822 0.220657000124 0.0400254746643 0.167848830152 0.173918355489 0.12793819965 0.13782970566 0.0 0.0 0.0 0.240833965619 0.0 0.350671979801 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.331871834631 0.331871834631 0.359597721853 0.359597721853 0.0 0.272835573838 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.123904338605 0.289629727661
+a6tw9zegog7ph
+The president of the Anjuman Tajiran, Abdur Raheem Kakad, demanded that the guilty police agents should be arrested and action should be taken against them.
+the president of the anjuman tajiran abdur raheem kakad demanded that the guilty police agents should be arrested and action should be taken against them
+3 1 1 0 0 0 0 1 1 1 0 0 0 0 2 1 1 1 1 1 1 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0517699189705 0.113023046574 0.0338686518385 0.0 0.0 0.0 0.0 0.243431118652 0.0487550384106 0.152664886798 0.0 0.0 0.0 0.0 0.173071825822 0.220657000124 0.0400254746643 0.167848830152 0.173918355489 0.12793819965 0.13782970566 0.0 0.0 0.0 0.240833965619 0.0 0.350671979801 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.331871834631 0.331871834631 0.359597721853 0.359597721853 0.267494318133 0.272835573838 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3pkikuziexv59
+The president of the Anjuman Tajiran, Abdur Raheem Kakad demanded that the guilty police officers should be arrested and action should be taken against them.
+the president of the anjuman tajiran abdur raheem kakad demanded that the guilty police officers should be arrested and action should be taken against them
+3 1 1 0 0 0 0 1 1 1 1 0 0 0 2 1 1 1 1 1 1 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0517699189705 0.113023046574 0.0338686518385 0.0 0.0 0.0 0.0 0.243431118652 0.0487550384106 0.152664886798 0.273995075313 0.0 0.0 0.0 0.173071825822 0.220657000124 0.0400254746643 0.167848830152 0.173918355489 0.12793819965 0.13782970566 0.0 0.0 0.0 0.240833965619 0.0 0.350671979801 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.331871834631 0.331871834631 0.359597721853 0.359597721853 0.267494318133 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+Abdul Rahim Kakar, President of Traders Organization, has demanded that police officials involved in the incident should be arrested and punished.
+abdul rahim kakar president of traders organization has demanded that police officials involved in the incident should be arrested and punished
+1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.0205436186391 0.134551245921 0.0403198236173 0.0 0.340826742028 0.384459634022 0.408784663725 0.289798950776 0.0580417123936 0.181743912855 0.0 0.242284303655 0.0486116554178 0.22329819291 0.103018943942 0.262686904909 0.0476493746004 0.0 0.0 0.0 0.0 0.32480425457 0.0 0.214214363127 0.143353550964 0.0 0.0 0.0975251388429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.229864824884 0.337161930545 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

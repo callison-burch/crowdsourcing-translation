@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370257-post1__5
+were the policies of president bush successful bushs have been did policy was succeed
+Were the policies of President Bush successful?
+were the policies of president bush successful
+1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.41702933119 0.0616308559173 0.79839223781 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Were President Bush's policies successful?
+were president bushs policies successful
+1 0 1 0 1 0 1 1 0 0 0 0 0 0
+0.583841063666 0.0 1.11774913293 0.0 0.565115232869 0.0 1.11942278287 1.17752020754 0.0 0.0 0.0 0.0 0.0 0.0
+Were the policies of President Bush successful?
+were the policies of president bush successful
+1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.41702933119 0.0616308559173 0.79839223781 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Have President Bush's policies been successful?
+have president bushs policies been successful
+0 0 1 0 1 0 1 1 1 1 0 0 0 0
+0.0 0.0 0.931457610778 0.0 0.470929360724 0.0 0.932852319056 0.98126683962 0.381381642135 0.484240605542 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+did the policy of President bush was successful ?
+did the policy of president bush was successful 
+0 1 0 1 1 1 1 0 0 0 1 1 1 0
+0.0 0.0539269989276 0.0 0.105839536995 0.353197020543 0.498249592548 0.699639239292 0.0 0.0 0.0 0.505591944695 0.574823135528 0.272647464569 0.0
+a143bvgouf83je
+were the policies of Bush successful?
+were the policies of bush successful
+1 1 1 1 0 1 1 0 0 0 0 0 0 0
+0.486534219721 0.0719026652368 0.931457610778 0.14111938266 0.0 0.664332790064 0.932852319056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Were the policies of President Bush successful?
+were the policies of president bush successful
+1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.41702933119 0.0616308559173 0.79839223781 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alrghxunh1uv7
+Did President Bush's policies succeed?
+did president bushs policies succeed
+0 0 1 0 1 0 0 1 0 0 1 0 0 1
+0.0 0.0 1.11774913293 0.0 0.565115232869 0.0 0.0 1.17752020754 0.0 0.0 0.808947111511 0.0 0.0 1.2928428804
+a2bk4fasw056jr
+Was the policy of President Bush successful?
+was the policy of president bush successful
+0 1 0 1 1 1 1 0 0 0 0 1 1 0
+0.0 0.0616308559173 0.0 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.656940726318 0.311597102365 0.0
+a3w129h6a0hk4d
+Did the policy of President Bush succeed?
+did the policy of president bush succeed
+0 1 0 1 1 1 0 0 0 0 1 1 0 1
+0.0 0.0616308559173 0.0 0.120959470852 0.403653737764 0.569428105769 0.0 0.0 0.0 0.0 0.577819365365 0.656940726318 0.0 0.923459200289
+a291u81kgj6l9n
+Was the policy of President bush was successful?
+was the policy of president bush was successful
+0 1 0 1 1 1 1 0 0 0 0 1 2 0
+0.0 0.0539269989276 0.0 0.105839536995 0.353197020543 0.498249592548 0.699639239292 0.0 0.0 0.0 0.0 0.574823135528 0.545294929139 0.0
+a220lrht4jgo52
+Were the policies of Bush successful?
+were the policies of bush successful
+1 1 1 1 0 1 1 0 0 0 0 0 0 0
+0.486534219721 0.0719026652368 0.931457610778 0.14111938266 0.0 0.664332790064 0.932852319056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dwqf4zhhblow
+Were the policies of Bush successful?
+were the policies of bush successful
+1 1 1 1 0 1 1 0 0 0 0 0 0 0
+0.486534219721 0.0719026652368 0.931457610778 0.14111938266 0.0 0.664332790064 0.932852319056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bnv4r3pkyf7u
+were the policies of Bush successful?
+were the policies of bush successful
+1 1 1 1 0 1 1 0 0 0 0 0 0 0
+0.486534219721 0.0719026652368 0.931457610778 0.14111938266 0.0 0.664332790064 0.932852319056 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2vy0zm7e7n8f6
+Were the policies of President Bush successful?
+were the policies of president bush successful
+1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.41702933119 0.0616308559173 0.79839223781 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1i7k0n0d3vs41
+Were the policies of President Bush successful?
+were the policies of president bush successful
+1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.41702933119 0.0616308559173 0.79839223781 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2eldzaxlm8quo
+Were the policies of President Bush successful?
+were the policies of president bush successful
+1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.41702933119 0.0616308559173 0.79839223781 0.120959470852 0.403653737764 0.569428105769 0.799587702048 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1mmshjhu659at
+Did President Bush's policies succeed?
+did president bushs policies succeed
+0 0 1 0 1 0 0 1 0 0 1 0 0 1
+0.0 0.0 1.11774913293 0.0 0.565115232869 0.0 0.0 1.17752020754 0.0 0.0 0.808947111511 0.0 0.0 1.2928428804

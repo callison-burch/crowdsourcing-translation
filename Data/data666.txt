@@ -1,0 +1,88 @@
+voa_urd_20090122.0013__2
+richard holbrooke former ambassador for the united nations has been appointed as a special representative pakistan and afghanistan holbrook envoy to un us of hall brook is was nominated ex
+Richard Holbrooke. Former ambassador for the United Nations Richard Holbrooke has been appointed as a special representative for Pakistan and Afghanistan.
+richard holbrooke former ambassador for the united nations richard holbrooke has been appointed as a special representative for pakistan and afghanistan
+2 2 1 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.534672711681 0.62781407367 0.25096628255 0.293883085146 0.183799614953 0.0205436186391 0.192352936967 0.213159050184 0.0975251388429 0.138354458726 0.273869742579 0.126107707874 0.0680762951688 0.272038014921 0.267336355841 0.113201437819 0.0476493746004 0.196672887713 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Former Ambassador for the United Nations Richard Holbrooke has been appointed as Special Representative for Pakistan and Afghanistan.
+former ambassador for the united nations richard holbrooke has been appointed as special representative for pakistan and afghanistan
+1 1 1 1 2 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.214432884112 0.0239675550789 0.224411759795 0.248685558548 0.11377932865 0.161413535181 0.319514699676 0.147125659186 0.0 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Richard Holbrook: Richard Holbrook, former envoy to the UN, has been appointed as the special representative for Pakistan and Afghanistan
+richard holbrook richard holbrook former envoy to the un has been appointed as the special representative for pakistan and afghanistan
+2 0 1 0 1 2 0 0 1 1 1 1 0 1 1 1 1 1 2 1 1 1 0 0 0 0 0 0 0 0
+0.561406347265 0.0 0.263514596677 0.0 0.0964947978503 0.0431415991421 0.0 0.0 0.102401395785 0.145272181663 0.287563229708 0.132413093267 0.0 0.285639915667 0.280703173633 0.11886150971 0.0500318433304 0.206506532098 0.797834213465 0.37715120317 0.0536203346193 0.313268177164 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Former US ambassador to the UN Richard Holbrooke has been appointed as special representative for Pakistan and Afghanistan.
+former us ambassador to the un richard holbrooke has been appointed as special representative for pakistan and afghanistan
+1 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 0 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.107216442056 0.0239675550789 0.0 0.0 0.11377932865 0.161413535181 0.319514699676 0.147125659186 0.0 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.059578149577 0.348075752404 0.203854170603 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Former ambassador of the UN, Richard Hall Brook is appointed as a special representative for Pakistan and Afghanistan.
+former ambassador of the un richard hall brook is appointed as a special representative for pakistan and afghanistan
+1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 0 0
+0.311892415147 0.0 0.292793996308 0.342863599337 0.107216442056 0.0239675550789 0.0 0.0 0.0 0.0 0.319514699676 0.147125659186 0.0794223443636 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.348075752404 0.0 0.0470397942201 0.415881424975 0.426010400353 0.0736898867949 0.0 0.0 0.0
+a3dd3acpmvdvca
+Richard Holbrooke the former ambassador to the United Nations, Richard Holbrooke was appointed the special representative to Afghanistan and Pakistan.
+richard holbrooke the former ambassador to the united nations richard holbrooke was appointed the special representative to afghanistan and pakistan
+2 2 1 1 0 3 1 1 0 0 1 0 0 1 1 1 1 1 0 0 2 0 0 0 0 0 0 1 0 0
+0.561406347265 0.659204777353 0.263514596677 0.308577239403 0.0 0.0647123987131 0.201970583815 0.223817002693 0.0 0.0 0.287563229708 0.0 0.0 0.285639915667 0.280703173633 0.11886150971 0.0500318433304 0.206506532098 0.0 0.0 0.107240669239 0.0 0.0 0.0 0.0 0.0 0.0 0.109058985828 0.0 0.0
+a143bvgouf83je
+former ambassador for United Nations Richard Holbrooke has been nominated as a special representative for Pakistan and Afghanistan.
+former ambassador for united nations richard holbrooke has been nominated as a special representative for pakistan and afghanistan
+1 1 1 1 2 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.214432884112 0.0 0.224411759795 0.248685558548 0.11377932865 0.161413535181 0.0 0.147125659186 0.0794223443636 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.39133516096 0.0
+a8v7wa74iohz9
+Richard Holbrook, ex ambassador for UN Richard Holbrook has been appointed as special representative for Pakistan and Afghanistan.
+richard holbrook ex ambassador for un richard holbrook has been appointed as special representative for pakistan and afghanistan
+2 0 0 1 2 0 0 0 1 1 1 1 0 1 1 1 1 1 2 0 0 1 0 0 0 0 0 0 0 1
+0.623784830295 0.0 0.0 0.342863599337 0.214432884112 0.0 0.0 0.0 0.11377932865 0.161413535181 0.319514699676 0.147125659186 0.0 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.886482459406 0.0 0.0 0.348075752404 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.404733053005
+a363eba76te7vz
+former ambassador for United Nations Richard Holbrooke has been nominated as a special representative for Pakistan and Afghanistan.
+former ambassador for united nations richard holbrooke has been nominated as a special representative for pakistan and afghanistan
+1 1 1 1 2 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.214432884112 0.0 0.224411759795 0.248685558548 0.11377932865 0.161413535181 0.0 0.147125659186 0.0794223443636 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.39133516096 0.0
+a1wgq344wqriu5
+former ambassador for United Nations Richard Holbrooke has been nominated as a special representative for Pakistan and Afghanistan.
+former ambassador for united nations richard holbrooke has been nominated as a special representative for pakistan and afghanistan
+1 1 1 1 2 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.214432884112 0.0 0.224411759795 0.248685558548 0.11377932865 0.161413535181 0.0 0.147125659186 0.0794223443636 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.39133516096 0.0
+a2u5kb76amcgh
+Former Ambassador for United Nations Richard Holbrooke has been nominated as a Special Representative for Pakistan and Afghanistan.
+former ambassador for united nations richard holbrooke has been nominated as a special representative for pakistan and afghanistan
+1 1 1 1 2 0 1 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.214432884112 0.0 0.224411759795 0.248685558548 0.11377932865 0.161413535181 0.0 0.147125659186 0.0794223443636 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.39133516096 0.0
+ah8lf01ktxfg0
+Former ambassador of the UN, Richard Hall Brook, is appointed as a special representative for Pakistan and Afghanistan.
+former ambassador of the un richard hall brook is appointed as a special representative for pakistan and afghanistan
+1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 0 0 0
+0.311892415147 0.0 0.292793996308 0.342863599337 0.107216442056 0.0239675550789 0.0 0.0 0.0 0.0 0.319514699676 0.147125659186 0.0794223443636 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.0 0.348075752404 0.0 0.0470397942201 0.415881424975 0.426010400353 0.0736898867949 0.0 0.0 0.0
+a1gnof24z9gaez
+Former ambassador of the UN Richard Hall Brook has been appointed as a Special Representative for Pakistan and Afghanistan.
+former ambassador of the un richard hall brook has been appointed as a special representative for pakistan and afghanistan
+1 0 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 0 0 0 0
+0.295477024876 0.0 0.277383785976 0.32481814674 0.101573471421 0.0227061048116 0.0 0.0 0.107790942932 0.152918085961 0.302698136535 0.139382203439 0.075242220976 0.300673595439 0.295477024876 0.125117378642 0.0526650982425 0.217375296946 0.0 0.0 0.0 0.329755975962 0.0 0.044564015577 0.393992928924 0.403588800334 0.0 0.0 0.0 0.0
+air4uqnpimfcj
+Former ambassador of the UN, Richard Hall Brook, has been appointed as a special representative for Pakistan and Afghanistan.
+former ambassador of the un richard hall brook has been appointed as a special representative for pakistan and afghanistan
+1 0 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 1 1 1 0 0 0 0
+0.295477024876 0.0 0.277383785976 0.32481814674 0.101573471421 0.0227061048116 0.0 0.0 0.107790942932 0.152918085961 0.302698136535 0.139382203439 0.075242220976 0.300673595439 0.295477024876 0.125117378642 0.0526650982425 0.217375296946 0.0 0.0 0.0 0.329755975962 0.0 0.044564015577 0.393992928924 0.403588800334 0.0 0.0 0.0 0.0
+a34erkopmv5x3c
+Former United Nations Ambassador Richard Holbrooke was appointed Special Representative to Afghanistan and Pakistan.
+former united nations ambassador richard holbrooke was appointed special representative to afghanistan and pakistan
+1 1 1 1 0 0 1 1 0 0 1 0 0 1 1 1 1 1 0 0 1 0 0 0 0 0 0 1 0 0
+0.401004533761 0.470860555252 0.376449423825 0.440824627718 0.0 0.0 0.28852940545 0.319738575276 0.0 0.0 0.410804613869 0.0 0.0 0.408057022381 0.401004533761 0.169802156729 0.0714740619006 0.295009331569 0.0 0.0 0.0766004780276 0.0 0.0 0.0 0.0 0.0 0.0 0.155798551182 0.0 0.0
+a330jjzgjl7ig2
+Richard Holbrooke, the former ambassador to the United Nations, was appointed the special representative to Afghanistan and Pakistan.
+richard holbrooke the former ambassador to the united nations was appointed the special representative to afghanistan and pakistan
+1 1 1 1 0 3 1 1 0 0 1 0 0 1 1 1 1 1 0 0 2 0 0 0 0 0 0 1 0 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.0 0.0719026652368 0.224411759795 0.248685558548 0.0 0.0 0.319514699676 0.0 0.0 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.119156299154 0.0 0.0 0.0 0.0 0.0 0.0 0.12117665092 0.0 0.0
+a3fwtyzx45ts4m
+Richard Holbrooke the former ambassador to the United Nations, was appointed the special representative to Afghanistan and Pakistan.
+richard holbrooke the former ambassador to the united nations was appointed the special representative to afghanistan and pakistan
+1 1 1 1 0 3 1 1 0 0 1 0 0 1 1 1 1 1 0 0 2 0 0 0 0 0 0 1 0 0
+0.311892415147 0.366224876307 0.292793996308 0.342863599337 0.0 0.0719026652368 0.224411759795 0.248685558548 0.0 0.0 0.319514699676 0.0 0.0 0.317377684074 0.311892415147 0.132068344123 0.0555909370338 0.229451702332 0.0 0.0 0.119156299154 0.0 0.0 0.0 0.0 0.0 0.0 0.12117665092 0.0 0.0
+a1uqug6haduogp
+Former ambassador for the UN Richard Holbrook has been appointed as special representative for Pakistan and Afghanistan.
+former ambassador for the un richard holbrook has been appointed as special representative for pakistan and afghanistan
+1 0 1 1 2 1 0 0 1 1 1 1 0 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0
+0.330239027803 0.0 0.310017172562 0.363032046356 0.227046583177 0.02537741126 0.0 0.0 0.120472230335 0.170908449015 0.33830968201 0.155780109726 0.0 0.336046959608 0.330239027803 0.139837070247 0.0588609921534 0.242948861292 0.469314243215 0.0 0.0 0.368550796663 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+dew_urd_20090131.0002__7
+according to reports due the ban on transport no traffic can be seen roads of baghdad instead iraqi children playing soccer information is public and are football restriction transportation in being streets not a single vehicle sources street there were news disallowed iraq have been deserted restrictions was played curfews restricted movement media indicate that spotted because seem coming
+According to reports, due to the ban on transport, no traffic can be seen on the roads of Baghdad; instead, Iraqi children can be seen playing soccer.
+according to reports due to the ban on transport no traffic can be seen on the roads of baghdad instead iraqi children can be seen playing soccer
+1 2 1 1 2 1 2 1 1 1 2 2 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.120855381435 0.0794375327694 0.206990580173 0.160503873103 0.0319567401052 0.203460573513 0.138406568508 0.284006933568 0.124198863754 0.233285183835 0.236079234743 0.160251690576 0.428230930172 0.230272382374 0.0313598628134 0.281616617971 0.194749762779 0.226428056682 0.158617319904 0.22802702601 0.358632971366 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to the information, no traffic is seen on the roads of Baghdad due to the ban on public transport, and Iraqi children are seen playing football on the roads.
+according to the information no traffic is seen on the roads of baghdad due to the ban on public transport and iraqi children are seen playing football on the roads
+1 2 0 1 4 1 3 1 1 1 0 0 2 2 1 1 0 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.108769843291 0.0714937794924 0.0 0.144453485792 0.0575221321894 0.183114516162 0.186848867486 0.255606240212 0.111778977379 0.209956665451 0.0 0.0 0.385407837154 0.414490288273 0.0282238765321 0.253454956174 0.0 0.203785251014 0.142755587913 0.205224323409 0.0 0.156649453506 0.044213932077 0.153183129722 0.0333545622203 0.0705248183626 0.255606240212 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to information, due to restriction on transportation no traffic is seen on the roads in Baghdad and Iraqi children are being seen playing football on the streets.
+according to information due to restriction on transportation no traffic is seen on the roads in baghdad and iraqi children are being seen playing football on the streets
+1 2 0 1 2 0 3 0 1 1 0 0 2 1 0 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.0 0.15477159192 0.0308154279586 0.0 0.200195215164 0.0 0.119763190049 0.224953570127 0.0 0.0 0.41293696838 0.222048368718 0.0 0.271558881615 0.0 0.218341340372 0.152952415622 0.219883203653 0.0 0.167838700185 0.0473720700825 0.0 0.0357370309503 0.0755623053885 0.273863828798 0.252871447909 0.281833241345 0.0364587415634 0.131400112849 0.257077984896 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to reports, due to the ban on public transportation, not a single vehicle can be seen on the roads of Baghdad, and Iraqi children are playing soccer on the roads.
+according to reports due to the ban on public transportation not a single vehicle can be seen on the roads of baghdad and iraqi children are playing soccer on the roads
+1 2 1 1 3 1 3 0 0 0 1 1 1 2 1 1 0 1 1 1 1 0 0 1 1 1 0 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.105261138669 0.0691875285411 0.180282118215 0.139793695928 0.0417499346536 0.177207596286 0.180821484664 0.0 0.0 0.0 0.102808699001 0.0697870265411 0.186487663139 0.401119633812 0.027313428902 0.245278989845 0.0 0.197211533239 0.138150568949 0.198604183944 0.312357749255 0.0 0.0 0.148241738441 0.0322786086003 0.0682498242218 0.0 0.0 0.254559056699 0.0 0.0 0.0 0.0691118934914 0.046116199953 0.203735303126 0.247360877624 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1sanjgoj47idf
+according to the sources, due to transportation on the street of Baghdad there were no traffic seen and Iraqi children playing football on the street.
+according to the sources due to transportation on the street of baghdad there were no traffic seen and iraqi children playing football on the street
+1 2 0 1 3 0 2 0 1 1 0 0 1 0 1 1 0 1 1 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0857925353909 0.0 0.173344182951 0.0517699189705 0.0 0.149479093989 0.0 0.134134772855 0.251947998542 0.0 0.0 0.231244702293 0.0 0.0338686518385 0.304145947408 0.0 0.244542301216 0.171306705496 0.246269188091 0.0 0.0 0.0 0.0 0.0400254746643 0.0 0.306727488254 0.0 0.315653230306 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.204958559176 0.515552941978 0.115294540827 0.116768212733 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2llfcd7di80k3
+According to the news, due to disallowed traffic the roads of Iraq have been deserted and Iraqi children can be seen playing football on roads.
+according to the news due to disallowed traffic the roads of iraq have been deserted and iraqi children can be seen playing football on roads
+1 2 0 1 2 0 1 0 0 1 1 1 1 2 1 0 0 1 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0857925353909 0.0 0.173344182951 0.0345132793137 0.0 0.0747395469945 0.0 0.0 0.251947998542 0.127482786761 0.0865359129109 0.231244702293 0.497388345927 0.0338686518385 0.0 0.0 0.244542301216 0.171306705496 0.246269188091 0.0 0.0 0.0 0.0 0.0400254746643 0.0 0.306727488254 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.167931731736 0.343379117529 0.198228096327 0.0915315941123 0.11621774533 0.350671979801 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+According to reports, due to the restrictions on public transport, there was no traffic on the roads of Baghdad, and children were seen playing football on the roads.
+according to reports due to the restrictions on public transport there was no traffic on the roads of baghdad and children were seen playing football on the roads
+1 2 1 1 3 0 3 1 1 1 0 0 1 2 1 1 0 0 1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.199598059452 0.15477159192 0.0462231419379 0.0 0.200195215164 0.273863828798 0.119763190049 0.224953570127 0.0 0.0 0.20646848419 0.444096737435 0.0302398677129 0.271558881615 0.0 0.0 0.152952415622 0.219883203653 0.0 0.0 0.0 0.164124781845 0.0357370309503 0.0 0.273863828798 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.10294155431 0.104257332797 0.0 0.0 0.0 0.0 0.0 0.0 0.230864800072 0.0778992755912 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+According to sources, due to no transportation on the streets of Baghdad ,there was no traffic seen and Iraqi children played football on the street.
+according to sources due to no transportation on the streets of baghdad there was no traffic seen and iraqi children played football on the street
+1 2 0 1 2 0 2 0 2 1 0 0 1 0 1 1 0 1 1 0 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0857925353909 0.0 0.173344182951 0.0345132793137 0.0 0.149479093989 0.0 0.268269545709 0.251947998542 0.0 0.0 0.231244702293 0.0 0.0338686518385 0.304145947408 0.0 0.244542301216 0.171306705496 0.0 0.0 0.0 0.0 0.0 0.0400254746643 0.0 0.306727488254 0.0 0.315653230306 0.0 0.0 0.287927343084 0.0 0.0 0.0 0.0 0.204958559176 0.257776470989 0.115294540827 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0872471886622 0.212293328209 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2fhqsz1afq4oy
+According to sources, there was no traffic in Baghdad and Iraqi children were playing football on the streets.
+according to sources there was no traffic in baghdad and iraqi children were playing football on the streets
+1 1 0 0 1 0 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.181283072152 0.059578149577 0.0 0.0 0.0239675550789 0.0 0.103804926381 0.0 0.186298295632 0.349927775752 0.0 0.0 0.0 0.0 0.0 0.422424926956 0.0 0.339642085023 0.237925979856 0.342040539015 0.0 0.0 0.0 0.0 0.0555909370338 0.0 0.426010400353 0.0 0.0 0.0567135979875 0.0 0.399899087617 0.0 0.0 0.0 0.0 0.284664665522 0.0 0.160131306704 0.16217807324 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.12117665092 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ah8lf01ktxfg0
+According to sources, due to no transportation on the streets of Baghdad, there was no traffic and Iraqi children were seen playing football on the street.
+according to sources due to no transportation on the streets of baghdad there was no traffic and iraqi children were seen playing football on the street
+1 2 0 1 2 0 2 0 2 1 0 0 1 0 1 1 0 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0.125503665336 0.0824928224913 0.0 0.166677098991 0.0331858454939 0.0 0.143729898066 0.0 0.257951486259 0.242257690906 0.0 0.0 0.222350675281 0.0 0.0325660113832 0.292448026354 0.0 0.235136828093 0.164717986054 0.236797296241 0.0 0.0 0.0 0.0 0.0384860333311 0.0 0.294930277167 0.0 0.303512721449 0.0 0.0 0.276853214504 0.0 0.0 0.0 0.0 0.197075537669 0.247861991336 0.11086013541 0.112277127628 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0838915275598 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a24bjjrcqbm3mi
+According to the news, due to curfews and restricted traffic movement the roads of Iraq have been deserted and Iraqi children can be seen playing football on roads.
+according to the news due to curfews and restricted traffic movement the roads of iraq have been deserted and iraqi children can be seen playing football on roads
+1 2 0 1 2 0 1 0 0 1 1 1 1 2 1 0 0 1 1 1 0 0 0 0 2 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.0 0.15477159192 0.0308154279586 0.0 0.0667317383879 0.0 0.0 0.224953570127 0.113823916751 0.0772642079562 0.20646848419 0.444096737435 0.0302398677129 0.0 0.0 0.218341340372 0.152952415622 0.219883203653 0.0 0.0 0.0 0.0 0.0714740619006 0.0 0.273863828798 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.149939046193 0.0 0.176989371721 0.0817246376003 0.103765844045 0.313099981965 0.0 0.0 0.0 0.313099981965 0.260185534075 0.20050226688 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a5bg8xv8wuysx
+Media reports indicate that the Iraqi children are playing football in the roads that are deserted due to the ban on traffic.
+media reports indicate that the iraqi children are playing football in the roads that are deserted due to the ban on traffic
+0 1 1 1 3 1 1 0 0 1 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 2 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 2 0 0 0 0
+0.0 0.0487457587448 0.254033893849 0.19698202608 0.0588294533756 0.249701612948 0.0849313034028 0.0 0.0 0.286304543797 0.0 0.0 0.0 0.282607014731 0.0 0.0 0.0 0.277888978655 0.194666710791 0.279851350103 0.0 0.0 0.0 0.0 0.0 0.192340413716 0.348553963925 0.0 0.0 0.046402034717 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.398490886137 0.0 0.0 0.0 0.0 0.0 0.0 0.216009995512 0.348553963925 0.110806905479 0.0 0.0 0.0 0.0
+a1ly3njtyw9tff
+According to the news, due to disallowed traffic the roads of Iraq have been deserted and Iraqi children can be seen playing football on roads.
+according to the news due to disallowed traffic the roads of iraq have been deserted and iraqi children can be seen playing football on roads
+1 2 0 1 2 0 1 0 0 1 1 1 1 2 1 0 0 1 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0857925353909 0.0 0.173344182951 0.0345132793137 0.0 0.0747395469945 0.0 0.0 0.251947998542 0.127482786761 0.0865359129109 0.231244702293 0.497388345927 0.0338686518385 0.0 0.0 0.244542301216 0.171306705496 0.246269188091 0.0 0.0 0.0 0.0 0.0400254746643 0.0 0.306727488254 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.167931731736 0.343379117529 0.198228096327 0.0915315941123 0.11621774533 0.350671979801 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31ikb373dzonk
+According to reports, due to the restrictions on public transportation, there was no traffic on Baghdad roads and children were spotted playing football there.
+according to reports due to the restrictions on public transportation there was no traffic on baghdad roads and children were spotted playing football there
+1 2 1 1 1 0 2 0 1 1 0 0 0 1 0 1 0 0 1 1 0 0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.135962304114 0.0893672243655 0.232864402694 0.18056685724 0.0179756663092 0.0 0.155707389572 0.0 0.139723721724 0.262445831814 0.0 0.0 0.0 0.25905643017 0.0 0.316818695217 0.0 0.0 0.178444484892 0.256530404261 0.0 0.0 0.0 0.191478912152 0.0416932027753 0.0 0.319507800264 0.0 0.328805448236 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.240196960056 0.12163355493 0.0 0.0 0.0 0.0 0.0 0.0 0.269342266751 0.0908824881898 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.403462092787 0.0 0.0 0.0
+a2bk4fasw056jr
+According to reports, due to the restrictions on public transport, there was no traffic on the roads of Baghdad, and children were seen playing football on the roads.
+according to reports due to the restrictions on public transport there was no traffic on the roads of baghdad and children were seen playing football on the roads
+1 2 1 1 3 0 3 1 1 1 0 0 1 2 1 1 0 0 1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.199598059452 0.15477159192 0.0462231419379 0.0 0.200195215164 0.273863828798 0.119763190049 0.224953570127 0.0 0.0 0.20646848419 0.444096737435 0.0302398677129 0.271558881615 0.0 0.0 0.152952415622 0.219883203653 0.0 0.0 0.0 0.164124781845 0.0357370309503 0.0 0.273863828798 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.10294155431 0.104257332797 0.0 0.0 0.0 0.0 0.0 0.0 0.230864800072 0.0778992755912 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajh0yow6plss8
+According to reports, due to the restrictions on public transport, there was no traffic on the roads of Baghdad, and children were seen playing football on the roads.
+according to reports due to the restrictions on public transport there was no traffic on the roads of baghdad and children were seen playing football on the roads
+1 2 1 1 3 0 3 1 1 1 0 0 1 2 1 1 0 0 1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.116539117812 0.0766004780276 0.199598059452 0.15477159192 0.0462231419379 0.0 0.200195215164 0.273863828798 0.119763190049 0.224953570127 0.0 0.0 0.20646848419 0.444096737435 0.0302398677129 0.271558881615 0.0 0.0 0.152952415622 0.219883203653 0.0 0.0 0.0 0.164124781845 0.0357370309503 0.0 0.273863828798 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.10294155431 0.104257332797 0.0 0.0 0.0 0.0 0.0 0.0 0.230864800072 0.0778992755912 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a290hg650rgy73
+According TO INFORMATION , بغدادكی Because of Transport Ban ON Traffic NOT seem ON The roads And Iraqi CHILDREN Playing Football ON The roads ARE Coming .
+according to information   because of transport ban on traffic not seem on the roads and iraqi children playing football on the roads are coming 
+1 1 0 0 2 1 3 1 0 1 0 0 0 2 1 0 0 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0.135962304114 0.0446836121828 0.0 0.0 0.0359513326184 0.228893145203 0.233561084358 0.319507800264 0.0 0.262445831814 0.0 0.0 0.0 0.518112860341 0.0352798456651 0.0 0.0 0.254731563767 0.178444484892 0.256530404261 0.0 0.195811816883 0.0 0.0 0.0416932027753 0.0881560229532 0.319507800264 0.0 0.0 0.0 0.0 0.0 0.089269529093 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.164572872916 0.252447887246 0.228266566979

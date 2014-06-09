@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370238-post1__7
+are you satisfied with the teams selection of team if selections for
+Are you satisfied with the team's selection?
+are you satisfied with the teams selection
+1 1 1 1 1 1 1 0 0 0 0 0
+0.302249221554 0.455187890958 1.02831193959 0.337131358421 0.0616308559173 0.991750028995 1.01148579164 0.0 0.0 0.0 0.0 0.0
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+Are you satisfied with the team selection?
+are you satisfied with the team selection
+1 1 1 1 1 0 1 0 1 0 0 0
+0.302249221554 0.455187890958 1.02831193959 0.337131358421 0.0616308559173 0.0 1.01148579164 0.0 0.656940726318 0.0 0.0 0.0
+a2de039cxxjuga
+If you are satisfied with team selection?
+if you are satisfied with team selection
+1 1 1 1 0 0 1 0 1 1 0 0
+0.302249221554 0.455187890958 1.02831193959 0.337131358421 0.0 0.0 1.01148579164 0.0 0.656940726318 0.431240172363 0.0 0.0
+a3dd3acpmvdvca
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+a143bvgouf83je
+are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+Are you satisfied with team selection?
+are you satisfied with team selection
+1 1 1 1 0 0 1 0 1 0 0 0
+0.352624091813 0.531052539451 1.19969726285 0.393319918158 0.0 0.0 1.18006675691 0.0 0.766430847371 0.0 0.0 0.0
+a1dndzlo2d5d48
+Are you satisfied with team selection?
+are you satisfied with team selection
+1 1 1 1 0 0 1 0 1 0 0 0
+0.352624091813 0.531052539451 1.19969726285 0.393319918158 0.0 0.0 1.18006675691 0.0 0.766430847371 0.0 0.0 0.0
+ay9joh7iihjwe
+Are you satisfied with team selection?
+are you satisfied with team selection
+1 1 1 1 0 0 1 0 1 0 0 0
+0.352624091813 0.531052539451 1.19969726285 0.393319918158 0.0 0.0 1.18006675691 0.0 0.766430847371 0.0 0.0 0.0
+a1g46au4nrpshg
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+a6tw9zegog7ph
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+a2eldzaxlm8quo
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+a1yacxzap25ksb
+Are you satisfied with the selections for the team?
+are you satisfied with the selections for the team
+1 1 1 1 2 0 0 0 1 0 1 1
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.0 0.0 0.510953898247 0.0 1.15291526749 0.214432884112
+au2ar4vob7vlv
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+a6tw9zegog7ph
+Are you satisfied with the selection of the team?
+are you satisfied with the selection of the team
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0
+arq4j4tltpbnc
+Are you satisfied with the selection of the team ?
+are you satisfied with the selection of the team 
+1 1 1 1 2 0 1 1 1 0 0 0
+0.235082727875 0.3540350263 0.799798175234 0.262213278772 0.0958702203157 0.0 0.786711171272 0.0940795884403 0.510953898247 0.0 0.0 0.0

@@ -1,0 +1,88 @@
+voa_urd_20090122.0022__1
+afghanistan voter registration in jeopardy perils at risk is peril voters danger vote under trouble
+Afghanistan: Voter Registration in Jeopardy
+afghanistan voter registration in jeopardy
+1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 1.71689558764 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Afghanistan: Voter Registration in Jeopardy
+afghanistan voter registration in jeopardy
+1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 1.71689558764 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Afghanistan: Voter Registration in Perils
+afghanistan voter registration in perils
+1 1 1 1 0 1 0 0 0 0 0 0 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 2.07524748149 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Afghanistan: Voter registration at risk
+afghanistan voter registration at risk
+1 1 1 0 0 0 1 1 0 0 0 0 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.0 0.0 0.0 0.619521693026 1.22554843308 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2aktvoca80377
+Afghanistan: Voter registration is in peril.
+afghanistan voter registration is in peril
+1 1 1 1 0 0 0 0 1 1 0 0 0 0 0
+0.688355106995 1.09492915295 1.04978332726 0.170140793962 0.0 0.0 0.0 0.0 0.221069660385 1.49832384105 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Afghanistan: Voters' registration in danger.
+afghanistan voters registration in danger
+1 0 1 1 0 0 0 0 0 0 1 1 0 0 0
+0.826026128394 0.0 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 1.43147231652 1.17978011859 0.0 0.0 0.0
+a3dd3acpmvdvca
+Afghanistan: Voter registration in danger.
+afghanistan voter registration in danger
+1 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17978011859 0.0 0.0 0.0
+a2i57ww1b3evwx
+Afghanistan: Vote registration under trouble
+afghanistan vote registration under trouble
+1 0 1 0 0 0 0 0 0 0 0 0 1 1 1
+0.826026128394 0.0 1.25973999271 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.48635968566 0.874470068069 1.48635968566
+a1g9f1kosfkijh
+Afghanistan: Voter Registration Is In Peril.
+afghanistan voter registration is in peril
+1 1 1 1 0 0 0 0 1 1 0 0 0 0 0
+0.688355106995 1.09492915295 1.04978332726 0.170140793962 0.0 0.0 0.0 0.0 0.221069660385 1.49832384105 0.0 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+Afghanistan Voter Registration in Peril
+afghanistan voter registration in peril
+1 1 1 1 0 0 0 0 0 1 0 0 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 1.79798860927 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+Voter registration is in peril in Afghanistan
+voter registration is in peril in afghanistan
+1 1 1 2 0 0 0 0 1 1 0 0 0 0 0
+0.590018663138 0.938510702526 0.899814280506 0.291669932507 0.0 0.0 0.0 0.0 0.18948828033 1.28427757805 0.0 0.0 0.0 0.0 0.0
+a2u70ov2bw11tg
+Afghanistan: Voters' Registration in Danger.
+afghanistan voters registration in danger
+1 0 1 1 0 0 0 0 0 0 1 1 0 0 0
+0.826026128394 0.0 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 1.43147231652 1.17978011859 0.0 0.0 0.0
+air4uqnpimfcj
+Afghanistan: Voters' registration in danger.
+afghanistan voters registration in danger
+1 0 1 1 0 0 0 0 0 0 1 1 0 0 0
+0.826026128394 0.0 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 1.43147231652 1.17978011859 0.0 0.0 0.0
+a1kf7gs7yulm10
+Afghanistan: Voter registration in danger.
+afghanistan voter registration in danger
+1 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17978011859 0.0 0.0 0.0
+a6tw9zegog7ph
+Afghanistan: Voter registration in danger.
+afghanistan voter registration in danger
+1 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17978011859 0.0 0.0 0.0
+a14b80scbt25dr
+Afghanistan: Voter registration in danger.
+afghanistan voter registration in danger
+1 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17978011859 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Afghanistan: Voter registration in danger.
+afghanistan voter registration in danger
+1 1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0.826026128394 1.31391498354 1.25973999271 0.204168952755 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.17978011859 0.0 0.0 0.0
+a1mmshjhu659at
+Afghanistan: Vote registration under trouble
+afghanistan vote registration under trouble
+1 0 1 0 0 0 0 0 0 0 0 0 1 1 1
+0.826026128394 0.0 1.25973999271 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.48635968566 0.874470068069 1.48635968566

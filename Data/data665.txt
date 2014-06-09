@@ -1,0 +1,88 @@
+voa_urd_20090122.0013__1
+president obama appointed a special representative for pakistan and afghanistan appoints has assigned richard hall brook as to nominated chose assigns afghanpakistan
+President Obama Appointed a Special Representative for Pakistan and Afghanistan
+president obama appointed a special representative for pakistan and afghanistan
+1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.282557616434 0.34555659032 0.575126459417 0.142960219854 0.571279831334 0.561406347265 0.192989595701 0.237723019421 0.100063686661 0.413013064197 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Obama Appoints Special Representative for Pakistan and Afghanistan
+president obama appoints special representative for pakistan and afghanistan
+1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.313952907149 0.383951767022 0.0 0.0 0.634755368149 0.623784830295 0.214432884112 0.264136688245 0.111181874068 0.458903404663 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Obama Appoints Special Representative for Pakistan and Afghanistan
+president obama appoints special representative for pakistan and afghanistan
+1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.313952907149 0.383951767022 0.0 0.0 0.634755368149 0.623784830295 0.214432884112 0.264136688245 0.111181874068 0.458903404663 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Obama appoints special representative for Pakistan and Afghanistan
+president obama appoints special representative for pakistan and afghanistan
+1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.313952907149 0.383951767022 0.0 0.0 0.634755368149 0.623784830295 0.214432884112 0.264136688245 0.111181874068 0.458903404663 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+President Obama has assigned Richard Hall Brook as a special representative for Pakistan and Afghanistan.
+president obama has assigned richard hall brook as a special representative for pakistan and afghanistan
+1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0
+0.18837174429 0.230371060213 0.0 0.0953068132363 0.380853220889 0.374270898177 0.128659730467 0.158482012947 0.0667091244405 0.275342042798 0.0 0.13653519438 0.553119724385 0.374270898177 0.49905770997 0.511212480423 0.176550791023 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+President Obama has appointed a special representative to Afghanistan and Pakistan.
+president obama has appointed a special representative to afghanistan and pakistan
+1 1 1 1 1 1 0 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0
+0.256870560395 0.314142354836 0.522842235833 0.129963836231 0.519345301213 0.510369406605 0.0 0.216111835837 0.0909669878735 0.375466421997 0.0 0.186184355973 0.0 0.0 0.0 0.0 0.0 0.0974915174897 0.0 0.0 0.0 0.0
+a143bvgouf83je
+President Obama nominated a special representative for Pakistan and Afghanistan.
+president obama nominated a special representative for pakistan and afghanistan
+1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0
+0.282557616434 0.34555659032 0.0 0.142960219854 0.571279831334 0.561406347265 0.192989595701 0.237723019421 0.100063686661 0.413013064197 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.704403289727 0.0 0.0 0.0
+a8v7wa74iohz9
+President Obama has appointed a special representative for Afghanistan and Pakistan.
+president obama has appointed a special representative for afghanistan and pakistan
+1 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0
+0.256870560395 0.314142354836 0.522842235833 0.129963836231 0.519345301213 0.510369406605 0.175445087001 0.216111835837 0.0909669878735 0.375466421997 0.0 0.186184355973 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a363eba76te7vz
+President Obama nominated a chose representative for Pakistan and Afghanistan.
+president obama nominated a chose representative for pakistan and afghanistan
+1 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0
+0.282557616434 0.34555659032 0.0 0.142960219854 0.0 0.561406347265 0.192989595701 0.237723019421 0.100063686661 0.413013064197 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.704403289727 0.789133075766 0.0 0.0
+a1wgq344wqriu5
+President Obama nominated a special representative for Pakistan and Afghanistan.
+president obama nominated a special representative for pakistan and afghanistan
+1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0
+0.282557616434 0.34555659032 0.0 0.142960219854 0.571279831334 0.561406347265 0.192989595701 0.237723019421 0.100063686661 0.413013064197 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.704403289727 0.0 0.0 0.0
+a2u5kb76amcgh
+President Obama nominated a Special Representative for Pakistan and Afghanistan.
+president obama nominated a special representative for pakistan and afghanistan
+1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0
+0.282557616434 0.34555659032 0.0 0.142960219854 0.571279831334 0.561406347265 0.192989595701 0.237723019421 0.100063686661 0.413013064197 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.704403289727 0.0 0.0 0.0
+ah8lf01ktxfg0
+President Obama has assigned Richard Hall Brook as a special representative for Pakistan and Afghanistan.
+president obama has assigned richard hall brook as a special representative for pakistan and afghanistan
+1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0
+0.18837174429 0.230371060213 0.0 0.0953068132363 0.380853220889 0.374270898177 0.128659730467 0.158482012947 0.0667091244405 0.275342042798 0.0 0.13653519438 0.553119724385 0.374270898177 0.49905770997 0.511212480423 0.176550791023 0.0 0.0 0.0 0.0 0.0
+a1gnof24z9gaez
+President Obama Assigns Richard Hall Brook as Special Representative for Pakistan and Afghanistan
+president obama assigns richard hall brook as special representative for pakistan and afghanistan
+1 1 0 0 1 1 1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 0
+0.217352012642 0.265812761785 0.0 0.0 0.439446024103 0.431851036358 0.148453535154 0.182863861093 0.0769720666622 0.317702357074 0.0 0.0 0.0 0.431851036358 0.575835819196 0.589860554334 0.20371245118 0.0 0.0 0.0 0.798172108265 0.0
+air4uqnpimfcj
+President Obama has assigned Richard Hall Brook as a special representative for Pakistan and Afghanistan.
+president obama has assigned richard hall brook as a special representative for pakistan and afghanistan
+1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0
+0.18837174429 0.230371060213 0.0 0.0953068132363 0.380853220889 0.374270898177 0.128659730467 0.158482012947 0.0667091244405 0.275342042798 0.0 0.13653519438 0.553119724385 0.374270898177 0.49905770997 0.511212480423 0.176550791023 0.0 0.0 0.0 0.0 0.0
+a34erkopmv5x3c
+President Obama Appoints Special Afghan/Pakistan Representative
+president obama appoints special afghanpakistan representative
+1 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1
+0.470929360724 0.575927650534 0.0 0.0 0.952133052223 0.935677245442 0.0 0.0 0.0 0.0 1.49832384105 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.72937290124
+a330jjzgjl7ig2
+President Obama has appointed a special representative to Afghanistan and Pakistan.
+president obama has appointed a special representative to afghanistan and pakistan
+1 1 1 1 1 1 0 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0
+0.256870560395 0.314142354836 0.522842235833 0.129963836231 0.519345301213 0.510369406605 0.0 0.216111835837 0.0909669878735 0.375466421997 0.0 0.186184355973 0.0 0.0 0.0 0.0 0.0 0.0974915174897 0.0 0.0 0.0 0.0
+a3fwtyzx45ts4m
+President Obama has appointed a special representative to Afghanistan and Pakistan.
+president obama has appointed a special representative to afghanistan and pakistan
+1 1 1 1 1 1 0 1 1 1 0 1 0 0 0 0 0 1 0 0 0 0
+0.256870560395 0.314142354836 0.522842235833 0.129963836231 0.519345301213 0.510369406605 0.0 0.216111835837 0.0909669878735 0.375466421997 0.0 0.186184355973 0.0 0.0 0.0 0.0 0.0 0.0974915174897 0.0 0.0 0.0 0.0
+a1uqug6haduogp
+President Obama has appointed a special representative for Afghanistan and Pakistan.
+president obama has appointed a special representative for afghanistan and pakistan
+1 1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0
+0.256870560395 0.314142354836 0.522842235833 0.129963836231 0.519345301213 0.510369406605 0.175445087001 0.216111835837 0.0909669878735 0.375466421997 0.0 0.186184355973 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

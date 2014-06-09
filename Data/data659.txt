@@ -1,0 +1,88 @@
+voa_urd_20090121.0017__1
+obamas speech holds bright prospects for pakistan president zardari amiable to persident is a welcoming sign good omen glad tidings obama supportive news of pleasing pakistans supporting stated pleased with
+Obama's Speech Holds Bright Prospects for Pakistan: President Zardari
+obamas speech holds bright prospects for pakistan president zardari
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.661932977739 0.588314782496 0.859686675315 0.998882560703 1.03084723542 0.214432884112 0.264136688245 0.313952907149 0.521406404457 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Obama's Speech Amiable to Pakistan: President Zardari
+obamas speech amiable to pakistan president zardari
+1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.851056685665 0.756404720352 0.0 0.0 0.0 0.0 0.339604313458 0.403653737764 0.670379662873 1.48231962964 0.153200956055 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Persident Zardari: Obama's Speech is a Welcoming Sign for Pakistan
+persident zardari obamas speech is a welcoming sign for pakistan
+1 1 0 0 0 1 1 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.595739679965 0.529483304247 0.0 0.0 0.0 0.192989595701 0.237723019421 0.0 0.469265764011 0.0 0.0 1.03762374074 0.132641796231 0.142960219854 0.858447793822 0.607217231425 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Obama's speech good omen for Pakistan: President Zardari
+obamas speech good omen for pakistan president zardari
+1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.744674599957 0.661854130308 0.0 0.0 0.0 0.241236994626 0.297153774276 0.353197020543 0.586582205014 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.579555561909 1.15970313985 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Obama's speech is glad tidings for Pakistan, President Zardari.
+obamas speech is glad tidings for pakistan president zardari
+1 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.661932977739 0.588314782496 0.0 0.0 0.0 0.214432884112 0.264136688245 0.313952907149 0.521406404457 0.0 0.0 0.0 0.14737977359 0.0 0.0 0.0 0.0 0.0 0.998882560703 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ayowrg5s0py3f
+Obama SPeech is supportive to Pakistan: President Zardari
+obama speech is supportive to pakistan president zardari
+0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.661854130308 0.0 0.0 0.0 0.0 0.297153774276 0.353197020543 0.586582205014 0.0 0.134050836548 0.0 0.165802245289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.4319457379 1.0537909073 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Obama's speech is a good news for Pakistan, Zardari
+obamas speech is a good news for pakistan zardari
+1 1 0 0 0 1 1 0 1 0 0 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.661932977739 0.588314782496 0.0 0.0 0.0 0.214432884112 0.264136688245 0.0 0.521406404457 0.0 0.0 0.0 0.14737977359 0.158844688727 0.0 0.0 0.515160499475 0.0 0.0 0.0 0.0 0.0 0.4664770326 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a39gcdog0zj64o
+Speech of Obama is pleasing for Pakistan: President Zardari.
+speech of obama is pleasing for pakistan president zardari
+0 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0
+0.0 0.588314782496 0.0 0.0 0.0 0.214432884112 0.264136688245 0.313952907149 0.521406404457 0.0 0.0 0.0 0.14737977359 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.383951767022 0.0 0.0 0.0940795884403 0.908779203346 0.0 0.0 0.0 0.0 0.0
+a2vjscdqr23qkd
+Obama's Speech Is Glad Tidings For Pakistan's President Zardari.
+obamas speech is glad tidings for pakistans president zardari
+1 1 0 0 0 1 0 1 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0
+0.661932977739 0.588314782496 0.0 0.0 0.0 0.214432884112 0.0 0.313952907149 0.521406404457 0.0 0.0 0.0 0.14737977359 0.0 0.0 0.0 0.0 0.0 0.998882560703 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.562559047601 0.0 0.0 0.0 0.0
+aa1hdtufsq32b
+Obama's speech is glad tidings for Pakistan, President Zardari.
+obamas speech is glad tidings for pakistan president zardari
+1 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.661932977739 0.588314782496 0.0 0.0 0.0 0.214432884112 0.264136688245 0.313952907149 0.521406404457 0.0 0.0 0.0 0.14737977359 0.0 0.0 0.0 0.0 0.0 0.998882560703 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+Obama's Speech Is Glad Tidings for Pakistan, President Zardari.
+obamas speech is glad tidings for pakistan president zardari
+1 1 0 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.661932977739 0.588314782496 0.0 0.0 0.0 0.214432884112 0.264136688245 0.313952907149 0.521406404457 0.0 0.0 0.0 0.14737977359 0.0 0.0 0.0 0.0 0.0 0.998882560703 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+Obama Speech Is Supportive to Pakistan, President Zardari
+obama speech is supportive to pakistan president zardari
+0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.661854130308 0.0 0.0 0.0 0.0 0.297153774276 0.353197020543 0.586582205014 0.0 0.134050836548 0.0 0.165802245289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.4319457379 1.0537909073 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+Obama's Speech Supportive to Pakistan
+obamas speech supportive to pakistan
+1 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+1.19147935993 1.05896660849 0.0 0.0 0.0 0.0 0.475446038841 0.0 0.0 0.0 0.214481338477 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.68606545168 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a262d9pq8d093q
+Obama's speech is supporting Pakistan President Zardari.
+obamas speech is supporting pakistan president zardari
+1 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.851056685665 0.756404720352 0.0 0.0 0.0 0.0 0.339604313458 0.403653737764 0.670379662873 0.0 0.0 0.0 0.18948828033 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.920630253532 0.0 0.0 0.0
+a3andctf0w1pqd
+Obama's speech is good news for Pakistan, Zardari
+obamas speech is good news for pakistan zardari
+1 1 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.744674599957 0.661854130308 0.0 0.0 0.0 0.241236994626 0.297153774276 0.0 0.586582205014 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.579555561909 0.0 0.0 0.0 0.0 0.0 0.524786661675 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2owo5cfm8khwy
+Obama's speech is good news for Pakistan, Zardari.
+obamas speech is good news for pakistan zardari
+1 1 0 0 0 1 1 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.744674599957 0.661854130308 0.0 0.0 0.0 0.241236994626 0.297153774276 0.0 0.586582205014 0.0 0.0 0.0 0.165802245289 0.0 0.0 0.0 0.579555561909 0.0 0.0 0.0 0.0 0.0 0.524786661675 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1q4bk19vweq6c
+Obama's Speech Good News for Pakistan, Zardari
+obamas speech good news for pakistan zardari
+1 1 0 0 0 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.851056685665 0.756404720352 0.0 0.0 0.0 0.275699422429 0.339604313458 0.0 0.670379662873 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.66234921361 0.0 0.0 0.0 0.0 0.0 0.599756184771 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1puq78e5oxnos
+President Zardari stated "Pakistan is pleased with Obama's speech."
+president zardari stated pakistan is pleased with obamas speech
+1 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
+0.661932977739 0.588314782496 0.0 0.0 0.0 0.0 0.264136688245 0.313952907149 0.521406404457 0.0 0.0 0.0 0.14737977359 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.581619316772 1.0758989141 0.262213278772

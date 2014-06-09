@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370264-post8__1
+sumair sumeer sameer samir september
+Sumair,
+sumair
+1 0 0 0 0
+10.3762374074 0.0 0.0 0.0 0.0
+Sumeer.
+sumeer
+0 1 0 0 0
+0.0 10.3762374074 0.0 0.0 0.0
+Sameer.
+sameer
+0 0 1 0 0
+0.0 0.0 8.98994304633 0.0 0.0
+Sameer
+sameer
+0 0 1 0 0
+0.0 0.0 8.98994304633 0.0 0.0
+a353ocl6lm6m4o
+Samir.
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+a3dd3acpmvdvca
+Samir
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+a1sanjgoj47idf
+September.
+september
+0 0 0 0 1
+0.0 0.0 0.0 0.0 8.29679586577
+a1u0z1mafqeh9y
+Sameer
+sameer
+0 0 1 0 0
+0.0 0.0 8.98994304633 0.0 0.0
+a3rm9xsnd3mrj3
+Samir.
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+a2rcbwy8ulhnj0
+Samir.
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+al2rcq9eyun61
+Samir.
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+a3qu3km3iywhif
+Samir
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+a3o4xm3igw1sr2
+Samir
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+ac00w60nppf9z
+Samir
+samir
+0 0 0 1 0
+0.0 0.0 0.0 8.29679586577 0.0
+aw4q48bn2x4nt
+September.
+september
+0 0 0 0 1
+0.0 0.0 0.0 0.0 8.29679586577
+a2owo5cfm8khwy
+September.
+september
+0 0 0 0 1
+0.0 0.0 0.0 0.0 8.29679586577
+a1395pss402i1j
+September.
+september
+0 0 0 0 1
+0.0 0.0 0.0 0.0 8.29679586577
+amd40d0gc1l4r
+Sameer
+sameer
+0 0 1 0 0
+0.0 0.0 8.98994304633 0.0 0.0

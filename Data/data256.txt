@@ -1,0 +1,88 @@
+bbc_urd_20090120.0027__6
+however the local people say that it was taliban members of mullah nazir group who kidnapped political agent nevertheless residents abducted by according to had been mulla locals maintain official a are saying nazeer faction tribes claim were responsible for kidnapping therefore taaliban residential told talibans have said nazira citizens place blame on informed
+However, the local people say that it was the local Taliban members of the Mullah Nazir group who kidnapped the political agent.
+however the local people say that it was the local taliban members of the mullah nazir group who kidnapped the political agent
+1 4 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.197090122553 0.0784392711674 0.418901491969 0.124281500208 0.17975523362 0.0554034527393 0.0926767655888 0.0991445325707 0.159371999802 0.21906406117 0.0384871043619 0.377127084808 0.323551857701 0.199764690736 0.134539042193 0.25636540723 0.172970656596 0.237406627861 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Nevertheless, the local residents say that the political agent was abducted by the local Taliban of the Mullah Nazir group.
+nevertheless the local residents say that the political agent was abducted by the local taliban of the mullah nazir group
+0 4 2 0 1 1 0 1 1 0 1 1 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0862831982842 0.460791641166 0.0 0.197730756982 0.0609437980132 0.0 0.109058985828 0.175309199783 0.0 0.0423358147981 0.414839793289 0.355907043471 0.21974115981 0.0 0.0 0.190267722256 0.261147290648 0.366585748486 0.352201644864 0.374293282478 0.124658402807 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, according to local people, the Political Agent had been abducted by the Mulla Nazir group of local Taliban.
+however according to local people the political agent had been abducted by the mulla nazir group of local taliban
+1 2 2 1 0 0 0 0 1 0 1 0 1 1 0 0 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.228209615588 0.0454122096232 0.485043832806 0.143904894978 0.0 0.0 0.0 0.0 0.184535999771 0.0 0.044564015577 0.0 0.374638993128 0.23130648401 0.0 0.0 0.200281812901 0.274891884892 0.0 0.0 0.393992928924 0.131219371376 0.171741857829 0.056442457494 0.180335839603 0.152918085961 0.381091746922 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Locals maintain that the official was abducted by the Mullah Nazir, a local Taliban group.
+locals maintain that the official was abducted by the mullah nazir a local taliban group
+0 2 1 0 0 1 0 1 1 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0575221321894 0.307194427444 0.0 0.0 0.081258397351 0.0 0.145411981104 0.23374559971 0.0 0.0 0.553119724385 0.474542724629 0.29298821308 0.0 0.0 0.0 0.0 0.0 0.0 0.49905770997 0.166211203743 0.0 0.0 0.0 0.0 0.0 0.462816680198 0.472026702763 0.373703518866 0.0953068132363 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+However, the locals are saying that the political agent was kidnapped by the Mulla Nazeer faction of local Taliban.
+however the locals are saying that the political agent was kidnapped by the mulla nazeer faction of local taliban
+1 3 1 0 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.228209615588 0.0681183144349 0.242521916403 0.0 0.0 0.0641513663297 0.0 0.11479893245 0.184535999771 0.0 0.044564015577 0.0 0.0 0.0 0.0 0.29684415574 0.200281812901 0.274891884892 0.0 0.0 0.0 0.131219371376 0.0 0.0 0.0 0.0 0.381091746922 0.36538158963 0.0 0.0 0.0 0.111354976362 0.249549884436 0.407220004097 0.388447638626 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+However, people of local tribes claim Mulla Nazir group of Taliban were responsible for kidnapping the Political agent.
+however people of local tribes claim mulla nazir group of taliban were responsible for kidnapping the political agent
+1 1 1 1 0 0 0 0 1 0 2 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.240887927565 0.0239675550789 0.255995356203 0.151899611365 0.0 0.0 0.0 0.0 0.194787999758 0.0 0.0940795884403 0.0 0.395452270524 0.244156844233 0.0 0.0 0.211408580284 0.290163656275 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.40226351064 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.354847408938 0.321737218266 0.16217807324 0.296267349474 0.107216442056 0.389385643192 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+Therefore local people say that the local Taaliban had kidnapped the Political Agent.
+therefore local people say that the local taaliban had kidnapped the political agent
+0 2 2 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.708910217178 0.210322538814 0.304201164588 0.0937596892511 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.433849150697 0.292719572701 0.401765062535 0.0 0.0 0.0 0.0 0.0 0.0 0.263567765573 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.443928247805 0.571676802176 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+residential people told that political agent was kidnapped by local Taliban's
+residential people told that political agent was kidnapped by local talibans
+0 0 1 1 0 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.418901491969 0.248563000416 0.0 0.110806905479 0.0 0.198289065141 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.51273081446 0.345941313192 0.474813255723 0.0 0.0 0.0 0.226651641468 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.766393387127 0.416656709006 0.509595707544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1xh9d9a4nhg4
+The local residents have said that the political agent was kidnapped by the Mulla Nazeer faction of local Taliban.
+the local residents have said that the political agent was kidnapped by the mulla nazeer faction of local taliban
+0 3 2 0 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+0.0 0.0681183144349 0.485043832806 0.0 0.0 0.0641513663297 0.0 0.11479893245 0.184535999771 0.0 0.044564015577 0.0 0.0 0.0 0.0 0.29684415574 0.200281812901 0.274891884892 0.0 0.370738573541 0.0 0.131219371376 0.0 0.0 0.0 0.0 0.381091746922 0.0 0.0 0.0 0.0 0.0 0.0 0.407220004097 0.388447638626 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120436308042 0.116601762447 0.0 0.0 0.0 0.0 0.0 0.0
+a14b80scbt25dr
+The locals however, are saying that the political agent was kidnapped by the Mulla Nazeer faction of local Taliban.
+the locals however are saying that the political agent was kidnapped by the mulla nazeer faction of local taliban
+1 3 1 0 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.228209615588 0.0681183144349 0.242521916403 0.0 0.0 0.0641513663297 0.0 0.11479893245 0.184535999771 0.0 0.044564015577 0.0 0.0 0.0 0.0 0.29684415574 0.200281812901 0.274891884892 0.0 0.0 0.0 0.131219371376 0.0 0.0 0.0 0.0 0.381091746922 0.36538158963 0.0 0.0 0.0 0.111354976362 0.249549884436 0.407220004097 0.388447638626 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+However, the locals are saying that the political agent was kidnapped by the Mulla Nazeer faction of local Taliban.
+however the locals are saying that the political agent was kidnapped by the mulla nazeer faction of local taliban
+1 3 1 0 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.228209615588 0.0681183144349 0.242521916403 0.0 0.0 0.0641513663297 0.0 0.11479893245 0.184535999771 0.0 0.044564015577 0.0 0.0 0.0 0.0 0.29684415574 0.200281812901 0.274891884892 0.0 0.0 0.0 0.131219371376 0.0 0.0 0.0 0.0 0.381091746922 0.36538158963 0.0 0.0 0.0 0.111354976362 0.249549884436 0.407220004097 0.388447638626 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+However, people of local tribes claim Mulla Nazir,a group of Taliban, were responsible for kidnapping the political agent.
+however people of local tribes claim mulla nazira group of taliban were responsible for kidnapping the political agent
+1 1 1 1 0 0 0 0 1 0 2 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.240887927565 0.0239675550789 0.255995356203 0.151899611365 0.0 0.0 0.0 0.0 0.194787999758 0.0 0.0940795884403 0.0 0.0 0.244156844233 0.0 0.0 0.211408580284 0.290163656275 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.40226351064 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.354847408938 0.321737218266 0.16217807324 0.296267349474 0.107216442056 0.389385643192 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.576457633747 0.0 0.0 0.0 0.0 0.0
+a3m6cl5oao31z
+However, people of local tribes claim Mulla Nazir group of Taliban were responsible for kidnapping the Political agent.
+however people of local tribes claim mulla nazir group of taliban were responsible for kidnapping the political agent
+1 1 1 1 0 0 0 0 1 0 2 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.240887927565 0.0239675550789 0.255995356203 0.151899611365 0.0 0.0 0.0 0.0 0.194787999758 0.0 0.0940795884403 0.0 0.395452270524 0.244156844233 0.0 0.0 0.211408580284 0.290163656275 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.40226351064 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.354847408938 0.321737218266 0.16217807324 0.296267349474 0.107216442056 0.389385643192 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+However, people of local tribes claim the Mulla Nazir group of Taliban were responsible for kidnapping the political agent.
+however people of local tribes claim the mulla nazir group of taliban were responsible for kidnapping the political agent
+1 2 1 1 0 0 0 0 1 0 2 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.228209615588 0.0454122096232 0.242521916403 0.143904894978 0.0 0.0 0.0 0.0 0.184535999771 0.0 0.089128031154 0.0 0.374638993128 0.23130648401 0.0 0.0 0.200281812901 0.274891884892 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.381091746922 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.33617122952 0.304803680462 0.153642385175 0.280674331081 0.101573471421 0.368891661972 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Therefore local people say that the local Taaliban had kidnapped the Political Agent.
+therefore local people say that the local taaliban had kidnapped the political agent
+0 2 2 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.708910217178 0.210322538814 0.304201164588 0.0937596892511 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.433849150697 0.292719572701 0.401765062535 0.0 0.0 0.0 0.0 0.0 0.0 0.263567765573 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.443928247805 0.571676802176 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Therefore local people said that the local Taaliban had kidnapped the Political Agent.
+therefore local people said that the local taaliban had kidnapped the political agent
+0 2 2 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0663716909878 0.708910217178 0.210322538814 0.0 0.0937596892511 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.433849150697 0.292719572701 0.401765062535 0.0 0.0 0.0 0.0 0.0 0.0 0.263567765573 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.443928247805 0.571676802176 0.0 0.0 0.0 0.0 0.1704179605 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+Therefore, citizens place the blame on the local Taliban.
+therefore citizens place the blame on the local taliban
+0 2 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1 0
+0.0 0.0958702203157 0.511990712406 0.0 0.0 0.0 0.0 0.0 0.389575999517 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.641229691274 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.592534698948 0.504602963376 0.692566964562 0.207609852762 0.0
+a1i3buq2a7w9zl
+Local people informed that the agent was kidnapped by the Talibans.
+local people informed that the agent was kidnapped by the talibans
+0 2 1 1 0 1 0 1 0 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1
+0.0 0.0784392711674 0.418901491969 0.248563000416 0.0 0.110806905479 0.0 0.198289065141 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.51273081446 0.0 0.474813255723 0.0 0.0 0.0 0.226651641468 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.509595707544 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.593280891431

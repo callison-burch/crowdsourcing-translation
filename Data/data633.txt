@@ -1,0 +1,88 @@
+voa_urd_20090114.0020__6
+after this incident police surrounded the area until now no one has claimed responsibility for nobody as of yet accepted cordoned off attacks following attack and thus far have but entire till besiege that so in will not accept any besieged began to
+After this incident police surrounded the area; until now no one has claimed responsibility for the incident.
+after this incident police surrounded the area until now no one has claimed responsibility for the incident
+1 1 2 1 1 2 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.174821075848 0.101896198186 0.551677888366 0.224507186468 0.379083045572 0.0507548225201 0.265614775528 0.267661017651 0.202921198484 0.197257018904 0.171548390659 0.120472230335 0.346994152528 0.310734541567 0.113523291589 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The police surrounded the area after this incident. Nobody has as of yet accepted responsibility for this incident.
+the police surrounded the area after this incident nobody has as of yet accepted responsibility for this incident
+1 2 2 1 1 2 1 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.165108793856 0.192470596574 0.52102911679 0.212034564998 0.358022876374 0.0479351101579 0.25085839911 0.0 0.0 0.0 0.0 0.11377932865 0.0 0.29347151148 0.107216442056 0.389385643192 0.147125659186 0.0470397942201 0.296988860337 0.288269533423 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After this incident police cordoned off the area. As of now no one has claimed responsibility for the attacks.
+after this incident police cordoned off the area as of now no one has claimed responsibility for the attacks
+1 1 1 1 0 2 1 0 1 1 1 1 1 1 1 0 1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.156418857338 0.0911702825879 0.246803265848 0.20087485105 0.0 0.0454122096232 0.237655325473 0.0 0.181561072328 0.176493122177 0.153490665327 0.107790942932 0.310468452262 0.278025642455 0.101573471421 0.0 0.139382203439 0.044564015577 0.0 0.0 0.424929069182 0.298247747691 0.169312921192 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Following the attack, police cordoned off the area and no one has accepted responsibility for the attack thus far.
+following the attack police cordoned off the area and no one has accepted responsibility for the attack thus far
+0 0 0 1 0 3 1 0 0 1 1 1 0 1 1 0 0 0 0 1 1 1 0 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.20087485105 0.0 0.0681183144349 0.237655325473 0.0 0.0 0.176493122177 0.153490665327 0.107790942932 0.0 0.278025642455 0.101573471421 0.0 0.0 0.0 0.0 0.273097452716 0.424929069182 0.298247747691 0.0 0.332410231416 0.394268844401 0.0526650982425 0.348159857461 0.252846493435 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+After the incident, the police have surrounded the area, but as of yet, no one has accepted responsibility for the incident.
+after the incident the police have surrounded the area but as of yet no one has accepted responsibility for the incident
+1 0 2 1 1 4 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.141521823305 0.0 0.44659638582 0.181743912855 0.306876751177 0.0821744745563 0.215021484952 0.0 0.0 0.159684253398 0.138872506724 0.0975251388429 0.0 0.25154700984 0.0918998074765 0.0 0.126107707874 0.0403198236173 0.254561880288 0.247088171505 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.108966183467 0.125982063876 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2yfc3l62fkzfr
+After this incident police cordoned the entire area . till now no one has claimed the responsibility for this attack.
+after this incident police cordoned the entire area  till now no one has claimed the responsibility for this attack
+1 2 1 1 0 2 1 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.156418857338 0.182340565176 0.246803265848 0.20087485105 0.0 0.0454122096232 0.237655325473 0.0 0.181561072328 0.176493122177 0.153490665327 0.107790942932 0.310468452262 0.278025642455 0.101573471421 0.0 0.0 0.0 0.0 0.0 0.424929069182 0.0 0.0 0.0 0.1971344222 0.0 0.0 0.0 0.0 0.0 0.312916874137 0.29116054321 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1vbzioywe4osh
+After this incident police has besiege that area, till now no one has accepted the Responsibility of this Attack
+after this incident police has besiege that area till now no one has accepted the responsibility of this attack
+1 2 1 1 0 1 1 0 1 1 1 2 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.156418857338 0.182340565176 0.246803265848 0.20087485105 0.0 0.0227061048116 0.237655325473 0.0 0.181561072328 0.176493122177 0.153490665327 0.215581885863 0.0 0.278025642455 0.0 0.0 0.0 0.044564015577 0.0 0.273097452716 0.0 0.0 0.0 0.0 0.1971344222 0.0 0.0 0.0 0.0 0.0 0.0 0.29116054321 0.488296058883 0.0641513663297 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alrghxunh1uv7
+After the incident, police surrounded area so far in the responsibility of the incident will not accept any.
+after the incident police surrounded area so far in the responsibility of the incident will not accept any
+1 0 2 1 1 3 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0
+0.165108793856 0.0 0.52102911679 0.212034564998 0.358022876374 0.0719026652368 0.25085839911 0.0 0.0 0.0 0.0 0.0 0.0 0.29347151148 0.0 0.0 0.0 0.0470397942201 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.266893520848 0.0 0.0 0.0 0.0 0.0 0.0 0.19762851901 0.0567135979875 0.123734085522 0.119026038791 0.306039053166 0.197810967632 0.0 0.0 0.0
+a1n6lpxi2dvzng
+After the incident the police have surrounded the area but as of yet no one has accepted responsibility for the incident.
+after the incident the police have surrounded the area but as of yet no one has accepted responsibility for the incident
+1 0 2 1 1 4 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.141521823305 0.0 0.44659638582 0.181743912855 0.306876751177 0.0821744745563 0.215021484952 0.0 0.0 0.159684253398 0.138872506724 0.0975251388429 0.0 0.25154700984 0.0918998074765 0.0 0.126107707874 0.0403198236173 0.254561880288 0.247088171505 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.108966183467 0.125982063876 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+After the incident, the police surrounded the area, but as of yet, no one has accepted responsibility for the incident.
+after the incident the police surrounded the area but as of yet no one has accepted responsibility for the incident
+1 0 2 1 1 4 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.148597914471 0.0 0.468926205111 0.190831108498 0.322220588736 0.0862831982842 0.225772559199 0.0 0.0 0.167668466068 0.14581613206 0.102401395785 0.0 0.264124360332 0.0964947978503 0.0 0.132413093267 0.0423358147981 0.267289974303 0.25944258008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.132281167069 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ah8lf01ktxfg0
+After the incident, the police surrounded the area, but as of yet, no one has accepted responsibility for the incident.
+after the incident the police surrounded the area but as of yet no one has accepted responsibility for the incident
+1 0 2 1 1 4 1 0 0 1 1 1 0 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.148597914471 0.0 0.468926205111 0.190831108498 0.322220588736 0.0862831982842 0.225772559199 0.0 0.0 0.167668466068 0.14581613206 0.102401395785 0.0 0.264124360332 0.0964947978503 0.0 0.132413093267 0.0423358147981 0.267289974303 0.25944258008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.132281167069 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3p6go9selqo1z
+After this incident police cordoned the entire area . till now no one has claimed the responsibility for this attack.
+after this incident police cordoned the entire area  till now no one has claimed the responsibility for this attack
+1 2 1 1 0 2 1 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.156418857338 0.182340565176 0.246803265848 0.20087485105 0.0 0.0454122096232 0.237655325473 0.0 0.181561072328 0.176493122177 0.153490665327 0.107790942932 0.310468452262 0.278025642455 0.101573471421 0.0 0.0 0.0 0.0 0.0 0.424929069182 0.0 0.0 0.0 0.1971344222 0.0 0.0 0.0 0.0 0.0 0.312916874137 0.29116054321 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2wad4knay39l8
+After this incident police cordoned the entire area. As of now, no one has claimed the responsibility for the attack.
+after this incident police cordoned the entire area as of now no one has claimed the responsibility for the attack
+1 1 1 1 0 3 1 0 1 1 1 1 1 1 1 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.148597914471 0.0866117684585 0.234463102556 0.190831108498 0.0 0.0647123987131 0.225772559199 0.0 0.172483018711 0.167668466068 0.14581613206 0.102401395785 0.294945029649 0.264124360332 0.0964947978503 0.0 0.132413093267 0.0423358147981 0.0 0.0 0.403682615723 0.0 0.0 0.0 0.18727770109 0.0 0.0 0.0 0.0 0.0 0.29727103043 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2mrhza4l9w9cl
+After the incident the police cordoned the entire area. As of yet no one has claimed responsibility for this attack.
+after the incident the police cordoned the entire area as of yet no one has claimed responsibility for this attack
+1 1 1 1 0 3 1 0 0 1 1 1 1 1 1 0 1 1 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.148597914471 0.0866117684585 0.234463102556 0.190831108498 0.0 0.0647123987131 0.225772559199 0.0 0.0 0.167668466068 0.14581613206 0.102401395785 0.294945029649 0.264124360332 0.0964947978503 0.0 0.132413093267 0.0423358147981 0.267289974303 0.0 0.403682615723 0.0 0.0 0.0 0.18727770109 0.0 0.0 0.0 0.0 0.0 0.29727103043 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+After this incident, police besieged the area. Until now no one has accepted responsibility for the attack.
+after this incident police besieged the area until now no one has accepted responsibility for the attack
+1 1 1 1 0 2 1 1 1 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.174821075848 0.101896198186 0.275838944183 0.224507186468 0.0 0.0507548225201 0.265614775528 0.267661017651 0.202921198484 0.197257018904 0.171548390659 0.120472230335 0.0 0.310734541567 0.113523291589 0.0 0.0 0.0 0.0 0.305226564801 0.0 0.0 0.0 0.0 0.220326707165 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.481118401771 0.0 0.0
+a1c0lbe9vl3ax
+After this incident police began to besiege that area, till now no one has accepted the Responsibility of this Attack
+after this incident police began to besiege that area till now no one has accepted the responsibility of this attack
+1 2 1 1 0 1 1 0 1 1 1 1 0 1 0 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 1
+0.148597914471 0.173223536917 0.234463102556 0.190831108498 0.0 0.021570799571 0.225772559199 0.0 0.172483018711 0.167668466068 0.14581613206 0.102401395785 0.0 0.264124360332 0.0 0.0 0.0 0.0423358147981 0.0 0.25944258008 0.0 0.0 0.0 0.0 0.18727770109 0.0 0.0 0.0 0.0 0.0 0.0 0.27660251605 0.463881255939 0.0609437980132 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.310867716205 0.0536203346193
+a3cq6k45o0891a
+Police besieged the area after the incident. So far no one has accepted responsibility for the attack.
+police besieged the area after the incident so far no one has accepted responsibility for the attack
+1 0 1 1 0 3 1 0 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0
+0.174821075848 0.0 0.275838944183 0.224507186468 0.0 0.0761322337801 0.265614775528 0.0 0.0 0.197257018904 0.171548390659 0.120472230335 0.0 0.310734541567 0.113523291589 0.0 0.0 0.0 0.0 0.305226564801 0.0 0.0 0.0 0.0 0.220326707165 0.0 0.0 0.282593139722 0.0 0.0 0.0 0.0 0.0 0.0 0.20925372601 0.0 0.0 0.0 0.0 0.0 0.481118401771 0.0 0.0
+amd40d0gc1l4r
+After the incident, police surrounded area so far in the responsibility of the incident will not accept any.
+after the incident police surrounded area so far in the responsibility of the incident will not accept any
+1 0 2 1 1 3 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0
+0.165108793856 0.0 0.52102911679 0.212034564998 0.358022876374 0.0719026652368 0.25085839911 0.0 0.0 0.0 0.0 0.0 0.0 0.29347151148 0.0 0.0 0.0 0.0470397942201 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.266893520848 0.0 0.0 0.0 0.0 0.0 0.0 0.19762851901 0.0567135979875 0.123734085522 0.119026038791 0.306039053166 0.197810967632 0.0 0.0 0.0

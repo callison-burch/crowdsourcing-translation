@@ -1,0 +1,88 @@
+dew_urd_20090108.0002__9
+he named his company ratiopharm now the biggest and most successful pharmaceutical in germany which is an extremely very large firm of today a highly drug manufacturing leading germanys acclaimed called name this advertisements words used by salesperson definitely praise product or service that available whichis advertisement
+He named his company "Ratiopharm," now the biggest and most successful pharmaceutical company in Germany.
+he named his company ratiopharm now the biggest and most successful pharmaceutical company in germany
+1 1 1 2 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.15776946998 0.421052959794 0.177825187094 0.770815674309 0.429627451648 0.229977358282 0.0287610660947 0.35682379244 0.0667091244405 0.302567130686 0.373140927623 0.472026702763 0.068056317585 0.338195499959 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+He named his company Ratiopharm, which is an extremely successful and very large pharmaceutical firm of Germany today.
+he named his company ratiopharm which is an extremely successful and very large pharmaceutical firm of germany today
+1 1 1 1 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.131474558317 0.350877466495 0.148187655911 0.321173197629 0.358022876374 0.0 0.0 0.0 0.0555909370338 0.0 0.310950773019 0.393355585636 0.0 0.281829583299 0.166965402273 0.0736898867949 0.162985815814 0.385680566831 0.231984901856 0.302721317905 0.422424926956 0.0470397942201 0.239839678437 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+He named his company Ratiopharm, which today is a highly successful and a very large drug manufacturing company in Germany.
+he named his company ratiopharm which today is a highly successful and a very large drug manufacturing company in germany
+1 1 1 2 1 0 0 0 1 0 1 0 1 1 1 1 0 0 1 1 0 0 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.118327102485 0.315789719845 0.13336889032 0.578111755732 0.322220588736 0.0 0.0 0.0 0.0500318433304 0.0 0.279855695717 0.0 0.0510422381887 0.25364662497 0.150268862046 0.0663208981154 0.0 0.0 0.20878641167 0.272449186115 0.0 0.0 0.215855710593 0.142960219854 0.359909178855 0.408950641506 0.374293282478 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+He named his company Ratiopharm, which is now a leading pharmaceutical company in Germany.
+he named his company ratiopharm which is now a leading pharmaceutical company in germany
+1 1 1 2 1 1 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.169038717836 0.451128171207 0.190526986172 0.825873936759 0.460315126766 0.246404312445 0.0 0.0 0.0 0.0 0.0 0.505742895818 0.0729174831268 0.362352321385 0.214669802922 0.0947441401649 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.102114442753 0.0 0.0 0.0 0.527178938135 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+He named his company Ratiopharm which is today Germany's very large acclaimed and successful pharmaceutical company.
+he named his company ratiopharm which is today germanys very large acclaimed and successful pharmaceutical company
+1 1 1 2 1 0 0 0 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.394737149806 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0 0.0 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.269819638242 0.0 0.0 0.0 0.0 0.0 0.475228042826 0.547924968438 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+He called his company Ratiopharm, which is a very successful and large pharmaceutical company in Germany.
+he called his company ratiopharm which is a very successful and large pharmaceutical company in germany
+1 0 1 2 1 0 0 0 1 0 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.0 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0638027977359 0.317058281212 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.0 0.089350137409 0.0 0.0 0.0 0.0 0.0 0.0 0.301941247686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a172x4w90uost1
+The name of this advertisements is Ratiopharm. The words used by the salesperson, definitely praise the product or service that is available.
+the name of this advertisements is ratiopharm the words used by the salesperson definitely praise the product or service that is available
+0 0 0 0 1 0 4 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+0.0 0.0 0.0 0.0 0.292927807942 0.0 0.0784392711674 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120583451119 0.0 0.0 0.0 0.0 0.0 0.0384871043619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.208467147116 0.0787379713259 0.351690003538 0.252178348643 0.212082290458 0.113325820734 0.377127084808 0.283322849139 0.317047273899 0.311358040129 0.146048409846 0.265619905195 0.0554034527393 0.301753081326 0.0 0.0
+a8v7wa74iohz9
+He named his company Ratiopharm which is now Germany's most successful and biggest pharmaceutical company.
+he named his company ratiopharm which is now germanys most successful and biggest pharmaceutical company
+1 1 1 2 1 1 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.15776946998 0.421052959794 0.177825187094 0.770815674309 0.429627451648 0.229977358282 0.0 0.35682379244 0.0667091244405 0.302567130686 0.373140927623 0.472026702763 0.0 0.0 0.200358482728 0.0884278641539 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.506909912347 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+He named his company Ratiopharm, which,is a very large, acclaimed and successful pharmaceutical company.
+he named his company ratiopharm whichis a very large acclaimed and successful pharmaceutical company
+1 1 1 2 1 0 0 0 1 0 1 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0.169038717836 0.451128171207 0.190526986172 0.825873936759 0.460315126766 0.0 0.0 0.0 0.0714740619006 0.0 0.399793851024 0.505742895818 0.0 0.0 0.0 0.0 0.0 0.0 0.298266302386 0.389213123021 0.0 0.0 0.0 0.102114442753 0.0 0.0 0.0 0.0 0.0 0.62619996393 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.691649301921 0.0
+a230hf2okthmdz
+He named his company Ratiopharm, which is today Germany's very large acclaimed and successful pharmaceutical company.
+he named his company ratiopharm which is today germanys very large acclaimed and successful pharmaceutical company
+1 1 1 2 1 0 0 0 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.394737149806 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0 0.0 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.269819638242 0.0 0.0 0.0 0.0 0.0 0.475228042826 0.547924968438 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aa1hdtufsq32b
+He named his company Ratiopharm which is today Germany's very large acclaimed and successful pharmaceutical company.
+he named his company ratiopharm which is today germanys very large acclaimed and successful pharmaceutical company
+1 1 1 2 1 0 0 0 1 0 1 1 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.394737149806 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0 0.0 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.269819638242 0.0 0.0 0.0 0.0 0.0 0.475228042826 0.547924968438 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+He called his company Ratiopharm, which is a very successful and large pharmaceutical company in Germany.
+he called his company ratiopharm which is a very successful and large pharmaceutical company in germany
+1 0 1 2 1 0 0 0 1 0 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.0 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0638027977359 0.317058281212 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.0 0.089350137409 0.0 0.0 0.0 0.0 0.0 0.0 0.301941247686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+He called his company Ratiopharm, which is a very successful and large pharmaceutical company in Germany.
+he called his company ratiopharm which is a very successful and large pharmaceutical company in germany
+1 0 1 2 1 0 0 0 1 0 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.0 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0638027977359 0.317058281212 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.0 0.089350137409 0.0 0.0 0.0 0.0 0.0 0.0 0.301941247686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+He called his company Ratiopharm, which is a very successful and large pharmaceutical company in Germany.
+he called his company ratiopharm which is a very successful and large pharmaceutical company in germany
+1 0 1 2 1 0 0 0 1 0 1 1 1 1 1 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.147908878107 0.0 0.1667111129 0.722639694664 0.40277573592 0.0 0.0 0.0 0.062539804163 0.0 0.349819619646 0.44252503384 0.0638027977359 0.317058281212 0.187836077557 0.0829011226443 0.0 0.0 0.260983014588 0.340561482643 0.0 0.0 0.0 0.089350137409 0.0 0.0 0.0 0.0 0.0 0.0 0.301941247686 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+The name of this advertisement is Ratiopharm. The words used by the salesperson definitely praise the product or service that is available.
+the name of this advertisement is ratiopharm the words used by the salesperson definitely praise the product or service that is available
+0 0 0 0 1 0 4 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1
+0.0 0.0 0.0 0.0 0.292927807942 0.0 0.0784392711674 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120583451119 0.0 0.0 0.0 0.0 0.0 0.0384871043619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.208467147116 0.0787379713259 0.0 0.252178348643 0.212082290458 0.113325820734 0.377127084808 0.283322849139 0.317047273899 0.311358040129 0.146048409846 0.265619905195 0.0554034527393 0.301753081326 0.0 0.37177331046
+a1395pss402i1j
+The name of this advertisement is Ratiopharm. The words used by the salesperson definitely praise the product or service that is available.
+the name of this advertisement is ratiopharm the words used by the salesperson definitely praise the product or service that is available
+0 0 0 0 1 0 4 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1
+0.0 0.0 0.0 0.0 0.292927807942 0.0 0.0784392711674 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120583451119 0.0 0.0 0.0 0.0 0.0 0.0384871043619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.208467147116 0.0787379713259 0.0 0.252178348643 0.212082290458 0.113325820734 0.377127084808 0.283322849139 0.317047273899 0.311358040129 0.146048409846 0.265619905195 0.0554034527393 0.301753081326 0.0 0.37177331046
+a2rcbwy8ulhnj0
+The name of this advertisement is, "Ratiopharm". The words used by the salesperson, definitely praise the product or service that is available.
+the name of this advertisement is ratiopharm the words used by the salesperson definitely praise the product or service that is available
+0 0 0 0 1 0 4 0 0 0 0 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1
+0.0 0.0 0.0 0.0 0.292927807942 0.0 0.0784392711674 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120583451119 0.0 0.0 0.0 0.0 0.0 0.0384871043619 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.208467147116 0.0787379713259 0.0 0.252178348643 0.212082290458 0.113325820734 0.377127084808 0.283322849139 0.317047273899 0.311358040129 0.146048409846 0.265619905195 0.0554034527393 0.301753081326 0.0 0.37177331046
+a6fuay6fz5fq7
+He named his company Ratiopharm which is now Germany's most successful and biggest pharmaceutical company.
+he named his company ratiopharm which is now germanys most successful and biggest pharmaceutical company
+1 1 1 2 1 1 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.15776946998 0.421052959794 0.177825187094 0.770815674309 0.429627451648 0.229977358282 0.0 0.35682379244 0.0667091244405 0.302567130686 0.373140927623 0.472026702763 0.0 0.0 0.200358482728 0.0884278641539 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.506909912347 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

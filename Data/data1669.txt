@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370253-post1__3
+meanwhile the meeting of security council has ended without reaching a decision on other hand concluded taking any there is over side functions peace councils got closed conclusion here session their were un
+Meanwhile, the meeting of the Security Council has ended without reaching a decision.
+meanwhile the meeting of the security council has ended without reaching a decision
+1 2 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.433177329161 0.0663716909878 0.358654200149 0.0651320227664 0.302103693331 0.408256400402 0.1575406089 0.520409191908 0.365833580133 0.470273656185 0.109969399888 0.414817752749 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+On the other hand, a meeting of the Security Council has concluded without taking any decision.
+on the other hand a meeting of the security council has concluded without taking any decision
+0 2 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0539269989276 0.291406537621 0.0529197684977 0.245459250831 0.331708325327 0.128001744731 0.0 0.297239783858 0.0 0.089350137409 0.337039424109 0.116780542179 0.209418693301 0.280114660824 0.518549741611 0.296340487768 0.222537338586 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+On the other hand, the Security Council meeting ended without reaching a decision.
+on the other hand the security council meeting ended without reaching a decision
+0 2 1 0 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0663716909878 0.358654200149 0.0 0.302103693331 0.408256400402 0.0 0.520409191908 0.365833580133 0.470273656185 0.109969399888 0.414817752749 0.143729898066 0.257746084062 0.34475650563 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+There, the Security Council meeting is over without any decision.
+there the security council meeting is over without any decision
+0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0431415991421 0.466250460194 0.0 0.39273480133 0.530733320523 0.0 0.0 0.475583654173 0.0 0.0 0.539263078574 0.0 0.0 0.0 0.0 0.0 0.356059741738 0.288236352067 0.132641796231 0.376688816428 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a28z6a8uc4er3x
+There meeting of Security Council ended without any decision.
+there meeting of security council ended without any decision
+0 0 1 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.518056066882 0.0940795884403 0.436372001478 0.58970368947 0.0 0.75170216609 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.0 0.0 0.395621935264 0.320262613407 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ayowrg5s0py3f
+the other side the functions of peace councils got closed, without any conclusion
+the other side the functions of peace councils got closed without any conclusion
+0 2 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0
+0.0 0.0663716909878 0.0 0.0651320227664 0.0 0.0 0.0 0.0 0.365833580133 0.0 0.0 0.0 0.0 0.257746084062 0.0 0.0 0.0 0.273892109029 0.0 0.0 0.0 0.37192106633 0.629154833086 0.3013768557 0.563978074594 0.377877354033 0.431851036358 0.571676802176 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Here the Security Council meeting concluded without any decision.
+here the security council meeting concluded without any decision
+0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0479351101579 0.518056066882 0.0 0.436372001478 0.58970368947 0.0 0.0 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.921866207308 0.0 0.395621935264 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.49086807938 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+The Security Council session ended without any decision.
+the security council session ended without any decision
+0 1 0 0 1 1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0 0.0539269989276 0.0 0.0 0.490918501663 0.663416650654 0.0 0.845664936851 0.594479567717 0.0 0.0 0.674078848218 0.0 0.0 0.0 0.0 0.0 0.445074677172 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.894670197823 0.0 0.0 0.0
+a230hf2okthmdz
+The meeting of Security Council ended without any decision.
+the meeting of security council ended without any decision
+0 1 1 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0479351101579 0.518056066882 0.0940795884403 0.436372001478 0.58970368947 0.0 0.75170216609 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.0 0.0 0.395621935264 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143awku99stc9
+The meeting of Security Council ended without any decision.
+the meeting of security council ended without any decision
+0 1 1 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0479351101579 0.518056066882 0.0940795884403 0.436372001478 0.58970368947 0.0 0.75170216609 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.0 0.0 0.395621935264 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a26u4l29j7f862
+Their meeting of the Security Council ended without any decision.
+their meeting of the security council ended without any decision
+0 1 1 1 1 1 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.0 0.0431415991421 0.466250460194 0.0846716295963 0.39273480133 0.530733320523 0.0 0.676531949481 0.475583654173 0.0 0.0 0.539263078574 0.0 0.0 0.0 0.0 0.0 0.356059741738 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.299100648438 0.0 0.0
+a1ezv3q6pgmqty
+On the other side the functions of the peace councils were closed, without any conclusion.
+on the other side the functions of the peace councils were closed without any conclusion
+0 3 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 1 1 0 1 1 0 0 0 1 0
+0.0 0.0862831982842 0.0 0.0564477530642 0.0 0.0 0.0 0.0 0.317055769449 0.0 0.0 0.0 0.124565911657 0.223379939521 0.0 0.0 0.0 0.237373161158 0.0 0.0 0.0 0.322331590819 0.545267522008 0.26119327494 0.488780997982 0.0 0.374270898177 0.495453228552 0.0 0.0 0.0 0.194613687889 0.0
+a1dndzlo2d5d48
+the other side the functions of peace councils got closed, without any conclusion
+the other side the functions of peace councils got closed without any conclusion
+0 2 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0
+0.0 0.0663716909878 0.0 0.0651320227664 0.0 0.0 0.0 0.0 0.365833580133 0.0 0.0 0.0 0.0 0.257746084062 0.0 0.0 0.0 0.273892109029 0.0 0.0 0.0 0.37192106633 0.629154833086 0.3013768557 0.563978074594 0.377877354033 0.431851036358 0.571676802176 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+the other side the functions of peace councils got closed, without any conclusion
+the other side the functions of peace councils got closed without any conclusion
+0 2 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0
+0.0 0.0663716909878 0.0 0.0651320227664 0.0 0.0 0.0 0.0 0.365833580133 0.0 0.0 0.0 0.0 0.257746084062 0.0 0.0 0.0 0.273892109029 0.0 0.0 0.0 0.37192106633 0.629154833086 0.3013768557 0.563978074594 0.377877354033 0.431851036358 0.571676802176 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Here the Security Council meeting concluded without any decision.
+here the security council meeting concluded without any decision
+0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0479351101579 0.518056066882 0.0 0.436372001478 0.58970368947 0.0 0.0 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.921866207308 0.0 0.395621935264 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.49086807938 0.0 0.0 0.0 0.0
+a279zamy03pduy
+The UN Security Council meeting concluded without any decision.
+the un security council meeting concluded without any decision
+0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.0 0.0479351101579 0.518056066882 0.0 0.436372001478 0.58970368947 0.0 0.0 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.921866207308 0.0 0.395621935264 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.696151504809
+a1ly3njtyw9tff
+Here the Security Council meeting concluded without any decision.
+here the security council meeting concluded without any decision
+0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.0479351101579 0.518056066882 0.0 0.436372001478 0.58970368947 0.0 0.0 0.528426282415 0.0 0.0 0.599181198416 0.0 0.0 0.0 0.921866207308 0.0 0.395621935264 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.49086807938 0.0 0.0 0.0 0.0
+a1aklmhymfgmc2
+The Security Council session ended without a decision.
+the security council session ended without a decision
+0 1 0 0 1 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0 0.0539269989276 0.0 0.0 0.490918501663 0.663416650654 0.0 0.845664936851 0.594479567717 0.0 0.178700274818 0.674078848218 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.894670197823 0.0 0.0 0.0

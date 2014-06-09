@@ -1,0 +1,88 @@
+voa_urd_20090123.0014__9
+the bush administration had avoided either accepting or denying responsibility for attacks has been avoiding of these taking refused to confirm deny strikes organization were obligating on refusing government was take acceptance management abstain from rejecting accept disbelief and claime acknowledge such obliged refuse acknowledging admit abstained president bushs style claim
+The Bush administration had avoided either accepting or denying responsibility for the attacks.
+the bush administration had avoided either accepting or denying responsibility for the attacks
+2 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0663716909878 0.306615133876 0.397442404201 0.263567765573 0.524683795843 0.423156929558 0.481951041791 0.247158847431 0.584896052708 0.406345169742 0.148453535154 0.247457346358 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Bush administration has been avoiding either accepting or denying the responsibility of these attacks.
+the bush administration has been avoiding either accepting or denying the responsibility of these attacks
+2 1 1 0 0 1 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0575221321894 0.265733116026 0.344450083641 0.0 0.0 0.366736005617 0.417690902885 0.21420433444 0.506909912347 0.352165813776 0.0 0.21446303351 0.13653519438 0.193696242217 0.502868270893 0.0564477530642 0.203846523925 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Bush administration had avoided taking responsibility for these attacks.
+the bush administration had avoided taking responsibility for these attacks
+1 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0431415991421 0.398599674038 0.516675125461 0.342638095245 0.682088934596 0.0 0.0 0.0 0.0 0.528248720664 0.192989595701 0.321694550265 0.0 0.0 0.0 0.0 0.305769785888 0.474144780428 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Bush administration refused to confirm or deny responsibility for strikes.
+the bush administration refused to confirm or deny responsibility for strikes
+1 1 1 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0392196355837 0.362363340035 0.46970465951 0.0 0.0 0.0 0.0 0.292096819691 0.0 0.480226109695 0.175445087001 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.580659396444 0.0974915174897 0.733968392223 0.733968392223 0.612604658884 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+The Bush organization were obligating on refusing or accepting the responsibility of these attacks.
+the bush organization were obligating on refusing or accepting the responsibility of these attacks
+2 1 0 0 0 0 1 1 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.284714052885 0.0 0.0 0.0 0.0 0.447525967377 0.229504644043 0.0 0.37732051476 0.0 0.229781821618 0.0 0.0 0.0 0.0604797354259 0.21840698992 0.0 0.0 0.0 0.0 0.0 0.0 0.344797237325 0.208514665595 0.691649301921 0.133463476776 0.613176995587 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The Bush government was avoiding to take acceptance for or deny the attacks.
+the bush government was avoiding to take acceptance for or deny the attacks
+2 1 0 0 0 0 0 1 0 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0663716909878 0.306615133876 0.0 0.0 0.0 0.0 0.0 0.247158847431 0.0 0.0 0.148453535154 0.247457346358 0.0 0.0 0.580232620261 0.0 0.0 0.0 0.0 0.0824928224913 0.0 0.621050178035 0.0 0.0 0.0 0.0 0.0 0.0 0.232010264189 0.16778305512 0.297842248763 0.600868311538 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+Bush management has been abstain from accepting or rejecting these attacks.
+bush management has been abstain from accepting or rejecting these attacks
+0 1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.362363340035 0.0 0.0 0.0 0.0 0.569578503934 0.292096819691 0.0 0.0 0.0 0.29244959115 0.186184355973 0.264131239387 0.0 0.0 0.277972532626 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.572609087595 0.743546620919 0.215867948123 0.710117095453 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3kwcqj39dxkt4
+The Bush administration was to accept the disbelief and claime responsibility for the attacks.
+the bush administration was to accept the disbelief and claime responsibility for the attacks
+3 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0924462838759 0.284714052885 0.369053661043 0.0 0.0 0.0 0.0 0.0 0.0 0.37732051476 0.137849711215 0.229781821618 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0766004780276 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.155798551182 0.0 0.0 0.0 0.0 0.0 0.0 0.393478782642 0.662687508484 0.0714740619006 0.741159814818 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2ouy7gqloca69
+The Bush organization was obligating on refusing or accepting the responsibility of these attacks.
+the bush organization was obligating on refusing or accepting the responsibility of these attacks
+2 1 0 0 0 0 1 1 0 1 0 1 0 0 0 1 1 0 0 0 0 0 0 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.284714052885 0.0 0.0 0.0 0.0 0.447525967377 0.229504644043 0.0 0.37732051476 0.0 0.229781821618 0.0 0.0 0.0 0.0604797354259 0.21840698992 0.0 0.0 0.0 0.0 0.0 0.0 0.344797237325 0.0 0.691649301921 0.133463476776 0.613176995587 0.0 0.155798551182 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The Bush administration had refused to acknowledge responsibility for such attacks.
+the bush administration had refused to acknowledge responsibility for such attacks
+1 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+0.0392196355837 0.362363340035 0.46970465951 0.311489177495 0.0 0.0 0.0 0.0 0.0 0.480226109695 0.175445087001 0.29244959115 0.0 0.0 0.0 0.0 0.0 0.0 0.580659396444 0.0974915174897 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.754254169615 0.361603861174 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3m4exda4ue7bp
+The Bush organization were obliged to refuse accepting the responsibility of these attacks.
+the bush organization were obliged to refuse accepting the responsibility of these attacks
+2 1 0 0 0 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+0.0663716909878 0.306615133876 0.0 0.0 0.0 0.0 0.481951041791 0.0 0.0 0.406345169742 0.0 0.247457346358 0.0 0.0 0.0 0.0651320227664 0.235207527606 0.0 0.0 0.0824928224913 0.0 0.0 0.0 0.371320101735 0.224554255256 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.798172108265 0.571676802176 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+The Bush government was avoiding taking acceptance for or denying the attacks.
+the bush government was avoiding taking acceptance for or denying the attacks
+2 1 0 0 0 0 0 1 1 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.332166395032 0.0 0.0 0.0 0.0 0.0 0.26775541805 0.633637390434 0.0 0.160824663084 0.268078791888 0.0 0.0 0.628585338616 0.0 0.0 0.395120650357 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.251344452872 0.18176497638 0.0 0.650940670832 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The Bush government had been avoiding acknowledging the attacks.
+the bush government had been avoiding acknowledging the attacks
+2 1 0 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0958702203157 0.442888526709 0.0 0.380708994717 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.357438389184 0.0 0.322827070362 0.838113784822 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.335125937162 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+The Bush government was avoiding to admit or deny the attacks.
+the bush government was avoiding to admit or deny the attacks
+2 1 0 0 0 0 0 1 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.0784392711674 0.362363340035 0.0 0.0 0.0 0.0 0.0 0.292096819691 0.0 0.0 0.0 0.29244959115 0.0 0.0 0.685729460309 0.0 0.0 0.0 0.0 0.0974915174897 0.0 0.733968392223 0.0 0.0 0.0 0.0 0.0 0.0 0.274193948587 0.198289065141 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.780407085293 0.0 0.0 0.0 0.0 0.0
+a28p76cwxeubye
+Bush management has abstained from accepting or rejecting these attacks.
+bush management has abstained from accepting or rejecting these attacks
+0 1 0 0 0 0 1 1 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.398599674038 0.0 0.0 0.0 0.0 0.626536354328 0.32130650166 0.0 0.0 0.0 0.321694550265 0.20480279157 0.0 0.0 0.0 0.305769785888 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.629869996354 0.0 0.237454742935 0.781128804999 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.898994304633 0.0 0.0 0.0 0.0
+a2unp2crnrfiw8
+Bush management has been to abstain from accepting or rejecting these attacks.
+bush management has been to abstain from accepting or rejecting these attacks
+0 1 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.332166395032 0.0 0.0 0.0 0.0 0.522113628606 0.26775541805 0.0 0.0 0.0 0.268078791888 0.170668992975 0.242120302771 0.0 0.0 0.254808154907 0.0 0.0 0.0893672243655 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.524891663629 0.681584402509 0.197878952446 0.650940670832 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31ikb373dzonk
+President Bush's management style has been to abstain from accepting or rejecting these attacks.
+president bushs management style has been to abstain from accepting or rejecting these attacks
+0 0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.447525967377 0.229504644043 0.0 0.0 0.0 0.229781821618 0.146287708264 0.20753168809 0.0 0.0 0.21840698992 0.0 0.0 0.0766004780276 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.449907140253 0.584215202151 0.169610530668 0.557949146428 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.201826868882 0.420542931266 0.503145206948 0.0
+a1mmshjhu659at
+The Bush administration was to accept the disbelief and claim responsibility for the attacks.
+the bush administration was to accept the disbelief and claim responsibility for the attacks
+3 1 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1
+0.0924462838759 0.284714052885 0.369053661043 0.0 0.0 0.0 0.0 0.0 0.0 0.37732051476 0.137849711215 0.229781821618 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0766004780276 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.155798551182 0.0 0.0 0.0 0.0 0.0 0.0 0.393478782642 0.662687508484 0.0714740619006 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.41366213777

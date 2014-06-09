@@ -1,0 +1,88 @@
+bbc_urd_20090125.0020__1
+administrator for jamaatuddawa appointed an jamaatud dawa jamatuddawa adminstrator jamaat aldawa jamaaathud dawah jamatalqaeda aldawas a new
+Administrator for Jamaat-ud-Dawa
+administrator for jamaatuddawa
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2.06219422181 0.643298652335 2.32501334193 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Administrator Appointed for Jamaat-ud-Dawa
+administrator appointed for jamaatuddawa
+1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.54664566636 0.482473989251 1.74376000645 1.43781614854 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Administrator for Jamaat-ud-Dawa
+administrator for jamaatuddawa
+1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2.06219422181 0.643298652335 2.32501334193 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+An Administrator for Jamaatud Dawa
+an administrator for jamaatud dawa
+1 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+1.23731653308 0.385979191401 0.0 0.0 0.586748936931 1.63580256602 1.28888235495 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Administrator for Jamat-ud-Dawa
+administrator for jamatuddawa
+1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+2.06219422181 0.643298652335 0.0 0.0 0.0 0.0 0.0 2.09956665451 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Adminstrator for Jamaat Al-Dawa.
+adminstrator for jamaat aldawa
+0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+0.0 0.482473989251 0.0 0.0 0.0 0.0 0.0 0.0 2.3194062797 1.74376000645 2.01841307861 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Administrator for Jamaa'athud Da'wah
+administrator for jamaaathud dawah
+1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+1.54664566636 0.482473989251 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.79954589428 1.55046253439 0.0 0.0 0.0 0.0
+alrghxunh1uv7
+Administrator for Jamat-al-qaeda
+administrator for jamatalqaeda
+1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+2.06219422181 0.643298652335 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.69121743815 0.0 0.0 0.0
+a3lhs82826iskx
+Administrator for Jamat-ud-Dawa
+administrator for jamatuddawa
+1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+2.06219422181 0.643298652335 0.0 0.0 0.0 0.0 0.0 2.09956665451 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+amjejkgf6r4hk
+Administrator for Jamat-ud-Dawa
+administrator for jamatuddawa
+1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+2.06219422181 0.643298652335 0.0 0.0 0.0 0.0 0.0 2.09956665451 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Administrator for Jamat-ud-Dawa
+administrator for jamatuddawa
+1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+2.06219422181 0.643298652335 0.0 0.0 0.0 0.0 0.0 2.09956665451 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al9ouse16p4du
+Adminstrator for Jamaat Al-Dawa.
+adminstrator for jamaat aldawa
+0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+0.0 0.482473989251 0.0 0.0 0.0 0.0 0.0 0.0 2.3194062797 1.74376000645 2.01841307861 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+Jamaat Al-Dawa's Adminstrator
+jamaat aldawas adminstrator
+0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 3.09254170626 2.32501334193 0.0 0.0 0.0 0.0 3.45874580248 0.0 0.0
+a2qxd8jqk5bvez
+Administrator for Jamaat Al-Dawa.
+administrator for jamaat aldawa
+1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+1.54664566636 0.482473989251 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.74376000645 2.01841307861 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+Administrator for Jamaa'athud Da'wah
+administrator for jamaaathud dawah
+1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+1.54664566636 0.482473989251 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.79954589428 1.55046253439 0.0 0.0 0.0 0.0
+awmob8jnvgesj
+A New Administrator for Jamaa'athud Da'wah
+a new administrator for jamaaathud dawah
+1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1
+1.0310971109 0.321649326168 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.19969726285 1.03364168959 0.0 0.0 0.238267033091 0.611766385432
+a6tw9zegog7ph
+Administrator for Jamaa'athud Da'wah
+administrator for jamaaathud dawah
+1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+1.54664566636 0.482473989251 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.79954589428 1.55046253439 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+Administrator for Jamat-al-qaeda
+administrator for jamatalqaeda
+1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+2.06219422181 0.643298652335 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.69121743815 0.0 0.0 0.0

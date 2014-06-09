@@ -1,0 +1,88 @@
+bbc_urd_20090104.0004__6
+according to the local people talibans pamphlet was read over loudspeakers of all mosques in north waziristan residents issued by taliban loud speakers from out on locals released territorys pamphlets taaliban had been announcements northern wazeerastan public that circular made listen announced masjids literature aloud every mosque were
+According to the local people, the Taliban's pamphlet was read over the loudspeakers of all mosques in North Waziristan.
+according to the local people the talibans pamphlet was read over the loudspeakers of all mosques in north waziristan
+1 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.171741857829 0.056442457494 0.0681183144349 0.242521916403 0.143904894978 0.295029093841 0.332410231416 0.11479893245 0.368891661972 0.198257271804 0.43047435948 0.044564015577 0.166600997578 0.36538158963 0.0537286717776 0.251463970971 0.25832511928 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to the local residents, the pamphlet issued by the Taliban was read over the loud speakers from all mosques in North Waziristan.
+according to the local residents the pamphlet issued by the taliban was read over the loud speakers from all mosques in north waziristan
+1 1 4 1 0 0 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.141873708641 0.0466263779298 0.0750288680732 0.200344191811 0.0 0.0 0.274599756387 0.0948339007198 0.304736590324 0.163777746273 0.0 0.0 0.137626911043 0.301836965346 0.0443845549467 0.207731106454 0.213399011579 0.306262299882 0.292984836858 0.108398611137 0.15244278242 0.351028361498 0.320891527561 0.10324119258 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to local people, the pamphlet issued by Taliban was read out on loudspeakers of all the mosques.
+according to local people the pamphlet issued by taliban was read out on loudspeakers of all the mosques
+1 1 2 1 1 0 1 1 1 0 1 1 1 1 0 0 0 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.181283072152 0.059578149577 0.0479351101579 0.255995356203 0.151899611365 0.0 0.350877466495 0.12117665092 0.389385643192 0.0 0.454389601673 0.0470397942201 0.175856608554 0.385680566831 0.0 0.0 0.0 0.0 0.374369513762 0.138509336452 0.194787999758 0.0 0.0 0.0 0.22247919779 0.103804926381 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+According to locals, the pamphlet released by the Taliban was read out on the loudspeakers of all the mosques in North Waziristan.
+according to locals the pamphlet released by the taliban was read out on the loudspeakers of all the mosques in north waziristan
+1 1 4 0 0 0 1 1 1 0 1 1 1 1 1 1 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.148322513579 0.0487457587448 0.0784392711674 0.0 0.0 0.0 0.287081563496 0.0991445325707 0.318588253521 0.0 0.37177331046 0.0384871043619 0.143882679726 0.315556827407 0.046402034717 0.217173429475 0.223098966651 0.0 0.0 0.113325820734 0.159371999802 0.0 0.0 0.0 0.182028434555 0.0849313034028 0.315556827407 0.296640445715 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bz8b0jpubzqq
+According to the territory's people the pamphlets from the Taaliban had been read in the announcements in all the mosques of the Northern Wazeerastan.
+according to the territorys people the pamphlets from the taaliban had been read in the announcements in all the mosques of the northern wazeerastan
+1 1 6 0 1 0 0 0 1 0 0 1 1 1 2 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.107853997855 0.0 0.113924708524 0.0 0.0 0.0 0.292039232394 0.0 0.0 0.0352798456651 0.131892456416 0.289260425124 0.0850703969812 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0989394762229 0.0 0.0 0.0 0.0 0.374580960264 0.316818695217 0.309658267845 0.142765873019 0.121060151386 0.374580960264 0.242162050666 0.281888312284 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+According to the public that circular was made to listen in all mosques of North Wazeerastan.
+according to the public that circular was made to listen in all mosques of north wazeerastan
+1 2 1 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.203943456171 0.134050836548 0.0269634994638 0.0 0.0 0.0 0.0 0.136323732285 0.0 0.0 0.0 0.0529197684977 0.197838684624 0.433890637685 0.0638027977359 0.298613465528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.422832468425 0.287218368229 0.0761797475165 0.498646383416 0.246055439772 0.417959872083 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+According to the locals, the pamphlets issued by the local Taliban was read out loud on the loudspeakers of all the mosques in North Waziristan.
+according to the locals the pamphlets issued by the local taliban was read out loud on the loudspeakers of all the mosques in north waziristan
+1 1 5 1 0 0 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0428962676955 0.0862831982842 0.184316656466 0.0 0.0 0.0 0.0872471886622 0.280357663099 0.0 0.327160513205 0.0338686518385 0.126616758159 0.277690008119 0.040833790551 0.191112617938 0.196327090653 0.0 0.269546049909 0.0997267222458 0.140247359826 0.322946092578 0.0 0.0 0.160185022409 0.0747395469945 0.277690008119 0.0 0.0 0.304145947408 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+According to local people the pamphlet issued by Taliban was announced on the loudspeakers of all the Masjids.
+according to local people the pamphlet issued by taliban was announced on the loudspeakers of all the masjids
+1 1 3 1 1 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.181283072152 0.059578149577 0.0719026652368 0.255995356203 0.151899611365 0.0 0.350877466495 0.12117665092 0.0 0.0 0.454389601673 0.0470397942201 0.175856608554 0.0 0.0 0.0 0.0 0.0 0.374369513762 0.138509336452 0.194787999758 0.0 0.0 0.0 0.0 0.103804926381 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.320062049478 0.499441280352 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+According to the territory's people, the pamphlets from the Taaliban had been read in the announcements in all the mosques of the Northern Wazeerastan.
+according to the territorys people the pamphlets from the taaliban had been read in the announcements in all the mosques of the northern wazeerastan
+1 1 6 0 1 0 0 0 1 0 0 1 1 1 2 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.107853997855 0.0 0.113924708524 0.0 0.0 0.0 0.292039232394 0.0 0.0 0.0352798456651 0.131892456416 0.289260425124 0.0850703969812 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0989394762229 0.0 0.0 0.0 0.0 0.374580960264 0.316818695217 0.309658267845 0.142765873019 0.121060151386 0.374580960264 0.242162050666 0.281888312284 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ac00w60nppf9z
+According to the territory's people the pamphlets from the Taaliban had been read in the announcements in all the mosques of the Northern Wazeerastan.
+according to the territorys people the pamphlets from the taaliban had been read in the announcements in all the mosques of the northern wazeerastan
+1 1 6 0 1 0 0 0 1 0 0 1 1 1 2 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.107853997855 0.0 0.113924708524 0.0 0.0 0.0 0.292039232394 0.0 0.0 0.0352798456651 0.131892456416 0.289260425124 0.0850703969812 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0989394762229 0.0 0.0 0.0 0.0 0.374580960264 0.316818695217 0.309658267845 0.142765873019 0.121060151386 0.374580960264 0.242162050666 0.281888312284 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+According to the territory's people the pamphlets from the Taliban had been read in the announcements in all the mosques of the Northern Wazeerastan.
+according to the territorys people the pamphlets from the taliban had been read in the announcements in all the mosques of the northern wazeerastan
+1 1 6 0 1 0 0 0 1 0 0 1 1 1 2 0 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.135962304114 0.0446836121828 0.107853997855 0.0 0.113924708524 0.0 0.0 0.0 0.292039232394 0.0 0.0 0.0352798456651 0.131892456416 0.289260425124 0.0850703969812 0.0 0.0 0.0 0.0 0.0 0.146090999819 0.0 0.0 0.0989394762229 0.0 0.0 0.0 0.0 0.374580960264 0.316818695217 0.0 0.142765873019 0.121060151386 0.374580960264 0.242162050666 0.281888312284 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+According to the public; circular was made to listen in all mosques of North Wazeerastan.
+according to the public circular was made to listen in all mosques of north wazeerastan
+1 2 1 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0
+0.217539686583 0.142987558985 0.0287610660947 0.0 0.0 0.0 0.0 0.145411981104 0.0 0.0 0.0 0.0564477530642 0.211027930265 0.462816680198 0.068056317585 0.318521029897 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.451021299654 0.306366259444 0.0 0.531889475643 0.262459135757 0.445823863556 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1x4s2g0dzysyw
+According to the public that literature was read aloud in every mosque in North Wazeerastan.
+according to the public that literature was read aloud in every mosque in north wazeerastan
+1 1 1 0 0 0 0 1 1 0 0 0 0 0 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 1 1 1 0
+0.217539686583 0.0714937794924 0.0287610660947 0.0 0.0 0.0 0.0 0.145411981104 0.467262771831 0.0 0.0 0.0 0.0 0.0 0.13611263517 0.318521029897 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.451021299654 0.306366259444 0.081258397351 0.0 0.0 0.0 0.0 0.0 0.46070010031 0.691749160497 0.28431800453 0.46070010031 0.0
+a2rcbwy8ulhnj0
+According to the public, that circular was made to listen in all mosques of North Wazeerastan.
+according to the public that circular was made to listen in all mosques of north wazeerastan
+1 2 1 0 0 0 0 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.203943456171 0.134050836548 0.0269634994638 0.0 0.0 0.0 0.0 0.136323732285 0.0 0.0 0.0 0.0529197684977 0.197838684624 0.433890637685 0.0638027977359 0.298613465528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.422832468425 0.287218368229 0.0761797475165 0.498646383416 0.246055439772 0.417959872083 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1gnof24z9gaez
+According to locals, the pamphlets were read out over the loudspeakers of all mosques in North Waziristan.
+according to locals the pamphlets were read out over the loudspeakers of all mosques in north waziristan
+1 1 2 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.191946782279 0.063082746611 0.0507548225201 0.0 0.0 0.0 0.0 0.0 0.412290681027 0.221581656723 0.481118401771 0.049806840939 0.18620111494 0.408367658998 0.0600496919867 0.281047967556 0.288716309783 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.235566209425 0.0 0.408367658998 0.0 0.0 0.447273452071 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.171717959902
+a1g9f1kosfkijh
+According to the locals, the pamphlets issued by the local Taliban was read out loud on the loudspeakers of all the mosques in North Waziristan.
+according to the locals the pamphlets issued by the local taliban was read out loud on the loudspeakers of all the mosques in north waziristan
+1 1 5 1 0 0 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13052381195 0.0428962676955 0.0862831982842 0.184316656466 0.0 0.0 0.0 0.0872471886622 0.280357663099 0.0 0.327160513205 0.0338686518385 0.126616758159 0.277690008119 0.040833790551 0.191112617938 0.196327090653 0.0 0.269546049909 0.0997267222458 0.140247359826 0.322946092578 0.0 0.0 0.160185022409 0.0747395469945 0.277690008119 0.0 0.0 0.304145947408 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+According to the locals, the pamphlets issued by the local Taliban were read over loudspeakers in all the mosques in North Waziristan.
+according to the locals the pamphlets issued by the local taliban were read over loudspeakers in all the mosques in north waziristan
+1 1 4 1 0 0 0 0 1 1 1 0 1 1 2 1 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.148322513579 0.0487457587448 0.0784392711674 0.209450745984 0.0 0.0 0.0 0.0 0.318588253521 0.171222189286 0.37177331046 0.0 0.143882679726 0.315556827407 0.0928040694341 0.217173429475 0.223098966651 0.0 0.306302329442 0.113325820734 0.159371999802 0.0 0.0 0.0 0.0 0.0 0.315556827407 0.0 0.0 0.345620394782 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.132691150833
+a1ayptb7ayz623
+According to local people, the pamphlet issued by Taliban was announced on the loudspeakers of all the Masjids.
+according to local people the pamphlet issued by taliban was announced on the loudspeakers of all the masjids
+1 1 3 1 1 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.181283072152 0.059578149577 0.0719026652368 0.255995356203 0.151899611365 0.0 0.350877466495 0.12117665092 0.0 0.0 0.454389601673 0.0470397942201 0.175856608554 0.0 0.0 0.0 0.0 0.0 0.374369513762 0.138509336452 0.194787999758 0.0 0.0 0.0 0.0 0.103804926381 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.320062049478 0.499441280352 0.0 0.0 0.0 0.0 0.0

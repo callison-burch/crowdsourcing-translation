@@ -1,0 +1,88 @@
+bbc_urd_20090107.0021__3
+prior to this rehman malik the prime ministers adviser on interior affairs had denied his pakistani citizenship earlier advisor nationality that he was a citizen rahman minister refused accept kasab before for pm denying of internal
+Prior to this, Rehman Malik, the Prime Minister's Adviser on Interior Affairs, had denied his Pakistani citizenship.
+prior to this rehman malik the prime ministers adviser on interior affairs had denied his pakistani citizenship
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.412290681027 0.063082746611 0.101896198186 0.322258682794 0.292562354446 0.02537741126 0.24317730247 0.296394078103 0.440345038209 0.109911098521 0.340662936987 0.313316552953 0.201551820732 0.368550796663 0.156904576847 0.213726868921 0.360455421494 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Earlier, the Prime Minister's Interior Advisor, Rehman Malik, had denied his Pakistani nationality.
+earlier the prime ministers interior advisor rehman malik had denied his pakistani nationality
+0 0 0 1 1 1 1 1 0 0 1 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.421415200577 0.382581540429 0.0331858454939 0.318001087846 0.387592255981 0.0 0.0 0.445482302214 0.0 0.263567765573 0.481951041791 0.205182908185 0.279488982435 0.0 0.452892387517 0.510659060705 0.589860554334 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Earlier, the Prime Minister's Interior Adviser, Rehman Malik, had denied that he was a Pakistani citizen.
+earlier the prime ministers interior adviser rehman malik had denied that he was a pakistani citizen
+0 0 0 1 1 1 1 1 1 0 1 0 1 1 0 1 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.342399850469 0.310847501599 0.0269634994638 0.258375883875 0.314918707984 0.467866603097 0.0 0.361954370549 0.0 0.214148809528 0.391585221455 0.0 0.227084798229 0.0 0.367975064857 0.0 0.0 0.0761797475165 0.147908878107 0.136323732285 0.089350137409 0.350347048937 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Earlier, Rahman Malik, advisor to the prime minister on interior affairs, had refused to accept that Kasab was a Pakistani.
+earlier rahman malik advisor to the prime minister on interior affairs had refused to accept that kasab was a pakistani
+0 2 0 0 1 1 1 0 0 1 1 1 1 0 0 1 0 1 1 0 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0
+0.0 0.107240669239 0.0 0.0 0.248678001279 0.021570799571 0.2067007071 0.0 0.0 0.0934244337431 0.289563496439 0.26631907001 0.171319047622 0.0 0.0 0.181667838583 0.0 0.294380051886 0.331928389458 0.0 0.0609437980132 0.0 0.109058985828 0.0714801099272 0.0 0.300339477749 0.179532488122 0.319362668044 0.27543514785 0.302937464696 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+before this the Advisor to Prime Minister for Interior Rehman Malik had denied his Pakistani citizenship.
+before this the advisor to prime minister for interior rehman malik had denied his pakistani citizenship
+0 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0
+0.0 0.0670254182741 0.108264710573 0.342399850469 0.310847501599 0.0269634994638 0.258375883875 0.0 0.0 0.0 0.361954370549 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.224415610153 0.0 0.0 0.0 0.270259264908 0.120618497313 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Earlier, Rehman Malik, adviser to PM was denying the pakistani citizenship of Kasab.
+earlier rehman malik adviser to pm was denying the pakistani citizenship of kasab
+0 1 0 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 1 0
+0.0 0.0824928224913 0.0 0.421415200577 0.382581540429 0.0331858454939 0.0 0.0 0.575835819196 0.0 0.0 0.0 0.0 0.0 0.0 0.279488982435 0.471364781954 0.452892387517 0.0 0.0 0.0 0.0 0.16778305512 0.0 0.0 0.0 0.0 0.0 0.0 0.466057637993 0.0 0.0 0.536541540445 0.584896052708 0.0651320227664 0.0
+a3dd3acpmvdvca
+Before this, the internal advisor to the Prime Minister, Rahman Malik had denied his Pakistani citizenship.
+before this the internal advisor to the prime minister rahman malik had denied his pakistani citizenship
+0 1 1 0 1 2 1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1
+0.0 0.0670254182741 0.108264710573 0.0 0.310847501599 0.0539269989276 0.258375883875 0.0 0.0 0.0 0.0 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.375424347186 0.224415610153 0.0 0.0 0.0 0.270259264908 0.0 0.0 0.0 0.0 0.3770269991
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dwqf4zhhblow
+Before this, the Advisor to Prime Minister for Interior Rehman Malik had denied his Pakistani citizenship.
+before this the advisor to prime minister for interior rehman malik had denied his pakistani citizenship
+0 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0
+0.0 0.0670254182741 0.108264710573 0.342399850469 0.310847501599 0.0269634994638 0.258375883875 0.0 0.0 0.0 0.361954370549 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.224415610153 0.0 0.0 0.0 0.270259264908 0.120618497313 0.0 0.0 0.0 0.0
+a1g46au4nrpshg
+Before this the Advisor to Prime Minister for Interior Rehman Malik had denied his Pakistani citizenship.
+before this the advisor to prime minister for interior rehman malik had denied his pakistani citizenship
+0 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0
+0.0 0.0670254182741 0.108264710573 0.342399850469 0.310847501599 0.0269634994638 0.258375883875 0.0 0.0 0.0 0.361954370549 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.224415610153 0.0 0.0 0.0 0.270259264908 0.120618497313 0.0 0.0 0.0 0.0
+a29s1rn1ux7u8z
+Before this the Advisor to Prime Minister for Interior Rehman Malik had denied his Pakistani citizenship.
+before this the advisor to prime minister for interior rehman malik had denied his pakistani citizenship
+0 1 1 1 1 1 1 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0
+0.0 0.0670254182741 0.108264710573 0.342399850469 0.310847501599 0.0269634994638 0.258375883875 0.0 0.0 0.0 0.361954370549 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.224415610153 0.0 0.0 0.0 0.270259264908 0.120618497313 0.0 0.0 0.0 0.0
+a87c5tu9lryej
+Earlier Rehman Malik, adviser to PM, was denying the Pakistani citizenship of Kasab.
+earlier rehman malik adviser to pm was denying the pakistani citizenship of kasab
+0 1 0 1 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 1 0
+0.0 0.0824928224913 0.0 0.421415200577 0.382581540429 0.0331858454939 0.0 0.0 0.575835819196 0.0 0.0 0.0 0.0 0.0 0.0 0.279488982435 0.471364781954 0.452892387517 0.0 0.0 0.0 0.0 0.16778305512 0.0 0.0 0.0 0.0 0.0 0.0 0.466057637993 0.0 0.0 0.536541540445 0.584896052708 0.0651320227664 0.0
+aaul30gxuqax9
+Earlier, Rehman Malik, advisor to the Prime Minister denied the Pakistani citizenship of Kasab.
+earlier rehman malik advisor to the prime minister denied the pakistani citizenship of kasab
+0 1 0 1 1 2 1 0 0 0 0 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0
+0.0 0.0766004780276 0.0 0.391314114821 0.355254287541 0.0616308559173 0.295286724428 0.0 0.0 0.0 0.0 0.0 0.0 0.447525967377 0.0 0.25952548369 0.437695868957 0.420542931266 0.474183413512 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.256474983032 0.0 0.0 0.432767806708 0.0 0.0 0.0 0.0 0.0604797354259 0.0
+al2rcq9eyun61
+Earlier, Rehman Malik, adviser to the PM was denying the Pakistani citizenship of Kasab.
+earlier rehman malik adviser to the pm was denying the pakistani citizenship of kasab
+0 1 0 1 1 2 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 1 0
+0.0 0.0766004780276 0.0 0.391314114821 0.355254287541 0.0616308559173 0.0 0.0 0.534704689254 0.0 0.0 0.0 0.0 0.0 0.0 0.25952548369 0.437695868957 0.420542931266 0.0 0.0 0.0 0.0 0.155798551182 0.0 0.0 0.0 0.0 0.0 0.0 0.432767806708 0.0 0.0 0.498217144699 0.543117763229 0.0604797354259 0.0
+a330jjzgjl7ig2
+Before this, the internal advisor to the Prime Minister, Rahman Malik, had denied his Pakistani citizenship.
+before this the internal advisor to the prime minister rahman malik had denied his pakistani citizenship
+0 1 1 0 1 2 1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1
+0.0 0.0670254182741 0.108264710573 0.0 0.310847501599 0.0539269989276 0.258375883875 0.0 0.0 0.0 0.0 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.375424347186 0.224415610153 0.0 0.0 0.0 0.270259264908 0.0 0.0 0.0 0.0 0.3770269991
+avktegthhn2vp
+Before this, the internal advisor to the Prime Minister, Rahman Malik had denied his Pakistani citizenship.
+before this the internal advisor to the prime minister rahman malik had denied his pakistani citizenship
+0 1 1 0 1 2 1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 1
+0.0 0.0670254182741 0.108264710573 0.0 0.310847501599 0.0539269989276 0.258375883875 0.0 0.0 0.0 0.0 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.375424347186 0.224415610153 0.0 0.0 0.0 0.270259264908 0.0 0.0 0.0 0.0 0.3770269991
+a262d9pq8d093q
+Before this, the internal advisor for the Prime Minister, Rahman Malik, had denied his Pakistani citizenship.
+before this the internal advisor for the prime minister rahman malik had denied his pakistani citizenship
+0 0 1 0 1 2 1 0 0 0 0 0 1 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 1
+0.0 0.0 0.108264710573 0.0 0.310847501599 0.0539269989276 0.258375883875 0.0 0.0 0.0 0.0 0.0 0.214148809528 0.391585221455 0.1667111129 0.227084798229 0.382983885338 0.0 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.375424347186 0.224415610153 0.0 0.0 0.0 0.270259264908 0.120618497313 0.0 0.0 0.0 0.3770269991
+a3mq8jwi317m6m
+Prior to this, Rahman, Advisor of the Prime Minister, refused his Pakistani citizenship.
+prior to this rahman advisor of the prime minister refused his pakistani citizenship
+1 1 1 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 1 0
+0.539149352113 0.0824928224913 0.133248874552 0.0 0.0 0.0331858454939 0.318001087846 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.205182908185 0.279488982435 0.471364781954 0.0 0.510659060705 0.0 0.0 0.0 0.0 0.0 0.0 0.462060734999 0.27620382788 0.491327181607 0.0 0.0 0.0 0.0 0.0 0.0 0.0651320227664 0.0

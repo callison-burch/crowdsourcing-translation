@@ -1,0 +1,88 @@
+urd-wl-79-174263-11377995-post1__1
+a strange thing happened yesterday afternoon there occurred surprising event something noon incident took place an odd at
+A strange thing happened yesterday afternoon.
+a strange thing happened yesterday afternoon
+1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.238267033091 1.18635681157 0.876373932506 0.881440178703 0.963519592886 1.22195249495 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+There occurred a surprising event yesterday afternoon.
+there occurred a surprising event yesterday afternoon
+1 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+0.204228885506 0.0 0.0 0.0 0.825873936759 1.04738785282 0.411766217238 0.982818549426 1.01687726706 0.923459200289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Something strange happened yesterday afternoon.
+something strange happened yesterday afternoon
+0 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 1.42362817389 0.0 1.05772821444 1.15622351146 1.46634299395 0.0 0.0 0.0 0.0 1.1211105566 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+A strange thing happened yesterday noon.
+a strange thing happened yesterday noon
+1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.238267033091 1.18635681157 0.876373932506 0.881440178703 0.963519592886 0.0 0.0 0.0 0.0 0.0 0.0 1.31522179294 0.0 0.0 0.0 0.0 0.0 0.0
+a21xirv18up71h
+Yesterday a strange incident took place.
+yesterday a strange incident took place
+1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.238267033091 1.18635681157 0.0 0.0 0.963519592886 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.781543675185 0.823752567316 0.756904445065 0.0 0.0 0.0
+a3dd3acpmvdvca
+Yesterday afternoon something surprising happened.
+yesterday afternoon something surprising happened
+0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 1.05772821444 1.15622351146 1.46634299395 0.0 0.0 1.42362817389 0.0 1.1211105566 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qlm59qc9g1uf
+An odd incident took place yesterday noon.
+an odd incident took place yesterday noon
+0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0
+0.0 0.0 0.0 0.0 0.825873936759 0.0 0.0 0.0 0.0 0.0 0.0 1.12733296538 0.66989457873 0.706073629128 0.648775238627 0.419106383522 1.25239992786 0.0
+a8v7wa74iohz9
+Yesterday noon strange thing happened.
+yesterday noon strange thing happened
+0 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 1.42362817389 1.05164871901 1.05772821444 1.15622351146 0.0 0.0 0.0 0.0 0.0 0.0 1.57826615153 0.0 0.0 0.0 0.0 0.0 0.0
+a301gnfg8w711q
+Yesterday, a strange incident took place.
+yesterday a strange incident took place
+1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.238267033091 1.18635681157 0.0 0.0 0.963519592886 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.781543675185 0.823752567316 0.756904445065 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Yesterday a strange incident took place.
+yesterday a strange incident took place
+1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.238267033091 1.18635681157 0.0 0.0 0.963519592886 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.781543675185 0.823752567316 0.756904445065 0.0 0.0 0.0
+a1yyp7540py83g
+Yesterday a strange incident took place.
+yesterday a strange incident took place
+1 1 0 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.238267033091 1.18635681157 0.0 0.0 0.963519592886 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.781543675185 0.823752567316 0.756904445065 0.0 0.0 0.0
+a2zhr3rebfem5a
+Yesterday afternoon something surprising happened.
+yesterday afternoon something surprising happened
+0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 1.05772821444 1.15622351146 1.46634299395 0.0 0.0 1.42362817389 0.0 1.1211105566 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3a4p6bwfe7hfn
+Yesterday afternoon, something surprising happened.
+yesterday afternoon something surprising happened
+0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 1.05772821444 1.15622351146 1.46634299395 0.0 0.0 1.42362817389 0.0 1.1211105566 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aclg2ttpdpj36
+Yesterday afternoon something surprising happened.
+yesterday afternoon something surprising happened
+0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 1.05772821444 1.15622351146 1.46634299395 0.0 0.0 1.42362817389 0.0 1.1211105566 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31ikb373dzonk
+An odd incident took place yesterday at noon.
+an odd incident took place yesterday at noon
+0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1
+0.0 0.0 0.0 0.0 0.722639694664 0.0 0.0 0.0 0.0 0.0 0.0 0.986416344708 0.586157756389 0.617814425487 0.567678333798 0.366718085582 1.09584993688 0.387201058141
+a1g9f1kosfkijh
+An odd incident took place yesterday at noon.
+an odd incident took place yesterday at noon
+0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1
+0.0 0.0 0.0 0.0 0.722639694664 0.0 0.0 0.0 0.0 0.0 0.0 0.986416344708 0.586157756389 0.617814425487 0.567678333798 0.366718085582 1.09584993688 0.387201058141
+a28p76cwxeubye
+An odd incident took place yesterday, at noon.
+an odd incident took place yesterday at noon
+0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1
+0.0 0.0 0.0 0.0 0.722639694664 0.0 0.0 0.0 0.0 0.0 0.0 0.986416344708 0.586157756389 0.617814425487 0.567678333798 0.366718085582 1.09584993688 0.387201058141
+amd40d0gc1l4r
+Yesterday at noon a strange thing happened.
+yesterday at noon a strange thing happened
+1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 1
+0.204228885506 1.01687726706 0.751177656433 0.755520153174 0.825873936759 0.0 0.0 0.0 0.0 0.0 0.0 1.12733296538 0.0 0.0 0.0 0.0 0.0 0.442515495018

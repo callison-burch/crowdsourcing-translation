@@ -1,0 +1,88 @@
+urd-ng-102-174502-11516125-post27__4
+some things are highlighted and certain news items given less significance which is to be importance made important what has marginalized such as should not thing piece of prominent considered insignificant pointed out highlight in the expressed tone establishes whish it sometimes difficult decide
+Some things are highlighted and certain news items are given less significance,
+some things are highlighted and certain news items are given less significance
+1 1 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.328876494118 0.454688040135 0.352624091813 0.657610896472 0.0833864055507 0.530742018518 0.34985777445 0.773135426565 0.363340020646 0.449385898812 0.681584402509 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Which news is to be given importance and which news is to be made less important.
+which news is to be given importance and which news is to be made less important
+0 0 0 0 1 0 2 0 1 1 0 2 2 2 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.062539804163 0.0 0.524786661675 0.0 0.272505015484 0.337039424109 0.0 0.375672155114 0.165802245289 0.134050836548 0.270424727847 0.3770269991 0.246055439772 0.29286737207 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+What has to be highlighted and what has to be marginalized.
+what has to be highlighted and what has to be marginalized
+0 0 0 1 1 0 0 0 0 0 0 0 0 2 2 0 0 0 2 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.717393705242 0.0909669878735 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.194983034979 0.393345058686 0.0 0.0 0.0 0.560709132959 0.372368711946 0.880280929717 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Such as, what news should be highlighted and what should not.
+such as what news should be highlighted and what should not
+0 0 0 1 1 0 1 0 0 0 0 0 0 0 1 0 0 0 2 0 0 1 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.717393705242 0.0909669878735 0.0 0.381663026673 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.196672529343 0.0 0.0 0.0 0.560709132959 0.0 0.0 0.361603861174 0.240751078668 0.547349921862 0.194769881658 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Which thing should be highlighted and which piece of news should be given less importance.
+which thing should be highlighted and which piece of news should be given less importance
+0 0 0 1 1 0 1 0 1 1 0 2 0 0 2 1 0 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.526088717177 0.0667091244405 0.0 0.27988621956 0.0 0.290672016517 0.359508719049 0.0 0.400716965455 0.0 0.0 0.288453043036 0.402162132373 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.401389942699 0.0 0.350549573002 0.545267522008 0.0564477530642 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2xknsbfsj3hso
+Which news to be made prominent and which news to be considered as insignificant.
+which news to be made prominent and which news to be considered as insignificant
+0 0 0 0 1 0 2 0 0 0 0 2 0 2 2 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0714740619006 0.0 0.599756184771 0.0 0.0 0.0 0.0 0.429339605845 0.0 0.153200956055 0.309056831825 0.0 0.281206216882 0.0 0.0 0.0 0.0 0.0 0.18916156181 0.0 0.0 0.0 0.0 0.0 0.584215202151 0.406721870023 0.62619996393 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+what should be pointed out and what news should be given less importance.
+what should be pointed out and what news should be given less importance
+0 0 0 0 1 0 1 0 1 1 0 0 0 0 2 1 0 0 2 0 0 0 0 2 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0769720666622 0.0 0.322945637954 0.0 0.335390788289 0.414817752749 0.0 0.0 0.0 0.0 0.332830434273 0.464033229661 0.0 0.0 0.474446189427 0.0 0.0 0.0 0.0 0.463142241575 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.660344456786 0.308048120017 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+What to highlight and which news is given less importance.
+what to highlight and which news is given less importance
+0 0 0 0 1 0 1 0 1 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.100063686661 0.0 0.41982932934 0.0 0.436008024775 0.539263078574 0.0 0.300537724091 0.132641796231 0.107240669239 0.0 0.60324319856 0.0 0.0 0.308390023128 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876679949502 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Which thing should be highlighted and which piece of news should be given less importance?
+which thing should be highlighted and which piece of news should be given less importance
+0 0 0 1 1 0 1 0 1 1 0 2 0 0 2 1 0 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.526088717177 0.0667091244405 0.0 0.27988621956 0.0 0.290672016517 0.359508719049 0.0 0.400716965455 0.0 0.0 0.288453043036 0.402162132373 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.401389942699 0.0 0.350549573002 0.545267522008 0.0564477530642 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3c1u2evw0nuff
+In the news what should be highlighted and what should be given less importance.
+in the news what should be highlighted and what should be given less importance
+0 0 0 1 1 0 1 0 1 1 0 0 0 0 2 1 0 0 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.56366648269 0.0714740619006 0.0 0.299878092386 0.0 0.311434303411 0.385187913267 0.0 0.0 0.0 0.0 0.309056831825 0.430887998971 0.0 0.0 0.440557175897 0.0 0.0 0.0 0.0 0.430060652891 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0729174831268 0.0308154279586 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+Which thing should be highlighted, and which piece of news should be expressed as less important?
+which thing should be highlighted and which piece of news should be expressed as less important
+0 0 0 1 1 0 1 0 0 1 0 2 0 0 2 0 0 1 0 0 0 0 1 2 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.493208172354 0.062539804163 0.0 0.262393330837 0.0 0.0 0.337039424109 0.0 0.375672155114 0.0 0.0 0.270424727847 0.0 0.0 0.29286737207 0.0 0.0 0.0 0.0 0.165516366584 0.37630307128 0.0 0.32864022469 0.511188301882 0.0529197684977 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.330155450415 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+Which news to be made prominent, and which news to be considered as insignificant.
+which news to be made prominent and which news to be considered as insignificant
+0 0 0 0 1 0 2 0 0 0 0 2 0 2 2 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0714740619006 0.0 0.599756184771 0.0 0.0 0.0 0.0 0.429339605845 0.0 0.153200956055 0.309056831825 0.0 0.281206216882 0.0 0.0 0.0 0.0 0.0 0.18916156181 0.0 0.0 0.0 0.0 0.0 0.584215202151 0.406721870023 0.62619996393 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Which news to be made prominent and which news to be considered as insignificant.
+which news to be made prominent and which news to be considered as insignificant
+0 0 0 0 1 0 2 0 0 0 0 2 0 2 2 0 1 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0714740619006 0.0 0.599756184771 0.0 0.0 0.0 0.0 0.429339605845 0.0 0.153200956055 0.309056831825 0.0 0.281206216882 0.0 0.0 0.0 0.0 0.0 0.18916156181 0.0 0.0 0.0 0.0 0.0 0.584215202151 0.406721870023 0.62619996393 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143awku99stc9
+The tone establishes whish news is important and what is insignificant.
+the tone establishes whish news is important and what is insignificant
+0 0 0 0 1 0 1 0 0 0 0 0 2 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0909669878735 0.0 0.381663026673 0.0 0.0 0.0 0.0 0.0 0.241166902238 0.0 0.0 0.0 0.0 0.42598890483 0.28035456648 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.796981772274 0.0 0.0 0.0 0.0 0.0392196355837 0.0 0.69710792785 0.943294309768 0.943294309768 0.0 0.0 0.0 0.0
+ayeowkx2r19vz
+It is sometimes difficult to decide what should be highlighted and what news should be given less importance.
+it is sometimes difficult to decide what should be highlighted and what news should be given less importance
+0 0 0 1 1 0 1 0 1 1 0 0 1 1 2 1 0 0 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1
+0.0 0.0 0.0 0.438407264315 0.0555909370338 0.0 0.2332385163 0.0 0.242226680431 0.299590599208 0.0 0.0 0.0736898867949 0.059578149577 0.240377535864 0.335135110311 0.0 0.0 0.342655581253 0.0 0.0 0.0 0.0 0.334491618916 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.113271602386 0.310485870259 0.320062049478 0.387502223655
+a1395pss402i1j
+What should be pointed out and what news should be given less importance.
+what should be pointed out and what news should be given less importance
+0 0 0 0 1 0 1 0 1 1 0 0 0 0 2 1 0 0 2 0 0 0 0 2 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0769720666622 0.0 0.322945637954 0.0 0.335390788289 0.414817752749 0.0 0.0 0.0 0.0 0.332830434273 0.464033229661 0.0 0.0 0.474446189427 0.0 0.0 0.0 0.0 0.463142241575 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.660344456786 0.308048120017 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+What should be pointed out and what news should be given less importance.
+what should be pointed out and what news should be given less importance
+0 0 0 0 1 0 1 0 1 1 0 0 0 0 2 1 0 0 2 0 0 0 0 2 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0769720666622 0.0 0.322945637954 0.0 0.335390788289 0.414817752749 0.0 0.0 0.0 0.0 0.332830434273 0.464033229661 0.0 0.0 0.474446189427 0.0 0.0 0.0 0.0 0.463142241575 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.660344456786 0.308048120017 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ao86wz7i0vqzc
+What to highlight and which news is given less importance.
+what to highlight and which news is given less importance
+0 0 0 0 1 0 1 0 1 1 0 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.100063686661 0.0 0.41982932934 0.0 0.436008024775 0.539263078574 0.0 0.300537724091 0.132641796231 0.107240669239 0.0 0.60324319856 0.0 0.0 0.308390023128 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876679949502 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0

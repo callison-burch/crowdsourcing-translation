@@ -1,0 +1,88 @@
+bbc_urd_20090102.0020__13
+meanwhile students of the international university in islamabad held a protest demonstration against israeli attacks on palestine here also staged rally assault there protested israel demonstrated made strike islaean falastin other hand went at province had palastine participated
+Meanwhile, students of the International University in Islamabad held a protest demonstration against Israeli attacks on Palestine.
+meanwhile students of the international university in islamabad held a protest demonstration against israeli attacks on palestine
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.331253251711 0.35114812707 0.049806840939 0.02537741126 0.269422332746 0.367594295436 0.0600496919867 0.332808149186 0.302970043161 0.0840942469732 0.33830968201 0.495901603435 0.18814441125 0.231113620289 0.189232088391 0.109911098521 0.28628523946 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Here, in Islamabad, the students of International University also staged a protest rally against the Israeli attacks on Palestine.
+here in islamabad the students of international university also staged a protest rally against the israeli attacks on palestine
+0 1 1 2 1 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.314185166326 0.044564015577 0.0454122096232 0.241062087194 0.328900159074 0.0537286717776 0.297775712429 0.0 0.075242220976 0.302698136535 0.0 0.168339736382 0.206785870785 0.169312921192 0.0983415092032 0.256149951096 0.232516458654 0.147321867188 0.546117758287 0.407220004097 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Meanwhile, students of the International University in Islamabad held a protest against Israeli attacks on Palestine.
+meanwhile students of the international university in islamabad held a protest against israeli attacks on palestine
+1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.351956579943 0.373094885012 0.0529197684977 0.0269634994638 0.286261228543 0.3905689389 0.0638027977359 0.35360865851 0.321905670859 0.089350137409 0.359454037135 0.0 0.199903436953 0.245558221557 0.201059093916 0.116780542179 0.304178066926 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Meanwhile, the students of the International University in Islamabad held a protest rally against the Israeli assault on Palestine.
+meanwhile the students of the international university in islamabad held a protest rally against the israeli assault on palestine
+1 1 1 3 1 1 1 1 1 1 1 0 1 1 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.296384488373 0.314185166326 0.044564015577 0.0681183144349 0.241062087194 0.328900159074 0.0537286717776 0.297775712429 0.27107845967 0.075242220976 0.302698136535 0.0 0.168339736382 0.206785870785 0.0 0.0983415092032 0.256149951096 0.0 0.0 0.0 0.407220004097 0.443701434652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+There in Islamabad, students of International University, Islamabad protested against the Israel attacks on Palestine.
+there in islamabad students of international university islamabad protested against the israel attacks on palestine
+0 1 1 1 1 1 1 2 0 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.397967877346 0.0564477530642 0.0287610660947 0.305345310446 0.41660686816 0.068056317585 0.754365138154 0.0 0.0 0.0 0.0 0.21323033275 0.0 0.21446303351 0.124565911657 0.324456604721 0.0 0.0 0.0 0.0 0.0 0.192157568044 0.526088717177 0.221798837746 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+in Islamabad, students of the International University demonstrated protest against the Israeli attacks on Palestine.
+in islamabad students of the international university demonstrated protest against the israeli attacks on palestine
+0 1 1 2 1 1 1 1 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.397967877346 0.0564477530642 0.0575221321894 0.305345310446 0.41660686816 0.068056317585 0.377182569077 0.0 0.0 0.383417639611 0.0 0.21323033275 0.261928769661 0.21446303351 0.124565911657 0.324456604721 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.545267522008 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+Here the students of International University in Islamabad made strike against Islaean attacks against Falastin.
+here the students of international university in islamabad made strike against islaean attacks against falastin
+0 1 1 1 1 1 1 1 0 0 0 0 2 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.397967877346 0.0564477530642 0.0287610660947 0.305345310446 0.41660686816 0.068056317585 0.377182569077 0.0 0.0 0.0 0.0 0.426460665501 0.0 0.21446303351 0.0 0.0 0.294520847628 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.262459135757 0.37202979079 0.618508341252 0.462816680198 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+On the other hand, the International University students went on a protest at Islamabad against the Israeli attacks on Palestine.
+on the other hand the international university students went on a protest at islamabad against the israeli attacks on palestine
+0 1 0 3 1 1 0 1 0 1 1 0 1 1 1 3 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0
+0.0 0.298475908009 0.0 0.0647123987131 0.229008982834 0.31245515112 0.0 0.282886926808 0.0 0.0714801099272 0.287563229708 0.0 0.159922749563 0.196446577245 0.160847275133 0.280273301229 0.243342453541 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.167534954641 0.224091728659 0.280277639149 0.154880423256 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+There in Islamabad, students of International University, Islamabad protested against the Israel attacks on Palestine.
+there in islamabad students of international university islamabad protested against the israel attacks on palestine
+0 1 1 1 1 1 1 2 0 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.397967877346 0.0564477530642 0.0287610660947 0.305345310446 0.41660686816 0.068056317585 0.754365138154 0.0 0.0 0.0 0.0 0.21323033275 0.0 0.21446303351 0.124565911657 0.324456604721 0.0 0.0 0.0 0.0 0.0 0.192157568044 0.526088717177 0.221798837746 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajh0yow6plss8
+Students of the International University, Islamabad protested against the Israel attacks on Palestine.
+students of the international university islamabad protested against the israel attacks on palestine
+0 1 1 2 1 1 0 1 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.45919370463 0.0651320227664 0.0663716909878 0.352321512053 0.480700232493 0.0 0.435210656627 0.0 0.0 0.0 0.0 0.246034999327 0.0 0.247457346358 0.143729898066 0.374373005448 0.0 0.0 0.0 0.0 0.0 0.0 0.607025442897 0.255921735861 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+at8qsogdc42wo
+In the province of Islamabad, students of the International University, protested against the Israeli attacks on Palestine.
+in the province of islamabad students of the international university protested against the israeli attacks on palestine
+0 1 2 3 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0 0.35114812707 0.0996136818779 0.0761322337801 0.269422332746 0.367594295436 0.0600496919867 0.332808149186 0.0 0.0 0.0 0.0 0.18814441125 0.231113620289 0.189232088391 0.109911098521 0.28628523946 0.0 0.0 0.0 0.0 0.0 0.0 0.464195926921 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.308608158384 0.0 0.0 0.0
+a2sb2bw2w4t4ww
+In Islamabad, students at the International University demonstrated in protest against the Israeli attacks on Palestine.
+in islamabad students at the international university demonstrated in protest against the israeli attacks on palestine
+0 1 0 2 1 1 2 1 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0
+0.0 0.373094885012 0.0 0.0539269989276 0.286261228543 0.3905689389 0.127605595472 0.35360865851 0.0 0.0 0.359454037135 0.0 0.199903436953 0.245558221557 0.201059093916 0.116780542179 0.304178066926 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.511188301882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.193600529071 0.0 0.0 0.0 0.0
+a2rcbwy8ulhnj0
+In Islamabad, students of the International University protested against the Israeli attacks on Palestine.
+in islamabad students of the international university protested against the israeli attacks on palestine
+0 1 1 2 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.426394154299 0.0604797354259 0.0616308559173 0.327155689763 0.4463645016 0.0729174831268 0.404124181154 0.0 0.0 0.0 0.0 0.228461070804 0.280637967493 0.229781821618 0.133463476776 0.347632076487 0.0 0.0 0.0 0.0 0.0 0.0 0.56366648269 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a279zamy03pduy
+In Islamabad, students of the International University demonstrated against the Israeli attacks on Palestine.
+in islamabad students of the international university demonstrated against the israeli attacks on palestine
+0 1 1 2 1 1 1 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.426394154299 0.0604797354259 0.0616308559173 0.327155689763 0.4463645016 0.0729174831268 0.404124181154 0.0 0.0 0.0 0.0 0.228461070804 0.280637967493 0.229781821618 0.133463476776 0.347632076487 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.584215202151 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a38xqb9846w49n
+Here the students of International University in Islamabad held a strike against Islaean attacks on Falastin.
+here the students of international university in islamabad held a strike against islaean attacks on falastin
+0 1 1 1 1 1 1 1 1 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.373094885012 0.0529197684977 0.0269634994638 0.286261228543 0.3905689389 0.0638027977359 0.35360865851 0.321905670859 0.089350137409 0.0 0.0 0.199903436953 0.0 0.201059093916 0.116780542179 0.0 0.276113294651 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.348777928866 0.579851569924 0.433890637685 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Here the students of International University in Islamabad made strike against Islaean attacks against Falastin.
+here the students of international university in islamabad made strike against islaean attacks against falastin
+0 1 1 1 1 1 1 1 0 0 0 0 2 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.397967877346 0.0564477530642 0.0287610660947 0.305345310446 0.41660686816 0.068056317585 0.377182569077 0.0 0.0 0.0 0.0 0.426460665501 0.0 0.21446303351 0.0 0.0 0.294520847628 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.262459135757 0.37202979079 0.618508341252 0.462816680198 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a19b522xqflysa
+Here the students of the International University in Islamabad had a strike against Israeli attacks against Palastine.
+here the students of the international university in islamabad had a strike against israeli attacks against palastine
+0 1 1 2 1 1 1 1 0 1 0 0 2 1 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0
+0.0 0.35114812707 0.049806840939 0.0507548225201 0.269422332746 0.367594295436 0.0600496919867 0.332808149186 0.0 0.0840942469732 0.0 0.0 0.376288822501 0.231113620289 0.189232088391 0.0 0.0 0.259871336142 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.328261580109 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.201551820732 0.545742654046 0.0
+a3f5rr1245milw
+On the other hand, the International University students participated in a protest at Islamabad against the Israeli attacks on Palestine.
+on the other hand the international university students participated in a protest at islamabad against the israeli attacks on palestine
+0 1 0 3 1 1 1 1 0 1 1 0 1 1 1 2 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 1
+0.0 0.298475908009 0.0 0.0647123987131 0.229008982834 0.31245515112 0.0510422381887 0.282886926808 0.0 0.0714801099272 0.287563229708 0.0 0.159922749563 0.196446577245 0.160847275133 0.186848867486 0.243342453541 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.167534954641 0.224091728659 0.0 0.154880423256 0.0 0.0 0.0 0.347112510148

@@ -1,0 +1,88 @@
+voa_urd_20090109.0007__4
+foreign minister shah mehmood qureshi and high officials of the american embassy welcomed him mahmood top us received them higher consulate welcome qureishi ambassadors ups ranked external affairs
+Foreign Minister Shah Mehmood Qureshi and high officials of the American Embassy welcomed him.
+foreign minister shah mehmood qureshi and high officials of the american embassy welcomed him
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.493607250332 0.552655719845 0.0714740619006 0.369838598299 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.415134943999 0.466149271839 0.266696471863 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Foreign Minister Shah Mehmood Qureshi and high officials of the American embassy welcomed him.
+foreign minister shah mehmood qureshi and high officials of the american embassy welcomed him
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.493607250332 0.552655719845 0.0714740619006 0.369838598299 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.415134943999 0.466149271839 0.266696471863 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Foreign Minister Shah Mahmood Qureshi and top officials of the American Embassy welcomed him.
+foreign minister shah mahmood qureshi and top officials of the american embassy welcomed him
+1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.0 0.552655719845 0.0714740619006 0.0 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.415134943999 0.466149271839 0.266696471863 0.453634694051 0.469255351263 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Foreign Minister Shah Mehmood Qureshi and officials of the US Embassy received him.
+foreign minister shah mehmood qureshi and officials of the us embassy received him
+1 1 1 1 1 1 0 1 1 1 0 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.348224048269 0.27620382788 0.462060734999 0.531577038819 0.595167698295 0.0769720666622 0.0 0.34603858659 0.0651320227664 0.0331858454939 0.0 0.447068401229 0.0 0.287211585083 0.0 0.0 0.282259620834 0.418597190332 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+Foreign minister Shah Mehmood Qureshi and American Embassy officials welcomed them.
+foreign minister shah mehmood qureshi and american embassy officials welcomed them
+1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.411537511591 0.326422705677 0.546071777726 0.628227409514 0.703380007076 0.0909669878735 0.0 0.408954693243 0.0 0.0 0.28610213906 0.528353565089 0.593280891431 0.0 0.0 0.0 0.0 0.0 0.313249331045 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+Foreign Minister Shah Mehmood Qureshi and higher officials of the American consulate welcome them.
+foreign minister shah mehmood qureshi and higher officials of the american consulate welcome them
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.493607250332 0.552655719845 0.0714740619006 0.0 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.246124474393 0.4463645016 0.523693926409 0.483237106772 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The foreign minister, Shah Mahmood Qureishi and the high ambassadors of the American Embassy received him.
+the foreign minister shah mahmood qureishi and the high ambassadors of the american embassy received him
+1 1 1 0 0 1 1 0 1 3 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 0 0 0
+0.282932039219 0.224415610153 0.375424347186 0.0 0.0 0.062539804163 0.323608773512 0.0 0.0529197684977 0.0808904983914 0.196695220604 0.363243075999 0.0 0.23335941288 0.396930357295 0.0 0.0 0.340110217145 0.0 0.0 0.0 0.0 0.561871440396 0.458232185608 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Foreign Minister Shah Mehmood Qureshi and high ups of American Embassy received them.
+foreign minister shah mehmood qureshi and high ups of american embassy received them
+1 1 1 1 1 1 1 0 1 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0
+0.348224048269 0.27620382788 0.462060734999 0.531577038819 0.595167698295 0.0769720666622 0.398287721245 0.0 0.0651320227664 0.0 0.242086425358 0.447068401229 0.0 0.0 0.0 0.0 0.0 0.418597190332 0.265057126269 0.0 0.0 0.0 0.0 0.0 0.607025442897 0.0 0.0 0.0
+aw4q48bn2x4nt
+Foreign minister Shah Mehmood Qureshi and American Embassy officials welcomed them.
+foreign minister shah mehmood qureshi and american embassy officials welcomed them
+1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.411537511591 0.326422705677 0.546071777726 0.628227409514 0.703380007076 0.0909669878735 0.0 0.408954693243 0.0 0.0 0.28610213906 0.528353565089 0.593280891431 0.0 0.0 0.0 0.0 0.0 0.313249331045 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qxd8jqk5bvez
+Foreign minister Shah Mehmood Qureshi and American Embassy officials welcomed them.
+foreign minister shah mehmood qureshi and american embassy officials welcomed them
+1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.411537511591 0.326422705677 0.546071777726 0.628227409514 0.703380007076 0.0909669878735 0.0 0.408954693243 0.0 0.0 0.28610213906 0.528353565089 0.593280891431 0.0 0.0 0.0 0.0 0.0 0.313249331045 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a174ngc3rag9z7
+Foreign minister Shah Mehmood Qureshi and American Embassy officials welcomed them.
+foreign minister shah mehmood qureshi and american embassy officials welcomed them
+1 1 1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.411537511591 0.326422705677 0.546071777726 0.628227409514 0.703380007076 0.0909669878735 0.0 0.408954693243 0.0 0.0 0.28610213906 0.528353565089 0.593280891431 0.0 0.0 0.0 0.0 0.0 0.313249331045 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+Foreign Minister Shah Mehmood Qureshi and higher officials of the American consulate welcome them.
+foreign minister shah mehmood qureshi and higher officials of the american consulate welcome them
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.493607250332 0.552655719845 0.0714740619006 0.0 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.246124474393 0.4463645016 0.523693926409 0.483237106772 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Foreign Minister Shah Mehmood Qureshi, and higher officials of the American consulate, welcome them.
+foreign minister shah mehmood qureshi and higher officials of the american consulate welcome them
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.493607250332 0.552655719845 0.0714740619006 0.0 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.246124474393 0.4463645016 0.523693926409 0.483237106772 0.0 0.0 0.0 0.0 0.0 0.0
+a3m6cl5oao31z
+Foreign Minister Shah Mehmood Qureshi and higher officials of the American consulate welcomed them.
+foreign minister shah mehmood qureshi and higher officials of the american consulate welcomed them
+1 1 1 1 1 1 0 1 1 1 1 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.323350901965 0.256474983032 0.429056396784 0.493607250332 0.552655719845 0.0714740619006 0.0 0.321321544691 0.0604797354259 0.0308154279586 0.224794537833 0.0 0.466149271839 0.0 0.0 0.0 0.0 0.0 0.246124474393 0.4463645016 0.523693926409 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+The foreign minister, Shah Mahmood Qureishi and the high ambassadors of the American Embassy received him.
+the foreign minister shah mahmood qureishi and the high ambassadors of the american embassy received him
+1 1 1 0 0 1 1 0 1 3 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 0 0 0
+0.282932039219 0.224415610153 0.375424347186 0.0 0.0 0.062539804163 0.323608773512 0.0 0.0529197684977 0.0808904983914 0.196695220604 0.363243075999 0.0 0.23335941288 0.396930357295 0.0 0.0 0.340110217145 0.0 0.0 0.0 0.0 0.561871440396 0.458232185608 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+The foreign minister, Shah Mahmood Qureishi and the high ranked ambassadors of the American Embassy received him.
+the foreign minister shah mahmood qureishi and the high ranked ambassadors of the american embassy received him
+1 1 1 0 0 1 1 0 1 3 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 1 0 0
+0.266288978088 0.211214691908 0.353340562058 0.0 0.0 0.0588609921534 0.304572963305 0.0 0.049806840939 0.0761322337801 0.185124913509 0.341875836234 0.0 0.219632388593 0.373581512748 0.0 0.0 0.320103733783 0.0 0.0 0.0 0.0 0.528820179196 0.43127735116 0.0 0.504969290484 0.0 0.0
+awixls3wmymbf
+The foreign minister, Shah Mahmood Qureishi and the high ambassadors of the American Embassy received him.
+the foreign minister shah mahmood qureishi and the high ambassadors of the american embassy received him
+1 1 1 0 0 1 1 0 1 3 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 0 0 0
+0.282932039219 0.224415610153 0.375424347186 0.0 0.0 0.062539804163 0.323608773512 0.0 0.0529197684977 0.0808904983914 0.196695220604 0.363243075999 0.0 0.23335941288 0.396930357295 0.0 0.0 0.340110217145 0.0 0.0 0.0 0.0 0.561871440396 0.458232185608 0.0 0.0 0.0 0.0
+a1rhjj60p0jwi3
+External Affairs Minister, Shah Mahmood Qureshi, and the American embassy officials welcomed him.
+external affairs minister shah mahmood qureshi and the american embassy officials welcomed him
+0 1 1 0 1 1 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1
+0.0 0.27620382788 0.462060734999 0.0 0.595167698295 0.0769720666622 0.0 0.34603858659 0.0 0.0331858454939 0.242086425358 0.447068401229 0.502006908134 0.287211585083 0.488529670517 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.514412150257 0.409721646169

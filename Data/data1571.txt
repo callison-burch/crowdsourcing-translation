@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370238-post1__4
+the results of series prove that there is a lack consistency in performance national cricket team outcome proves no shows lacks result this inconsistency our teams from it becomes evident not consistent has its show with
+The results of the series prove that there is a lack of consistency in the performance of the national cricket team.
+the results of the series prove that there is a lack of consistency in the performance of the national cricket team
+4 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0821744745563 0.276263163283 0.120959470852 0.254251657383 0.29317760487 0.0580417123936 0.137255405746 0.0631627601099 0.0680762951688 0.323462784238 0.395085517418 0.0486116554178 0.312836900842 0.211241245463 0.254561880288 0.218980242106 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The outcome of the series proves that there is no consistency in the performance of the national team.
+the outcome of the series proves that there is no consistency in the performance of the national team
+4 0 2 1 0 1 1 1 0 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0958702203157 0.0 0.0940795884403 0.296626933613 0.0 0.0677153311258 0.160131306704 0.0736898867949 0.0 0.0 0.460933103654 0.0567135979875 0.364976384316 0.246448119707 0.0 0.255476949124 0.433960447222 0.364976384316 0.186298295632 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The outcome of the series shows that the performance of the national cricket team lacks consistency.
+the outcome of the series shows that the performance of the national cricket team lacks consistency
+4 0 2 1 0 1 0 0 0 0 1 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.107853997855 0.0 0.105839536995 0.333705300315 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.518549741611 0.0 0.410598432355 0.277254134671 0.334112467879 0.287411567764 0.488205503124 0.0 0.0 0.373094885012 0.511188301882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The result of this series shows that there is no consistency in the performance of the national team.
+the result of this series shows that there is no consistency in the performance of the national team
+3 0 2 1 0 1 1 1 0 0 1 1 1 1 0 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.0 0.0940795884403 0.296626933613 0.0 0.0677153311258 0.160131306704 0.0736898867949 0.0 0.0 0.460933103654 0.0567135979875 0.364976384316 0.246448119707 0.0 0.255476949124 0.0 0.0 0.186298295632 0.331639897788 0.0 0.280464513259 0.0962352982872 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+The result of the series shows the inconsistency of our cricket team's performance
+the result of the series shows the inconsistency of our cricket teams performance
+3 0 2 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0995575364817 0.0 0.130264045533 0.410714215772 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.505351916745 0.0 0.411215345081 0.0 0.0 0.0 0.0 0.45919370463 0.0 0.388335479897 0.0 0.691534080487 0.25989549419 0.534019246382 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+From the results of the series, it becomes evident that the performance of the national cricket team is not consistent.
+from the results of the series it becomes evident that the performance of the national cricket team is not consistent
+4 1 2 1 0 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0
+0.0862831982842 0.290076321447 0.0846716295963 0.266964240252 0.0 0.0609437980132 0.0 0.0663208981154 0.0 0.0 0.0 0.0 0.328478745884 0.221803307736 0.267289974303 0.229929254211 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.118727371468 0.101944442148 0.313268177164 0.330751864588 0.107123434912 0.438339974751 0.0 0.0 0.0 0.0
+a143bvgouf83je
+the result of the series proves that the National team has no consistency in its performance.
+the result of the series proves that the national team has no consistency in its performance
+3 0 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.0808904983914 0.0 0.0529197684977 0.333705300315 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.518549741611 0.0638027977359 0.410598432355 0.277254134671 0.0 0.287411567764 0.0 0.410598432355 0.209585582585 0.0 0.0 0.315522577416 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.128001744731 0.208153801911 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+The result of the series shows the inconsistency of our cricket team's performance
+the result of the series shows the inconsistency of our cricket teams performance
+3 0 2 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0995575364817 0.0 0.130264045533 0.410714215772 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.505351916745 0.0 0.411215345081 0.0 0.0 0.0 0.0 0.45919370463 0.0 0.388335479897 0.0 0.691534080487 0.25989549419 0.534019246382 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The result of the series shows the inconsistency of our cricket team's performance.
+the result of the series shows the inconsistency of our cricket teams performance
+3 0 2 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.0995575364817 0.0 0.130264045533 0.410714215772 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.505351916745 0.0 0.411215345081 0.0 0.0 0.0 0.0 0.45919370463 0.0 0.388335479897 0.0 0.691534080487 0.25989549419 0.534019246382 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ay9joh7iihjwe
+The results of the series show the inconsistency of our cricket team's performance.
+the results of the series show the inconsistency of our cricket teams performance
+3 1 2 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0
+0.0995575364817 0.446271263765 0.130264045533 0.410714215772 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.505351916745 0.0 0.411215345081 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.691534080487 0.25989549419 0.534019246382 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.378861457991 0.0
+a1g46au4nrpshg
+From the results of the series, it becomes evident that the performance of the national cricket team is not consistent.
+from the results of the series it becomes evident that the performance of the national cricket team is not consistent
+4 1 2 1 0 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0
+0.0862831982842 0.290076321447 0.0846716295963 0.266964240252 0.0 0.0609437980132 0.0 0.0663208981154 0.0 0.0 0.0 0.0 0.328478745884 0.221803307736 0.267289974303 0.229929254211 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.118727371468 0.101944442148 0.313268177164 0.330751864588 0.107123434912 0.438339974751 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+From the results of the series, it becomes evident that the performance of the national cricket team is not consistent.
+from the results of the series it becomes evident that the performance of the national cricket team is not consistent
+4 1 2 1 0 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0
+0.0862831982842 0.290076321447 0.0846716295963 0.266964240252 0.0 0.0609437980132 0.0 0.0663208981154 0.0 0.0 0.0 0.0 0.328478745884 0.221803307736 0.267289974303 0.229929254211 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.118727371468 0.101944442148 0.313268177164 0.330751864588 0.107123434912 0.438339974751 0.0 0.0 0.0 0.0
+a2eldzaxlm8quo
+From the results of the series, it's evident that the national cricket team's performance is not consistent.
+from the results of the series its evident that the national cricket teams performance is not consistent
+3 1 1 1 0 1 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 0
+0.0761322337801 0.341266260526 0.049806840939 0.314075576767 0.0 0.0716985858979 0.0 0.0780245860182 0.0 0.0 0.0 0.0 0.386445583393 0.260945067925 0.314458793297 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.408367658998 0.13967926055 0.0 0.0 0.389119840692 0.126027570484 0.515694087942 0.0 0.195909460622 0.0 0.0
+a1yacxzap25ksb
+The result of the series proves that the National team has no consistency in its performance.
+the result of the series proves that the national team has no consistency in its performance
+3 0 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.0808904983914 0.0 0.0529197684977 0.333705300315 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.518549741611 0.0638027977359 0.410598432355 0.277254134671 0.0 0.287411567764 0.0 0.410598432355 0.209585582585 0.0 0.0 0.315522577416 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.128001744731 0.208153801911 0.0 0.0
+au2ar4vob7vlv
+The result of the series proves that the national team has no consistency in its performance.
+the result of the series proves that the national team has no consistency in its performance
+3 0 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.0808904983914 0.0 0.0529197684977 0.333705300315 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.518549741611 0.0638027977359 0.410598432355 0.277254134671 0.0 0.287411567764 0.0 0.410598432355 0.209585582585 0.0 0.0 0.315522577416 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.128001744731 0.208153801911 0.0 0.0
+a6tw9zegog7ph
+The result of the series proves that the National team has no consistency in its performance.
+the result of the series proves that the national team has no consistency in its performance
+3 0 1 1 0 1 0 0 0 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.0808904983914 0.0 0.0529197684977 0.333705300315 0.0 0.0761797475165 0.0 0.0 0.0 0.0 0.518549741611 0.0638027977359 0.410598432355 0.277254134671 0.0 0.287411567764 0.0 0.410598432355 0.209585582585 0.0 0.0 0.315522577416 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.128001744731 0.208153801911 0.0 0.0
+arq4j4tltpbnc
+This proves that the result of the series is not consistent with the performance of the national cricket team .
+this proves that the result of the series is not consistent with the performance of the national cricket team 
+4 0 2 1 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1
+0.0908244192465 0.0 0.089128031154 0.281014989739 0.0 0.0641513663297 0.0 0.0698114717005 0.0 0.0 0.0 0.0 0.345767100931 0.233477166038 0.281357867687 0.242030793907 0.0 0.345767100931 0.0 0.0 0.0 0.265703223087 0.0911702825879 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.112761510433 0.461410499738 0.0 0.0 0.0 0.124206289945

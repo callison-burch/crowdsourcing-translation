@@ -1,0 +1,88 @@
+bbc_urd_20090126.0028__10
+maulana attaurrehman is a member of the national assembly and younger brother fazlurrehman ataur rahman fazlurrahman fazlur attaur moulana rahmans ataurrahman also fazalurrahmans molana ataurrehman fazalurrehman communal
+Maulana Atta-ur-Rehman is a member of the National Assembly and is the younger brother of Maulana Fazl-ur-Rehman.
+maulana attaurrehman is a member of the national assembly and is the younger brother of maulana fazlurrehman
+2 1 2 1 1 2 2 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.862554702321 0.569593542758 0.156049172036 0.0840942469732 0.327297238357 0.0996136818779 0.0507548225201 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.515694087942 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Maulana Ataur Rahman is a Member of the National Assembly and is the younger brother of Maulana Fazl-ur-Rahman.
+maulana ataur rahman is a member of the national assembly and is the younger brother of maulana fazlurrahman
+2 0 2 1 1 2 2 1 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.814634996636 0.0 0.14737977359 0.0794223443636 0.309114058449 0.0940795884403 0.0479351101579 0.246448119707 0.29347151148 0.0555909370338 0.372926431184 0.335135110311 0.0 0.438407264315 0.333710530832 0.443241229703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Maulana Ataur Rahman is a member of National Assembly and the younger brother of Maulana Fazlur Rahman.
+maulana ataur rahman is a member of national assembly and the younger brother of maulana fazlur rahman
+2 0 1 1 1 2 1 1 1 1 1 1 0 1 2 0 1 0 0 0 0 0 0 0 0 0 0
+0.862554702321 0.0 0.0780245860182 0.0840942469732 0.327297238357 0.0996136818779 0.02537741126 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.464195926921 0.706681124116 0.0 0.481118401771 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Maulana Attaur Rahman is a member of National Assembly and the younger brother of Maulana Fazlur Rahman.
+maulana attaur rahman is a member of national assembly and the younger brother of maulana fazlur rahman
+2 0 1 1 1 2 1 1 1 1 1 1 0 0 2 0 1 1 0 0 0 0 0 0 0 0 0
+0.862554702321 0.0 0.0780245860182 0.0840942469732 0.327297238357 0.0996136818779 0.02537741126 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.0 0.706681124116 0.0 0.481118401771 0.569593542758 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Moulana Ataur Rahman is a member of the National Assembly and is Moulana Fazlur Rahman's younger brother.
+moulana ataur rahman is a member of the national assembly and is moulana fazlur rahmans younger brother
+0 0 2 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 2 1 0 0 0 0 0 0 0
+0.0 0.0 0.156049172036 0.0840942469732 0.327297238357 0.049806840939 0.02537741126 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.464195926921 0.353340562058 0.0 0.481118401771 0.0 0.894546904142 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a4x4g5ttibjer
+Moulana Ata-ur-Rahman is a member of National Assembly and also Moulana Fazal-ur-Rahman's younger brother.
+moulana ataurrahman is a member of national assembly and also moulana fazalurrahmans younger brother
+0 0 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0
+0.0 0.0 0.0947441401649 0.102114442753 0.397432360863 0.0604797354259 0.0 0.316861868195 0.37732051476 0.0714740619006 0.479476840094 0.430887998971 0.0 0.0 0.0 0.0 0.0 0.0 1.08623552646 0.0 0.592628276126 0.199936819755 0.642138789024 0.0 0.0 0.0 0.0
+a2llfcd7di80k3
+Member of national Molana Ata-ur-Rehman is the younger brother of Molana Fazal-ur-Rehman
+member of national molana ataurrehman is the younger brother of molana fazalurrehman
+0 0 1 0 1 2 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0
+0.0 0.0 0.110534830192 0.0 0.463671087673 0.14111938266 0.0359513326184 0.369672179561 0.0 0.0 0.559389646777 0.502702665466 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.23008418898 0.691399655481 0.657610896472 0.0
+a2pwmdzucikw4c
+Maulana Ata-ur-Rahman is a member of communal Assembly and is also a younger brother of Fazlur-Rahman.
+maulana ataurrahman is a member of communal assembly and is also a younger brother of fazlurrahman
+1 0 2 2 1 2 0 0 1 1 1 1 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1
+0.458232185608 0.0 0.165802245289 0.178700274818 0.347753315755 0.105839536995 0.0 0.0 0.330155450415 0.062539804163 0.419542235083 0.3770269991 0.0 0.0 0.0 0.498646383416 0.0 0.0 0.0 0.0 0.518549741611 0.174944717286 0.0 0.0 0.0 0.0 0.561871440396
+a2rcbwy8ulhnj0
+Moulana Ataur Rahman is a member of the National Assembly and is Moulana Fazlur Rahman's younger brother.
+moulana ataur rahman is a member of the national assembly and is moulana fazlur rahmans younger brother
+0 0 2 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 2 1 0 0 0 0 0 0 0
+0.0 0.0 0.156049172036 0.0840942469732 0.327297238357 0.049806840939 0.02537741126 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.464195926921 0.353340562058 0.0 0.481118401771 0.0 0.894546904142 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+Moulana Ataur Rahman is a member of the National Assembly and is Moulana Fazlur Rahman's younger brother.
+moulana ataur rahman is a member of the national assembly and is moulana fazlur rahmans younger brother
+0 0 2 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 2 1 0 0 0 0 0 0 0
+0.0 0.0 0.156049172036 0.0840942469732 0.327297238357 0.049806840939 0.02537741126 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.464195926921 0.353340562058 0.0 0.481118401771 0.0 0.894546904142 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2aw6lkvu8o4qx
+Moulana Ataur Rahman is a member of the National Assembly and is Moulana Fazlur Rahman's younger brother.
+moulana ataur rahman is a member of the national assembly and is moulana fazlur rahmans younger brother
+0 0 2 1 1 1 1 1 1 1 1 1 0 1 1 0 1 0 2 1 0 0 0 0 0 0 0
+0.0 0.0 0.156049172036 0.0840942469732 0.327297238357 0.049806840939 0.02537741126 0.260945067925 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.464195926921 0.353340562058 0.0 0.481118401771 0.0 0.894546904142 0.528820179196 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Moulana Ata-ur-Rahman is a member of the National Assembly and also Moulana Fazal-ur-Rahman's younger brother.
+moulana ataurrahman is a member of the national assembly and also moulana fazalurrahmans younger brother
+0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0
+0.0 0.0 0.0884278641539 0.0953068132363 0.370936870138 0.0564477530642 0.0287610660947 0.295737743649 0.352165813776 0.0667091244405 0.447511717421 0.402162132373 0.0 0.0 0.0 0.0 0.0 0.0 1.01381982469 0.0 0.553119724385 0.186607698438 0.599329536422 0.0 0.0 0.0 0.0
+a3fwtyzx45ts4m
+Moulana Ata-ur-Rahman is a member of the National Assembly and is also Moulana Fazal-ur-Rahman's younger brother.
+moulana ataurrahman is a member of the national assembly and is also moulana fazalurrahmans younger brother
+0 0 2 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0
+0.0 0.0 0.165802245289 0.089350137409 0.347753315755 0.0529197684977 0.0269634994638 0.277254134671 0.330155450415 0.062539804163 0.419542235083 0.3770269991 0.0 0.0 0.0 0.0 0.0 0.0 0.950456085651 0.0 0.518549741611 0.174944717286 0.561871440396 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+Moulana Ata-ur-Rahman is a member of the National Assembly and also Moulana Fazal-ur-Rahman's younger brother.
+moulana ataurrahman is a member of the national assembly and also moulana fazalurrahmans younger brother
+0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 2 0 1 1 1 0 0 0 0
+0.0 0.0 0.0884278641539 0.0953068132363 0.370936870138 0.0564477530642 0.0287610660947 0.295737743649 0.352165813776 0.0667091244405 0.447511717421 0.402162132373 0.0 0.0 0.0 0.0 0.0 0.0 1.01381982469 0.0 0.553119724385 0.186607698438 0.599329536422 0.0 0.0 0.0 0.0
+a2u70ov2bw11tg
+Member of the National Assembly, Molana Ata-ur-Rehman is the younger brother of Molana Fazal-ur-Rehman
+member of the national assembly molana ataurrehman is the younger brother of molana fazalurrehman
+0 0 1 0 1 2 2 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0
+0.0 0.0 0.0947441401649 0.0 0.397432360863 0.120959470852 0.0616308559173 0.316861868195 0.37732051476 0.0 0.479476840094 0.430887998971 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.05435787627 0.592628276126 0.56366648269 0.0
+a1qabqi4s90bfu
+Member Molana Ata-ur-Rehman is the younger brother of Molana Fazal-ur-Rehman.
+member molana ataurrehman is the younger brother of molana fazalurrehman
+0 0 1 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0
+0.0 0.0 0.132641796231 0.0 0.556405305208 0.0846716295963 0.0431415991421 0.0 0.0 0.0 0.671267576132 0.60324319856 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.47610102678 0.829679586577 0.789133075766 0.0
+a2rcbwy8ulhnj0
+A member of the national Molana Ata-ur-Rehman, is the younger brother of Molana Fazal-ur-Rehman.
+a member of the national molana ataurrehman is the younger brother of molana fazalurrehman
+0 0 1 1 1 2 2 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 2 1 1 0
+0.0 0.0 0.0947441401649 0.102114442753 0.397432360863 0.120959470852 0.0616308559173 0.316861868195 0.0 0.0 0.479476840094 0.430887998971 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.05435787627 0.592628276126 0.56366648269 0.0
+a3ohqrf1mdq99b
+Maulana Ata-ur-Rahman is a member of the Communal Assembly and is also a younger brother of Fazlur-Rahman.
+maulana ataurrahman is a member of the communal assembly and is also a younger brother of fazlurrahman
+1 0 2 2 1 2 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1
+0.43127735116 0.0 0.156049172036 0.168188493946 0.327297238357 0.0996136818779 0.02537741126 0.0 0.310734541567 0.0588609921534 0.394863280078 0.354848940329 0.0 0.0 0.0 0.469314243215 0.0 0.0 0.0 0.0 0.488046815634 0.164653851563 0.0 0.0 0.0 0.0 0.528820179196

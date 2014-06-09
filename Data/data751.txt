@@ -1,0 +1,88 @@
+voa_urd_20090129.0012__18
+many times blood pressure can become a cause for problems in the functioning of heart and diseases sometimes process ailments at also be responsible disturbances hearts processes becomes deficiencies disease some disorders functions faults working cardiovascular dysfunction instances is factor anomalies function as well such its it complications high certain dysfunctions hypertension both
+Many times blood pressure can become a cause for problems in the functioning of the heart and heart diseases.
+many times blood pressure can become a cause for problems in the functioning of the heart and heart diseases
+1 1 1 1 1 1 1 1 1 1 1 2 1 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.205876268619 0.29592880086 0.248250273247 0.251855285628 0.167740508896 0.222852631677 0.075242220976 0.278349530117 0.101573471421 0.249362249375 0.0537286717776 0.0454122096232 0.419912743929 0.044564015577 0.48940943788 0.0526650982425 0.36538158963 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sometimes blood pressure can cause problems in the heart process and ailments of the heart.
+sometimes blood pressure can cause problems in the heart process and ailments of the heart
+0 0 1 1 1 0 0 1 0 1 1 2 0 1 2 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.314450346113 0.319016695129 0.212471311269 0.0 0.0 0.352576071481 0.0 0.315858849208 0.068056317585 0.0575221321894 0.0 0.0564477530642 0.619918621315 0.0667091244405 0.0 0.372583044311 0.407570502027 0.645539348459 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+At times blood pressure can also be responsible for disturbances in heart's processes and heart diseases.
+at times blood pressure can also be responsible for disturbances in hearts processes and heart diseases
+0 1 1 1 1 0 0 0 1 0 1 0 0 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.351415451021 0.294797199481 0.299078151684 0.199191854314 0.0 0.0 0.0 0.120618497313 0.0 0.0638027977359 0.0 0.0 0.0 0.290586853741 0.062539804163 0.433890637685 0.0 0.0 0.0 0.193600529071 0.174944717286 0.135212363923 0.333300768158 0.579851569924 0.395824133726 0.605193139181 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Sometimes, blood pressure becomes a cause of deficiencies in the heart process and heart disease.
+sometimes blood pressure becomes a cause of deficiencies in the heart process and heart disease
+0 0 1 1 0 0 1 1 0 0 1 1 0 1 2 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.314450346113 0.319016695129 0.0 0.0 0.0953068132363 0.352576071481 0.0 0.0 0.068056317585 0.0287610660947 0.0 0.0564477530642 0.619918621315 0.0667091244405 0.0 0.372583044311 0.407570502027 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.417690902885 0.545267522008 0.506909912347 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+some times blood pressure can cause disorders in heart's functions and heart diseases.
+some times blood pressure can cause disorders in hearts functions and heart diseases
+0 1 1 1 1 0 0 1 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.432511324334 0.362827322438 0.368096186688 0.24515920531 0.0 0.0 0.406818544017 0.0 0.0 0.0785265202904 0.0 0.0 0.0 0.357645358451 0.0769720666622 0.534019246382 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.487168164586 0.0 0.0 0.0 0.0 0.303578302262 0.674369191924 0.629154833086 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Sometimes blood pressure can cause faults in the working of the heart and can become a cause of heart diseases.
+sometimes blood pressure can cause faults in the working of the heart and can become a cause of heart diseases
+0 0 1 1 2 1 1 2 0 0 1 2 0 2 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.235837759585 0.239262521347 0.318706966903 0.211710000093 0.0714801099272 0.528864107222 0.0 0.0 0.0510422381887 0.0431415991421 0.0 0.0846716295963 0.464938965986 0.0500318433304 0.347112510148 0.279437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.357868079129 0.268280105668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Blood Pressure can cause a cardiovascular diseases and dysfunction.
+blood pressure can cause a cardiovascular diseases and dysfunction
+0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.524083910188 0.531694491882 0.354118852114 0.0 0.158844688727 0.587626785802 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.111181874068 0.771361133663 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.998882560703 1.0758989141 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3u16uhguaktzs
+In some instances, blood pressure is a factor in heart anomalies and heart diseases.
+in some instances blood pressure is a factor in heart anomalies and heart diseases
+0 0 1 1 0 0 1 0 0 0 2 0 0 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.336911085121 0.341803601924 0.0 0.0 0.102114442753 0.0 0.0 0.0 0.145834966254 0.0 0.0 0.0 0.664198522838 0.0714740619006 0.495875014497 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.281894137815 0.0 0.0 0.0 0.0 0.0 0.0 0.613176995587 0.0947441401649 0.5387874331 0.691649301921 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+amjejkgf6r4hk
+Sometimes blood pressure can cause disorders in the heart's function as well as heart disease.
+sometimes blood pressure can cause disorders in the hearts function as well as heart disease
+0 0 1 1 1 0 0 1 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 2 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.314450346113 0.319016695129 0.212471311269 0.0 0.0 0.352576071481 0.0 0.0 0.068056317585 0.0287610660947 0.0 0.0 0.309959310658 0.0 0.0 0.372583044311 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.422212409308 0.0 0.0 0.0 0.506909912347 0.0 0.584453299668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.488780997982 0.353101582046 0.302179532695 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2ll7aqr2r43j0
+Sometimes blood pressure can cause disorders in heart functions and heart disease.
+sometimes blood pressure can cause disorders in heart functions and heart disease
+0 0 1 1 1 0 0 1 0 0 1 0 0 0 2 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.393062932641 0.398770868912 0.265589139086 0.0 0.0 0.440720089351 0.0 0.0 0.0850703969812 0.0 0.0 0.0 0.774898276644 0.0833864055507 0.0 0.465728805389 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.633637390434 0.0 0.730566624585 0.681584402509 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2unp2crnrfiw8
+Some times blood pressure can cause disorders in the heart such as its functions and heart diseases.
+some times blood pressure can cause disorders in the heart such as its functions and heart diseases
+0 1 1 1 1 0 0 1 0 0 1 1 0 0 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0
+0.0 0.330743953903 0.277456187746 0.281485319232 0.187474686414 0.0 0.0 0.31109653366 0.0 0.0 0.0600496919867 0.02537741126 0.0 0.0 0.546987018807 0.0588609921534 0.408367658998 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.232148113495 0.515694087942 0.481118401771 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.155780109726 0.0 0.233978968995 0.195909460622 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3uewlcbe68lil
+Sometimes blood pressure can cause faults in the working of the heart and can become a cause of heart diseases.
+sometimes blood pressure can cause faults in the working of the heart and can become a cause of heart diseases
+0 0 1 1 2 1 1 2 0 0 1 2 0 2 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.235837759585 0.239262521347 0.318706966903 0.211710000093 0.0714801099272 0.528864107222 0.0 0.0 0.0510422381887 0.0431415991421 0.0 0.0846716295963 0.464938965986 0.0500318433304 0.347112510148 0.279437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.357868079129 0.268280105668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ag2iom8p24oek
+Sometimes blood pressure can cause faults in the working of the heart and can become a cause of heart disease.
+sometimes blood pressure can cause faults in the working of the heart and can become a cause of heart disease
+0 0 1 1 2 1 1 2 0 0 1 2 0 2 2 1 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.235837759585 0.239262521347 0.318706966903 0.211710000093 0.0714801099272 0.528864107222 0.0 0.0 0.0510422381887 0.0431415991421 0.0 0.0846716295963 0.464938965986 0.0500318433304 0.0 0.279437283233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.380182434261 0.0 0.0 0.0 0.357868079129 0.268280105668 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1u6t1v9680bs9
+Sometimes blood pressure can be a cause of heart disease, as it can cause complications in the working of the heart.
+sometimes blood pressure can be a cause of heart disease as it can cause complications in the working of the heart
+0 0 1 1 2 0 1 2 0 0 1 2 0 2 2 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.22460739008 0.227869067949 0.303530444669 0.0 0.0680762951688 0.503680102116 0.0 0.0 0.0486116554178 0.0410872372782 0.0 0.0806396472345 0.442799015225 0.0 0.0 0.266130745937 0.0 0.0 0.0 0.0 0.103018943942 0.0 0.0 0.0 0.0 0.0 0.0 0.36207850882 0.0 0.0 0.0 0.0 0.255504862541 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.126107707874 0.0 0.0 0.0 0.0970899449025 0.461099534614 0.0 0.0 0.0 0.0 0.0
+a2r89rxgevg05i
+High blood pressure can cause cardiovascular diseases and certain dysfunctions.
+high blood pressure can cause cardiovascular diseases and certain dysfunctions
+0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0
+0.0 0.0 0.471675519169 0.478525042694 0.318706966903 0.0 0.0 0.528864107222 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.100063686661 0.694225020296 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.898994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.517774037618 0.636890422222 1.03762374074 0.0 0.0
+a6tw9zegog7ph
+Blood Pressure can cause cardiovascular disease and dysfunction.
+blood pressure can cause cardiovascular disease and dysfunction
+0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.589594398961 0.598156303367 0.398383708629 0.0 0.0 0.661080134027 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.125079608326 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.950456085651 0.0 0.0 0.0 0.0 0.0 1.12374288079 1.21038627836 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2sb2bw2w4t4ww
+Hypertension can cause cardiovascular diseases.
+hypertension can cause cardiovascular diseases
+0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0.0 0.0 0.0 0.0 0.637413933806 0.0 0.0 1.05772821444 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.38845004059 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.79798860927 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 2.07524748149 0.0
+arq4j4tltpbnc
+In some instances, blood pressure is a factor in both heart anomalies and diseases.
+in some instances blood pressure is a factor in both heart anomalies and diseases
+0 0 1 1 0 0 1 0 0 0 2 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1
+0.0 0.0 0.336911085121 0.341803601924 0.0 0.0 0.102114442753 0.0 0.0 0.0 0.145834966254 0.0 0.0 0.0 0.332099261419 0.0714740619006 0.495875014497 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.281894137815 0.0 0.0 0.0 0.0 0.0 0.0 0.613176995587 0.0947441401649 0.5387874331 0.691649301921 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.32212638218

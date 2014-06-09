@@ -1,0 +1,88 @@
+mhr_urd_20090115.0013__6
+president ahmadinejad said that palestinians will be successful in gaza the victorious would emerge palestine ahmade nazad succeed for falastini muslims ghaza ahmede nejad told success at their feet has declared to all there succeess
+President Ahmadi-nejad said that Palestinians will be successful in Gaza.
+president ahmadinejad said that palestinians will be successful in gaza
+1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.282557616434 0.586537790093 0.22154334865 0.121887596026 0.538580482067 0.22272135394 0.216339782277 0.559711391434 0.102084476377 0.372854903389 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Ahmadinejad said that the Palestinians will be victorious in Gaza.
+president ahmadinejad said that the palestinians will be victorious in gaza
+1 1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.256870560395 0.533216172812 0.201403044227 0.110806905479 0.489618620061 0.202473958127 0.196672529343 0.0 0.0928040694341 0.338959003081 0.0392196355837 0.710117095453 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Ahmadinejad said that the Palestinians would be victorious in Gaza
+president ahmadinejad said that the palestinians would be victorious in gaza
+1 1 1 1 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.256870560395 0.533216172812 0.201403044227 0.110806905479 0.489618620061 0.0 0.196672529343 0.0 0.0928040694341 0.338959003081 0.0392196355837 0.710117095453 0.317060449808 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Ahmadinejad said that the Palestinians would emerge victorious in Gaza,
+ahmadinejad said that the palestinians would emerge victorious in gaza
+0 1 1 1 1 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.586537790093 0.22154334865 0.121887596026 0.538580482067 0.0 0.0 0.0 0.102084476377 0.372854903389 0.0431415991421 0.781128804999 0.348766494788 0.807365231446 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+President Ahmadinejad said that Palestine will be successful in Palestine.
+president ahmadinejad said that palestine will be successful in palestine
+1 1 1 1 0 1 1 1 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.282557616434 0.586537790093 0.22154334865 0.121887596026 0.0 0.22272135394 0.216339782277 0.559711391434 0.102084476377 0.0 0.0 0.0 0.0 0.0 0.973369814164 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+The President Ahmade Nazad said that the succeed will be for Falastini Muslims in Ghaza.
+the president ahmade nazad said that the succeed will be for falastini muslims in ghaza
+1 0 1 1 0 1 1 0 1 0 2 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.18837174429 0.0 0.147695565766 0.081258397351 0.0 0.148480902627 0.144226521518 0.0 0.068056317585 0.0 0.0575221321894 0.0 0.0 0.0 0.0 0.47987890514 0.49905770997 0.430947626801 0.128659730467 0.520752536666 0.258430024453 0.412438844362 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2yc779twnpohq
+President Ahmede Nejad told the Palestinians that success will be at their feet in Gaza.
+president ahmede nejad told the palestinians that success will be at their feet in gaza
+1 0 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+0.18837174429 0.0 0.0 0.081258397351 0.359053654711 0.148480902627 0.144226521518 0.0 0.068056317585 0.248569935592 0.0287610660947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.477157438839 0.46070010031 0.305548253271 0.411436319204 0.206507231009 0.199400432292 0.526088717177 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+President Ahmadinejad has said that Palestinians will succeed in Gaza.
+president ahmadinejad has said that palestinians will succeed in gaza
+1 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.282557616434 0.586537790093 0.22154334865 0.121887596026 0.538580482067 0.22272135394 0.0 0.0 0.102084476377 0.372854903389 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.646421440202 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.20480279157 0.0 0.0 0.0 0.0 0.0
+a2sb2bw2w4t4ww
+President Ahmadinejad declared that Palestine would be successful in Palestine.
+president ahmadinejad declared that palestine would be successful in palestine
+1 1 0 1 0 0 1 1 1 0 0 0 1 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.282557616434 0.586537790093 0.0 0.121887596026 0.0 0.0 0.216339782277 0.559711391434 0.102084476377 0.0 0.0 0.0 0.348766494788 0.0 0.973369814164 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.557221636272 0.0 0.0 0.0 0.0
+a2dwqf4zhhblow
+President Ahmadinejad said Palestine will be successful in Palestine.
+president ahmadinejad said palestine will be successful in palestine
+1 1 1 0 0 1 1 1 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.313952907149 0.651708655659 0.246159276277 0.0 0.0 0.247468171044 0.240377535864 0.621901546038 0.113427195975 0.0 0.0 0.0 0.0 0.0 1.08152201574 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+President Ahmadinejad said that Palestinians will be successful in Palestine.
+president ahmadinejad said that palestinians will be successful in palestine
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.282557616434 0.586537790093 0.22154334865 0.121887596026 0.538580482067 0.22272135394 0.216339782277 0.559711391434 0.102084476377 0.0 0.0 0.0 0.0 0.0 0.486684907082 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a24bjjrcqbm3mi
+The President Ahmade Nazad said that to succeed will be for Falastini for all Muslims in Ghaza.
+the president ahmade nazad said that to succeed will be for falastini for all muslims in ghaza
+1 0 1 1 0 1 1 0 1 0 1 0 0 0 0 1 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0
+0.166210362609 0.0 0.130319616853 0.0716985858979 0.0 0.131012561141 0.127258695457 0.0 0.0600496919867 0.0 0.02537741126 0.0 0.0 0.0 0.0 0.423422563359 0.440345038209 0.380247906001 0.227046583177 0.459487532352 0.228026492164 0.363916627378 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.063082746611 0.18620111494 0.0 0.0
+a330jjzgjl7ig2
+President Ahmade Nazad said that there will be success for Falastini Muslims in Ghaza.
+president ahmade nazad said that there will be success for falastini muslims in ghaza
+1 0 1 1 0 1 1 0 1 0 0 0 0 0 0 1 1 0 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0
+0.201826868882 0.0 0.158245249035 0.0870625685903 0.0 0.159086681386 0.154528415912 0.0 0.0729174831268 0.0 0.0 0.0 0.0 0.0 0.0 0.514155969793 0.534704689254 0.0 0.137849711215 0.557949146428 0.276889311914 0.441898761816 0.0 0.0 0.0 0.440824627718 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.205883108619 0.0
+a230hf2okthmdz
+The President Ahmadinejad said that the succeess will be for Palestine Muslims in Ghaza.
+the president ahmadinejad said that the succeess will be for palestine muslims in ghaza
+1 1 1 1 0 1 1 0 1 0 2 0 0 0 1 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.201826868882 0.418955564352 0.158245249035 0.0870625685903 0.0 0.159086681386 0.154528415912 0.0 0.0729174831268 0.0 0.0616308559173 0.0 0.0 0.0 0.347632076487 0.0 0.0 0.0 0.137849711215 0.0 0.276889311914 0.441898761816 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.741159814818
+aclg2ttpdpj36
+President Ahmede Nejad told the Palestinians that success will be at their feet in Gaza.
+president ahmede nejad told the palestinians that success will be at their feet in gaza
+1 0 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+0.18837174429 0.0 0.0 0.081258397351 0.359053654711 0.148480902627 0.144226521518 0.0 0.068056317585 0.248569935592 0.0287610660947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.477157438839 0.46070010031 0.305548253271 0.411436319204 0.206507231009 0.199400432292 0.526088717177 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+President Ahmede Nejad told the Palestinians that success will be at their feet in Gaza.
+president ahmede nejad told the palestinians that success will be at their feet in gaza
+1 0 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+0.18837174429 0.0 0.0 0.081258397351 0.359053654711 0.148480902627 0.144226521518 0.0 0.068056317585 0.248569935592 0.0287610660947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.477157438839 0.46070010031 0.305548253271 0.411436319204 0.206507231009 0.199400432292 0.526088717177 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+President Ahmede Nejad told the Palestinians that success will be at their feet in Gaza.
+president ahmede nejad told the palestinians that success will be at their feet in gaza
+1 0 0 1 1 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+0.18837174429 0.0 0.0 0.081258397351 0.359053654711 0.148480902627 0.144226521518 0.0 0.068056317585 0.248569935592 0.0287610660947 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.477157438839 0.46070010031 0.305548253271 0.411436319204 0.206507231009 0.199400432292 0.526088717177 0.0 0.0 0.0 0.0 0.0 0.0
+aslrrfy2saj4d
+President Ahmadinejad has said that Palestinians will succeed in Gaza.
+president ahmadinejad has said that palestinians will succeed in gaza
+1 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0.282557616434 0.586537790093 0.22154334865 0.121887596026 0.538580482067 0.22272135394 0.0 0.0 0.102084476377 0.372854903389 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.646421440202 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.20480279157 0.0 0.0 0.0 0.0 0.0

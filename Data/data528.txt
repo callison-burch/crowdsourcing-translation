@@ -1,0 +1,88 @@
+mhr_urd_20090115.0005__1
+president ahmadinejad iranian has expressed disappointment over the silence of leaders arab countries sorrow irans grief ahmedinejad regrets ahmdi nijad shown pity on nations their ahmedi nizad regretted iran sorrows in shows expresses regreta
+President Ahmadi-nejad: Iranian President Has Expressed Disappointment over the Silence of Leaders of Arab Countries
+president ahmadinejad iranian president has expressed disappointment over the silence of leaders of arab countries
+2 1 1 1 1 1 1 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.376743488579 0.391025193396 0.449243416515 0.13653519438 0.352165813776 0.495453228552 0.251125877619 0.0287610660947 0.392506735848 0.112895506128 0.296620758765 0.339874849881 0.247881757439 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Ahmadinejad; The Iranian President Expressed Sorrow over the Silence of the Leaders of Arab Countries.
+president ahmadinejad the iranian president expressed sorrow over the silence of the leaders of arab countries
+2 1 1 0 1 0 1 3 1 2 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.353197020543 0.366586118808 0.421165702983 0.0 0.330155450415 0.0 0.235430510268 0.0808904983914 0.367975064857 0.105839536995 0.278081961342 0.318632671764 0.232389147599 0.414910486823 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Ahmadinejad: Iran's President has expressed grief over the silence of Arab countries' leaders.
+president ahmadinejad irans president has expressed grief over the silence of arab countries leaders
+2 1 0 1 1 0 1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.403653737764 0.418955564352 0.0 0.146287708264 0.37732051476 0.0 0.269063440306 0.0308154279586 0.420542931266 0.0604797354259 0.31780795582 0.364151624873 0.265587597256 0.0 0.514155969793 0.552655719845 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+President Ahmedinejad regrets silence of Arab leaders
+president ahmedinejad regrets silence of arab leaders
+1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.403653737764 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.841085862531 0.120959470852 0.63561591164 0.728303249746 0.0 0.0 0.0 0.0 1.02248022608 1.25239992786 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+President Ahmdi Nijad has shown pity on Arab nations on their silence
+president ahmdi nijad has shown pity on arab nations on their silence
+1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 2 1 1 0 0 0 0 0 0 0 0 0
+0.235464680362 0.0 0.0 0.170668992975 0.0 0.0 0.0 0.0 0.49063341981 0.0 0.0 0.424843562352 0.0 0.0 0.0 0.0 0.0 0.0 0.657610896472 0.657610896472 0.484324101332 0.664861844554 0.311414779144 0.373028337822 0.249250540365 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The Iranian President Ahmedinejad expressed sorrow over the silence of the Arab leaders.
+the iranian president ahmedinejad expressed sorrow over the silence of the arab leaders
+1 0 1 0 1 0 1 3 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.217352012642 0.0 0.518357788286 0.0 0.406345169742 0.0 0.289760628022 0.0995575364817 0.452892387517 0.0651320227664 0.342254721652 0.392163288325 0.0 0.510659060705 0.0 0.0 0.550566275583 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2llfcd7di80k3
+Iranian President Ahmedi Nizad regretted the silence of Arab countries.
+iranian president ahmedi nizad regretted the silence of arab countries
+1 0 1 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+0.282557616434 0.0 0.673865124772 0.0 0.0 0.0 0.0 0.0431415991421 0.588760103772 0.0846716295963 0.0 0.509812274822 0.371822636158 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.789133075766 0.789133075766 0.968309022689 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+President of Iran Ahmadinejad has expressed sorrows on the silence of Arab Leaders
+president of iran ahmadinejad has expressed sorrows on the silence of arab leaders
+1 1 0 1 1 0 0 1 1 2 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0
+0.217352012642 0.451182915456 0.0 0.1575406089 0.406345169742 0.0 0.0 0.0331858454939 0.452892387517 0.130264045533 0.342254721652 0.392163288325 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.143729898066 0.0 0.0 0.0 0.0 0.0 0.36555537702 0.691534080487 0.0 0.0 0.0 0.0
+a1gs7jkyim7v5u
+President Ahmdi Nijad has shown pity on Arab nations in their silence.
+president ahmdi nijad has shown pity on arab nations in their silence
+1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0
+0.235464680362 0.0 0.0 0.170668992975 0.0 0.0 0.0 0.0 0.49063341981 0.0 0.0 0.424843562352 0.0 0.0 0.0 0.0 0.0 0.0 0.657610896472 0.657610896472 0.484324101332 0.664861844554 0.155707389572 0.373028337822 0.249250540365 0.0 0.0 0.0 0.0 0.0 0.0850703969812 0.0 0.0 0.0
+air4uqnpimfcj
+President Ahmdi Nijad has shown pity on Arab nations on their silence.
+president ahmdi nijad has shown pity on arab nations on their silence
+1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 1 1 1 2 1 1 0 0 0 0 0 0 0 0 0
+0.235464680362 0.0 0.0 0.170668992975 0.0 0.0 0.0 0.0 0.49063341981 0.0 0.0 0.424843562352 0.0 0.0 0.0 0.0 0.0 0.0 0.657610896472 0.657610896472 0.484324101332 0.664861844554 0.311414779144 0.373028337822 0.249250540365 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+President Ahmdi Nijad Shows Pity on Arab Nations
+president ahmdi nijad shows pity on arab nations
+1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 0 0
+0.353197020543 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.637265343527 0.0 0.0 0.0 0.0 0.0 0.0 0.986416344708 0.986416344708 0.0 0.997292766831 0.233561084358 0.559542506733 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.746189770023 0.0 0.0
+air4uqnpimfcj
+The Iranian President Ahmedinejad expressed sorrow over the silence of the Arab leaders.
+the iranian president ahmedinejad expressed sorrow over the silence of the arab leaders
+1 0 1 0 1 0 1 3 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.217352012642 0.0 0.518357788286 0.0 0.406345169742 0.0 0.289760628022 0.0995575364817 0.452892387517 0.0651320227664 0.342254721652 0.392163288325 0.0 0.510659060705 0.0 0.0 0.550566275583 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Iranian President Ahmedinejad expressed sorrow over the silence of the Arab leaders.
+iranian president ahmedinejad expressed sorrow over the silence of the arab leaders
+1 0 1 0 1 0 1 2 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.235464680362 0.0 0.561554270644 0.0 0.44020726722 0.0 0.313907347024 0.0719026652368 0.49063341981 0.0705596913302 0.370775948457 0.424843562352 0.0 0.553213982431 0.0 0.0 0.596446798548 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+Iranian President Ahmedinejad expresses sorrow over silence of Arab leaders.
+iranian president ahmedinejad expresses sorrow over silence of arab leaders
+1 0 1 0 0 0 1 0 1 1 1 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0.282557616434 0.0 0.673865124772 0.0 0.0 0.0 0.376688816428 0.0 0.588760103772 0.0846716295963 0.444931138148 0.509812274822 0.0 0.663856778917 0.0 0.0 0.715736158258 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.968309022689 0.0
+attzel5iaoiw5
+Iranian President Ahmedi Nizad regretted the silence of Arab countries.
+iranian president ahmedi nizad regretted the silence of arab countries
+1 0 1 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+0.282557616434 0.0 0.673865124772 0.0 0.0 0.0 0.0 0.0431415991421 0.588760103772 0.0846716295963 0.0 0.509812274822 0.371822636158 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.789133075766 0.789133075766 0.968309022689 0.0 0.0 0.0 0.0 0.0 0.0
+am78upj6d5fvk
+Iranian President Ahmedi Nizad Regrets Silence of Arab Countries.
+iranian president ahmedi nizad regrets silence of arab countries
+1 0 1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+0.313952907149 0.0 0.748739027525 0.0 0.0 0.0 0.0 0.0 0.65417789308 0.0940795884403 0.0 0.566458083135 0.413136262398 0.0 0.0 0.0 0.0 0.97408883278 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.876814528629 0.876814528629 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+Iranian President Ahmedi Nizad regreta the silence of Arab countries.
+iranian president ahmedi nizad regreta the silence of arab countries
+1 0 1 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1
+0.282557616434 0.0 0.673865124772 0.0 0.0 0.0 0.0 0.0431415991421 0.588760103772 0.0846716295963 0.0 0.509812274822 0.371822636158 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.789133075766 0.789133075766 0.0 0.0 0.0 0.0 0.0 0.0 1.03762374074
+a1n7r29rtnwgzs
+President of Iran Ahmadinejad has expressed sorrows on the silence of Arab Leaders
+president of iran ahmadinejad has expressed sorrows on the silence of arab leaders
+1 1 0 1 1 0 0 1 1 2 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0
+0.217352012642 0.451182915456 0.0 0.1575406089 0.406345169742 0.0 0.0 0.0331858454939 0.452892387517 0.130264045533 0.342254721652 0.392163288325 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.143729898066 0.0 0.0 0.0 0.0 0.0 0.36555537702 0.691534080487 0.0 0.0 0.0 0.0

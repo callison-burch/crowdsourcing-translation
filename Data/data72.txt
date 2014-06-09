@@ -1,0 +1,88 @@
+bbc_urd_20090104.0016__9
+no organization has yet accepted responsibility for these killings as of now deaths the none groups have taken until organisation so far owned
+No organization has yet accepted responsibility for these killings.
+no organization has yet accepted responsibility for these killings
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.372596591263 0.536351258062 0.2275586573 0.593977720673 0.576539066845 0.58694302296 0.214432884112 0.339744206542 0.707656024691 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+As of now, no organization has accepted responsibility for these deaths.
+as of now no organization has accepted responsibility for these deaths
+1 1 1 0 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.304851756488 0.438832847505 0.186184355973 0.0 0.471713781964 0.480226109695 0.175445087001 0.277972532626 0.0 0.240751078668 0.0769742087239 0.313605488566 0.625429985998 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+No organization has yet accepted responsibility for these killings.
+no organization has yet accepted responsibility for these killings
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.372596591263 0.536351258062 0.2275586573 0.593977720673 0.576539066845 0.58694302296 0.214432884112 0.339744206542 0.707656024691 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+No organization has accepted responsibility for the killings as yet.
+no organization has accepted responsibility for the killings as yet
+1 1 1 1 1 1 1 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.335336932137 0.482716132255 0.20480279157 0.534579948606 0.518885160161 0.528248720664 0.192989595701 0.0 0.636890422222 0.264826186534 0.0 0.0 0.0 0.0431415991421 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+None of the groups have taken responsibility of these killings until now.
+none of the groups have taken responsibility of these killings until now
+0 0 0 0 0 1 0 1 1 0 2 1 0 1 1 1 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.44020726722 0.0 0.254808154907 0.530742018518 0.0 0.14111938266 0.287471697852 0.0 0.0359513326184 0.639015600529 0.381935316589 0.190690821067 0.362329907268 0.379186441672 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+No organisation has accepted responsibility for these deaths yet.
+no organisation has accepted responsibility for these deaths yet
+1 0 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+0.372596591263 0.0 0.2275586573 0.593977720673 0.576539066845 0.58694302296 0.214432884112 0.339744206542 0.0 0.0 0.0 0.0 0.764414427331 0.0 0.0 0.0 0.0 0.0 0.0 0.771361133663 0.0 0.0 0.0
+a143bvgouf83je
+so far no organization has taken responsibility of these killings.
+so far no organization has taken responsibility of these killings
+1 1 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0
+0.335336932137 0.482716132255 0.20480279157 0.0 0.0 0.528248720664 0.0 0.305769785888 0.636890422222 0.0 0.0846716295963 0.0 0.0 0.0 0.0 0.0 0.0 0.434795888722 0.0 0.0 0.355731334217 0.480408337527 0.0
+a1aczgd5azz3r7
+So far no organization has owned the responsibility for the killings.
+so far no organization has owned the responsibility for the killings
+1 1 1 0 0 1 1 0 1 0 0 0 0 2 0 0 0 0 0 0 1 1 1
+0.304851756488 0.438832847505 0.186184355973 0.0 0.0 0.480226109695 0.175445087001 0.0 0.578991292929 0.0 0.0 0.0 0.0 0.0784392711674 0.0 0.0 0.0 0.0 0.0 0.0 0.323392122016 0.436734852297 0.880280929717
+a3qu3km3iywhif
+None of the groups have taken responsibility for these killings until now.
+none of the groups have taken responsibility for these killings until now
+0 0 0 0 0 1 1 1 1 0 1 1 0 1 1 1 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.44020726722 0.160824663084 0.254808154907 0.530742018518 0.0 0.0705596913302 0.287471697852 0.0 0.0359513326184 0.639015600529 0.381935316589 0.190690821067 0.362329907268 0.379186441672 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+None of the groups have taken responsibility for these killings until now.
+none of the groups have taken responsibility for these killings until now
+0 0 0 0 0 1 1 1 1 0 1 1 0 1 1 1 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.44020726722 0.160824663084 0.254808154907 0.530742018518 0.0 0.0705596913302 0.287471697852 0.0 0.0359513326184 0.639015600529 0.381935316589 0.190690821067 0.362329907268 0.379186441672 0.0 0.0 0.0 0.0
+aw4q48bn2x4nt
+None of the groups have taken responsibility of these killings until now.
+none of the groups have taken responsibility of these killings until now
+0 0 0 0 0 1 0 1 1 0 2 1 0 1 1 1 1 1 1 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.44020726722 0.0 0.254808154907 0.530742018518 0.0 0.14111938266 0.287471697852 0.0 0.0359513326184 0.639015600529 0.381935316589 0.190690821067 0.362329907268 0.379186441672 0.0 0.0 0.0 0.0
+a24b73lnvag8ay
+No organization has accepted responsibility for these deaths yet.
+no organization has accepted responsibility for these deaths yet
+1 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.372596591263 0.536351258062 0.2275586573 0.593977720673 0.576539066845 0.58694302296 0.214432884112 0.339744206542 0.0 0.0 0.0 0.0 0.764414427331 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a4asgsrmq2sfn
+No organization has accepted responsibility for these deaths yet.
+no organization has accepted responsibility for these deaths yet
+1 1 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0.372596591263 0.536351258062 0.2275586573 0.593977720673 0.576539066845 0.58694302296 0.214432884112 0.339744206542 0.0 0.0 0.0 0.0 0.764414427331 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wgq344wqriu5
+No organisation has accepted responsibility for these deaths yet.
+no organisation has accepted responsibility for these deaths yet
+1 0 1 1 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0
+0.372596591263 0.0 0.2275586573 0.593977720673 0.576539066845 0.58694302296 0.214432884112 0.339744206542 0.0 0.0 0.0 0.0 0.764414427331 0.0 0.0 0.0 0.0 0.0 0.0 0.771361133663 0.0 0.0 0.0
+a2blrglxnlm1uq
+so far, no organization have taken responsibility for these killings.
+so far no organization have taken responsibility for these killings
+1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 0
+0.335336932137 0.482716132255 0.0 0.0 0.0 0.528248720664 0.192989595701 0.305769785888 0.636890422222 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.228828985281 0.434795888722 0.0 0.0 0.355731334217 0.480408337527 0.0
+a230hf2okthmdz
+so far no organization has taken responsibility of these killings.
+so far no organization has taken responsibility of these killings
+1 1 1 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0
+0.335336932137 0.482716132255 0.20480279157 0.0 0.0 0.528248720664 0.0 0.305769785888 0.636890422222 0.0 0.0846716295963 0.0 0.0 0.0 0.0 0.0 0.0 0.434795888722 0.0 0.0 0.355731334217 0.480408337527 0.0
+awixls3wmymbf
+So far no organization has taken responsibility for these killings.
+so far no organization has taken responsibility for these killings
+1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 1 1 0
+0.335336932137 0.482716132255 0.20480279157 0.0 0.0 0.528248720664 0.192989595701 0.305769785888 0.636890422222 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.434795888722 0.0 0.0 0.355731334217 0.480408337527 0.0
+a1teauq6whvlxp
+So far, no organization has taken responsibility for the killings.
+so far no organization has taken responsibility for the killings
+1 1 1 0 0 1 1 0 1 0 0 0 0 1 0 0 0 1 0 0 1 1 0
+0.335336932137 0.482716132255 0.20480279157 0.0 0.0 0.528248720664 0.192989595701 0.0 0.636890422222 0.0 0.0 0.0 0.0 0.0431415991421 0.0 0.0 0.0 0.434795888722 0.0 0.0 0.355731334217 0.480408337527 0.0

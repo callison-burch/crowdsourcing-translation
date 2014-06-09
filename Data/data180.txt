@@ -1,0 +1,88 @@
+bbc_urd_20090113.0027__1
+protest against firing of journalists the sacking protests dismissal over siding removal was protested agreement with bias there a
+Protest Against Firing of Journalists
+protest against firing of journalists
+1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.15025291883 0.639690998251 1.20910081343 0.169343259193 1.05405838671 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Protest against the Sacking of Journalists
+protest against the sacking of journalists
+1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 1.34560871908 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Protests Against Dismissal of Journalists
+protests against dismissal of journalists
+0 1 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+0.0 0.639690998251 0.0 0.169343259193 1.05405838671 0.0 0.0 1.35306389896 1.68606545168 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Protest over the sacking of journalists
+protest over the sacking of journalists
+1 0 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0
+0.958544099028 0.0 0.0 0.14111938266 0.878381988925 0.0719026652368 1.34560871908 0.0 0.0 0.627814694047 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2qlm59qc9g1uf
+Protest against the siding of Journalists.
+protest against the siding of journalists
+1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 1.54627085313 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Protest against the removal of journalists
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+Protest against the removal of journalists
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+The dismissal of journalists was protested.
+the dismissal of journalists was protested
+0 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 1.40505454307 0.0 0.0 0.0 0.363529952759 1.31522179294 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Protest against the siding of Journalists.
+protest against the siding of journalists
+1 1 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 1.54627085313 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1b6zigmal4vx5
+Protest against the agreement with Journalists.
+protest against the agreement with journalists
+1 1 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0
+0.958544099028 0.533075831876 0.0 0.0 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.02368848381 0.393319918158 0.0 0.0 0.0
+a6tw9zegog7ph
+Protest against the bias of journalists.
+protest against the bias of journalists
+1 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.61384837115 0.0 0.0
+a24bjjrcqbm3mi
+There was a Protest against the removal of journalists
+there was a protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 1 1
+0.639029399352 0.355383887917 0.0 0.0940795884403 0.585587992617 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.764414427331 0.242353301839 0.0 0.0 0.0 0.0 0.320262613407 0.158844688727
+a12ezody9kxiim
+Protest against the removal of journalists
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+Protest against the removal of journalists
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+Protest against the removal of journalists.
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3lhs82826iskx
+Protest Against the Removal of Journalists
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3edprdq0s0hp3
+Protest against the removal of journalists
+protest against the removal of journalists
+1 1 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.958544099028 0.533075831876 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3ohqrf1mdq99b
+The dismissal of journalists was protested.
+the dismissal of journalists was protested
+0 0 0 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 0
+0.0 0.0 0.0 0.14111938266 0.878381988925 0.0719026652368 0.0 0.0 1.40505454307 0.0 0.0 0.0 0.363529952759 1.31522179294 0.0 0.0 0.0 0.0 0.0

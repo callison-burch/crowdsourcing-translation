@@ -1,0 +1,88 @@
+voa_urd_20090109.0007__10
+after reaching islamabad joseph biden met with president asif ali zardari arriving in joe having arrived vice to
+After reaching Islamabad Joseph Biden met with President Asif Ali Zardari.
+after reaching islamabad joseph biden met with president asif ali zardari
+1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.27017802631 0.55577795731 0.514339866923 0.521955310838 0.453794758606 0.547229870978 0.214538137177 0.256870560395 0.521076955301 0.457193625157 0.42660524001 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Joseph Biden met with President Asif Ali Zardari after reaching Islamabad.
+joseph biden met with president asif ali zardari after reaching islamabad
+1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.27017802631 0.55577795731 0.514339866923 0.521955310838 0.453794758606 0.547229870978 0.214538137177 0.256870560395 0.521076955301 0.457193625157 0.42660524001 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After arriving in Islamabad, Joseph Biden met with President Asif Ali Zardari.
+after arriving in islamabad joseph biden met with president asif ali zardari
+1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+0.247663190784 0.0 0.471478211346 0.478459034935 0.415978528722 0.50162738173 0.196659959079 0.235464680362 0.477653875692 0.419094156394 0.391054803343 0.623822137463 0.0850703969812 0.0 0.0 0.0 0.0 0.0
+After arriving in Islamabad, Joe Biden met with President Asif Ali Zardari.
+after arriving in islamabad joe biden met with president asif ali zardari
+1 0 1 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+0.247663190784 0.0 0.471478211346 0.0 0.415978528722 0.50162738173 0.196659959079 0.235464680362 0.477653875692 0.419094156394 0.391054803343 0.623822137463 0.0850703969812 0.483460535746 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+After arriving in Islamabad, Joseph Biden met with President Asif Ali Zardari.
+after arriving in islamabad joseph biden met with president asif ali zardari
+1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+0.247663190784 0.0 0.471478211346 0.478459034935 0.415978528722 0.50162738173 0.196659959079 0.235464680362 0.477653875692 0.419094156394 0.391054803343 0.623822137463 0.0850703969812 0.0 0.0 0.0 0.0 0.0
+a2yfc3l62fkzfr
+After reaching In Islamabad Joseph biden met with president Asif zardari
+after reaching in islamabad joseph biden met with president asif zardari
+1 1 1 1 1 1 1 1 1 0 1 0 1 0 0 0 0 0
+0.27017802631 0.55577795731 0.514339866923 0.521955310838 0.453794758606 0.547229870978 0.214538137177 0.256870560395 0.521076955301 0.0 0.42660524001 0.0 0.0928040694341 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+After reaching Islamabad, Joseph Biden met President Asif Ali Zardari
+after reaching islamabad joseph biden met president asif ali zardari
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0
+0.297195828941 0.611355753041 0.565773853615 0.574150841922 0.499174234466 0.601952858076 0.0 0.282557616434 0.573184650831 0.502912987673 0.469265764011 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+After reaching Islamabad Joseph Biden met President Asif Ali Zardari.
+after reaching islamabad joseph biden met president asif ali zardari
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0
+0.297195828941 0.611355753041 0.565773853615 0.574150841922 0.499174234466 0.601952858076 0.0 0.282557616434 0.573184650831 0.502912987673 0.469265764011 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2190f96xfy41l
+After arriving in Islamabad, Joseph Biden met with President Asif Ali Zardari.
+after arriving in islamabad joseph biden met with president asif ali zardari
+1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+0.247663190784 0.0 0.471478211346 0.478459034935 0.415978528722 0.50162738173 0.196659959079 0.235464680362 0.477653875692 0.419094156394 0.391054803343 0.623822137463 0.0850703969812 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+After arriving in Islamabad, Biden met with President Asif Ali Zardari.
+after arriving in islamabad biden met with president asif ali zardari
+1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+0.27017802631 0.0 0.514339866923 0.0 0.453794758606 0.547229870978 0.214538137177 0.256870560395 0.521076955301 0.457193625157 0.42660524001 0.680533240869 0.0928040694341 0.0 0.0 0.0 0.0 0.0
+au7l5rzqoehrh
+After having arrived in Islamabad, Joseph Biden met with President Asif Ali Zardari.
+after having arrived in islamabad joseph biden met with president asif ali zardari
+1 0 1 1 1 1 1 1 1 1 1 0 1 0 1 1 0 0
+0.228612176109 0.0 0.435210656627 0.441654493786 0.383980180359 0.463040660058 0.181532269919 0.217352012642 0.44091126987 0.386856144364 0.360973664624 0.0 0.0785265202904 0.0 0.418045768065 0.547549297648 0.0 0.0
+a6tw9zegog7ph
+After reaching Islamabad Joseph Biden met with President Asif Zardari.
+after reaching islamabad joseph biden met with president asif zardari
+1 1 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0
+0.297195828941 0.611355753041 0.565773853615 0.574150841922 0.499174234466 0.601952858076 0.235991950895 0.282557616434 0.573184650831 0.0 0.469265764011 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2r8rj4z5nv4o7
+After arriving in Islamabad, Joe Biden met with President Asif Zardari.
+after arriving in islamabad joe biden met with president asif zardari
+1 0 1 0 1 1 1 1 1 0 1 1 1 1 0 0 0 0
+0.27017802631 0.0 0.514339866923 0.0 0.453794758606 0.547229870978 0.214538137177 0.256870560395 0.521076955301 0.0 0.42660524001 0.680533240869 0.0928040694341 0.527411493541 0.0 0.0 0.0 0.0
+aa1hdtufsq32b
+After reaching in Islamabad Joseph Biden met with president Asif Zardari.
+after reaching in islamabad joseph biden met with president asif zardari
+1 1 1 1 1 1 1 1 1 0 1 0 1 0 0 0 0 0
+0.27017802631 0.55577795731 0.514339866923 0.521955310838 0.453794758606 0.547229870978 0.214538137177 0.256870560395 0.521076955301 0.0 0.42660524001 0.0 0.0928040694341 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+After reaching Islamabad, Joseph Biden met President Asif Ali Zardari.
+after reaching islamabad joseph biden met president asif ali zardari
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0
+0.297195828941 0.611355753041 0.565773853615 0.574150841922 0.499174234466 0.601952858076 0.0 0.282557616434 0.573184650831 0.502912987673 0.469265764011 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a227cwgbxgw4yh
+After reaching Islamabad, Vice President Joseph Biden met President Asif Ali Zardari
+after reaching islamabad vice president joseph biden met president asif ali zardari
+1 1 1 1 1 1 0 2 1 1 1 0 0 0 0 0 1 0
+0.247663190784 0.509463127534 0.471478211346 0.478459034935 0.415978528722 0.50162738173 0.0 0.470929360724 0.477653875692 0.419094156394 0.391054803343 0.0 0.0 0.0 0.0 0.0 0.438186966253 0.0
+a230hf2okthmdz
+After reaching Islamabad, Joseph Biden met President Asif Ali Zardari
+after reaching islamabad joseph biden met president asif ali zardari
+1 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0
+0.297195828941 0.611355753041 0.565773853615 0.574150841922 0.499174234466 0.601952858076 0.0 0.282557616434 0.573184650831 0.502912987673 0.469265764011 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31i8s2vq4xqm7
+After arriving to Islamabad, Joseph Biden met with President Asif Ali Zardari.
+after arriving to islamabad joseph biden met with president asif ali zardari
+1 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1
+0.247663190784 0.0 0.471478211346 0.478459034935 0.415978528722 0.50162738173 0.196659959079 0.235464680362 0.477653875692 0.419094156394 0.391054803343 0.623822137463 0.0 0.0 0.0 0.0 0.0 0.0893672243655

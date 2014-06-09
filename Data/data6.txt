@@ -1,0 +1,88 @@
+bbc_urd_20090102.0020__6
+the chairman of senate standing committee on foreign affairs also criticized apathetic behavior muslim leaders problem in palestine senates cold attitude world issue for external indifferent towards lukewarm reaction regarding palestinian commettee matters slow action targeted nation who were taking a quiet stance matter commiety said paliestiens saddams brother tanfeed was made target minister and ummah nations palestinians m
+The Chairman of the Senate Standing Committee on Foreign Affairs also criticized the apathetic behavior of Muslim leaders on the problem in Palestine.
+the chairman of the senate standing committee on foreign affairs also criticized the apathetic behavior of muslim leaders on the problem in palestine
+4 1 2 1 1 1 2 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0750288680732 0.232998155245 0.0736275039967 0.236286738471 0.295335585608 0.215082251239 0.162477276075 0.196822288152 0.231581800009 0.121700672894 0.270319753221 0.451140756846 0.276125465944 0.181027448335 0.193448320934 0.210730796519 0.0443845549467 0.211602133514 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Chairman of the Senate's Standing Committee on Foreign Affairs also criticized the cold attitude of the leaders of the Muslim world on the issue of Palestine.
+the chairman of the senates standing committee on foreign affairs also criticized the cold attitude of the leaders of the muslim world on the issue of palestine
+6 1 4 0 1 1 2 1 1 1 1 0 0 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0958702203157 0.198479910024 0.125439451254 0.0 0.251582165518 0.183218214018 0.138406568508 0.167663430648 0.197273385193 0.103670943577 0.230272382374 0.0 0.0 0.1542085671 0.164789310425 0.0 0.0 0.18025366929 0.289306964814 0.247679924198 0.244149917538 0.125134867573 0.186796985711 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Chairman of the Senate's Standing Committee for External Affairs also criticized the indifferent attitude of Muslim leaders towards the Palestine issue.
+chairman of the senates standing committee for external affairs also criticized the indifferent attitude of muslim leaders towards the palestine issue
+3 1 2 0 1 1 0 0 1 1 1 0 0 1 1 0 0 1 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0616308559173 0.255188455745 0.0806396472345 0.0 0.323462784238 0.235566275166 0.0 0.0 0.253637209533 0.13329121317 0.296064491623 0.0 0.0 0.1982681577 0.211871970547 0.0 0.0 0.231754717658 0.371966097618 0.0 0.313907036835 0.0 0.240167553056 0.0918998074765 0.318445616826 0.441791672323 0.242525413272 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The Senate Chairman of the Standing Committee on Foreign Affairs also criticized the lukewarm reaction of Muslim leaders regarding the Palestinian issue.
+the senate chairman of the standing committee on foreign affairs also criticized the lukewarm reaction of muslim leaders regarding the palestinian issue
+4 1 2 1 1 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0784392711674 0.243588980483 0.0769742087239 0.247027044765 0.308759930409 0.224858717204 0.0849313034028 0.205768755796 0.242108245464 0.127232521662 0.282607014731 0.0 0.0 0.189255968714 0.202241426431 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.229250846099 0.0 0.0 0.0 0.0 0.471647154884 0.267110351687 0.243288949391 0.228813779795 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+The chairman of commettee for external matters criticized the slow action of leaders.
+the chairman of commettee for external matters criticized the slow action of leaders
+2 1 2 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0663716909878 0.412227505433 0.130264045533 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.47825802493 0.0 0.0 0.0 0.342254721652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.148453535154 0.514412150257 0.0 0.0 0.0 0.0 0.0 0.0 0.674369191924 0.457340046816 0.600868311538 0.322786211831 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The chairman of the standing committee of external affairs in the senate also targeted the leaders of Muslim nation who were taking a quiet stance on the matter of Palestine.
+the chairman of the standing committee of external affairs in the senate also targeted the leaders of muslim nation who were taking a quiet stance on the matter of palestine
+5 1 4 1 1 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.178631919021 0.112895506128 0.181153166161 0.226423948966 0.164896392617 0.0622829558287 0.0 0.177546046673 0.0933038492191 0.0 0.0 0.0 0.13878771039 0.148310379383 0.0 0.0340281587925 0.162228302361 0.0 0.0 0.0 0.0 0.0 0.0 0.222911931778 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.221285592972 0.158048260143 0.0986619642752 0.0973068439443 0.158048260143 0.0476534066181 0.216834546551 0.209956665451 0.165190080273 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dsltew8ffmbv
+The chairman of the commiety said the paliestien's matter Saddam's brother Tanfeed was made target.
+the chairman of the commiety said the paliestiens matter saddams brother tanfeed was made target
+3 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+0.0862831982842 0.357263838042 0.0564477530642 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.330380160545 0.599329536422 0.147695565766 0.645539348459 0.599329536422 0.402162132373 0.599329536422 0.145411981104 0.262459135757 0.376589972583 0.0 0.0 0.0 0.0 0.0 0.0
+a1aczgd5azz3r7
+The foreign affairs Minister in the Senate Standing Committee Chairman and the leaders of the Muslim Ummah were also criticized.
+the foreign affairs minister in the senate standing committee chairman and the leaders of the muslim ummah were also criticized
+4 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.0862831982842 0.267947878532 0.0423358147981 0.271729749242 0.33963592345 0.247344588925 0.0 0.226345631375 0.26631907001 0.139955773829 0.310867716205 0.0 0.0 0.208181565585 0.222465569074 0.0 0.0510422381887 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.145960265916 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.179532488122 0.0500318433304 0.394566537883 0.0 0.0 0.0
+a230hf2okthmdz
+The chairman of of committee for external matters criticized the slow action of the leaders.
+the chairman of of committee for external matters criticized the slow action of the leaders
+3 1 3 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0862831982842 0.357263838042 0.169343259193 0.0 0.0 0.329792785233 0.0 0.0 0.0 0.0 0.414490288273 0.0 0.0 0.0 0.296620758765 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.128659730467 0.445823863556 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.396361373907 0.520752536666 0.279748050253 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The chairman of the Committee for External Matters criticized the slow action of leaders.
+the chairman of the committee for external matters criticized the slow action of leaders
+3 1 2 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0924462838759 0.382782683617 0.120959470852 0.0 0.0 0.35334941275 0.0 0.0 0.0 0.0 0.444096737435 0.0 0.0 0.0 0.31780795582 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.137849711215 0.477668425238 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.424672900615 0.557949146428 0.299730053843 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1lkw32z4tqsw7
+The chairman of Committee for External Matters criticized the slow action of leaders.
+the chairman of committee for external matters criticized the slow action of leaders
+2 1 2 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0663716909878 0.412227505433 0.130264045533 0.0 0.0 0.380530136807 0.0 0.0 0.0 0.0 0.47825802493 0.0 0.0 0.0 0.342254721652 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.148453535154 0.514412150257 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.457340046816 0.600868311538 0.322786211831 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a301gnfg8w711q
+The chairman of the standing Committee of External Affairs in the Senate also targeted the leaders of Muslim nation who were taking a quiet stance on the matter of Palestine.
+the chairman of the standing committee of external affairs in the senate also targeted the leaders of muslim nation who were taking a quiet stance on the matter of palestine
+5 1 4 1 1 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.178631919021 0.112895506128 0.181153166161 0.226423948966 0.164896392617 0.0622829558287 0.0 0.177546046673 0.0933038492191 0.0 0.0 0.0 0.13878771039 0.148310379383 0.0 0.0340281587925 0.162228302361 0.0 0.0 0.0 0.0 0.0 0.0 0.222911931778 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.221285592972 0.158048260143 0.0986619642752 0.0973068439443 0.158048260143 0.0476534066181 0.216834546551 0.209956665451 0.165190080273 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143awku99stc9
+The chairman of the standing committee of external affairs in the senate also targeted the leaders of Muslim nation who were taking a quiet stance on the matter of Palestine.
+the chairman of the standing committee of external affairs in the senate also targeted the leaders of muslim nation who were taking a quiet stance on the matter of palestine
+5 1 4 1 1 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0719026652368 0.178631919021 0.112895506128 0.181153166161 0.226423948966 0.164896392617 0.0622829558287 0.0 0.177546046673 0.0933038492191 0.0 0.0 0.0 0.13878771039 0.148310379383 0.0 0.0340281587925 0.162228302361 0.0 0.0 0.0 0.0 0.0 0.0 0.222911931778 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.221285592972 0.158048260143 0.0986619642752 0.0973068439443 0.158048260143 0.0476534066181 0.216834546551 0.209956665451 0.165190080273 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+The chairman of the standing committee of external affairs in the senate also targeted the leaders of Muslim nations who were taking a quiet stance on the matter of Palestine.
+the chairman of the standing committee of external affairs in the senate also targeted the leaders of muslim nations who were taking a quiet stance on the matter of palestine
+5 1 4 1 1 1 1 0 1 1 0 0 0 1 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0.0719026652368 0.178631919021 0.112895506128 0.181153166161 0.226423948966 0.164896392617 0.0622829558287 0.0 0.177546046673 0.0933038492191 0.0 0.0 0.0 0.13878771039 0.148310379383 0.0 0.0340281587925 0.162228302361 0.0 0.0 0.0 0.0 0.0 0.0 0.222911931778 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.221285592972 0.0 0.0986619642752 0.0973068439443 0.158048260143 0.0476534066181 0.216834546551 0.209956665451 0.165190080273 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.149211335129 0.0 0.0
+a2unp2crnrfiw8
+The chairman of the committee said the Paliestien's matter of Saddam's brother Tanfeed was made a target.
+the chairman of the committee said the paliestiens matter of saddams brother tanfeed was made a target
+3 1 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+0.0761322337801 0.315232798273 0.0996136818779 0.0 0.0 0.290993634029 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0840942469732 0.0 0.0 0.291511906363 0.0 0.130319616853 0.569593542758 0.528820179196 0.354848940329 0.528820179196 0.128304689209 0.231581590374 0.332285269926 0.0 0.0 0.0 0.0 0.0 0.0
+attzel5iaoiw5
+The chairman of the committee said the Palestinian's m Saddam's brother Tanfeed was made target.
+the chairman of the committee said the palestinians m saddams brother tanfeed was made target
+3 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 1 1
+0.0862831982842 0.357263838042 0.0564477530642 0.0 0.0 0.329792785233 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.147695565766 0.0 0.599329536422 0.402162132373 0.599329536422 0.145411981104 0.262459135757 0.376589972583 0.0 0.0 0.0 0.0 0.359053654711 0.618508341252
+aohhtbpd64eb6
+The chairman of the committee said the Palestinian's made Saddam's brother, Tanfeed, the target.
+the chairman of the committee said the palestinians made saddams brother tanfeed the target
+4 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 1 1 0 0 0 0 1 0
+0.123261711835 0.382782683617 0.0604797354259 0.0 0.0 0.35334941275 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.158245249035 0.0 0.642138789024 0.430887998971 0.642138789024 0.0 0.281206216882 0.403489256338 0.0 0.0 0.0 0.0 0.384700344334 0.0
+ao86wz7i0vqzc
+The foreign affairs Minister in the Senate Standing Committee Chairman and the leaders of the Muslim Ummah were also criticized.
+the foreign affairs minister in the senate standing committee chairman and the leaders of the muslim ummah were also criticized
+4 1 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0
+0.0862831982842 0.267947878532 0.0423358147981 0.271729749242 0.33963592345 0.247344588925 0.0 0.226345631375 0.26631907001 0.139955773829 0.310867716205 0.0 0.0 0.208181565585 0.222465569074 0.0 0.0510422381887 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.145960265916 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.179532488122 0.0500318433304 0.394566537883 0.0 0.0 0.0

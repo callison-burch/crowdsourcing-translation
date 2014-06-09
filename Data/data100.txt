@@ -1,0 +1,88 @@
+bbc_urd_20090107.0021__6
+however according to the spokesperson of ministry foreign affairs interior has verified ajmal kasabs citizenship spokesman nationality ajamal qasab been confirmed by nevertheless kasab office said that pakistani qasabs confirmation was done home officials completed a reported his
+However, according to the spokesperson of the Ministry of Foreign Affairs, the Ministry of the Interior has verified Ajmal Kasab's citizenship.
+however according to the spokesperson of the ministry of foreign affairs the ministry of the interior has verified ajmal kasabs citizenship
+1 1 1 4 1 3 2 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.206475366484 0.155385490416 0.0510669853517 0.0821744745563 0.306876751177 0.120959470852 0.603160584725 0.215567267976 0.253637209533 0.275774758513 0.0975251388429 0.340826742028 0.233322564548 0.428092526016 0.291797245971 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, according to the spokesman of the Foreign Ministry, the nationality of Ajamal Qasab has been confirmed by the Interior Ministry.
+however according to the spokesman of the foreign ministry the nationality of ajamal qasab has been confirmed by the interior ministry
+1 1 1 4 0 2 2 1 0 1 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.206475366484 0.155385490416 0.0510669853517 0.0821744745563 0.0 0.0806396472345 0.603160584725 0.215567267976 0.0 0.275774758513 0.0975251388429 0.0 0.0 0.0 0.0 0.293883085146 0.365151771731 0.408784663725 0.294599174544 0.138354458726 0.296814413384 0.118722288388 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Nevertheless, according to the spokesperson of Foreign Ministry, citizenship of Ajmal Kasab has been confirmed by the Interior Ministry.
+nevertheless according to the spokesperson of foreign ministry citizenship of ajmal kasab has been confirmed by the interior ministry
+0 1 1 2 1 2 2 1 0 1 1 0 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.171741857829 0.056442457494 0.0454122096232 0.339179567091 0.089128031154 0.666651172591 0.238258559342 0.0 0.304803680462 0.107790942932 0.0 0.257882834501 0.0 0.322512745547 0.0 0.0 0.0 0.0 0.152918085961 0.328058035845 0.131219371376 0.385879735249 0.318881541785 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+However, the foreign office spokesman has said that Kasab's Pakistani citizenship has been confirmed by the ministry of the interior.
+however the foreign office spokesman has said that kasabs pakistani citizenship has been confirmed by the ministry of the interior
+1 0 0 3 0 1 1 1 0 1 2 0 0 1 1 1 0 0 0 1 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.216799134809 0.0 0.0 0.0647123987131 0.0 0.0423358147981 0.316659306981 0.226345631375 0.0 0.289563496439 0.20480279157 0.0 0.0 0.449497152316 0.30638710827 0.308577239403 0.0 0.0 0.0 0.145272181663 0.311655134053 0.124658402807 0.0 0.0 0.261437146532 0.110771674325 0.0609437980132 0.181667838583 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+However, according to the foreign office spokesman, Ajmal Qasab's citizenship has been confirmed by the interior ministry.
+however according to the foreign office spokesman ajmal qasabs citizenship has been confirmed by the interior ministry
+1 1 1 2 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.255057805657 0.191946782279 0.063082746611 0.0507548225201 0.0 0.0 0.372540361154 0.266288978088 0.0 0.340662936987 0.120472230335 0.0 0.288221991501 0.0 0.360455421494 0.363032046356 0.0 0.0 0.0 0.170908449015 0.366653098886 0.146656944479 0.0 0.0 0.307573113567 0.0 0.0 0.0 0.443707297847 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+however, according to foreign office the citizenship of Ajmal Kasab has been verified by interior ministry.
+however according to foreign office the citizenship of ajmal kasab has been verified by interior ministry
+1 1 1 1 0 1 1 1 0 1 1 1 1 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.270998918511 0.203943456171 0.0670254182741 0.0269634994638 0.0 0.0529197684977 0.395824133726 0.282932039219 0.0 0.361954370549 0.128001744731 0.447335098911 0.30623586597 0.0 0.382983885338 0.0 0.0 0.0 0.0 0.181590227078 0.0 0.155823003509 0.0 0.37867183087 0.326796433165 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+However, according to the Foreign Ministry, the confirmation of Ajmal Qasab's citizenship was done by the Home Ministry.
+however according to the foreign ministry the confirmation of ajmal qasabs citizenship was done by the home ministry
+1 1 1 3 0 1 2 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+0.240887927565 0.181283072152 0.059578149577 0.0719026652368 0.0 0.0470397942201 0.703687348846 0.251495145972 0.0 0.0 0.0 0.0 0.27220965864 0.0 0.3404301203 0.0 0.0 0.0 0.0 0.0 0.0 0.138509336452 0.0 0.0 0.0 0.0 0.0 0.0 0.419056892411 0.48704441639 0.12117665092 0.254963334782 0.299590599208 0.0 0.0 0.0 0.0 0.0
+n/a
+n/a
+n/a
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2dwqf4zhhblow
+However, according to the foreign office spokesman, Ajmal Qasab's citizenship has been confirmed by the interior ministry.
+however according to the foreign office spokesman ajmal qasabs citizenship has been confirmed by the interior ministry
+1 1 1 2 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.255057805657 0.191946782279 0.063082746611 0.0507548225201 0.0 0.0 0.372540361154 0.266288978088 0.0 0.340662936987 0.120472230335 0.0 0.288221991501 0.0 0.360455421494 0.363032046356 0.0 0.0 0.0 0.170908449015 0.366653098886 0.146656944479 0.0 0.0 0.307573113567 0.0 0.0 0.0 0.443707297847 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1g46au4nrpshg
+However, according to the foreign office spokesman, Ajmal Qasab's citizenship has been confirmed by the interior ministry.
+however according to the foreign office spokesman ajmal qasabs citizenship has been confirmed by the interior ministry
+1 1 1 2 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.255057805657 0.191946782279 0.063082746611 0.0507548225201 0.0 0.0 0.372540361154 0.266288978088 0.0 0.340662936987 0.120472230335 0.0 0.288221991501 0.0 0.360455421494 0.363032046356 0.0 0.0 0.0 0.170908449015 0.366653098886 0.146656944479 0.0 0.0 0.307573113567 0.0 0.0 0.0 0.443707297847 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a29s1rn1ux7u8z
+However, according to the foreign office spokesman, Ajmal Qasab's citizenship has been confirmed by the interior ministry.
+however according to the foreign office spokesman ajmal qasabs citizenship has been confirmed by the interior ministry
+1 1 1 2 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0
+0.255057805657 0.191946782279 0.063082746611 0.0507548225201 0.0 0.0 0.372540361154 0.266288978088 0.0 0.340662936987 0.120472230335 0.0 0.288221991501 0.0 0.360455421494 0.363032046356 0.0 0.0 0.0 0.170908449015 0.366653098886 0.146656944479 0.0 0.0 0.307573113567 0.0 0.0 0.0 0.443707297847 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a87c5tu9lryej
+However, according to foreign office the citizenship of Ajmal Kasab has been verified by the Interior Ministry.
+however according to foreign office the citizenship of ajmal kasab has been verified by the interior ministry
+1 1 1 2 0 1 1 1 0 1 1 1 1 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.255057805657 0.191946782279 0.063082746611 0.0507548225201 0.0 0.049806840939 0.372540361154 0.266288978088 0.0 0.340662936987 0.120472230335 0.421021269564 0.288221991501 0.0 0.360455421494 0.0 0.0 0.0 0.0 0.170908449015 0.0 0.146656944479 0.0 0.356397017289 0.307573113567 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aaul30gxuqax9
+However, according to the foreign office, the citizenship of Ajmal Kasab has been verified by the Interior Ministry.
+however according to the foreign office the citizenship of ajmal kasab has been verified by the interior ministry
+1 1 1 3 0 1 1 1 0 1 1 1 1 0 1 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.240887927565 0.181283072152 0.059578149577 0.0719026652368 0.0 0.0470397942201 0.351843674423 0.251495145972 0.0 0.321737218266 0.11377932865 0.397631199032 0.27220965864 0.0 0.3404301203 0.0 0.0 0.0 0.0 0.161413535181 0.0 0.138509336452 0.0 0.336597182995 0.290485718369 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+al2rcq9eyun61
+However, according to foreign officials, the citizenship of Ajmal Kasab has been verified by the interior ministry.
+however according to foreign officials the citizenship of ajmal kasab has been verified by the interior ministry
+1 1 1 2 0 1 1 1 0 1 1 1 1 0 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.255057805657 0.191946782279 0.063082746611 0.0507548225201 0.0 0.049806840939 0.372540361154 0.266288978088 0.0 0.340662936987 0.120472230335 0.421021269564 0.288221991501 0.0 0.360455421494 0.0 0.0 0.0 0.0 0.170908449015 0.0 0.146656944479 0.0 0.356397017289 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.264617742686 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+However, according to the Foreign Ministry, the confirmation of Ajmal Qasab's citizenship was done by the Home Ministry.
+however according to the foreign ministry the confirmation of ajmal qasabs citizenship was done by the home ministry
+1 1 1 3 0 1 2 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+0.240887927565 0.181283072152 0.059578149577 0.0719026652368 0.0 0.0470397942201 0.703687348846 0.251495145972 0.0 0.0 0.0 0.0 0.27220965864 0.0 0.3404301203 0.0 0.0 0.0 0.0 0.0 0.0 0.138509336452 0.0 0.0 0.0 0.0 0.0 0.0 0.419056892411 0.48704441639 0.12117665092 0.254963334782 0.299590599208 0.0 0.0 0.0 0.0 0.0
+avktegthhn2vp
+However, according to the Foreign Ministry, the confirmation of Ajmal Qasab's citizenship was done by the Home Ministry.
+however according to the foreign ministry the confirmation of ajmal qasabs citizenship was done by the home ministry
+1 1 1 3 0 1 2 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+0.240887927565 0.181283072152 0.059578149577 0.0719026652368 0.0 0.0470397942201 0.703687348846 0.251495145972 0.0 0.0 0.0 0.0 0.27220965864 0.0 0.3404301203 0.0 0.0 0.0 0.0 0.0 0.0 0.138509336452 0.0 0.0 0.0 0.0 0.0 0.0 0.419056892411 0.48704441639 0.12117665092 0.254963334782 0.299590599208 0.0 0.0 0.0 0.0 0.0
+a262d9pq8d093q
+However, according to the Foreign Ministry, the confirmation of Ajmal Qasab's citizenship was completed by the Home Ministry.
+however according to the foreign ministry the confirmation of ajmal qasabs citizenship was completed by the home ministry
+1 1 1 3 0 1 2 1 0 0 0 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 0 1 0 0 0
+0.240887927565 0.181283072152 0.059578149577 0.0719026652368 0.0 0.0470397942201 0.703687348846 0.251495145972 0.0 0.0 0.0 0.0 0.27220965864 0.0 0.3404301203 0.0 0.0 0.0 0.0 0.0 0.0 0.138509336452 0.0 0.0 0.0 0.0 0.0 0.0 0.419056892411 0.48704441639 0.12117665092 0.0 0.299590599208 0.0 0.387502223655 0.0 0.0 0.0
+a3mq8jwi317m6m
+However, a Foreign Ministry spokesman reported that Ajmal has confirmed his citizenship.
+however a foreign ministry spokesman reported that ajmal has confirmed his citizenship
+1 0 0 0 0 0 1 1 0 0 1 0 1 0 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1
+0.361331891348 0.0 0.0 0.0 0.0 0.0 0.527765511635 0.377242718959 0.0 0.0 0.170668992975 0.0 0.40831448796 0.0 0.51064518045 0.514295399005 0.0 0.0 0.0 0.0 0.519425223422 0.0 0.0 0.0 0.0 0.0 0.101572996689 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.119133516545 0.491575049414 0.222281483867

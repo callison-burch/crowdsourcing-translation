@@ -1,0 +1,88 @@
+voa_urd_20090109.0007__11
+in the meeting president awarded him honor of hilalepakistan for his role establishing a close relationship between pakistan and america during honored with decorated promoting ties conferred award to recognition closer us presented on playing an important forming relations he was hila imtiaz by zardari played build up friendly their efforts increasing crescent hilal e medal establishment building increase that
+In the meeting the President awarded him the honor of the Hilal-e-Pakistan for his role in establishing a close relationship between Pakistan and America.
+in the meeting the president awarded him the honor of the hilalepakistan for his role in establishing a close relationship between pakistan and america
+2 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0850703969812 0.0719026652368 0.194271025081 0.117732340181 0.255922120952 0.15557294192 0.261056814303 0.0352798456651 0.309658267845 0.0804123315419 0.111140741933 0.194824743086 0.284203722748 0.0595667582727 0.241730267873 0.235739105673 0.164438247059 0.0990512580919 0.0416932027753 0.127792710073 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+During the meeting, the president honored him with Hilal-e-Pakistan for his role in establishing a close relationship between Pakistan and America.
+during the meeting the president honored him with hilalepakistan for his role in establishing a close relationship between pakistan and america
+1 2 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0486116554178 0.0410872372782 0.222024028664 0.134551245921 0.0 0.177797647909 0.0 0.0 0.353895163252 0.0918998074765 0.127017990781 0.222656849241 0.32480425457 0.0680762951688 0.276263163283 0.269416120769 0.18792942521 0.113201437819 0.0476493746004 0.146048811512 0.182423226053 0.349129284273 0.112377119474 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+During the meeting President decorated him with Hilal-e-Pakistan for his role in promoting close ties between Pakistan and the America.
+during the meeting president decorated him with hilalepakistan for his role in promoting close ties between pakistan and the america
+1 2 1 1 0 1 0 0 1 1 1 1 0 0 1 0 1 1 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0510422381887 0.0431415991421 0.233125230097 0.141278808217 0.0 0.186687530304 0.0 0.0 0.371589921414 0.0964947978503 0.13336889032 0.233789691703 0.0 0.0 0.290076321447 0.0 0.197325896471 0.11886150971 0.0500318433304 0.153351252088 0.191544387356 0.0 0.117995975447 0.398917106733 0.398917106733 0.336932562386 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+During the meeting, the President conferred the Hilal-e-Pakistan award to him in recognition of his role in establishing closer ties between Pakistan and the US.
+during the meeting the president conferred the hilalepakistan award to him in recognition of his role in establishing closer ties between pakistan and the us
+2 4 1 1 0 1 0 1 1 0 1 1 1 0 0 0 1 1 1 0 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.081667581102 0.0690265586273 0.186500184078 0.113023046574 0.0 0.149350024243 0.0 0.0338686518385 0.297271937131 0.0 0.106695112256 0.187031753362 0.272835573838 0.0 0.0 0.0 0.157860717176 0.0950892077682 0.0400254746643 0.0 0.153235509885 0.0 0.0 0.0 0.0 0.269546049909 0.350671979801 0.239271530111 0.0428962676955 0.306727488254 0.273995075313 0.146775002834 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+During the meeting the president presented him with Hilal-e-Pakistan on playing an important role in forming close relations between Pakistan and America.
+during the meeting the president presented him with hilalepakistan on playing an important role in forming close relations between pakistan and america
+1 2 1 1 0 1 0 0 1 0 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.046402034717 0.0392196355837 0.211932027361 0.128435280197 0.0 0.16971593664 0.0 0.0 0.337809019467 0.0 0.0 0.212536083366 0.0 0.0 0.26370574677 0.0 0.17938717861 0.108055917918 0.0454834939367 0.139410229171 0.174131261233 0.0 0.107269068588 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.273614935489 0.0849313034028 0.279851350103 0.133352031121 0.212994452415 0.340266620434 0.218888898929 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2yfc3l62fkzfr
+In the meeting he was awarded with Hila a Imtiaz by president Zardari.. He played an important role to build up friendly relations between America and Pakistan .
+in the meeting he was awarded with hila a imtiaz by president zardari he played an important role to build up friendly relations between america and pakistan 
+1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 2 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.037809065325 0.0159783700526 0.172685355627 0.10465096905 0.227486329735 0.0 0.0 0.0 0.0 0.0 0.0 0.17317754941 0.0 0.0529482295757 0.0 0.0 0.146167330719 0.0880455627484 0.0370606246892 0.113593520065 0.0 0.0 0.0874044262573 0.0 0.0 0.0 0.0 0.0 0.0397187663847 0.0 0.0 0.0 0.0 0.0 0.0 0.108657210543 0.173551035301 0.0 0.178353917646 0.175299411089 0.0807844339465 0.34361574514 0.292271509543 0.092339557635 0.173802134819 0.19656789649 0.26817567376 0.159979755342 0.289306964814 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+During their meeting, in recognition of his efforts in increasing ties between Pakistan and America, the President awarded him with the Pakistan Crescent.
+during their meeting in recognition of his efforts in increasing ties between pakistan and america the president awarded him with the pakistan crescent
+2 2 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 2 1 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+0.0887691098934 0.0375144340366 0.202717591389 0.12285113758 0.267049169689 0.162336982873 0.0 0.0368137519984 0.0 0.0 0.115972948104 0.0 0.0 0.0 0.0 0.0 0.171587736061 0.206715669061 0.0435059507221 0.133348914859 0.166560336831 0.0 0.102605196041 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.333399443754 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.130043760191 0.206775501814 0.238845021081 0.34310133729 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+In meeting President awarded him the Hilal e Pakistan medal for playing his role in the establishment of closer ties between America and Pakistan.
+in meeting president awarded him the hilal e pakistan medal for playing his role in the establishment of closer ties between america and pakistan
+2 2 1 1 1 1 0 1 0 1 1 1 0 0 0 0 1 2 1 1 0 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0
+0.0850703969812 0.0359513326184 0.194271025081 0.117732340181 0.255922120952 0.15557294192 0.0 0.0352798456651 0.0 0.0804123315419 0.111140741933 0.194824743086 0.0 0.0 0.0 0.0 0.164438247059 0.198102516184 0.0416932027753 0.127792710073 0.0 0.0 0.0 0.0 0.0 0.280777135322 0.0 0.0 0.0 0.0 0.285411536785 0.0 0.0 0.0 0.256530404261 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.340792201255 0.285411536785 0.365283312292 0.283029936208 0.0 0.0 0.0
+a2190f96xfy41l
+During the meeting, the president presented him with Hilal-e-Pakistan for playing an important role in forming close relations between Pakistan and America.
+during the meeting the president presented him with hilalepakistan for playing an important role in forming close relations between pakistan and america
+1 2 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.046402034717 0.0392196355837 0.211932027361 0.128435280197 0.0 0.16971593664 0.0 0.0 0.337809019467 0.0877225435003 0.0 0.212536083366 0.0 0.0 0.26370574677 0.0 0.17938717861 0.108055917918 0.0454834939367 0.139410229171 0.174131261233 0.0 0.107269068588 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.273614935489 0.0 0.279851350103 0.133352031121 0.212994452415 0.340266620434 0.218888898929 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+During the meeting the president presented him with Hilal-e-Pakistan for playing an important role in forming close relations between Pakistan and America.
+during the meeting the president presented him with hilalepakistan for playing an important role in forming close relations between pakistan and america
+1 2 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.046402034717 0.0392196355837 0.211932027361 0.128435280197 0.0 0.16971593664 0.0 0.0 0.337809019467 0.0877225435003 0.0 0.212536083366 0.0 0.0 0.26370574677 0.0 0.17938717861 0.108055917918 0.0454834939367 0.139410229171 0.174131261233 0.0 0.107269068588 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.273614935489 0.0 0.279851350103 0.133352031121 0.212994452415 0.340266620434 0.218888898929 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+au7l5rzqoehrh
+During the meeting, the president presented him with the Hilal-e-Pakistan for playing an important role in forming close relations between Pakistan and America.
+during the meeting the president presented him with the hilalepakistan for playing an important role in forming close relations between pakistan and america
+1 3 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0443845549467 0.0562716510549 0.202717591389 0.12285113758 0.0 0.162336982873 0.0 0.0 0.323121670795 0.0839085198698 0.0 0.20329538409 0.0 0.0 0.252240279519 0.0 0.171587736061 0.103357834531 0.0435059507221 0.133348914859 0.166560336831 0.0 0.102605196041 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.261718633946 0.0 0.267683900099 0.127554116724 0.203733824049 0.325472419546 0.20937199028 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+In the meeting he was awarded with Hila a Imtiaz by President Zardari. He played an important role in building friendly relations between America and Pakistan.
+in the meeting he was awarded with hila a imtiaz by president zardari he played an important role in building friendly relations between america and pakistan
+2 1 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 2 1 1 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0
+0.0785265202904 0.016592922747 0.179327100075 0.108676006321 0.236235803956 0.0 0.0 0.0 0.0 0.0 0.0 0.179838224387 0.0 0.054984699944 0.0 0.0 0.151789151131 0.0914319305464 0.0384860333311 0.117962501606 0.0 0.0 0.0907661349595 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.112836334025 0.18022607512 0.0 0.185213683709 0.182041696131 0.0838915275598 0.356831735338 0.303512721449 0.0958910790825 0.180486832312 0.204128200201 0.0 0.0 0.300434155769 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.273774648824 0.0 0.0
+a2r8rj4z5nv4o7
+In the meeting he was awarded with Hilal Imtiaz by President Zardari. He played an important role in building up friendly relations between America and Pakistan .
+in the meeting he was awarded with hilal imtiaz by president zardari he played an important role in building up friendly relations between america and pakistan 
+2 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 2 1 0 1 1 1 1 0 1 1 0 0 0 0 1 0 0 0 1 0 0
+0.0785265202904 0.016592922747 0.179327100075 0.108676006321 0.236235803956 0.0 0.0 0.0 0.0 0.0 0.0 0.179838224387 0.0 0.0 0.0 0.0 0.151789151131 0.0914319305464 0.0384860333311 0.117962501606 0.0 0.0 0.0907661349595 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.112836334025 0.18022607512 0.0 0.185213683709 0.182041696131 0.0838915275598 0.0 0.303512721449 0.0958910790825 0.180486832312 0.204128200201 0.0 0.166132822855 0.300434155769 0.0 0.0 0.0 0.0 0.314577416543 0.0 0.0 0.0 0.273774648824 0.0 0.0
+aa1hdtufsq32b
+In the meeting he was awarded with Hila a Imtiaz by president Zardari. He played an important role to build up friendly relations between America and Pakistan.
+in the meeting he was awarded with hila a imtiaz by president zardari he played an important role to build up friendly relations between america and pakistan
+1 1 1 1 1 0 0 0 0 0 0 1 0 1 0 0 1 1 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0 1 2 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+0.037809065325 0.0159783700526 0.172685355627 0.10465096905 0.227486329735 0.0 0.0 0.0 0.0 0.0 0.0 0.17317754941 0.0 0.0529482295757 0.0 0.0 0.146167330719 0.0880455627484 0.0370606246892 0.113593520065 0.0 0.0 0.0874044262573 0.0 0.0 0.0 0.0 0.0 0.0397187663847 0.0 0.0 0.0 0.0 0.0 0.0 0.108657210543 0.173551035301 0.0 0.178353917646 0.175299411089 0.0807844339465 0.34361574514 0.292271509543 0.092339557635 0.173802134819 0.19656789649 0.26817567376 0.159979755342 0.289306964814 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+During their meeting, in recognition of his efforts to increase ties between Pakistan and America, the President awarded him with the Pakistan Crescent.
+during their meeting in recognition of his efforts to increase ties between pakistan and america the president awarded him with the pakistan crescent
+1 2 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 2 1 1 1 0 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 1 0
+0.0443845549467 0.0375144340366 0.202717591389 0.12285113758 0.267049169689 0.162336982873 0.0 0.0368137519984 0.0 0.0 0.115972948104 0.0 0.0 0.0 0.0 0.0 0.171587736061 0.206715669061 0.0435059507221 0.133348914859 0.166560336831 0.0 0.102605196041 0.0 0.0 0.292984836858 0.0 0.0 0.0466263779298 0.333399443754 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.130043760191 0.206775501814 0.0 0.34310133729 0.0 0.0 0.0 0.0 0.0 0.219073883815 0.0
+a227cwgbxgw4yh
+During their meeting, in recognition of his efforts in increasing ties between Pakistan and America, the President awarded him with the Pakistan Crescent.
+during their meeting in recognition of his efforts in increasing ties between pakistan and america the president awarded him with the pakistan crescent
+2 2 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 2 1 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+0.0887691098934 0.0375144340366 0.202717591389 0.12285113758 0.267049169689 0.162336982873 0.0 0.0368137519984 0.0 0.0 0.115972948104 0.0 0.0 0.0 0.0 0.0 0.171587736061 0.206715669061 0.0435059507221 0.133348914859 0.166560336831 0.0 0.102605196041 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.333399443754 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.130043760191 0.206775501814 0.238845021081 0.34310133729 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a230hf2okthmdz
+During their meeting, in recognition of his efforts in increasing ties between Pakistan and America, the President awarded him with the Pakistan Crescent.
+during their meeting in recognition of his efforts in increasing ties between pakistan and america the president awarded him with the pakistan crescent
+2 2 1 1 1 1 0 1 0 0 1 0 0 0 0 0 1 2 1 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+0.0887691098934 0.0375144340366 0.202717591389 0.12285113758 0.267049169689 0.162336982873 0.0 0.0368137519984 0.0 0.0 0.115972948104 0.0 0.0 0.0 0.0 0.0 0.171587736061 0.206715669061 0.0435059507221 0.133348914859 0.166560336831 0.0 0.102605196041 0.0 0.0 0.292984836858 0.0 0.0 0.0 0.333399443754 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.130043760191 0.206775501814 0.238845021081 0.34310133729 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a31i8s2vq4xqm7
+During that meeting, the President awarded him the Hilal e Pakistan medal for his role in the establishment of closer ties between America and Pakistan.
+during that meeting the president awarded him the hilal e pakistan medal for his role in the establishment of closer ties between america and pakistan
+1 3 1 1 1 1 0 1 0 1 1 1 0 0 0 0 1 2 1 1 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 1
+0.040833790551 0.0517699189705 0.186500184078 0.113023046574 0.245685236114 0.149350024243 0.0 0.0338686518385 0.0 0.0771958382802 0.106695112256 0.187031753362 0.0 0.0 0.0 0.0 0.157860717176 0.190178415536 0.0400254746643 0.12268100167 0.153235509885 0.0 0.0 0.0 0.0 0.269546049909 0.0 0.0 0.0 0.0 0.273995075313 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.327160513205 0.273995075313 0.350671979801 0.27170873876 0.0 0.0 0.0487550384106

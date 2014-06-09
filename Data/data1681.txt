@@ -1,0 +1,88 @@
+urd-wl-86-174276-11370254-post1__4
+industrialists have given an ultimatum for shutting down factories the closure of served that they would close threatened to shut their producers industrialist before closing industry holders gave ultimatem stop mills a shutdown give leaders issued and by threatening
+Industrialists have given an ultimatum for shutting down factories.
+industrialists have given an ultimatum for shutting down factories
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.908779203346 0.25425442809 0.484453360861 0.325971631628 0.844849853912 0.214432884112 1.03084723542 0.578417045824 0.876814528629 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The industrialists have given an ultimatum for the closure of factories.
+the industrialists have given an ultimatum for the closure of factories
+1 1 1 1 1 1 0 0 1 2 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.743546620919 0.208026350255 0.396370931614 0.266704062241 0.691240789565 0.175445087001 0.0 0.0 0.717393705242 0.0784392711674 0.725303830423 0.0769742087239 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The industrialists have served the ultimatum that they would close down the factories.
+the industrialists have served the ultimatum that they would close down the factories
+1 1 0 0 1 0 0 1 1 3 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.629154833086 0.17602229637 0.0 0.0 0.584896052708 0.0 0.0 0.400442570186 0.607025442897 0.0995575364817 0.0 0.0 0.648486712184 0.0937596892511 0.199494626508 0.268281919068 0.446271263765 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Industrialists have threatened to shut down their factories.
+industrialists have threatened to shut down their factories
+1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+1.02237660376 0.286036231601 0.0 0.0 0.0 0.0 0.0 0.650719176551 0.986416344708 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.859966230748 0.134050836548 0.894670197823 0.373875810548 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The producers have given the ultimatum to close the factories.
+the producers have given the ultimatum to close the factories
+0 1 1 0 1 0 0 0 1 3 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.228828985281 0.436008024775 0.0 0.760364868521 0.0 0.0 0.0 0.789133075766 0.129424797426 0.0 0.0 0.0 0.0 0.0 0.0 0.580152642895 0.0 0.107240669239 0.0 0.0 0.898994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3fq8i38xt2b4z
+Industrialist have given an ultimatum before closing the factories.
+industrialist have given an ultimatum before closing the factories
+0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.25425442809 0.484453360861 0.325971631628 0.844849853912 0.0 0.0 0.0 0.876814528629 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.80452702128 0.480460915392 0.786711171272 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+Industry holders gave ultimatem to stop mills.
+industry holders gave ultimatem to stop mills
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.153200956055 0.0 0.0 0.0 0.0 0.0 0.0 1.18525655225 1.1684304043 0.7599988003 1.48231962964 0.661433459559 1.28427757805 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+Industrialists have threatened a shutdown ultimatum.
+industrialists have threatened a shutdown ultimatum
+1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+1.36316880502 0.381381642135 0.0 0.0 1.26727478087 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.146621641 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.238267033091 1.54627085313 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The producers have given the ultimatum to close the factories.
+the producers have given the ultimatum to close the factories
+0 1 1 0 1 0 0 0 1 3 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.228828985281 0.436008024775 0.0 0.760364868521 0.0 0.0 0.0 0.789133075766 0.129424797426 0.0 0.0 0.0 0.0 0.0 0.0 0.580152642895 0.0 0.107240669239 0.0 0.0 0.898994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3odrygim0wb3t
+The producers have given the ultimatum of closing the factories.
+the producers have given the ultimatum of closing the factories
+0 1 1 0 1 0 0 0 1 3 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.228828985281 0.436008024775 0.0 0.760364868521 0.0 0.0 0.0 0.789133075766 0.129424797426 0.0 0.0846716295963 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.898994304633 0.0 0.0 0.708040054145 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+The producers have given the ultimatum to close the factories.
+the producers have given the ultimatum to close the factories
+0 1 1 0 1 0 0 0 1 3 0 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.228828985281 0.436008024775 0.0 0.760364868521 0.0 0.0 0.0 0.789133075766 0.129424797426 0.0 0.0 0.0 0.0 0.0 0.0 0.580152642895 0.0 0.107240669239 0.0 0.0 0.898994304633 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2scjh3oqhuw2a
+Industrialists give an ultimatum before closing the factories.
+industrialists give an ultimatum before closing the factories
+1 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+1.02237660376 0.0 0.0 0.366718085582 0.950456085651 0.0 0.0 0.0 0.986416344708 0.0539269989276 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.540518529816 0.885050067681 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.556163922685 0.0 0.0 0.0 0.0 0.0
+a2oe085okcwole
+Industrialist have given an ultimatum before closing the factories.
+industrialist have given an ultimatum before closing the factories
+0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.25425442809 0.484453360861 0.325971631628 0.844849853912 0.0 0.0 0.0 0.876814528629 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.80452702128 0.480460915392 0.786711171272 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a330jjzgjl7ig2
+Industrialist have given an ultimatum before closing the factories.
+industrialist have given an ultimatum before closing the factories
+0 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0 0.25425442809 0.484453360861 0.325971631628 0.844849853912 0.0 0.0 0.0 0.876814528629 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.80452702128 0.480460915392 0.786711171272 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2190f96xfy41l
+Industry leaders gave an ultimatum to stop the mills.
+industry leaders gave an ultimatum to stop the mills
+0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 1 0 0 0 0
+0.0 0.0 0.0 0.325971631628 0.844849853912 0.0 0.0 0.0 0.0 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.119156299154 0.0 0.0 0.0 0.0 0.0 0.0 0.921866207308 0.0 0.591110178011 0.0 0.514448246323 0.998882560703 0.0 0.0 0.0 0.494367931275 0.0 0.0 0.0 0.0
+a3c1u2evw0nuff
+Industry holders gave an ultimatum to stop the mills.
+industry holders gave an ultimatum to stop the mills
+0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.325971631628 0.844849853912 0.0 0.0 0.0 0.0 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.119156299154 0.0 0.0 0.0 0.0 0.0 0.0 0.921866207308 0.908779203346 0.591110178011 0.0 0.514448246323 0.998882560703 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2epq8pt6mk3tp
+Industry holders gave an ultimatum to stop mills.
+industry holders gave an ultimatum to stop mills
+0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.366718085582 0.950456085651 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.134050836548 0.0 0.0 0.0 0.0 0.0 0.0 1.03709948322 1.02237660376 0.664998950263 0.0 0.578754277114 1.12374288079 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+aonmraht4motn
+Industrialists have issued and ultimatum by threatening a shutdown.
+industrialists have issued and ultimatum by threatening a shutdown
+1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1
+0.908779203346 0.25425442809 0.0 0.0 0.844849853912 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.158844688727 1.03084723542 0.0 0.0 0.748739027525 0.111181874068 0.277018672905 0.767833500517

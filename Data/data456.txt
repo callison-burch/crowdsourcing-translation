@@ -1,0 +1,88 @@
+dew_urd_20090119.0006__9
+german chancellor angela merkel also attended the aforementioned meeting said meerkal mentioned conference in angelina markel was present merchel this angera merikal participated at one european headofstate who
+German Chancellor Angela Merkel also attended the aforementioned meeting.
+german chancellor angela merkel also attended the aforementioned meeting
+1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.498595494346 0.754746496555 0.77500444731 0.685727198673 0.31101283073 0.699855551505 0.0479351101579 1.03084723542 0.518056066882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+German Chancellor Angela Merkel also attended the said meeting.
+german chancellor angela merkel also attended the said meeting
+1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.498595494346 0.754746496555 0.77500444731 0.685727198673 0.31101283073 0.699855551505 0.0479351101579 0.0 0.518056066882 0.246159276277 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+German Chancellor Angela Merkel also attended the said meeting.
+german chancellor angela merkel also attended the said meeting
+1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.498595494346 0.754746496555 0.77500444731 0.685727198673 0.31101283073 0.699855551505 0.0479351101579 0.0 0.518056066882 0.246159276277 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+German chancellor Angela Merkel also attended the meeting.
+german chancellor angela merkel also attended the meeting
+1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.56091993114 0.849089808624 0.871880003223 0.771443098507 0.349889434572 0.787337495443 0.0539269989276 0.0 0.582813075243 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1wyssw33m2fz2
+German chancellor Angela Meerkal also attended the mentioned conference.
+german chancellor angela meerkal also attended the mentioned conference
+1 1 1 0 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.498595494346 0.754746496555 0.77500444731 0.0 0.31101283073 0.699855551505 0.0479351101579 0.0 0.0 0.0 1.03084723542 0.651708655659 0.528426282415 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+alzgu09bjzsiw
+in the meeting German Chancellor Angelina Markel was also present
+in the meeting german chancellor angelina markel was also present
+1 1 0 0 1 0 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.448735944912 0.679271846899 0.0 0.0 0.279911547657 0.0 0.0431415991421 0.0 0.466250460194 0.0 0.0 0.0 0.0 0.102084476377 0.898994304633 0.898994304633 0.218117971655 0.445734355318 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+German Chancellor, Angela Merchel was also present in the mentioned meeting.
+german chancellor angela merchel was also present in the mentioned meeting
+1 1 1 0 1 0 1 0 1 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.407941768102 0.617519860818 0.634094547799 0.0 0.254465043325 0.0 0.0392196355837 0.0 0.423864054722 0.0 0.0 0.533216172812 0.0 0.0928040694341 0.0 0.0 0.198289065141 0.405213050289 0.766393387127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2i57ww1b3evwx
+in this German chancellor Angera Merikal also participated
+in this german chancellor angera merikal also participated
+1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+0.56091993114 0.849089808624 0.0 0.0 0.349889434572 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.127605595472 0.0 0.0 0.0 0.0 0.0 0.216529421146 1.29702967593 1.21038627836 0.867781275371 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+German Chancellor Angela Meerkal also attended the conference.
+german chancellor angela meerkal also attended the conference
+1 1 1 0 1 1 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.56091993114 0.849089808624 0.871880003223 0.0 0.349889434572 0.787337495443 0.0539269989276 0.0 0.0 0.0 1.15970313985 0.0 0.594479567717 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+German Chancellor Angela Merkel also attended the conference.
+german chancellor angela merkel also attended the conference
+1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.56091993114 0.849089808624 0.871880003223 0.771443098507 0.349889434572 0.787337495443 0.0539269989276 0.0 0.0 0.0 0.0 0.0 0.594479567717 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a38xqb9846w49n
+German chancellor Angela Meerkal also attended the mentioned conference.
+german chancellor angela meerkal also attended the mentioned conference
+1 1 1 0 1 1 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.498595494346 0.754746496555 0.77500444731 0.0 0.31101283073 0.699855551505 0.0479351101579 0.0 0.0 0.0 1.03084723542 0.651708655659 0.528426282415 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a363eba76te7vz
+in the meeting German Chancellor Angelina Markel was also present
+in the meeting german chancellor angelina markel was also present
+1 1 0 0 1 0 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.448735944912 0.679271846899 0.0 0.0 0.279911547657 0.0 0.0431415991421 0.0 0.466250460194 0.0 0.0 0.0 0.0 0.102084476377 0.898994304633 0.898994304633 0.218117971655 0.445734355318 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a10yfd611ru2il
+In the meeting, German Chancellor Angelina Markel was also present.
+in the meeting german chancellor angelina markel was also present
+1 1 0 0 1 0 1 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+0.448735944912 0.679271846899 0.0 0.0 0.279911547657 0.0 0.0431415991421 0.0 0.466250460194 0.0 0.0 0.0 0.0 0.102084476377 0.898994304633 0.898994304633 0.218117971655 0.445734355318 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+German Chancellor Angelina Markel was also present at the meeting.
+german chancellor angelina markel was also present at the meeting
+1 1 0 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 1 0 0 0 0
+0.448735944912 0.679271846899 0.0 0.0 0.279911547657 0.0 0.0431415991421 0.0 0.466250460194 0.0 0.0 0.0 0.0 0.0 0.898994304633 0.898994304633 0.218117971655 0.445734355318 0.0 0.0 0.0 0.0 0.0 0.309760846513 0.0 0.0 0.0 0.0
+aa1hdtufsq32b
+German Chancellor Angela Merchel was also present in the mentioned meeting.
+german chancellor angela merchel was also present in the mentioned meeting
+1 1 1 0 1 0 1 0 1 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.407941768102 0.617519860818 0.634094547799 0.0 0.254465043325 0.0 0.0392196355837 0.0 0.423864054722 0.0 0.0 0.533216172812 0.0 0.0928040694341 0.0 0.0 0.198289065141 0.405213050289 0.766393387127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+au2ar4vob7vlv
+German Chancellor, Angela Merchel was also present in the mentioned meeting.
+german chancellor angela merchel was also present in the mentioned meeting
+1 1 1 0 1 0 1 0 1 0 0 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+0.407941768102 0.617519860818 0.634094547799 0.0 0.254465043325 0.0 0.0392196355837 0.0 0.423864054722 0.0 0.0 0.533216172812 0.0 0.0928040694341 0.0 0.0 0.198289065141 0.405213050289 0.766393387127 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3m48kh7u6y73c
+German Chancellor Angela Merchel was also present at the meeting.
+german chancellor angela merchel was also present at the meeting
+1 1 1 0 1 0 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0
+0.448735944912 0.679271846899 0.697504002579 0.0 0.279911547657 0.0 0.0431415991421 0.0 0.466250460194 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.218117971655 0.445734355318 0.843032725839 0.0 0.0 0.0 0.0 0.309760846513 0.0 0.0 0.0 0.0
+a290hg650rgy73
+German chancellor Angela Merikal was one European head-of-state who participated in the meeting.
+german chancellor angela merikal was one european headofstate who participated in the meeting
+1 1 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 0 0 0 1 1 0 1 1 1 1
+0.345181496086 0.522516805307 0.536541540445 0.0 0.0 0.0 0.0331858454939 0.0 0.358654200149 0.0 0.0 0.0 0.0 0.0785265202904 0.0 0.0 0.16778305512 0.0 0.0 0.0 0.0 0.744853094376 0.534019246382 0.0 0.224332510862 0.401765062535 0.798172108265 0.22768145602

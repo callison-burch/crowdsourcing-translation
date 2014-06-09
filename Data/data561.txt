@@ -1,0 +1,88 @@
+mhr_urd_20090122.0003__3
+the new american president barack hussein obama has started to take steps toward fulfilling his campaign promises acting superficially on made during election surface implementing pledges us apparently begun delivering barak hussain obana upon electing aim at low standerd newly elected implement manifesto level husain working fulfill of slowly goals a newlyelected americas
+The new American President Barack Hussein Obama has started to take steps toward fulfilling his campaign promises.
+the new american president barack hussein obama has started to take steps toward fulfilling his campaign promises
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.02537741126 0.215917547799 0.185124913509 0.166210362609 0.261100070727 0.410296472105 0.203268582541 0.120472230335 0.272354953936 0.063082746611 0.227761719642 0.301718431488 0.393373997255 0.455128239873 0.156904576847 0.38776751609 0.373581512748 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The new American President Barack Hussein Obama has started acting superficially on the promises made during his election campaign.
+the new american president barack hussein obama has started acting superficially on the promises made during his election campaign
+2 1 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0454122096232 0.193189384873 0.165638080508 0.148714534966 0.233615852756 0.367107369778 0.181871889642 0.107790942932 0.243686011416 0.0 0.0 0.0 0.0 0.0 0.1403883056 0.346949882817 0.334257142985 0.388447638626 0.546117758287 0.0983415092032 0.207204580861 0.201625670901 0.275503886892 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The new American President Barack Obama, on the surface, has started implementing his election campaign pledges.
+the new american president barack obama on the surface has started implementing his election campaign pledges
+2 1 1 1 1 0 1 1 1 0 0 0 0 0 1 1 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0539269989276 0.229412394537 0.196695220604 0.176598510272 0.277418825148 0.0 0.21597286895 0.128001744731 0.289377138557 0.0 0.0 0.0 0.0 0.0 0.1667111129 0.412002985846 0.0 0.0 0.0 0.116780542179 0.0 0.0 0.327160865684 0.483573754865 0.605193139181 0.579851569924 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The new US President Barack Obama has apparently begun delivering on his election promises.
+the new us president barack obama has apparently begun delivering on his election promises
+1 1 0 1 1 0 1 1 0 0 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0308154279586 0.262185593756 0.0 0.201826868882 0.317050085883 0.0 0.246826135943 0.146287708264 0.0 0.0 0.0 0.0 0.0 0.0 0.190526986172 0.0 0.453634694051 0.0 0.0 0.133463476776 0.0 0.0 0.373898132211 0.0 0.0 0.0 0.262098219346 0.495875014497 0.523693926409 0.584215202151 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a353ocl6lm6m4o
+The new American president Barak Hussain Obana started acting upon his electing aim at low standerd.
+the new american president barak hussain obana started acting upon his electing aim at low standerd
+1 1 1 1 0 0 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0269634994638 0.229412394537 0.196695220604 0.176598510272 0.0 0.0 0.0 0.0 0.289377138557 0.0 0.0 0.0 0.0 0.0 0.1667111129 0.0 0.0 0.461281570868 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.382983885338 0.332102648401 0.648514837966 0.32500547968 0.579851569924 0.458232185608 0.193600529071 0.400371593369 0.605193139181 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Newly elected American President has started to implement his election manifesto at surface level
+newly elected american president has started to implement his election manifesto at surface level
+0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.224794537833 0.201826868882 0.0 0.0 0.0 0.146287708264 0.330716729779 0.0766004780276 0.0 0.0 0.0 0.0 0.190526986172 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.373898132211 0.552655719845 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.221257747509 0.0 0.0 0.409417607736 0.347632076487 0.530842744877 0.592628276126 0.445221620076 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+The new American president, Barack Husain Obama started working on his campaign promises at the surface level.
+the new american president barack husain obama started working on his campaign promises at the surface level
+2 1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0507548225201 0.215917547799 0.185124913509 0.166210362609 0.261100070727 0.0 0.203268582541 0.0 0.272354953936 0.0 0.0 0.0 0.0 0.0 0.156904576847 0.38776751609 0.373581512748 0.0 0.0 0.109911098521 0.0 0.0 0.0 0.455128239873 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.182212262655 0.0 0.0 0.0 0.0 0.0 0.0 0.366653098886 0.380247906001 0.315623653727 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a8v7wa74iohz9
+New American President Barack Hussein Obama has started to fulfill his promises of election campaign.
+new american president barack hussein obama has started to fulfill his promises of election campaign
+0 1 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+0.0 0.244706554173 0.20980823531 0.18837174429 0.295913413491 0.465002668386 0.230371060213 0.13653519438 0.308668947794 0.0714937794924 0.0 0.0 0.0 0.0 0.177825187094 0.439469851569 0.423392381114 0.0 0.0 0.0 0.0 0.0 0.348971590063 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.447511717421 0.0564477530642 0.0 0.0 0.0 0.0 0.0
+a21146bd3quzea
+The new American president, Barak Hussain Obama, started acting upon his election promises slowly.
+the new american president barak hussain obama started acting upon his election promises slowly
+1 1 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0.0308154279586 0.262185593756 0.224794537833 0.201826868882 0.0 0.0 0.246826135943 0.0 0.330716729779 0.0 0.0 0.0 0.0 0.0 0.190526986172 0.0 0.453634694051 0.527178938135 0.0 0.0 0.0 0.0 0.373898132211 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.437695868957 0.379545883887 0.0 0.37143483392 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.56366648269 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+The new American president Barack Hussein Obama started acting upon his electing aim at low standerd.
+the new american president barack hussein obama started acting upon his electing aim at low standerd
+1 1 1 1 1 1 1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.0269634994638 0.229412394537 0.196695220604 0.176598510272 0.277418825148 0.435940001612 0.21597286895 0.0 0.289377138557 0.0 0.0 0.0 0.0 0.0 0.1667111129 0.0 0.0 0.461281570868 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.32500547968 0.579851569924 0.458232185608 0.193600529071 0.400371593369 0.605193139181 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2zhr3rebfem5a
+The new American president Barak Hussain Obama started acting upon his election goals.
+the new american president barak hussain obama started acting upon his election goals
+1 1 1 1 0 0 1 0 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0.0331858454939 0.282353716353 0.242086425358 0.217352012642 0.0 0.0 0.265812761785 0.0 0.356156478224 0.0 0.0 0.0 0.0 0.0 0.205182908185 0.0 0.0 0.567731164146 0.0 0.0 0.0 0.0 0.402659526996 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.471364781954 0.408741721109 0.0 0.400006744221 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.524683795843 0.0 0.0 0.0
+a1nee8mf6oybf8
+The newly elected American President has started to implement his election manifesto at a surface level.
+the newly elected american president has started to implement his election manifesto at a surface level
+1 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 1 0 0
+0.0269634994638 0.0 0.196695220604 0.176598510272 0.0 0.0 0.0 0.128001744731 0.289377138557 0.0670254182741 0.0 0.0 0.0 0.0 0.1667111129 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.327160865684 0.483573754865 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.193600529071 0.0 0.0 0.358240406769 0.304178066926 0.464487401768 0.518549741611 0.389568917566 0.0 0.0 0.0 0.0 0.0 0.0 0.089350137409 0.0 0.0
+ak3jmcigu8mlu
+The newly elected American President has started to implement his election manifesto at the surface level.
+the newly elected american president has started to implement his election manifesto at the surface level
+2 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+0.0539269989276 0.0 0.196695220604 0.176598510272 0.0 0.0 0.0 0.128001744731 0.289377138557 0.0670254182741 0.0 0.0 0.0 0.0 0.1667111129 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.327160865684 0.483573754865 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.193600529071 0.0 0.0 0.358240406769 0.304178066926 0.464487401768 0.518549741611 0.389568917566 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ajfwu2g6a1bhs
+The newly-elected American President has started to implement his election manifesto at surface level
+the newlyelected american president has started to implement his election manifesto at surface level
+1 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0
+0.0308154279586 0.0 0.224794537833 0.201826868882 0.0 0.0 0.0 0.146287708264 0.330716729779 0.0766004780276 0.0 0.0 0.0 0.0 0.190526986172 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.373898132211 0.552655719845 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.221257747509 0.0 0.0 0.0 0.0 0.530842744877 0.592628276126 0.445221620076 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.552655719845 0.0
+a6tw9zegog7ph
+The new American president, Barack Husain Obama, started working on his campaign promises at the surface level.
+the new american president barack husain obama started working on his campaign promises at the surface level
+2 1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0507548225201 0.215917547799 0.185124913509 0.166210362609 0.261100070727 0.0 0.203268582541 0.0 0.272354953936 0.0 0.0 0.0 0.0 0.0 0.156904576847 0.38776751609 0.373581512748 0.0 0.0 0.109911098521 0.0 0.0 0.0 0.455128239873 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.182212262655 0.0 0.0 0.0 0.0 0.0 0.0 0.366653098886 0.380247906001 0.315623653727 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+ayeowkx2r19vz
+The new American president, Barack Obama, started working on his campaign promises at the surface level.
+the new american president barack obama started working on his campaign promises at the surface level
+2 1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0
+0.0539269989276 0.229412394537 0.196695220604 0.176598510272 0.277418825148 0.0 0.21597286895 0.0 0.289377138557 0.0 0.0 0.0 0.0 0.0 0.1667111129 0.412002985846 0.396930357295 0.0 0.0 0.116780542179 0.0 0.0 0.0 0.483573754865 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.193600529071 0.0 0.0 0.0 0.0 0.0 0.0 0.389568917566 0.0 0.335350132085 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1dndzlo2d5d48
+The new American president, Barack Husain Obama, started working on his campaign promises at the surface level.
+the new american president barack husain obama started working on his campaign promises at the surface level
+2 1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0
+0.0507548225201 0.215917547799 0.185124913509 0.166210362609 0.261100070727 0.0 0.203268582541 0.0 0.272354953936 0.0 0.0 0.0 0.0 0.0 0.156904576847 0.38776751609 0.373581512748 0.0 0.0 0.109911098521 0.0 0.0 0.0 0.455128239873 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.182212262655 0.0 0.0 0.0 0.0 0.0 0.0 0.366653098886 0.380247906001 0.315623653727 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3i6odkoktfoow
+America's new President, Barack Hussein Obama, has started to fulfill his promises of election campaign.
+americas new president barack hussein obama has started to fulfill his promises of election campaign
+0 1 0 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1
+0.0 0.244706554173 0.0 0.18837174429 0.295913413491 0.465002668386 0.230371060213 0.13653519438 0.308668947794 0.0714937794924 0.0 0.0 0.0 0.0 0.177825187094 0.439469851569 0.423392381114 0.0 0.0 0.0 0.0 0.0 0.348971590063 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.447511717421 0.0564477530642 0.0 0.0 0.0 0.0 0.36986157801

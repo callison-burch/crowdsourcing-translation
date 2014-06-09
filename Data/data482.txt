@@ -1,0 +1,88 @@
+dew_urd_20090120.0008__4
+in this regard german chancellor angela merkel has expressed confidence the new american president with reference shown that these regards merchel also reliance on miracle her of usa merckle his stating hopes for high expectations to
+In this regard, German Chancellor Angela Merkel has expressed confidence in the new American President.
+in this regard german chancellor angela merkel has expressed confidence in the new american president
+2 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13611263517 0.115482357945 0.409475393524 0.299157296608 0.452847897933 0.465002668386 0.411436319204 0.13653519438 0.352165813776 0.441002486117 0.0287610660947 0.244706554173 0.20980823531 0.18837174429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+With this reference, German Chancellor Angela Merkel has shown confidence in the new American President.
+with this reference german chancellor angela merkel has shown confidence in the new american president
+1 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.068056317585 0.115482357945 0.0 0.299157296608 0.452847897933 0.465002668386 0.411436319204 0.13653519438 0.0 0.441002486117 0.0287610660947 0.244706554173 0.20980823531 0.18837174429 0.157327967263 0.445823863556 0.387459281065 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+In this regard, the German Chancellor has expressed confidence in the new American President
+in this regard the german chancellor has expressed confidence in the new american president
+2 1 1 1 1 0 0 1 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.145834966254 0.123731097798 0.438723635918 0.320525674937 0.485194176357 0.0 0.0 0.146287708264 0.37732051476 0.472502663697 0.0616308559173 0.262185593756 0.224794537833 0.201826868882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+In that regard, German chancellor Angela Merkel has expressed confidence in the new American president.
+in that regard german chancellor angela merkel has expressed confidence in the new american president
+2 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.13611263517 0.0 0.409475393524 0.299157296608 0.452847897933 0.465002668386 0.411436319204 0.13653519438 0.352165813776 0.441002486117 0.0287610660947 0.244706554173 0.20980823531 0.18837174429 0.0 0.0 0.0 0.081258397351 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+In these regards, German Chancellor, Angela Merchel also expressed reliance on the new American President.
+in these regards german chancellor angela merchel also expressed reliance on the new american president
+1 0 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+0.068056317585 0.0 0.0 0.299157296608 0.452847897933 0.465002668386 0.0 0.0 0.352165813776 0.0 0.0287610660947 0.244706554173 0.20980823531 0.18837174429 0.0 0.0 0.0 0.0 0.203846523925 0.411436319204 0.562021817226 0.186607698438 0.599329536422 0.124565911657 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+amwxjmcv94h5s
+German Chancellor Angela Miracle expressed her confidence on the new president of USA.
+german chancellor angela miracle expressed her confidence on the new president of usa
+0 0 0 1 1 1 0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.345181496086 0.522516805307 0.536541540445 0.0 0.0 0.406345169742 0.508849022443 0.0331858454939 0.282353716353 0.0 0.217352012642 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.143729898066 0.629154833086 0.29059449068 0.0651320227664 0.484515381811 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a143bvgouf83je
+in this reference, the German Chancellor Angela Merckle has expressed confidence in the American president.
+in this reference the german chancellor angela merckle has expressed confidence in the american president
+2 1 0 1 1 1 0 1 1 1 2 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.13611263517 0.115482357945 0.0 0.299157296608 0.452847897933 0.465002668386 0.0 0.13653519438 0.352165813776 0.441002486117 0.0575221321894 0.0 0.20980823531 0.18837174429 0.0 0.445823863556 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.428332912591 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3kwcqj39dxkt4
+The German Chancellor, Angela Merkel , expressed his confidence on the new American president.
+the german chancellor angela merkel  expressed his confidence on the new american president
+0 0 0 1 1 1 1 0 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.345181496086 0.522516805307 0.536541540445 0.474734214466 0.0 0.406345169742 0.508849022443 0.0663716909878 0.282353716353 0.242086425358 0.217352012642 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.143729898066 0.0 0.0 0.0 0.0 0.0 0.205182908185 0.0 0.0 0.0 0.0 0.0 0.0
+a2eldzaxlm8quo
+German Chancellor Angela Merchel also expressed reliance on the new American president in these regards stating,
+german chancellor angela merchel also expressed reliance on the new american president in these regards stating
+1 0 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0
+0.0638027977359 0.0 0.0 0.28045996557 0.424544904312 0.435940001612 0.0 0.0 0.330155450415 0.0 0.0269634994638 0.229412394537 0.196695220604 0.176598510272 0.0 0.0 0.0 0.0 0.19110611618 0.385721549254 0.52689545365 0.174944717286 0.561871440396 0.116780542179 0.0 0.0 0.0 0.0 0.0 0.0 0.467866603097 0.0 0.0 0.0 0.0 0.0
+a1kf7gs7yulm10
+The German Chancellor, Angela Merchel, also expressed hopes for the new American president.
+the german chancellor angela merchel also expressed hopes for the new american president
+0 0 0 1 1 1 0 0 1 0 2 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+0.0 0.0 0.0 0.345181496086 0.522516805307 0.536541540445 0.0 0.0 0.406345169742 0.0 0.0663716909878 0.282353716353 0.242086425358 0.217352012642 0.0 0.0 0.0 0.0 0.0 0.0 0.648486712184 0.215316575121 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.495723982671 0.148453535154 0.0 0.0 0.0
+a2bk4fasw056jr
+In this regard, German Chancellor Angela Merkel also expressed high expectations for the new American President.
+in this regard german chancellor angela merkel also expressed high expectations for the new american president
+1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 0
+0.0638027977359 0.108264710573 0.383883181428 0.28045996557 0.424544904312 0.435940001612 0.385721549254 0.0 0.330155450415 0.0 0.0269634994638 0.229412394537 0.196695220604 0.176598510272 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.174944717286 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.120618497313 0.323608773512 0.374638173299 0.0
+a3m4exda4ue7bp
+German Chancellor Angela Miracle expressed her confidence in the new president of the USA.
+german chancellor angela miracle expressed her confidence in the new president of the usa
+1 0 0 1 1 1 0 0 1 1 2 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0729174831268 0.0 0.0 0.320525674937 0.485194176357 0.498217144699 0.0 0.0 0.37732051476 0.472502663697 0.0616308559173 0.262185593756 0.0 0.201826868882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.584215202151 0.269837741345 0.0604797354259 0.449907140253 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a1395pss402i1j
+German Chancellor Angela Miracle expressed her confidence on the new president of the USA.
+german chancellor angela miracle expressed her confidence on the new president of the usa
+0 0 0 1 1 1 0 0 1 1 2 1 0 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.320525674937 0.485194176357 0.498217144699 0.0 0.0 0.37732051476 0.472502663697 0.0616308559173 0.262185593756 0.0 0.201826868882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.133463476776 0.584215202151 0.269837741345 0.0604797354259 0.449907140253 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+German Chancellor Angela Miracle expressed her confidence in the new president of the USA.
+german chancellor angela miracle expressed her confidence in the new president of the usa
+1 0 0 1 1 1 0 0 1 1 2 1 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+0.0729174831268 0.0 0.0 0.320525674937 0.485194176357 0.498217144699 0.0 0.0 0.37732051476 0.472502663697 0.0616308559173 0.262185593756 0.0 0.201826868882 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.584215202151 0.269837741345 0.0604797354259 0.449907140253 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a291u81kgj6l9n
+In this reference, the German Chancellor Angela Merckle has expressed confidence in the American president.
+in this reference the german chancellor angela merckle has expressed confidence in the american president
+2 1 0 1 1 1 0 1 1 1 2 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.13611263517 0.115482357945 0.0 0.299157296608 0.452847897933 0.465002668386 0.0 0.13653519438 0.352165813776 0.441002486117 0.0575221321894 0.0 0.20980823531 0.18837174429 0.0 0.445823863556 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.428332912591 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+In reference to this, the German Chancellor Angela Merckle has expressed confidence in the American president.
+in reference to this the german chancellor angela merckle has expressed confidence in the american president
+2 1 0 1 1 1 0 1 1 1 2 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1
+0.127605595472 0.108264710573 0.0 0.28045996557 0.424544904312 0.435940001612 0.0 0.128001744731 0.330155450415 0.413439830735 0.0539269989276 0.0 0.196695220604 0.176598510272 0.0 0.417959872083 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.401562105554 0.0 0.0 0.0 0.0 0.0 0.0 0.0670254182741
+a2ylf04uakyvf1
+In this regard, the German Chancellor Angela Merckle has expressed confidence in the American president.
+in this regard the german chancellor angela merckle has expressed confidence in the american president
+2 1 1 1 1 1 0 1 1 1 2 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0.13611263517 0.115482357945 0.409475393524 0.299157296608 0.452847897933 0.465002668386 0.0 0.13653519438 0.352165813776 0.441002486117 0.0575221321894 0.0 0.20980823531 0.18837174429 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.428332912591 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a477wg206bmm6
+The German Chancellor, Angela Merkel , expressed his confidence on the new American president.
+the german chancellor angela merkel  expressed his confidence on the new american president
+0 0 0 1 1 1 1 0 1 1 2 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0
+0.0 0.0 0.0 0.345181496086 0.522516805307 0.536541540445 0.474734214466 0.0 0.406345169742 0.508849022443 0.0663716909878 0.282353716353 0.242086425358 0.217352012642 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.143729898066 0.0 0.0 0.0 0.0 0.0 0.205182908185 0.0 0.0 0.0 0.0 0.0 0.0

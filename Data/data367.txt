@@ -1,0 +1,88 @@
+bbc_urd_20090130.0013__6
+relations between the two countries have declined after mumbai attacks of both been affected severely strained indianpakistani pakindia relationships are badly hurt by were attack has relationship mutual pakistanindia diplomatic
+Relations between the two countries have declined after the Mumbai attacks.
+relations between the two countries have declined after the mumbai attacks
+1 1 2 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.437777797858 0.358774357219 0.0784392711674 0.337554973769 0.338020578325 0.208026350255 0.717393705242 0.27017802631 0.345433439855 0.29244959115 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Relations of both countries have been affected after the Mumbai attacks.
+relations of both countries have been affected after the mumbai attacks
+1 0 1 0 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.437777797858 0.0 0.0392196355837 0.0 0.338020578325 0.208026350255 0.0 0.27017802631 0.345433439855 0.29244959115 0.0769742087239 0.409979031865 0.264131239387 0.508828537667 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+After the Mumbai attacks, relations between the two countries have been affected.
+after the mumbai attacks relations between the two countries have been affected
+1 1 2 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.401296314703 0.328876494118 0.0719026652368 0.309425392622 0.309852196798 0.190690821067 0.0 0.247663190784 0.316647319867 0.268078791888 0.0 0.0 0.242120302771 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+The attacks have severely strained Indian-Pakistani relations.
+the attacks have severely strained indianpakistani relations
+1 0 1 0 0 1 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.687936539491 0.0 0.0616308559173 0.0 0.0 0.326898550401 0.0 0.0 0.0 0.459563643236 0.0 0.0 0.0 0.0 1.10531143969 1.20433246548 1.38329860384 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2de039cxxjuga
+Pak-India relationships are badly hurt by Mumbai attacks.
+pakindia relationships are badly hurt by mumbai attacks
+0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.4749709798 0.402118187832 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.935733206194 0.856234610354 0.26446806886 0.885050067681 0.876117697183 0.311646007018 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3dd3acpmvdvca
+After the Mumbai attacks, the relations between the two countries were affected.
+after the mumbai attacks the relations between the two countries were affected
+1 1 3 1 1 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.401296314703 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.247663190784 0.316647319867 0.268078791888 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.243267109861 0.0 0.0 0.0 0.0 0.0 0.0
+a172x4w90uost1
+The Mumbai attack has badly affected the relationship between the two countries.
+the mumbai attack has badly affected the relationship between the two countries
+0 1 3 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0
+0.0 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.0 0.316647319867 0.0 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.590033378454 0.0 0.0 0.0 0.312129501817 0.170668992975 0.471478211346 0.0 0.0 0.0
+a8v7wa74iohz9
+The mutual relations of the two countries are affected.
+the mutual relations of the two countries are affected
+1 0 2 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0
+0.535061752937 0.0 0.0958702203157 0.412567190162 0.413136262398 0.0 0.0 0.0 0.0 0.0 0.0940795884403 0.0 0.0 0.621901546038 0.0 0.0 0.0 0.0 0.0 0.235082727875 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.687398073936 0.0 0.0
+a1e4smxrh1paux
+Pak-India relationships are badly hurt by Mumbai attacks.
+pakindia relationships are badly hurt by mumbai attacks
+0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.4749709798 0.402118187832 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.935733206194 0.856234610354 0.26446806886 0.885050067681 0.876117697183 0.311646007018 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3qu3km3iywhif
+Pakistan-India relationships are badly hurt by the Mumbai attacks.
+pakistanindia relationships are badly hurt by the mumbai attacks
+0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 1 0
+0.0 0.0 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.422196426489 0.357438389184 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.761097431426 0.235082727875 0.786711171272 0.778771286385 0.277018672905 0.0 0.0 0.0 0.0 0.0 1.0758989141 0.0
+aa1hdtufsq32b
+Pak-India relationships are badly hurt by the Mumbai attacks.
+pakindia relationships are badly hurt by the mumbai attacks
+0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0
+0.0 0.0 0.0479351101579 0.0 0.0 0.0 0.0 0.0 0.422196426489 0.357438389184 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.83176284995 0.761097431426 0.235082727875 0.786711171272 0.778771286385 0.277018672905 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a2aw6lkvu8o4qx
+After the Mumbai attacks, the relations between the two countries were affected.
+after the mumbai attacks the relations between the two countries were affected
+1 1 3 1 1 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.401296314703 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.247663190784 0.316647319867 0.268078791888 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.243267109861 0.0 0.0 0.0 0.0 0.0 0.0
+a6tw9zegog7ph
+The Mumbai attacks affected relations between the two countries.
+the mumbai attacks affected relations between the two countries
+1 1 2 1 1 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0.535061752937 0.438501992157 0.0958702203157 0.412567190162 0.413136262398 0.0 0.0 0.0 0.422196426489 0.357438389184 0.0 0.0 0.0 0.621901546038 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+a3bnv4r3pkyf7u
+After the Mumbai attacks, the relations between the two countries were affected.
+after the mumbai attacks the relations between the two countries were affected
+1 1 3 1 1 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0.401296314703 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.247663190784 0.316647319867 0.268078791888 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.243267109861 0.0 0.0 0.0 0.0 0.0 0.0
+a1o0h2skmao3pr
+The Mumbai attack has badly affected the relationship between the two countries.
+the mumbai attack has badly affected the relationship between the two countries
+0 1 3 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0
+0.0 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.0 0.316647319867 0.0 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.590033378454 0.0 0.0 0.0 0.312129501817 0.170668992975 0.471478211346 0.0 0.0 0.0
+a6tw9zegog7ph
+The Mumbai attack has badly affected the relationship between the two countries.
+the mumbai attack has badly affected the relationship between the two countries
+0 1 3 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0
+0.0 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.0 0.316647319867 0.0 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.590033378454 0.0 0.0 0.0 0.312129501817 0.170668992975 0.471478211346 0.0 0.0 0.0
+a1udut22ydo7ta
+The Mumbai attack has badly affected the relationship between the two countries.
+the mumbai attack has badly affected the relationship between the two countries
+0 1 3 1 1 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0
+0.0 0.328876494118 0.107853997855 0.309425392622 0.309852196798 0.0 0.0 0.0 0.316647319867 0.0 0.0 0.0 0.0 0.466426159528 0.0 0.0 0.0 0.0 0.0 0.0 0.590033378454 0.0 0.0 0.0 0.312129501817 0.170668992975 0.471478211346 0.0 0.0 0.0
+a3ohqrf1mdq99b
+The diplomatic relations between the two countries have been affected.
+the diplomatic relations between the two countries have been affected
+1 1 2 1 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0.481555577643 0.394651792941 0.0862831982842 0.371310471146 0.371822636158 0.228828985281 0.0 0.0 0.0 0.0 0.0 0.0 0.290544363325 0.559711391434 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.598178825278
