@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  14 AUG 2014 04:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 AUG 2014 03:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,9 +535,14 @@ LaTeX Warning: Citation `sheng2008get' on page 14 undefined on input line 469.
 
 
 LaTeX Warning: Citation `passonneau2013benefits' on page 14 undefined on input 
-line 477.
+line 480.
 
-(./TechReport.bbl [14]) [15
+[14]
+
+LaTeX Warning: Citation `passonneau2013benefits' on page 15 undefined on input 
+line 482.
+
+(./TechReport.bbl) [15
 
 ] (./TechReport.aux) ) 
 Here is how much of TeX's memory you used:
@@ -562,7 +567,7 @@ l/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texliv
 e/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on TechReport.pdf (15 pages, 320883 bytes).
+Output written on TechReport.pdf (15 pages, 322078 bytes).
 PDF statistics:
  317 PDF objects out of 1000 (max. 8388607)
  227 compressed objects within 3 object streams
