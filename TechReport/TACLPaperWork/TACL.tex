@@ -15,6 +15,12 @@
 \usepackage{multirow}
 \usepackage{url}
 \usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{tablefootnote}%[2014/01/26]
+%\usepackage{footnotebackref}[2012/07/01]
+
+
+
 \DeclareMathOperator*{\argmax}{arg\,max}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
 
@@ -43,7 +49,7 @@
 
 Crowdsourcing is a promising new mechanism for collecting large volumes of annotated data at low cost.  Platforms like Amazon Mechanical Turk (MTurk) provide researchers with access to large groups of people, who can complete `human intelligence tasks' that are beyond the scope of current artificial intelligence.  Since statistical natural language processing benefits from increased amount of labeled training data, many NLP researchers have focused on creating speech and language data through crowdsourcing (for example,  \newcite{snow2008,callison-burch-dredze2010} and others).  One NLP application that has been the focus of crowdsourced data collection is statistical machine translation (SMT) which requires large bilingual sentence-aligned parallel corpora to train translation models.  Crowdsourcing's low costs has made i possible to hire people to create sufficient volumes of translation in order to train SMT systems.
 
-However, crowdsourcing is not perfect, and one of its most pressing challenges is how to ensure the quality of the data that is created by it.  Unlike more traditional employment mechanism, where our annotator are pre-vetted and their skills are attested for, in crowdsourcing very little is known about the annotators.  They are not professional translators, and their are no built-in mechanisms for testing their language skills.  They complete tasks without any oversight. Thus, translations produced via crowdousrcing may be low quality .
+However, crowdsourcing is not perfect, and one of its most pressing challenges is how to ensure the quality of the data that is created by it.  Unlike more traditional employment mechanism, where our annotator are pre-vetted and their skills are attested for, in crowdsourcing very little is known about the annotators.  They are not professional translators, and there are no built-in mechanisms for testing their language skills.  They complete tasks without any oversight. Thus, translations produced via crowdousrcing may be low quality .
 Previous work has addressed this problem, showing that non-professional translators hired on Amazon Mechanical Turk (MTurk) can achieve professional-level quality, by soliciting multiple translations of each source sentence and then choosing the best translation \cite{zaidan-callisonburch:2011:ACL-HLT2011a}.
 
 In this paper we focus on a different aspect of crowdsourcing than \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}.  We attempt to achieve the same high quality while {\bf minimizing the associated costs}.  
@@ -66,17 +72,288 @@ Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011
 %For the second approach, we propose a framework to search for the threshold to separate acceptable and unacceptable translations and judge for a  
 %%Also need to mention another work to reduce cost
 
-\section{Cost Optimization}
 
-There are two approaches that we use to reduce costs. In the first approach, we attempt to quickly rank workers and discard low ranking workers. In the second approach, we reduce the number of translations that we buy for each foreign sentence. After receiving a translation, we decide whether its quality is sufficient or whether we ought to pay for another translation (with the hope that the subsequent translation will be better).  In both cases we aim to reduce costs, while keeping our overall translation quality high.
+\section{Previous work}
+
+%\subsection{Data Collection}
+
+We use the data collected by  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk (MTurk). MTurk is an online marketplace for work where workers (called Turkers) complete microtasks called Human Intelligence Tasks (HITs) in return for micropayments.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} hired Turkers to translate 1792 Urdu sentences 
+from the  2009 NIST Urdu-English Open Machine Translation Evaluation set.\footnote{LDC Catalog number XXX}. In each HIT, they posted 10 Urdu sentences to be translated. A total of 51 Turkers contributed translations. 
+%, and subsequently post-edited by 10 additional workers.\footnote{\newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  collected their translations in two batches.  The first batch contained 1 translation, each with 1 post-edited  version.  The second contained an additional 3 translations, each of which was post-edited by 3 workers.}
+
+Along with the translations, \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} also surveyed the Turkers, and collected self-reported language skills (what was their native language, how long they had spoken English and Urdu), and information about what country they lived in.
+
+The Linguistics Data Consortium produced four sets of professional translations for each  of the Urdu sentences in this set. This makes it possible to compare the Turkers' translation quality to professionals. 
+%\subsection{Ranking Translators}
+
+\subsection{Professional quality from non-professionals}
+
+\newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  used the features in order to try to select the best translation from among the 4 candidate translations, either by predicting the best translation on a sentence-by-sentence basis, or by trying to rank the Turkers and then taking the translation from the best translator of each sentence. 
+
+\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} extracted a number of features from the translations and workers' self-reported language skills in order to predict the best translations.   These features included 9 sentence-level features:
+\begin{itemize}
+\item Language model features:	we assign a log probability and a per-word perplexity score for each sentence, based on 5-gram language model trained on English Gigaword corpus.
+\item A Web \textit{n}-gram log probability feature using Microsoft Web N-Gram Corpus, up to 5-grams.
+\item Geometric averages of Web \textit{n}-grams.
+\item Sentence length features:	we use the ratios of the length of the Urdu source sentence to the length of its English translation, and vice versa.
+\item Edit rate to other Turkers' translations of that sentence.
+\end{itemize}
+They also used 15 worker-level features that aggregate over the sentence-level features, plus features based on their language abilities and their location, and a set of 3 features based on a second-pass HIT where English speakers ranked the translations (average rank, \% of time ranked best, \% of time ranked better than others).   Finally, they posit a calibration feature, that computes the BLEU score for a fraction of the Turkers' translations against the professional translations. 
+
+
+We introduce a new bilingual feature. We use the IBM Model 1 to construct the word alignment with probabilities between Urdu and English. For each foreign sentence, we calculate the word alignment feature by averaging the alignment probabilities of all words in Urdu sentence. 
+
+
+
+\subsection{Cost}
+
+Compared to the cost of professional translations, the cost of crowdsourced translations is already low. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} paid \$0.10 per sentence.  The cost to translate each of the sentences in the Urdu data set once was \$179.20, plus a 10\% commission to Amazon.  The major cost involved with   \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}'s method is the need to redundantly translate every source sentence.   Every sentence in their set was independently translated by 4 workers.  So the total cost to create the translations in their data set was \$716.80 (+10\%).
+
+Another component cost of the \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  is the need for some amount of professionally-translated data, used to calbrate the goodness of the non-professional Turker translators.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} vary the amount of calibration data used.  The minimum amount is 10\% of the data set.  If we esimate the cost of professional translation at XXX, then the cost of the calibration data is XXX.
+
+
+Here we attempt to minimize cost by reducing the number of translations needed for each sentence, and reducing the amount of professionally-translated calibration data.  The lower-bound on cost is \$179.20, for single translations from Turkers with no calibration data.  The upperbound is \$XXX (\$716.80 + \$XXX for YY\% calibration).
+
+
+\section{Data Analysis} \label{dataanaly}
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{WorkerPerf/wp.pdf}
+  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted based on the gold-standard ranking against professionals, with the best translators on top. Each tick represent a single translation HIT, and depicts the HIT's BLEU score (color) and its size/number of sentences (thickness).  
+%The worker who provided the translation is graphed on the y axis, and the submission time is plotted on the x axis.   
+  We calculated the median of all HITs' BLEU scores.   HIT's color is dark if its BLEU score is higher than the median, and light if it is lower. 
+%  In Figure~\ref{fworkerperf}, the order of workers on y axis is based on the gold standard ranking of these workers. The top most worker ranked highest and the bottom most worker ranked lowest. 
+  }
+    \label{fworkerperf}
+\end{figure}
+
+
+We created a gold-standard ranking of Turkers by computing their BLEU scores compared to professionals for all of the translations that they submitted.  %In our experiments, we attempt to automatically rank the Turkers.  In order to do so, we extract a variety of features from the data.
+Figure \ref{fworkerperf} shows this ranking, along with the number of HITs produced by each worker and their timing information.
+%We analyze the data considering the timing information that accompanies the translations that we collected. In this analysis, we'd like to evaluate the performance of each worker as time goes on. Each worker translates one or more HITs. Since the translations were collected in two batches, which started at different times, we assign a relative time to each assignment to simulate what would have happened if both batches were run at the same time.  For each HIT, we assign it a relative time by calculating difference between the HIT's submission time and the HIT's creation time. This gives the HIT's relative submission time.  
+%For each worker, we calculated the BLEU score for each of their HITs and analyze the translation quality of the worker at different time points. We are interested in seeing whether workers produce consistently good translations over time or if their quality drops off over time, and if workers who produce bad translations submit them more quickly than workers who submit good translations.  Figure~\ref{fworkerperf} illustrates workers' translation quality at across time. 
+From this graph we wee that that most workers' performance stays
+consistent as time passes.  Good translators tend to produce consistently good translations.  Bad translators tend to produce consistently bad translations.  This observation may enable us to predict workers' performance based on their early submissions, so that we can come to an early decision about whether to continue to hire them. 
+
+
+\section{Automatically Ranking Translators}
+
+
+Here, we try to compute the ranks of the Turkers, with the goal of trying to filter out bad workers.  Instead of indirectly evaluating our rankings by the translation quality, we instead evaluate our predicted rankings directly, calculating their correlation with the gold standard ranking given in Table \ref{spearmanrho}.
+
+We train MERT, Regression Trees, and Linear Regression models to rank translators. MERT, the baseline method, achieves a correlation of  0.67 when trained on ranking features. This is the highest correlation that  MERT achieves across all feature sets. MERT is poorly suited for ranking translators.  If we contrast it with a simpler baseline that reserves 10\% of the data for calibration, and computes a ranking of translators based on their BLEU scores against the professionals over this calibration set, the correlation reaches 0.79.   We target 0.67 and 0.79 as the baseline correlation values to beat for our more sophisticated models.
+%"TODO: Create a list of the different methods that we used to rank the translators.  Be clear which ones are the baselines.  We should have two baselines: the linear model from Omar's paper, and a simpler one that just uses the calibration data directly without a model.
+%
+%Insert a table here that lists the methods we tried to predict the ranks, and their Spearman correlation score."
+
+
+ \begin{table*}[t]
+ %\begin{center}
+ \center
+ \begin{tabular}{|c|c|c|c|}
+\hline
+\multirow{2}{*}{Feature Set} & \multicolumn{3}{c|}{Spearman Correlation}                                                                 \\ \cline{2-4} 
+                             & \multicolumn{1}{l|}{MERT} & \multicolumn{1}{l|}{Linear Regression} & \multicolumn{1}{l|}{Regression Tree} \\ \hline
+Sentence features            & 0.36                      & 0.69                                   & 0.71                                 \\ \hline
+Worker features              & 0.44                      & 0.65                                   & 0.59                                 \\ \hline
+Ranking features             & 0.67                      & 0.79                                   & 0.76                                 \\ \hline
+Calibration feature          & 0.79                      & 0.79                                   & 0.79                                 \\ \hline
+S+W+R features  \tablefootnote[2]{\label{note2}Combination of (S)entence, (W)orker and (R)anking features}            & 0.42                      & 0.78                                   & 0.74                                  \\ \hline
+S+W+R+B features   \tablefootnote[3]{\label{note3}Combination of (S)entence, (W)orker , (R)anking and (B)ilingual features}           & 0.47                      & 0.80                                   & 0.72                                 \\ \hline
+All features                 & 0.56                      & 0.84                                   & 0.81                                 \\ \hline
+\end{tabular}
+ %\end{center}
+ \caption{\label{spearmanrho} Spearman's correlation for different models trained using different feature sets }
+\end{table*}
+
+\begin{table*}[t]
+\begin{center}
+
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{Feature Set} & \multicolumn{3}{c|}{Bleu Score (selected by ranking)} & \multicolumn{3}{c|}{Bleu Score (selected by model)} \\ \cline{2-7} 
+ & MERT      & LR \tablefootnote[4]{\label{note4}Linear Regression}    & RT \tablefootnote[5]{ \label{note5}Regression Tree}    & MERT     & LR  \footnotemark[\ref{note4}]   & RT \footnotemark[\ref{note5}]     \\ \hline
+Sentence features            & 30.04     & 36.66                & 36.97              & 38.51    & 37.84                & 35.32             \\ \hline
+Worker features              & 37.89     & 36.92                & 37.96              & 37.89    & 36.92                & 37.59             \\ \hline
+Ranking features             & 37.25     & 36.94                & 37.04              & 36.74    & 35.69                & 36.17             \\ \hline
+Calibration feature          & 38.27     & 38.27                & 38.27              & 38.27    & 38.27                & 38.27             \\ \hline
+S+W+R features\footnotemark[\ref{note2}]              & 33.04     & 37.39                & 37.60              & 38.44    & 38.69                & 37.04             \\ \hline
+S+W+R+B features  \footnotemark[\ref{note3}]           & 34.30     & 37.59                & 37.27              & 38.80    & 39.23                & 37.00             \\ \hline
+All features                 & 35.58     & 38.37                & 37.80              & 39.74    & 39.80                & 37.19             \\ \hline
+\end{tabular}
+\end{center}
+\caption{\label{bleu} Bleu score for different models trained using different feature sets }
+\end{table*}
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{OnlyCali/calirankingorder.pdf}
+  \caption{Correlation between gold standard ranking and calibration ranking. We use 10\% training data as calibration data to rank workers. The corresponding Spearman's Correlation is 0.79. Each bubble represents a worker with his/her rank in gold standard ranking on x-axis and rank in calibration ranking on y-axis. The radius of each bubble shows the relative volume of translations completed by the worker.  }
+    \label{fdtallwocalbutbilinorder}
+\end{figure}
+
+Table \ref{spearmanrho} shows an unexpected result.  The MERT trained on the complete set of features produces a correlation that is weaker than one trained only use ranking features.  The reason for this is that the model is trained using the MERT algorithm \cite{och2003minimum}, which is typically used to set the parameters of a statistical machine translation system such that the 1-best translation is ranked the highest among an $n$-best list containing thousands of translations. 
+Setting the feature weights using MERT does a poor job at producing a total ordering on the translators. 
+
+
+%However,  Z-MERT scores translation on a lager scale than the true scale of BLEU score, which makes the model hard to rank workers accurately. For example, there are 2 translations A and B which produced by worker $W_{A}$ and $W_{B}$. The true BLEU score for A is 38 and the true BLEU score for B is 37. A is better than B. However, we use the Z-MERT model to score A and B, we may obtain the result that A's score  is 8000 and B's score is 3000 and we pick A and finish the task to find the best translation. But for the task to rank workers, here comes the problem. From A's true BLEU score and B's true BLEU score we know that $W_{A}$ works better than $W_{B}$ with a difference for 1 BLEU score in their averaged accumulated score. However, in the prediction using Z-MERT, the difference in their accumulated  score is 5000 (8000 - 3000) which is much larger than the gold standard metric and this makes the Z-MERT not a suitable model for ranking workers.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\multicolumn{2}{|c|}{\begin{tabular}[c]{@{}c@{}}Proportion of \\ Calibration Data\end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}Spearman's \\ Correlation\end{tabular}} \\ \cline{1-2}
+First k Sentence                                     & Percentage                                    &                                                                                    \\ \hline
+1                                              & 0.7\%                                         & 0.57
+ \\ \hline
+2                                              & 1.3\%                                         & 0.62
+ \\ \hline
+3                                              & 2.0\%                                         & 0.69
+ \\ \hline
+4                                              & 2.7\%                                         & 0.72
+ \\ \hline
+5                                              & 3.3\%                                         & 0.78
+ \\ \hline
+6                                              & 4.0\%                                         & 0.80
+ \\ \hline
+7                                              & 4.7\%                                         & 0.79
+ \\ \hline
+8                                              & 5.3\%                                         & 0.81
+ \\ \hline
+9                                              & 6.0\%                                         & 0.84
+ \\ \hline
+10                                               & 6.6\%                                         & 0.84                                                                              \\ \hline
+20                                              & 13.3\%                                        & 0.93                                                                               \\ \hline
+30                                               & 19.9\%                                        & 0.96                                                                               \\ \hline
+40                                               & 26.6\%                                        & 0.97                                                                               \\ \hline
+50                                               & 33.2\%                                        & 0.98                                                                               \\ \hline
+60                                               & 39.8\%                                        & 0.99                                                                               \\ \hline
+70                                               & 46.5\%                                        & 0.99                                                                               \\ \hline
+80                                               & 53.1\%                                        & 0.99                                                                               \\ \hline
+90                                               & 60.0\%                                        & 0.99                                                                               \\ \hline
+100                                              & 66.4\%                                        & 0.99                                                                               \\ \hline
+\end{tabular}
+\end{center}
+\caption{\label{spearmansen} Spearman's Correlation for calibration data in different proportion}
+\end{table}
+
+We get a surprisingly strong correlation with the gold standard ranking of workers, without using a model at all.  Instead, we can use a small amount of calibration data (where gold standard translations are known). If we rank the worker based solely on their first HITs' BLEU score, comparing their translations of the 10 sentences in that HIT against the reference translations, then we do well at predicting their BLEU score for all of their translations. The Spearman Correlation is 0.84 when comparing this first-HIT ranking with gold standard ranking.  
+
+If we rank workers using their first $k$ sentences (where  $k \geq 1$ and $\leq  10$ with step size 1 and $k \geq 20 $ and $\leq 100$ with step size 10), we can calculate the Spearman Correlation against the gold standard ranking list as $k$ increases.  The correlation converges to 1 after $k$ is larger than 60, in part because the average number translation each worker submitted is 150.6 and the median number of translation is XXX.
+
+\begin{table*}[t]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+\multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}First-k \\ Sentences\end{tabular}} & \multicolumn{3}{c|}{BLEU  Score (by selection)} & \multicolumn{3}{c|}{Score Comparison} \\ \cline{2-7} 
+                                                                              & Partial Data Ranking  & Gold Ranking  & Random  & P- R\tablefootnote[6]{kfds}      & G - R  \tablefootnote[7]{\label{note7} The }     & G-P \tablefootnote[8]{\label{note8} The }       \\ \hline
+
+1                                                                             & 29.48                 & 30.26         & 30.07  & -0.59       & 0.19       & 0.78       \\ \hline
+2                                                                             & 32.31                 & 33.72         & 29.93  & 2.38        & 3.79       & 1.41      \\ \hline
+3                                                                             & 32.42                 & 33.91         & 29.80  & 2.62        & 4.11       & 1.49      \\ \hline
+4                                                                             & 32.97                 & 34.34         & 29.37  & 3.6         & 4.97       & 1.37      \\ \hline
+5                                                                             & 35.27                 & 37.63         & 28.54  & 6.73        & 9.09       & 2.36      \\ \hline
+6                                                                             & 35.65                 & 37.56         & 28.65  & 7.00        & 8.91       & 1.91      \\ \hline
+7                                                                             & 35.10                 & 37.57         & 29.30  & 5.80        & 8.27       & 2.47      \\ \hline
+8                                                                             & 34.15                 & 34.22         & 29.96  & 4.19        & 4.26       & 0.07      \\ \hline
+9                                                                             & 35.59                 & 37.57         & 29.81  & 5.78        & 7.76       & 1.98      \\ \hline
+10                                                                            & 35.77                 & 37.57         & 29.29  & 6.48        & 8.28       & 1.8       \\ \hline
+20                                                                            & 36.97                 & 37.10         & 29.21  & 7.76        & 7.89       & 0.13      \\ \hline
+30                                                                            & 37.23                 & 37.76         & 28.44  & 8.79        & 9.32       & 0.53      \\ \hline
+40                                                                            & 37.93                 & 37.94         & 30.12  & 7.81        & 7.82       & 0.01    \\ \hline
+50                                                                            & 37.52                 & 37.52         & 29.22  & 8.30        & 8.30       & 0.00      \\ \hline
+60                                                                            & 37.13                 & 37.13         & 28.66  &   8.47      & 8.47      & 0.00   \\ \hline
  
- For the first approach, as mentioned in section~\ref{dataanaly}, we show we are able to rank workers accurately using only the translations of their first 4 HITs.  The ranked list of workers using 4 HITs is  almost identical to the gold standard ranking that uses all HITs. In other words, we can predict workers' performance reasonably well, as long as we have obtained a small number of HITs from them.  (Assuming that we have professional translations of their initial HITs, which we can use to calculate their translation quality). Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first HIT(s) provided by each worker.
+\end{tabular}
+\end{center}
+\caption{\label{firstkbleu} Spearman's Correlation for calibration data in different proportion}
+\end{table*}
+
+%We get a surprisingly strong correlation with the gold standard ranking of workers, without using a model at all.  Instead, we can use a small amount of calibration data (where gold standard translations are known). If we rank the worker based solely on their first HITs' BLEU score, comparing their translations of the 10 sentences in that HIT against the reference translations, then we do well at predicting their BLEU score for all of their translations. The Spearman Correlation is 0.84 when comparing this first-HIT ranking with gold standard ranking.  
+%
+%If we rank workers using their first $k$ HITs (with  $k \geq 1$ and $\leq$ max number of HITs submitted by the worker), we can calculate the Spearman Correlation against the gold standard ranking list as $k$ increases.  The correlation converges to 1 after $k$ is larger than 10, in part because the average number HITs each worker submitted is 15.06 and the median number of HITs is XXX.
+
+
+
+
+
+%, as shown in  Figure~\ref{fcorr} shows details.  The average number HITs each worker provided is 15.06, so we also plot Figure~\ref{fcorrnor} to show the percentage of HITs we use to rank workers for each value of $k$.
+
+    
+%
+%\begin{figure}[htbp]
+%  \centering
+%  \includegraphics[width=\linewidth]{WorkerPerf/corr.pdf}
+%  \caption{Spearman Correlation with the gold standard as we rank the workers based on their first $k$ HITs}
+%    \label{fcorr}
+%\end{figure}
+%
+%\begin{figure}[htbp]
+%  \centering
+%  \includegraphics[width=\linewidth]{WorkerPerf/corrnormalized.pdf}
+%  \caption{The percentage of worker data used to rank them as $k$ increases}
+%    \label{fcorrnor}
+%\end{figure}
+%
+\subsection{Experimental Setup}
+In the first approach ranking workers by model prediction, we evaluate models through five-fold cross validation. We divided the data into 3 parts: 20\% data for worker aggregation feature calculation and 40\% data for ranking workers and the remaining 40\% data for testing. In the 20\% portion, we use half of the data (10\% of the full data set ) to calculate the calibration feature and train  models. 
+
+In the second approach, we compared workers' first k sentences with references and ranked workers by their accumulated performance on these sentences . We choose the top 25\% workers in the ranking list as the ones we keep hiring. To evaluate this method, for each source sentence in testing set, we selected the translation with the highest rank from translating candidates provided only by the workers we kept. We define the test set for first k sentences as $T_k$ and for each source sentence $t \in T$:
+\begin{align*}
+  \{ t \mid (C(t) \cap S_k = \emptyset)   \wedge (C(t) \cap S_w \neq \emptyset)    \}
+\end{align*}
+
+where $C(t)$ is the translating candidates set of the source sentence t, $S_k$ is the translation set consists of each worker's first k translations and $S_w$ is the translation set consists of translations provided by selected workers (some top ranking workers).
+\subsection{Cost Savings}
+
+"TODO: Here please write an analysis of how much money we could save if we choose some threshold for discarding Turkers.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
+
+In the first approach, we quickly evaluate workers and rank them for filtering out workers with low rankings. We train linear regression models using a variety of features to score each translation and evaluate workers by averaging the scores of his/her translations. 
+
+
+Table \ref{spearmanrho} shows that the higest correlation is achieved using the Linear Regression model trained on all features, including the sentence, worker, ranking, bilingual and calibration features.  It achieves a Spearman's Correlation of 0.84.  Since we  use 10\% data to calculate calibration feature, and since professional translators are used to created the calibration data, its cost is approximately \$ XXX (XXX * YYY sentences or words). 
+
+The Linear Regression model with all features acheives a BLEU score of 38.37, its ranked list of translators  is used ot select the best translation for each source sentence. As a comparison, if we directly compute the gold standard ranking of all translators using all of the data, then the BLEU score is 38.99. The difference between these two BLEU scores is 0.62. We save 90\% cost for LDC data with the penalty of losing 0.62 BLEU score in selecting accuracy.
+
+Since the calibration data represents a substantial portion of the costs involved with collecting our translations via crowdsourcing, we can attempt to reduce it.  
+ The Linear Regression model reaches a correlation of 0.80 if we omit the calibration data entirely. 
+ Rather than using 10\% of each HIT as calibration data, we experimented with using the first-K translation sentences provided by each Turker.  Table \ref{spearmansen} shows the results of Spearman's Correlation.  We achieve  very strong correlation when calibrating the workers based on  the translations of their first 40 sentences.  
+ %The ranked list of workers using 4 HITs is  almost identical to the gold standard ranking that uses all HITs. In other words, we can predict workers' performance reasonably well, as long as we have obtained a small number of HITs from them.  (Assuming that we have professional translations of their initial HITs, which we can use to calculate their translation quality).
+  Even we only use the first 10 sentences to evaluate and rank workers, the correlation ($\rho$) is higher than 0.80.  Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first 10 or less 10 sentences provided by each worker. If we use the first 20 sentences, which is still only a small  part of data compared with the whole data set, $rho$ is higher than 0.90, almost perfect match with the gold standard ranking.
+  
+  Table \ref{firstkbleu} shows the BLEU score when we select top 25\% workers from the ranking list based on the performance of first k sentences.  As a comparison, we also listed the  BLEU scores for random selection and selection on the gold standard ranking. If we use first 10 sentence,  
+
+%
+%\section{XXX}
+%
+%There are two approaches that we use to reduce costs. In the first approach, we attempt to quickly rank workers and discard low ranking workers. In the second approach, we reduce the number of translations that we buy for each foreign sentence. After receiving a translation, we decide whether its quality is sufficient or whether we ought to pay for another translation (with the hope that the subsequent translation will be better).  In both cases we aim to reduce costs, while keeping our overall translation quality high.
+%
+% \subsection{Evaluate Workers}
+
+
+
+
  
- For the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence.  To perform this experiment, we divide the data into 3 parts: 10$\%$ of the data as a training set, 10$\%$ of the data as a validation set and the remaining 80$\%$ of the data as a test set. We train the model to score each translation we've got already, to use this score to evaluate whether to get another translation. The challenge is how to set the threshold to separate acceptable translations and unacceptable ones. 
+ \section{Get Another Translation?}
+ % New Version
+ 
+ In the second approach,  we train a model to decide whether a translation is 'good enough,' in which case we don't need to pay for another redundant  translation of the source sentence.  
+ % End
+ 
+ In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence.  To perform this experiment, we divide the data into 3 parts: 10$\%$ of the data as a training set, 10$\%$ of the data as a validation set and the remaining 80$\%$ of the data as a test set. We train the model to score each translation we've got already, to use this score to evaluate whether to get another translation. The challenge is how to set the threshold to separate acceptable translations and unacceptable ones. 
  
  
 % Maybe first describe the model features, and then describe how you set the threshold value. 
- In our design, we set the threshold empirically using the validation set after we have trained the model on the disjoint training set. More specifically, during the training process, we get the lower bound and upper bound of scores for translations in the training set. Then we search for the threshold through traversing from the lower bound to the upper bound by a small step size. %add a figure to illustrate the traversal
+ In our design, we set the threshold empirically using the validation set after we have trained the model on the disjoint training set. More specifically, during the training process, we get the upper bound of scores for translations in the training set. Then we search for the threshold through traversing from  zero to the upper bound by a small step size. %add a figure to illustrate the traversal
+ 
+ \begin{figure}[htbp]
+  \centering
+  \includegraphics[width=\linewidth]{WorkerSelection/bleuthreshold.pdf}
+  \caption{The Process to Sweep the Threshold}
+    \label{fsweepthre}
+\end{figure}
+
  We use each value  in the process  as the potential threshold.  We score translations of the foreign sentences in the validation set.  Since this approach assumes a temporal ordering of the translations, we compute the scores for each translation of a source sentence using the time-ordering of when Turkers submitted them. There are 2 conditions on the halt of this process for each foreign sentence: 1) the predicted BLEU score of some translation (submitted earlier than the last translation) is higher than the threshold or 2) we have scored all 4 translations.  
 
 To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this set $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations.  
@@ -85,79 +362,10 @@ After we have used the validation set to sweep various threshold values,  we can
 
 Finally, we retrain our model using the union set of the training set and validation set, use the resulting model on the test set.  We evaluate the model's performance by counting the average number of candidate translations that it solicits per source sentence, and by computing the loss in overall BLEU score compared to when it had access to all 4 translations.  This evaluation shows how much money our model would save by eliminating unnecessary redundancy in the translation process, and how close it is to the upper bound on translation quality when using all of the translations from the original set.
 
+\subsection{Cost Savings}
 
-\section{Data}
-\subsection{Data Collection}
+"TODO:Here please write an analysis of how much money we could save if we choose some threshold for when we ask for a new translation.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
 
-We use the data collected by  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk(MTurk). MTurk is an online platform provided to people for completing Human Intelligence Tasks(HIT) with a relatively low cost. We use their Urdu-to-English 2009 NIST Evaluation Set as our corpus.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  translated the Urdu side to English through MTurk. They collected the translations in the unit of Human Intelligence Tasks(or HITs). In every HIT, they posted 10 Urdu sentences to be translated. Every sentence is translated by 4 workers, and subsequently post-edited by 10 additional workers.\footnote{\newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  collected their translations in two batches.  The first batch contained 1 translation, each with 1 post-edited  version.  The second contained an additional 3 translations, each of which was post-edited by 3 workers.}
-This data set also has four corresponding professional translations for each  of the Urdu sentences, collected by LDC. This makes it possible to compare the Turkers' translation quality to professionals. 
-
-\subsection{Feature Extraction}
-
-Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we extract a number of features from the translations and workers' self-reported language skills.  We use these to build feature vectors used in tuning model and choosing the best translations from the candidates. 
-POTENTIALLY: We extend \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}'s feature set to include additional bilingual features, which were not part of that original work.
-\subsubsection*{Sentence-Level Features (9 Features)}
-This feature set contains language based features to solely implicate the quality of an English sentence without any suggestion on the bond of the meaning between the source sentence and the translation . This set of features tells good English sentences apart bad ones. The reason we use this set of features is that a good English sentence is the prerequisite of being a good English translation.
-\begin{itemize}
-\item Language model features:	we assign a log probability and a per-word perplexity score for each sentence. We use SRILM toolkit to calculate perplexity score for each sentence based on 5-gram language model trained on English Gigaword corpus.
-\item Sentence length features:	we use the ratio of the length of the Urdu source sentence to the length of  the translation sentence as feature since a good translation is expected to be comparable in length with source sentence. We add two such ratio features( one is designed for unreasonably short translation and the other is for unreasonably long translation).
-\item Web \textit{n}-gram log probability feature: we add the Web \textit{n}-gram log probability feature to reflect  the probability of the \textit{n}-grams(up to length 5) exist in the Microsoft Web N-Gram Corpus. For short sentences whose length is less than 5, we use the sentence length as the order of the \textit{n}-gram in calculation.
-\item Web \textit{n}-gram geometric average features: we calculate the geometric average \textit{n}-gram  to evaluate the average matching over different \textit{n}-grams. We add 3 features correspondent to max \textit{n}-gram length of 3,4 and 5. Specifically, $P_i$ denotes the log probability of \textit{i}-gram and these 3 features are represented in $\sqrt[3]{P_1 P_2 P_3}$ ,$\sqrt[4]{P_1 P_2 P_3 P_4}$ and $\sqrt[5]{P_1 P_2 P_3 P_4 P_5}$ .
-\item Edit rate to other translations: In posterior methods, to minimize Bayes risk, we choose the translation  that is most similar to other translations. Taking this into consideration, we add the edit rate feature to implement the similarity among all candidates translations.
-\end{itemize}
- \subsubsection*{Worker-Level Features (15 Features)}
- We take the quality of workers into consideration and add worker level features since the intuition that good workers can always high quality translations.
-\begin{itemize}
-\item	Aggregate features:	for each sentence level feature, we use the average values over all translations provided by the same worker as that worker's aggregate feature values.
-\item	Language abilities:	we collect worker's language ability information about whether the worker is a native Urdu speaker or native English speaker and how long they have spoken English or Urdu and add four features correspondent to the four aspects above.
-\item	Worker Location:	we add two features to indicate whether a worker is located in Pakistan or India.
-\end{itemize}
- \subsubsection*{Ranking Features (3 Features)}
- \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} collected 5 ranking labels for each translation and refine 3 features from these labels.
- \begin{itemize}
- \item Average Ranking:	the average of the 5 ranking labels for this translation.
- \item Is-Best percentage: this feature shows how often a translation is ranked as the best translation among all candidates translation.
- \item Is-Better percentage: how often a translation is ranked as a better translation based on the pairwise comparisons.
- \end{itemize}
- \subsubsection*{Calibration Feature (1 Feature)}
- We use the average BLEU score of  translations provided by the same worker  as  the calibration feature.
-  The BLEU score is computed against references. 
-  \subsubsection*{Word Alignment Feature (1 Feature)}
-  We 
-
-\subsection{Data Analysis} \label{dataanaly}
-
-We analyze the data considering the timing information that accompanies the translations that we collected. In this analysis, we'd like to evaluate the performance of each worker as time goes on. Each worker translates one or more HITs. Since the translations were collected in two batches, which started at different times, we assign a relative time to each assignment to simulate what would have happened if both batches were run at the same time.  For each HIT, we assign it a relative time by calculating difference between the HIT's submission time and the HIT's creation time. This gives the HIT's relative submission time.  For each worker, we calculated the BLEU score for each of their HITs and analyze the translation quality of the worker at different time points. We are interested in seeing whether workers produce consistently good translations over time or if their quality drops off over time, and if workers who produce bad translations submit them more quickly than workers who submit good translations.  Figure~\ref{fworkerperf} illustrates workers' translation quality at across time. In this graph, each tick represent a single translation HIT, and depicts the HIT's BLEU score (color) and its size/number of sentences (thickness).  The worker who provided the translation is graphed on the y axis, and the submission time is plotted on the x axis. We set the median of all HITs' BLEU scores as the threshold. If the HIT's BLEU score is higher than the median, then the HIT's color is dark.  A light colored tick mark means the HIT's BLEU score is lower than the median. In Figure~\ref{fworkerperf}, the order of workers on y axis is based on the gold standard ranking of these workers. The top most worker ranked highest and the bottom most worker ranked lowest. 
-
-From Figure~\ref{fworkerperf}, we see that most workers' performance stays
-consistent as time passes. This is good, since it may enable us to predict workers' performance based on their early submission so that we can come to an early decision about whether to continue to hire them.  If we rank the worker based solely on their first HITs' BLEU score, comparing all sentences in that HIT against the reference translation, then we get a surprisingly strong correlation with the true gold standard ranking of workers based on all of their submitted work. The Spearman Correlation is 0.86 when comparing this first-HIT ranking with gold standard ranking.
-\begin{figure}[htbp]
-  \centering
-  \includegraphics[width=\linewidth]{WorkerPerf/workerperform.pdf}
-  \caption{Workers' performance  at across time.}
-    \label{fworkerperf}
-\end{figure}
-
-Expanding the experiment mentioned above, we rank workers using their first $k$ HITs and calculate Spearman Correlation comparing against the gold standard ranking list (calculated over all HITs, instead of just the first $k$). The value of $k$ could range from 1 to the max number of HITs submitted by any single worker. Since some workers only translated a small number of HITs, larger values of $k$ will be greater than the total number of HITs that they provided. For those workers who translated less than $k$ HITs in total, we use all of the HITs they submitted to rate them.  Since the correlation converges to 1 after $k$ is larger than 10, we plot the graph to show the increase in correlation for $k$ from  1 to 10. Figure~\ref{fcorr} shows details.  The average number HITs each worker provided is 15.06, so we also plot Figure~\ref{fcorrnor} to show the percentage of HITs we use to rank workers for each value of $k$.
-
-    
-
-\begin{figure}[htbp]
-  \centering
-  \includegraphics[width=\linewidth]{WorkerPerf/corr.pdf}
-  \caption{Spearman Correlation with the gold standard as we rank the workers based on their first $k$ HITs}
-    \label{fcorr}
-\end{figure}
-
-\begin{figure}[htbp]
-  \centering
-  \includegraphics[width=\linewidth]{WorkerPerf/corrnormalized.pdf}
-  \caption{The percentage of worker data used to rank them as $k$ increases}
-    \label{fcorrnor}
-\end{figure}
-
-
-\section{Experiment}
 \section{Related Work}
 
 For one of our approaches for lowering the costs of crowdsourcing,  we train models to distinguish between acceptable and unacceptable translation candidates.  To do so,
