@@ -98,7 +98,7 @@ The Linguistics Data Consortium produced four sets of professional translations 
 \item Sentence length features:	we use the ratios of the length of the Urdu source sentence to the length of its English translation, and vice versa.
 \item Edit rate to other Turkers' translations of that sentence.
 \end{itemize}
-They also used 15 worker-level features that aggregate over the sentence-level features, plus features based on their language abilities and their location, and a set of 3 features based on a second-pass HIT where English speakers ranked the translations (average rank, \% of time ranked best, \% of time ranked better than others).   Finally, they posit a calibration feature, that computes the BLEU score for a fraction of the Turkers' translations against the professional translations. 
+They also used 15 worker-level features that aggregate over the sentence-level features, plus features based on their language abilities and their location, and a set of 3 features based on a second-pass HIT where English speakers ranked the translations (average rank, \% of time ranked best, \% of time ranked better than others).   Finally, they posit a worker calibration feature, that computes the averaged aggregation BLEU score for a fraction of Tukers in their translations against the professional translations. 
 
 
 We introduce a new bilingual feature. We use the IBM Model 1 to construct the word alignment with probabilities between Urdu and English. For each foreign sentence, we calculate the word alignment feature by averaging the alignment probabilities of all words in Urdu sentence. 
@@ -114,7 +114,13 @@ Another component cost of the \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  
 
 Here we attempt to minimize cost by reducing the number of translations needed for each sentence, and reducing the amount of professionally-translated calibration data.  The lower-bound on cost is \$179.20, for single translations from Turkers with no calibration data.  The upperbound is \$XXX (\$716.80 + \$XXX for YY\% calibration).
 
-
+\subsection{Cost Quantification}
+To make it clear on analysis for cost savings, we define that the unit cost for one professional references is $C_{p}$, and the unit cost for one non-professional translation is $C_{np}$, while the amounts of professional and non-professional translations  we solicited are $N_{p}$ and $N_{np}$ respectively.Thus for the total cost $C$, we have:\\
+  \begin{align*}
+  C = N_{p} \cdot C_{p}  + N_{np} \cdot C_{np} 
+  \end{align*}
+ \subsection{BLEU Score}
+ The BLEU score reported in this paper is calculated by leaving one out strategy which means the BLEU score is the average of 4 numbers and for each number, we leave one reference out  and use other 3 references as the reference set to calculate. 
 \section{Data Analysis} \label{dataanaly}
 
 \begin{figure}[h!]
@@ -133,7 +139,7 @@ We created a gold-standard ranking of Turkers by computing their BLEU scores com
 Figure \ref{fworkerperf} shows this ranking, along with the number of HITs produced by each worker and their timing information.
 %We analyze the data considering the timing information that accompanies the translations that we collected. In this analysis, we'd like to evaluate the performance of each worker as time goes on. Each worker translates one or more HITs. Since the translations were collected in two batches, which started at different times, we assign a relative time to each assignment to simulate what would have happened if both batches were run at the same time.  For each HIT, we assign it a relative time by calculating difference between the HIT's submission time and the HIT's creation time. This gives the HIT's relative submission time.  
 %For each worker, we calculated the BLEU score for each of their HITs and analyze the translation quality of the worker at different time points. We are interested in seeing whether workers produce consistently good translations over time or if their quality drops off over time, and if workers who produce bad translations submit them more quickly than workers who submit good translations.  Figure~\ref{fworkerperf} illustrates workers' translation quality at across time. 
-From this graph we wee that that most workers' performance stays
+From this graph we see that that most workers' performance stays
 consistent as time passes.  Good translators tend to produce consistently good translations.  Bad translators tend to produce consistently bad translations.  This observation may enable us to predict workers' performance based on their early submissions, so that we can come to an early decision about whether to continue to hire them. 
 
 
@@ -297,13 +303,24 @@ If we rank workers using their first $k$ sentences (where  $k \geq 1$ and $\leq 
 %\end{figure}
 %
 \subsection{Experimental Setup}
-In the first approach ranking workers by model prediction, we evaluate models through five-fold cross validation. We divided the data into 3 parts: 20\% data for worker aggregation feature calculation and 40\% data for ranking workers and the remaining 40\% data for testing. In the 20\% portion, we use half of the data (10\% of the full data set ) to calculate the calibration feature and train  models. 
+In the first approach ranking workers by model prediction, we evaluate models through five-fold cross validation. We divided the data into 2 parts: 20\% data for feature values calculations and remaining 80\% data for testing. We use the  20\% portion to calculate the worker aggregation feature, and half of the data in the 20\% portion (10\% of the full data set ) to calculate the worker calibration feature against their references.  This 10\% portion of data is used as training set where the label of each sample is the BLEU score against 4 references. Since we want to show that we can save money by reducing professionals translation as calibration, the proportion of the training set is smaller than that in general machine learning problem.We train a model on the training set, which is denoted as $M$.For each source sentence $s_i$, we have a translation candidates set $T = \{ t_{i,1}, t_{i,2},t_{i,3}, t_{i,4}\}$. We select the translation with highest model predicted score $M(t)$. For MERT and Linear Regression, $M$ is a vector of weights  corresponding to  dimensions in the feature space. $M(t)$ is defined as:
+ \begin{align*}
+  M(t) = \hat{w}  \cdot f(t) 
+  \end{align*}
+  where $\hat{w}$ is weight vector and $f(t)$ is the feature vector of the translation $t$. For Regression Tree, $M$ is a tree where each internal node has a threshold to split on the corresponding dimension and each leaf node has the BLEU score value. 
+ The 80\% portion is used as the testing set. On the testing set, first we rank workers by their performance predicted by models and evaluate the ranking list by calculating the Spearman's correlation against the gold standard ranking. The performance of the worker $w$ is denoted as:
+\begin{align*}
+Performance(w) = \frac{\sum_{t \in T_{w}} M (t)}{|T_{w}|}
+ \end{align*}
+ where $T_{w} $ is the set of translations completed by $w$. Then, with the ranking list R which we got by the model, we select the best translation from candidates by providers' rankings in R and evaluate the translation quality by calculating the BLEU score against references.  Thus, we test not only whether a model is suitable to rank workers but also evaluate the relation between ranking quality and translation quality where the best translation is selected by working ranking. To avoid the overlapping on the data used in the two tests, we divide the testing set into parts equally, one for testing worker ranking and another for testing translation selection.
 
-In the second approach, we compared workers' first k sentences with references and ranked workers by their accumulated performance on these sentences . We choose the top 25\% workers in the ranking list as the ones we keep hiring. To evaluate this method, for each source sentence in testing set, we selected the translation with the highest rank from translating candidates provided only by the workers we kept. We define the test set for first k sentences as $T_k$ and for each source sentence $t \in T$:
+In the second approach, we compared workers' first k sentences with references and ranked workers by their performance on these sentences.  
+We choose the top 25\% workers in the ranking list as the ones we keep hiring.  The idea is to retain only the top-performing workers, and to make that decision quickly (after seeing only k of their translations).  To evaluate this method, we created several test sets.  Each test set excluded any item that was used to rank the workers, or which did not have any translations from the top 25\% of workers according to our predicted rankings.  We have different test sets for each value of k.
+
+Formally, we define the test set for first k sentences as $T_k$ and for each source sentence $t \in T$:
 \begin{align*}
   \{ t \mid (C(t) \cap S_k = \emptyset)   \wedge (C(t) \cap S_w \neq \emptyset)    \}
 \end{align*}
-
 where $C(t)$ is the translating candidates set of the source sentence t, $S_k$ is the translation set consists of each worker's first k translations and $S_w$ is the translation set consists of translations provided by selected workers (some top ranking workers).
 \subsection{Cost Savings}
 
@@ -322,7 +339,8 @@ Since the calibration data represents a substantial portion of the costs involve
  %The ranked list of workers using 4 HITs is  almost identical to the gold standard ranking that uses all HITs. In other words, we can predict workers' performance reasonably well, as long as we have obtained a small number of HITs from them.  (Assuming that we have professional translations of their initial HITs, which we can use to calculate their translation quality).
   Even we only use the first 10 sentences to evaluate and rank workers, the correlation ($\rho$) is higher than 0.80.  Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first 10 or less 10 sentences provided by each worker. If we use the first 20 sentences, which is still only a small  part of data compared with the whole data set, $rho$ is higher than 0.90, almost perfect match with the gold standard ranking.
   
-  Table \ref{firstkbleu} shows the BLEU score when we select top 25\% workers from the ranking list based on the performance of first k sentences.  As a comparison, we also listed the  BLEU scores for random selection and selection on the gold standard ranking. If we use first 10 sentence,  
+  Table \ref{firstkbleu} shows the BLEU score when we select top 25\% workers from the ranking list based on the performance of first k sentences, which is denoted as $BLEU_{k}$.  As a comparison, we also listed the  BLEU scores for random selection ($BLEU_{random}$)and the BLEU score for selection based on the gold standard ranking($BLEU_{gold}$).  
+  If we use first 10 sentences,  the correlation is 0.84 and the $BLEU_{10}$ is 36.15. The delta between $BLEU_{gold}$ and $BLEU_{10}$ is 1.78 while the cost is $C = 6.6\% \cdot N_{p}\cdot C_{p}  + (1-6.6\% )\cdot 25\% \cdot N_{np} \cdot C_{np}$. The lost of BLEU is (39.80 - 36.15) by comparison with model selection methods.
 
 %
 %\section{XXX}
@@ -338,8 +356,8 @@ Since the calibration data represents a substantial portion of the costs involve
  \section{Get Another Translation?}
  % New Version
  
- In the second approach,  we train a model to decide whether a translation is 'good enough,' in which case we don't need to pay for another redundant  translation of the source sentence.  
- % End
+% In the second approach,  we train a model to decide whether a translation is 'good enough,' in which case we don't need to pay for another redundant  translation of the source sentence.  
+% % End
  
  In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence.  To perform this experiment, we divide the data into 3 parts: 10$\%$ of the data as a training set, 10$\%$ of the data as a validation set and the remaining 80$\%$ of the data as a test set. We train the model to score each translation we've got already, to use this score to evaluate whether to get another translation. The challenge is how to set the threshold to separate acceptable translations and unacceptable ones. 
  
