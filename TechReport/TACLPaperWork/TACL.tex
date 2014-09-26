@@ -279,6 +279,9 @@ If we rank workers using their first $k$ sentences (where  $k \geq 1$ and $\leq 
 \caption{\label{firstkbleu} Spearman's Correlation for calibration data in different proportion}
 \end{table*}
 
+
+
+
 %We get a surprisingly strong correlation with the gold standard ranking of workers, without using a model at all.  Instead, we can use a small amount of calibration data (where gold standard translations are known). If we rank the worker based solely on their first HITs' BLEU score, comparing their translations of the 10 sentences in that HIT against the reference translations, then we do well at predicting their BLEU score for all of their translations. The Spearman Correlation is 0.84 when comparing this first-HIT ranking with gold standard ranking.  
 %
 %If we rank workers using their first $k$ HITs (with  $k \geq 1$ and $\leq$ max number of HITs submitted by the worker), we can calculate the Spearman Correlation against the gold standard ranking list as $k$ increases.  The correlation converges to 1 after $k$ is larger than 10, in part because the average number HITs each worker submitted is 15.06 and the median number of HITs is XXX.
@@ -325,6 +328,7 @@ We select the best translation according to each model using workers' rankings i
 We intentionally avoid using the same test set to compute BLEU score and Spearnman's correlation, because (SAY WHY).  We therefore divide the test set into two equal parts, one for assessing worker rankings and the other for evaluation translation quality.
 
 \subsubsection{Decide whether hire workers after their first $k$ translations}
+
 In the second approach, we compared workers' first k sentences with references and ranked workers by their performance on these sentences.  At this point we make a decision on whether to continue to hire them to do more translations.  We kept the `best' translators, defining the best as the top 25\% workers in our ranked list.  The idea is to retain only the top-performing workers, and to make that decision quickly (after seeing only k of their translations).  
 
 To evaluate this method, we created several test sets.  Each test set excluded any item that was used to rank the workers, or which did not have any translations from the top 25\% of workers according to our predicted rankings.  We therefore have \emph{different test sets} for each value of k.  This makes the results slightly more difficult to analyze than in normal experiments, although the trends are still clear.
@@ -339,6 +343,21 @@ where $C(t)$ is the translating candidates set of the source sentence t, $S_k$ i
 
 "TODO: Here please write an analysis of how much money we could save if we choose some threshold for discarding Turkers.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
 
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{senlevelselect/curve1.pdf}
+  \caption{ The BLEU score for selecting the  best translation by the top 25\% Turkers' ranking based on the first k sentences (red line), which is denoted as Partial Ranking BLEU. The green line shows the BLEU score for selecting the best translation by the gold standard ranking, which is denoted as Gold Ranking BLEU. The dark blue line shows the BLEU score for selecting translation randomly. We denote it as Random Selection BLEU.}
+    \label{firstksenbleu}
+\end{figure}
+
+
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{senlevelselect/curve2.pdf}
+  \caption{ The difference between BLEU scores reported from three different methods. . The green line shows the difference between  Gold Ranking BLEU and Random Selection BLEU.  The red lines shows the difference between Partial Ranking BLEU and Random Selection BLEU and the dark bleu line shows the difference between methods Gold Ranking BLEU and Partial Ranking BLEU.}
+    \label{firstksenbleudiff}
+\end{figure}
+
 In the first approach, we quickly evaluate workers and rank them for filtering out workers with low rankings. We train linear regression models using a variety of features to score each translation and evaluate workers by averaging the scores of his/her translations. 
 
 
@@ -350,11 +369,24 @@ Since the calibration data represents a substantial portion of the costs involve
  The Linear Regression model reaches a correlation of 0.80 if we omit the calibration data entirely. 
  Rather than using 10\% of each HIT as calibration data, we experimented with using the first-K translation sentences provided by each Turker.  Table \ref{spearmansen} shows the results of Spearman's Correlation.  We achieve  very strong correlation when calibrating the workers based on  the translations of their first 40 sentences.  
  %The ranked list of workers using 4 HITs is  almost identical to the gold standard ranking that uses all HITs. In other words, we can predict workers' performance reasonably well, as long as we have obtained a small number of HITs from them.  (Assuming that we have professional translations of their initial HITs, which we can use to calculate their translation quality).
-  Even we only use the first 10 sentences to evaluate and rank workers, the correlation ($\rho$) is higher than 0.80.  Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first 10 or less 10 sentences provided by each worker. If we use the first 20 sentences, which is still only a small  part of data compared with the whole data set, $rho$ is higher than 0.90, almost perfect match with the gold standard ranking.
+  Even we only use the first 10 sentences to evaluate and rank workers, the correlation ($\rho$) is higher than 0.80.  Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first 10 or less 10 sentences provided by each worker. If we use the first 20 sentences, which is still only a small  part of data compared with the whole data set, $\rho$ is higher than 0.90, almost perfect match with the gold standard ranking.
   
-  Table \ref{firstkbleu} shows the BLEU score when we select top 25\% workers from the ranking list based on the performance of first k sentences, which is denoted as $BLEU_{k}$.  As a comparison, we also listed the  BLEU scores for random selection ($BLEU_{random}$)and the BLEU score for selection based on the gold standard ranking($BLEU_{gold}$).  
-  If we use first 10 sentences,  the correlation is 0.84 and the $BLEU_{10}$ is 36.15. The delta between $BLEU_{gold}$ and $BLEU_{10}$ is 1.78 while the cost is $C = 6.6\% \cdot N_{p}\cdot C_{p}  + (1-6.6\% )\cdot 25\% \cdot N_{np} \cdot C_{np}$. The lost of BLEU is (39.80 - 36.15) by comparison with model selection methods.
+  Figure \ref{firstksenbleu}  shows the BLEU score when we select top 25\% workers from the ranking list based on the performance of first k sentences, which is denoted as $B_{k}$.  As a comparison, we also listed the  BLEU scores for random selection ($B_{r}$)and the BLEU score for selection based on the gold standard ranking($B_{g}$).  Figure \ref{firstksenbleudiff}  shows the difference between BLEU scores we get in three different mechanisms in order to make the comparison clear.
+  Figure \ref{firstksenbleu} and Figure \ref{firstksenbleudiff} illustrates that as the number of sentences we used in ranking increases, the BLEU score we get by the Turkers' ranking list is closing to the BLEU score we get by selecting translation based on gold standard ranking. Fortunately, we see that when only a small part of sentences (say 10 sentences) for each worker are used in ranking, the ranking list  is quite similar to the gold standard ranking list and the BLEU score is very close to the BLEU score get by gold standard ranking.
+  
+  If we use first 10 sentences,  the correlation is 0.84 and  $B_{10}$ is 35.77. The difference between $B_{g}$ and $B_{10}$ is 1.8 while the cost is: \\
+  \begin{align*}
+  C& = 6.6\% \cdot N_{p}\cdot C_{p}  + (1-6.6\% )\cdot 25\% \cdot N_{np} \cdot C_{np}\\
+   & = 0.066 \cdot N_{p}\cdot C_{p}  + 0.2335 \cdot N_{np} \cdot C_{np}
+  \end{align*}
+    which is only a small part of the whole cost. The lost of BLEU is 4.03 (39.80 - 36.15) by comparison with model selection methods.  If we increase the number of sentences we use for ranking to 20, the correlation increase to 0.93 and $B_{20}$ is 36.97. The difference is 0.13 and the cost is:
+\begin{align*}
+C& = 13.3\% \cdot N_{p}\cdot C_{p}  + (1-13.3\% )\cdot 25\% \cdot N_{np} \cdot C_{np}\\
+   & = 0.133 \cdot N_{p}\cdot C_{p}  + 0.21675 \cdot N_{np} \cdot C_{np}
+\end{align*}
 
+    
+     
 %
 %\section{XXX}
 %
