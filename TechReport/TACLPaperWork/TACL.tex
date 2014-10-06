@@ -247,7 +247,7 @@ First k Sentence                                     & Percentage               
 \caption{\label{spearmansen} Spearman's Correlation for calibration data in different proportion}
 \end{table}
 
-We get a surprisingly strong correlation with the gold standard ranking of workers, without using a model at all.  Instead, we can use a small amount of calibration data (where gold standard translations are known). If we rank the worker based solely on their first HITs' BLEU score, comparing their translations of the 10 sentences in that HIT against the reference translations, then we do well at predicting their BLEU score for all of their translations. The Spearman Correlation is 0.84 when comparing this first-HIT ranking with gold standard ranking.  
+We get a surprisingly strong correlation with the gold standard ranking of workers, without using a model at all.  Instead, we can use a small amount of calibration data (where gold standard translations are known). If we rank the worker based solely on their first HITs' BLEU score, comparing their translations of the 10 sentences in that HIT against the reference translations, then we do well at predicting their BLEU score for all of their translations. The Spearman Correlation is 0.84 when comparing this first-HIT (10 sentences) ranking with gold standard ranking.  
 
 If we rank workers using their first $k$ sentences (where  $k \geq 1$ and $\leq  10$ with step size 1 and $k \geq 20 $ and $\leq 100$ with step size 10), we can calculate the Spearman Correlation against the gold standard ranking list as $k$ increases.  The correlation converges to 1 after $k$ is larger than 60, in part because the average number translation each worker submitted is 150.6 and the median number of translation is XXX.
 
@@ -369,12 +369,18 @@ Since the calibration data represents a substantial portion of the costs involve
  The Linear Regression model reaches a correlation of 0.80 if we omit the calibration data entirely. 
  Rather than using 10\% of each HIT as calibration data, we experimented with using the first-K translation sentences provided by each Turker.  Table \ref{spearmansen} shows the results of Spearman's Correlation.  We achieve  very strong correlation when calibrating the workers based on  the translations of their first 40 sentences.  
  %The ranked list of workers using 4 HITs is  almost identical to the gold standard ranking that uses all HITs. In other words, we can predict workers' performance reasonably well, as long as we have obtained a small number of HITs from them.  (Assuming that we have professional translations of their initial HITs, which we can use to calculate their translation quality).
-  Even we only use the first 10 sentences to evaluate and rank workers, the correlation ($\rho$) is higher than 0.80.  Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first 10 or less 10 sentences provided by each worker. If we use the first 20 sentences, which is still only a small  part of data compared with the whole data set, $\rho$ is higher than 0.90, almost perfect match with the gold standard ranking.
+  Even we only use the first 10 sentences to evaluate and rank workers, the correlation ($\rho$) is higher than 0.80.  Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first 10 sentences (or less) provided by each worker. If we use the first 20 sentences, which is still only a small  part of data compared with the whole data set, $\rho$ is higher than 0.90, nearly a perfect match with the gold standard ranking.
   
-  Figure \ref{firstksenbleu}  shows the BLEU score when we select top 25\% workers from the ranking list based on the performance of first k sentences, which is denoted as $B_{k}$.  As a comparison, we also listed the  BLEU scores for random selection ($B_{r}$)and the BLEU score for selection based on the gold standard ranking($B_{g}$).  Figure \ref{firstksenbleudiff}  shows the difference between BLEU scores we get in three different mechanisms in order to make the comparison clear.
-  Figure \ref{firstksenbleu} and Figure \ref{firstksenbleudiff} illustrates that as the number of sentences we used in ranking increases, the BLEU score we get by the Turkers' ranking list is closing to the BLEU score we get by selecting translation based on gold standard ranking. Fortunately, we see that when only a small part of sentences (say 10 sentences) for each worker are used in ranking, the ranking list  is quite similar to the gold standard ranking list and the BLEU score is very close to the BLEU score get by gold standard ranking.
+  Figure \ref{firstksenbleu}  shows the BLEU score when we select the top 25\% workers from the ranking list based on the performance of first k sentences.
+  %, which is denoted as $B_{k}$.  
+  As a comparison, we also listed the  BLEU scores for random selection 
+%  ($B_{r}$) 
+  and the BLEU score for selection based on the gold standard ranking.
+ %  ($B_{g}$).  
+ Figure \ref{firstksenbleudiff}  shows the difference between BLEU scores we get in three different mechanisms in order to make the comparisons clear.
+  As we increase the number of sentences we use to rank Turkers, the BLEU score we get from the ranking approaches the BLEU score we get by selecting translations based on the gold standard ranking. Surprisingly, we see that when only a small part of sentences (say 10 sentences) for each worker are used in ranking, the ranking list  is quite similar to the gold standard ranking list and the BLEU score is very close to the BLEU score get by gold standard ranking.
   
-  If we use first 10 sentences,  the correlation is 0.84 and  $B_{10}$ is 35.77. The difference between $B_{g}$ and $B_{10}$ is 1.8 while the cost is: \\
+  If we use the first 10 sentences,  the correlation is 0.84 and  $B_{10}$ is 35.77. The difference between $B_{g}$ and $B_{10}$ is 1.8 while the cost is: \\
   \begin{align*}
   C& = 6.6\% \cdot N_{p}\cdot C_{p}  + (1-6.6\% )\cdot 25\% \cdot N_{np} \cdot C_{np}\\
    & = 0.066 \cdot N_{p}\cdot C_{p}  + 0.2335 \cdot N_{np} \cdot C_{np}
@@ -404,7 +410,41 @@ C& = 13.3\% \cdot N_{p}\cdot C_{p}  + (1-13.3\% )\cdot 25\% \cdot N_{np} \cdot C
 % In the second approach,  we train a model to decide whether a translation is 'good enough,' in which case we don't need to pay for another redundant  translation of the source sentence.  
 % % End
  
- In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence.  To perform this experiment, we divide the data into 3 parts: 10$\%$ of the data as a training set, 10$\%$ of the data as a validation set and the remaining 80$\%$ of the data as a test set. We train the model to score each translation we've got already, to use this score to evaluate whether to get another translation. The challenge is how to set the threshold to separate acceptable translations and unacceptable ones. 
+ \begin{table}[h]
+\begin{tabular}{|c|c|c|c|}
+\hline
+
+\textit{delta} (\%) & $S_{upper}$ & BLEU Score & \textit{\# of Trans} \\ \hline
+90         & 40.13       & 36.46      & 1.67       \\ \hline
+91         & 40.13       & 36.72      & 1.75       \\ \hline
+92         & 40.13       & 36.84      & 1.77       \\ \hline
+93         & 40.13       & 37.11      & 1.87       \\ \hline
+94         & 40.13       & 37.61      & 2.00       \\ \hline
+95         & 40.13       & 37.90      & 2.12       \\ \hline
+96         & 40.13       & 38.32      & 2.31       \\ \hline
+97         & 40.13       & 38.52      & 2.43       \\ \hline
+98         & 40.13       & 39.12      & 2.79       \\ \hline
+99         & 40.13       & 39.45      & 3.05       \\ \hline
+100        & 40.13       & 39.90      & 3.58       \\ \hline
+\end{tabular}
+\caption{The relation among the \textit{delta} (the proportion of the BLEU score's upper bound $S_{upper}$),the BLEU score for translations selected by models and the averaged size of translation candidates set for each source sentence (\textit{\# of Trans}).  }
+    \label{orderanother}
+\end{table}
+
+ In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Besides, we quantify the quality control  issue: make it possible to control the BLEU score of the translation selected from a partial translation set to a proportion defined as \textit{delta} of the upper bound of BLEU score which is computed on best translations selected from  the full translation set. For a specific delta value, we train the Linear Regression model to score each translation we've got already, to use this score comparing with the threshold between acceptable and unacceptable translations to evaluate whether to get another translation.  If the translation we solicit currently satisfies our quality control demand which means the model predicted BLEU score is higher than the threshold, we stop soliciting other translations continually for the source sentence. On one hand, since we only collected part of the full translation candidates set, we save money by avoiding paying for  redundant   translation.  On the other hand, in the training and validating process, we reduce the size of the training set and validation set, say only 10\% of the full data set for each , which means we only need 10\% reference data to calculate the gold standard BLEU score and calibration feature value for each translation candidate in training set and validation set respectively. 
+ 
+ To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this  $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations. Originally, for each source sentence, the size of the translation set is 4. Since we stop soliciting translations after getting the acceptable one, the averaged size of translation set among all source sentences becomes less than 4. We define the averaged size of translation sets as \textit{\# of trans}.
+
+Table \ref{orderanother} shows the following positive correlations between  \textit{delta} and \textit{\# of Trans}: 
+\begin{align*}
+\textit{\# of Trans} \propto \textit{delta} 
+\end{align*}
+Thus, it's reasonable to deduce the negative correlations between the cost and \textit{delta}.  From Table \ref{orderanother}, we see that as the  translating accuracy (\textit{delta} and BLEU score) increasing, the averaged size of translation set increases.  
+ \subsection{Experimental Setup}
+ 
+ To perform this experiment, we divide the data into 3 parts: 10$\%$ of the data as a training set, 10$\%$ of the data as a validation set and the remaining 80$\%$ of the data as a test set. 
+
+After  training  a Linear Regression model, the challenge we are facing with is how to set the threshold to separate acceptable translations and unacceptable ones. 
  
  
 % Maybe first describe the model features, and then describe how you set the threshold value. 
@@ -419,7 +459,7 @@ C& = 13.3\% \cdot N_{p}\cdot C_{p}  + (1-13.3\% )\cdot 25\% \cdot N_{np} \cdot C
 
  We use each value  in the process  as the potential threshold.  We score translations of the foreign sentences in the validation set.  Since this approach assumes a temporal ordering of the translations, we compute the scores for each translation of a source sentence using the time-ordering of when Turkers submitted them. There are 2 conditions on the halt of this process for each foreign sentence: 1) the predicted BLEU score of some translation (submitted earlier than the last translation) is higher than the threshold or 2) we have scored all 4 translations.  
 
-To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this set $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations.  
+%To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this set $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations.  
 
 After we have used the validation set to sweep various threshold values,  we can pick a suitable value for the threshold by picking the lowest value that is within some delta of $S_{upper}$, say  90$\%$. 
 
