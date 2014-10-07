@@ -341,7 +341,7 @@ where $C(t)$ is the translating candidates set of the source sentence t, $S_k$ i
 
 \subsection{Cost Savings}
 
-"TODO: Here please write an analysis of how much money we could save if we choose some threshold for discarding Turkers.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
+%"TODO: Here please write an analysis of how much money we could save if we choose some threshold for discarding Turkers.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
 
 \begin{figure}[h!]
   \centering
@@ -467,7 +467,26 @@ Finally, we retrain our model using the union set of the training set and valida
 
 \subsection{Cost Savings}
 
-"TODO:Here please write an analysis of how much money we could save if we choose some threshold for when we ask for a new translation.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
+%"TODO:Here please write an analysis of how much money we could save if we choose some threshold for when we ask for a new translation.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=\linewidth]{fitsizedelta/fit.pdf}
+  \caption{Relationship between \textit{delta} and \textit{\# of Trans}. Each red circle shows the average size of translation set on x-axis and the \textit{delta} on y-axis. The blue curve represents the model we fit to describe the relationship.}
+    \label{fit}
+\end{figure}
+
+From Table \ref{orderanother}, we see that the averaged size of translation sets is positive correlated to \textit{delta}. To analyze the cost saving more clearly, we fit a model to describe the relationship between \textit{delta} and \textit{\# of Trans}.Thus we can estimate the cost as a function of \textit{delta} which is the goal of  quality control, and bridge the gap between quality control and cost optimization.
+
+Figure \ref{fit} shows the relationship between \textit{delta} and \textit{\# of Trans}. The model we fit can be described as a function $f(x)$:
+\begin{align*}
+f(x) = 0.02x^2 - 3.63x+166.41
+\end{align*}
+ where x is the value of \textit{delta}. The model fits the data pretty good and the average square error rate is 
+0.0054. Thus for a given value of \textit{delta} x, the cost is:
+\begin{align*}
+C& = 20\% \cdot N_{p}\cdot C_{p}  +  \frac{f(x)}{4}\cdot 80\% \cdot N_{np} \cdot C_{np}\\
+\end{align*} 
 
 \section{Related Work}
 

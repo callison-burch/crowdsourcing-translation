@@ -12,7 +12,7 @@ w <- as.vector(t(newWords[7]))
 #u <- as.vector(t(newWords[:,5]))
 
 plot(NULL,NULL, main=NULL, sub=NULL,
-xlab="First K-Sentences ", ylab="BLEU",
+xlab="First K-Sentences ", ylab=" Difference in BLEU",
 xlim=c(0, 60)
 ,ylim=c(-1,10),xaxt = 'n',yaxt='n'
 )
@@ -27,6 +27,6 @@ lines(x, z, type=c('o'),col = 18,cex = 2,pch = '*')
 lines(x, y, type=c('o'),col = 1,cex = 2,pch = '*')
 lines(x, w, type=c('o'),col = 29,cex = 2,pch = '*')
 legend("topright",
-c("P - R", "G - R",
-"G - P"),col = c(1, 18,29),lty= (1),pch = '*')
+c("Partial Ranking BLEU - Random Selection BLEU", "Gold Ranking BLEU - Random Selection BLEU",
+"Gold Ranking BLEU - Partial Ranking BLEU"),cex = 0.65,col = c(1, 18,29),lty= (1),pch = '*')
 dev.off()
