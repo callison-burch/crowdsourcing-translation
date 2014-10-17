@@ -24,7 +24,7 @@
 \DeclareMathOperator*{\argmax}{arg\,max}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
 %Quality Control vs. Cost Optimization in Crowdsourcing Translation%
-\title{Cost Optimization in Crowdsourcing Translation: Low cost translations made even cheaper}
+\title{Cost Optimization in Crowdsourcing Translation:\\ Low cost translations made even cheaper}
 
 \author{First Author \\
   Affiliation / Address line 1 \\
@@ -42,7 +42,7 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-  This document contains the instructions for preparing a camera-ready manuscript for the proceedings of ACL2012. The document itself conforms to its own specifications, and is therefore an example of what your manuscript should look like. These instructions should be used for both papers submitted for review and for final versions of accepted papers. Authors are asked to conform to all the directions reported in this document.
+ Crowdsourcing is a promising mechanism dealing with artificial intelligence tasks.
 \end{abstract}
 
 \section{Introduction}
@@ -513,9 +513,29 @@ Although \newcite{passonneau2013benefits} collect word sense labels, which are a
 %They required workers to finish 20000 HITs and have a 98\% lifetime approval rating. 
 They measured the performance of worker by comparing worker's labels to the current majority labels and worker with bad performance would be blocked. However, this approach suffered from 2 shortcomings: (1) Sometimes majority labels may not reflect the ground truth label. (2) They didn't figure out  how much data(HITs) is needed to evaluate a worker's performance. Although they could find the spam after the fact, it was a post-hoc analysis, so they had already paid for that worker and wasted the money.  We attempt to identify poor workers as quickly as possible, in order to limit the amount of work that we solicit from them.
 
-\newcite{lin2014re} discussed what makes classifiers performs well when dealing with relabeled annotation data. 
+\newcite{lin2014re} examined the relationship between worker accuracy and budget in the context of using crowdsourcing to train a machine learning classifier.  They show that if the goal is to train a classifier on the labels, that the properties of the classifier will determine whether it is better to re-label data (resulting in higher quality labels) or get more single labeled items (of lower quality). They showed that classifiers with weak inductive bias  benefit more from relabeling, and that relabeling is more important when worker accuracy is low (barely higher than 0.5). 
+Counter-intuitively, an infinite budget does not make relabeling work any better.
+
+\newcite{novotney2010cheap} showed a similar result for training an automatic speech recognition (ASR) system.  When creating training data for an ASR system, given a fixed budget. Their system's accuracy was higher when it is trained on more low quality transcription data compared to when it was trained on fewer high quality transcriptions.
 
 \section{Discussion}
+
+%Crowdsourcing is attractive because it provides a way of creating translations at lower cost than hiring professional translators. 
+We have introduced several ways of lowering the costs associated with crowdsourcing translations:
+\begin{itemize}
+\item We show that we can quickly identify bad translators, either with a model designed to rank them, or by ranking them by having them first translate a small number of sentences with gold standard translations. The cost savings here comes from not hiring bad workers.
+\item After we have collected one translation of a source sentence, we consult a model that predicts whether its quality is sufficiently high or whether we should pay to have the sentence re-translated.  The cost savings here comes from reducing the number of redant translations.
+\item In both cases we need a some amount of professionally translated materials  to use as a gold standard for calibration.  The cost of these professional translations can dominate the cost of our models, so we experiment with how little we can get away with.
+\end{itemize}
+In all cases, there is a trade-off between lowering our costs and producing high quality translations.  Figure \ref{fbleucost} plots the cost versus the BLEU scores for the different configurations that we experimented with.
+
+In Figure \ref{fbleucost}-(a) the increasing costs are a function of how many sentences we use to rank the translators.  Here we use no model, and simply rank the translators by their BLEU score against a small amount of gold standard data.  Although the quality peaks at 37.9 BLEU after \$11,600, the return on investment is low after spending the first \$2,000 to get a BLEU of 35.6.
+We are able to rank the translators with high accuracy and achieve a relative high BLEU score by paying for a comparatively small number of professional translations to use as calibration.   From our experiments,  10-20 professionally translated sentences seems like a reasonable number. 
+
+Figure\ref{fbleucost}-(b) uses a model to determine whether to purchase another translation.  Here the starting cost is high (nearly \$9,000) because the model requires a significant amount of professional translations in order to train the model and to determine the optimal threshold values for whether to solicit another translation. This model allows us to significantly improve the overall translation quality to a BLEU score of nearly 40, for a final cost of \$9,200.
+
+To emphasize the effectiveness of model selection approach, Figure \ref{fbleucost}-(c plots the relationship between BLEU and non-professional component of the overall cost.  Past approaches to crowdsourcing translation always solicited 4 non-professional translations of every source sentence. The cost for translating our 1433 test sentences under this approach is \$573.44.  This produces the maximum BLEU score of 40.1.  Using our model to reduce the number of redundant translations, we can reduce the costs with mild degredation in translation quality.  We can cut the number of non-translations in half, and pay only \$286.72, while achieving a BLEU score of 37.6 (94\% of the maximum), or pay \$348.36, or \%60.7 of total non-professional translations, for a BLEU of 38.5 (\%96 of  the maximum).
+
 \begin{figure*}[htbp]
   \centering
   \includegraphics[width=\linewidth]{cost-bleu/pricecost.pdf}
@@ -523,9 +543,6 @@ They measured the performance of worker by comparing worker's labels to the curr
     \label{fbleucost}
 \end{figure*}
 
-Figure \ref{fbleucost} details the relationship between BLEU score and costs.  From Figure \ref{fbleucost}-(a), in the ranking selection approach, the curve illustrates that after the costs increases to some point, the BLEU score stopped increasing even though we invest more money to buy professional translations as workers' ranking calibrations continually. This means  we can obtain a high ranking accuracy compared with gold standard ranking and a relative high BLEU score in ranking selection approach by paying only a small amount of money to buy a few professional translations.  
-
-Figure\ref{fbleucost}-(b) shows that in model based selection method, as \textit{delta} increases, the cost increases, and the BLEU score for translations selected by model goes higher. Since the cost for purchasing professional translations is fixed and takes a major proportion in the total cost for  this approach, cost's increment which is contributed by the investment on non-professional translations is not very big as \textit{delta} increase. Thus, to emphasize the effectiveness of model selection approach, we figure the relationship between BLEU score and non-professional cost in figure \ref{fbleucost}-(c). The total amount money for buying  complete 4 non-professional translation set for source sentences in testing set  is \$573.44 ($716.80 \times 0.80$). Table \ref{orderanother} shows that  $S_{upper}$ is 40.13. If we pay \$286.72, which is \%50 of total non-professional translations, the translating accuracy is as  \%94 as $S_{upper}$ and the BLEU score is 37.61.  Furthermore, suppose we pay \$348.36, which is \%60.7 of total non-professional translations, the translating accuracy increases to  \%96 of $S_{upper}$ and the BLEU score becomes 38.52. 
 
 \section{Conclusion}
 In this paper, we propose two mechanisms to optimize cost: the ranking selection method and the model selection method. They have  different applicable scenarios. The ranking selection method is a very simple method without any model training. This approach is inspired by the intuition that workers' performance is consistent. The ranking selection method is suitable for crowdsourcing tasks with vague requirements on the quality control issue and crowdsourcing task requester who has little background in machine learning or data mining and don't know how to train a model.

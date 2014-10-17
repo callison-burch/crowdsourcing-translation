@@ -37,9 +37,11 @@ axis(2,at = seq(0, 40, by = 5), las=1,tck = 0.01,cex.axis = 1)
 grid(nx = NA,ny = NULL,lty = 1)
 
 
-print (length(y))
+
 #lines(x, z, type=c('o'),col = 18,cex = 2,pch = '*')
 lines(a, b, type=c('o'),col = 1,cex = 4,pch = '*')
+lines(c, e, type=c('o'),col = 1,cex = 4,pch = '*')
+lines(f, h, type=c('o'),col = 1,cex = 4,pch = "*")
 
 plot(NULL,NULL, main=NULL, sub="(b)",
 xlab="Price($) ", ylab="BLEU Score",
