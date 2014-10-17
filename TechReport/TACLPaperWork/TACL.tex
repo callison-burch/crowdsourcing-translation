@@ -23,8 +23,8 @@
 
 \DeclareMathOperator*{\argmax}{arg\,max}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
-
-\title{Instructions for ACL2012 Proceedings}
+%Quality Control vs. Cost Optimization in Crowdsourcing Translation%
+\title{Cost Optimization in Crowdsourcing Translation: Low cost translations made even cheaper}
 
 \author{First Author \\
   Affiliation / Address line 1 \\
@@ -78,7 +78,7 @@ Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011
 %\subsection{Data Collection}
 
 We use the data collected by  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk (MTurk). MTurk is an online marketplace for work where workers (called Turkers) complete microtasks called Human Intelligence Tasks (HITs) in return for micropayments.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} hired Turkers to translate 1792 Urdu sentences 
-from the  2009 NIST Urdu-English Open Machine Translation Evaluation set.\footnote{LDC Catalog number XXX}. In each HIT, they posted 10 Urdu sentences to be translated. A total of 51 Turkers contributed translations. 
+from the  2009 NIST Urdu-English Open Machine Translation Evaluation set.\footnote{LDC Catalog number LDC2010T23}. In each HIT, they posted 10 Urdu sentences to be translated. A total of 51 Turkers contributed translations. 
 %, and subsequently post-edited by 10 additional workers.\footnote{\newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  collected their translations in two batches.  The first batch contained 1 translation, each with 1 post-edited  version.  The second contained an additional 3 translations, each of which was post-edited by 3 workers.}
 
 Along with the translations, \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} also surveyed the Turkers, and collected self-reported language skills (what was their native language, how long they had spoken English and Urdu), and information about what country they lived in.
@@ -385,7 +385,7 @@ Since the calibration data represents a substantial portion of the costs involve
   C& = 6.6\% \cdot N_{p}\cdot C_{p}  + (1-6.6\% )\cdot 25\% \cdot N_{np} \cdot C_{np}\\
    & = 0.066 \cdot N_{p}\cdot C_{p}  + 0.2335 \cdot N_{np} \cdot C_{np}
   \end{align*}
-    which is only a small part of the whole cost. The lost of BLEU is 4.03 (39.80 - 36.15) by comparison with model selection methods.  If we increase the number of sentences we use for ranking to 20, the correlation increase to 0.93 and $B_{20}$ is 36.97. The difference is 0.13 and the cost is:
+    which is only a small part of the whole cost. The lost of BLEU is 4.03 (39.80 - 35.77) by comparison with model selection methods.  If we increase the number of sentences we use for ranking to 20, the correlation increase to 0.93 and $B_{20}$ is 36.97. The difference is 0.13 and the cost is:
 \begin{align*}
 C& = 13.3\% \cdot N_{p}\cdot C_{p}  + (1-13.3\% )\cdot 25\% \cdot N_{np} \cdot C_{np}\\
    & = 0.133 \cdot N_{p}\cdot C_{p}  + 0.21675 \cdot N_{np} \cdot C_{np}
@@ -431,9 +431,9 @@ C& = 13.3\% \cdot N_{p}\cdot C_{p}  + (1-13.3\% )\cdot 25\% \cdot N_{np} \cdot C
     \label{orderanother}
 \end{table}
 
- In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Besides, we quantify the quality control  issue: make it possible to control the BLEU score of the translation selected from a partial translation set to a proportion defined as \textit{delta} of the upper bound of BLEU score which is computed on best translations selected from  the full translation set. For a specific delta value, we train the Linear Regression model to score each translation we've got already, to use this score comparing with the threshold between acceptable and unacceptable translations to evaluate whether to get another translation.  If the translation we solicit currently satisfies our quality control demand which means the model predicted BLEU score is higher than the threshold, we stop soliciting other translations continually for the source sentence. On one hand, since we only collected part of the full translation candidates set, we save money by avoiding paying for  redundant   translation.  On the other hand, in the training and validating process, we reduce the size of the training set and validation set, say only 10\% of the full data set for each , which means we only need 10\% reference data to calculate the gold standard BLEU score and calibration feature value for each translation candidate in training set and validation set respectively. 
+ In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Besides, we quantify the quality control  issue: make it possible to control the BLEU score of the translation selected from a partial translation set to a proportion (\textit{delta}) of the upper bound of BLEU score. The upper bound of BLEU score is computed on best translations selected from  the full translation set. For a specific delta value, we train the Linear Regression model to score each translation we've got already, and use this score comparing with the threshold between acceptable and unacceptable translations to evaluate whether to get another translation. If the translation we solicit currently satisfies our quality control demand which means the model predicted BLEU score is higher than the threshold, we stop soliciting other translations continually for the source sentence. On one hand, since we only collected part of the full translation candidates set, we save money by avoiding paying for  redundant   translations.  On the other hand, in the training and validating process, we reduce the size of the training set and validation set, say only 10\% of the full data set for each , which means we only need 10\% reference data to calculate the gold standard BLEU score and calibration feature value for each translation candidate in training set and validation set respectively. 
  
- To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this  $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations. Originally, for each source sentence, the size of the translation set is 4. Since we stop soliciting translations after getting the acceptable one, the averaged size of translation set among all source sentences becomes less than 4. We define the averaged size of translation sets as \textit{\# of trans}.
+To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this  $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations. Originally, for each source sentence, the size of the translation set is 4. Since we stop soliciting translations after getting the acceptable one, the averaged size of translation set among all source sentences becomes less than 4. We define the averaged size of translation sets as \textit{\# of trans}.
 
 Table \ref{orderanother} shows the following positive correlations between  \textit{delta} and \textit{\# of Trans}: 
 \begin{align*}
@@ -513,8 +513,23 @@ Although \newcite{passonneau2013benefits} collect word sense labels, which are a
 %They required workers to finish 20000 HITs and have a 98\% lifetime approval rating. 
 They measured the performance of worker by comparing worker's labels to the current majority labels and worker with bad performance would be blocked. However, this approach suffered from 2 shortcomings: (1) Sometimes majority labels may not reflect the ground truth label. (2) They didn't figure out  how much data(HITs) is needed to evaluate a worker's performance. Although they could find the spam after the fact, it was a post-hoc analysis, so they had already paid for that worker and wasted the money.  We attempt to identify poor workers as quickly as possible, in order to limit the amount of work that we solicit from them.
 
+\newcite{lin2014re} discussed what makes classifiers performs well when dealing with relabeled annotation data. 
+
 \section{Discussion}
+\begin{figure*}[htbp]
+  \centering
+  \includegraphics[width=\linewidth]{cost-bleu/pricecost.pdf}
+  \caption{The Relationship between BLEU score and costs. Figure (a) shows the relationship between BLEU score and  the total costs (professional and non-professional) for the ranking based approach. Figure (b) shows the relationship between BLEU score and the total costs for model-based approach. Figure (c)  illustrates the relationship between BLEU score and non-professional costs for model based approach.}
+    \label{fbleucost}
+\end{figure*}
+
+Figure \ref{fbleucost} details the relationship between BLEU score and costs.  From Figure \ref{fbleucost}-(a), in the ranking selection approach, the curve illustrates that after the costs increases to some point, the BLEU score stopped increasing even though we invest more money to buy professional translations as workers' ranking calibrations continually. This means  we can obtain a high ranking accuracy compared with gold standard ranking and a relative high BLEU score in ranking selection approach by paying only a small amount of money to buy a few professional translations.  
+
+Figure\ref{fbleucost}-(b) shows that in model based selection method, as \textit{delta} increases, the cost increases, and the BLEU score for translations selected by model goes higher. Since the cost for purchasing professional translations is fixed and takes a major proportion in the total cost for  this approach, cost's increment which is contributed by the investment on non-professional translations is not very big as \textit{delta} increase. Thus, to emphasize the effectiveness of model selection approach, we figure the relationship between BLEU score and non-professional cost in figure \ref{fbleucost}-(c). The total amount money for buying  complete 4 non-professional translation set for source sentences in testing set  is \$573.44 ($716.80 \times 0.80$). Table \ref{orderanother} shows that  $S_{upper}$ is 40.13. If we pay \$286.72, which is \%50 of total non-professional translations, the translating accuracy is as  \%94 as $S_{upper}$ and the BLEU score is 37.61.  Furthermore, suppose we pay \$348.36, which is \%60.7 of total non-professional translations, the translating accuracy increases to  \%96 of $S_{upper}$ and the BLEU score becomes 38.52. 
+
 \section{Conclusion}
+In this paper, we propose two mechanisms to optimize cost: the ranking selection method and the model selection method. They have  different applicable scenarios. The ranking selection method is a very simple method without any model training. This approach is inspired by the intuition that workers' performance is consistent. The ranking selection method is suitable for crowdsourcing tasks with vague requirements on the quality control issue and crowdsourcing task requester who has little background in machine learning or data mining and don't know how to train a model.
+The model selection method works if there exists a specific requirement in quality control and the more data collected, the more benefits will be obtained since this approach reduced the amount of non-professional data  dramatically.
 \section*{Acknowledgments}
 
 Do not number the acknowledgment section. Do not include this section when submitting your paper for review.
