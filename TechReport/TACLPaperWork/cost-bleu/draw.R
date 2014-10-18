@@ -11,6 +11,7 @@ newWords <- read.table("./pricebleu1.txt", header = FALSE)
 #curve(Yfunc, -2*pi, 2*pi, xname = "t")
 a <- as.vector(t(newWords[1]))
 b <- as.vector(t(newWords[2]))
+b1 <-as.vector(t(newWords[3]))
 
 newWords <- read.table("./pricebleu2.txt", header = FALSE)
 #curve(Yfunc, -2*pi, 2*pi, xname = "t")
@@ -39,9 +40,17 @@ grid(nx = NA,ny = NULL,lty = 1)
 
 
 #lines(x, z, type=c('o'),col = 18,cex = 2,pch = '*')
-lines(a, b, type=c('o'),col = 1,cex = 4,pch = '*')
-lines(c, e, type=c('o'),col = 1,cex = 4,pch = '*')
-lines(f, h, type=c('o'),col = 1,cex = 4,pch = "*")
+lines(a, b1, type=c('o'),col = 18,cex = 4,pch = '*',lwd = 2)
+lines(a, b, type=c('o'),col = 1,cex = 4,pch = '*',lwd = 2)
+#for (i in 1:17 ) {
+#   points(a[i], b1[i], type=c('o'),col = 'red',cex = 3,pch = '*')
+#}
+
+
+#lines(c, e, type=c('o'),col = 1,cex = 4,pch = '*')
+#lines(f, h, type=c('o'),col = 1,cex = 4,pch = "*")
+legend("bottomright",
+c("Partial Ranking BLEU", "Gold Ranking BLEU"),col = c(1, 18),lty= (1),pch = '*')
 
 plot(NULL,NULL, main=NULL, sub="(b)",
 xlab="Price($) ", ylab="BLEU Score",
@@ -51,7 +60,7 @@ xlim=c(8850, 9200)
 axis(1,at = seq(8850, 9200, by = 50), las=1,tck = 0.01,cex.axis = 1)
 axis(2,at = seq(0, 40, by = 5), las=1,tck = 0.01,cex.axis = 1)
 grid(nx = NA,ny = NULL,lty = 1)
-lines(c, e, type=c('o'),col = 1,cex = 4,pch = '*')
+lines(c, e, type=c('o'),col = 1,cex = 4,pch = '*',lwd = 2)
 #lines(d, e, type=c('o'),col = 29,cex = 4,pch = '*')
 
 #legend("bottomright",

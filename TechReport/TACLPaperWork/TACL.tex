@@ -16,7 +16,11 @@
 \usepackage{url}
 \usepackage{graphicx}
 \usepackage{multirow}
+%\usepackage{xltxtra}
+%\usepackage{polyglossia}
 \usepackage{tablefootnote}%[2014/01/26]
+%\setotherlanguage{urdu}
+%\newfontfamily\urdufont[Script=Arabic,Language=Urdu,Scale=1.5]{Amiri}
 %\usepackage{footnotebackref}[2012/07/01]
 
 
@@ -42,8 +46,9 @@
 \begin{document}
 \maketitle
 \begin{abstract}
- Crowdsourcing is a promising mechanism dealing with artificial intelligence tasks.
-\end{abstract}
+Crowdsoucing makes it possible to solicit translation candidates for further selection  in machine translation tasks  at low cost. We proposed two mechanisms to make this process even cheaper while maintaining a high translation quality: ranking selection method and model selection method. For ranking selection method, we reduce cost by identifying bad translators after we solicit only several translations from each of them, keeping hiring top workers and selecting the best translation based their rankings. In model selection method, we train models to evaluate the quality of translation candidates and fit a threshold between acceptable and unacceptable translations.
+The total cost is optimized by reducing the redundant translations which can be pointed out by our model and the the threshold. 
+ \end{abstract}
 
 \section{Introduction}
 
@@ -431,7 +436,21 @@ C& = 13.3\% \cdot N_{p}\cdot C_{p}  + (1-13.3\% )\cdot 25\% \cdot N_{np} \cdot C
     \label{orderanother}
 \end{table}
 
- In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Besides, we quantify the quality control  issue: make it possible to control the BLEU score of the translation selected from a partial translation set to a proportion (\textit{delta}) of the upper bound of BLEU score. The upper bound of BLEU score is computed on best translations selected from  the full translation set. For a specific delta value, we train the Linear Regression model to score each translation we've got already, and use this score comparing with the threshold between acceptable and unacceptable translations to evaluate whether to get another translation. If the translation we solicit currently satisfies our quality control demand which means the model predicted BLEU score is higher than the threshold, we stop soliciting other translations continually for the source sentence. On one hand, since we only collected part of the full translation candidates set, we save money by avoiding paying for  redundant   translations.  On the other hand, in the training and validating process, we reduce the size of the training set and validation set, say only 10\% of the full data set for each , which means we only need 10\% reference data to calculate the gold standard BLEU score and calibration feature value for each translation candidate in training set and validation set respectively. 
+ In the second approach,  we train a model to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Besides, we quantify the quality control  issue: make it possible to control the BLEU score of the translation selected from a partial translation set to a proportion (\textit{delta}) of the upper bound of BLEU score. The upper bound of BLEU score is computed on best translations selected from  the full translation set. For a specific delta value, we train the Linear Regression model to score each translation we've got already, and use this score comparing with the threshold between acceptable and unacceptable translations to evaluate whether to get another translation. If the translation we solicit currently satisfies our quality control demand which means the model predicted BLEU score is higher than the threshold, we stop soliciting other translations continually for the source sentence. Table \ref{texample} illustrates the idea of this approach. On one hand, since we only collected part of the full translation candidates set, we save money by avoiding paying for  redundant   translations.  On the other hand, in the training and validating process, we reduce the size of the training set and validation set, say only 10\% of the full data set for each , which means we only need 10\% reference data to calculate the gold standard BLEU score and calibration feature value for each translation candidate in training set and validation set respectively. 
+ 
+ \begin{table*}[t]
+ \center
+\begin{tabular}{|c|c|c|c|}
+\hline
+Source                                   & References                         & Translations                         & Quality \\ \hline
+\multirow{4}{*}{فرانس کی تجویز کی حمایت} & Support of France's Recommendation & France has supported the proposal.   & 0.342   \\ \cline{2-4} 
+                                         & Support for the Proposal of France & Supporting the French proposal       & 0.630   \\ \cline{2-4} 
+                                         & French Proposal Endorsed           & France suggestion was appriciatable. & -0.014  \\ \cline{2-4} 
+                                         & French Proposal Supported          & defending the thinking of France.    & 0.269   \\ \hline
+\end{tabular}
+\caption{An example showing how to reduce redundant translations using the  model and the threshold. For each source sentence, we solicit 4 references and 4 non-professional translations. The value of 'Quality' is the \textbf{ model predicted score} for each translation which is different from the BLEU score. In this example, \textit{delta} is \%95, and the threshold telling apart acceptable and unacceptable translations is 0.35. Translations listed from top to the bottom are in the chronological order from the earliest submitted one to the latest submitted one. Since the first translation's quality value is lower that the threshold, we need to solicit another one.  Knowing that the second translation's quality value is higher than the threshold,  we stop soliciting other translations for this source sentence so that we avoid collect redundant translations and reduce cost.}
+\label{texample}
+\end{table*}
  
 To evaluate the performance of the model running with different thresholds, we first compute an upper bound by selecting the best translation among all 4 candidates for each foreign sentence of the validation set according to our  model. We call this  $S_{upper}$.  $S_{upper}$ is the highest BLEU score we can get by choosing translation using the model, since it has access to all of the available translations. Originally, for each source sentence, the size of the translation set is 4. Since we stop soliciting translations after getting the acceptable one, the averaged size of translation set among all source sentences becomes less than 4. We define the averaged size of translation sets as \textit{\# of trans}.
 
@@ -469,7 +488,7 @@ Finally, we retrain our model using the union set of the training set and valida
 
 %"TODO:Here please write an analysis of how much money we could save if we choose some threshold for when we ask for a new translation.  Also, give an estimate of how much worse the translation quality is compared with keeping all of the workers."
 
-\begin{figure}[htbp]
+\begin{figure}[h!]
   \centering
   \includegraphics[width=\linewidth]{fitsizedelta/fit.pdf}
   \caption{Relationship between \textit{delta} and \textit{\# of Trans}. Each red circle shows the average size of translation set on x-axis and the \textit{delta} on y-axis. The blue curve represents the model we fit to describe the relationship.}
@@ -539,7 +558,7 @@ To emphasize the effectiveness of model selection approach, Figure \ref{fbleucos
 \begin{figure*}[htbp]
   \centering
   \includegraphics[width=\linewidth]{cost-bleu/pricecost.pdf}
-  \caption{The Relationship between BLEU score and costs. Figure (a) shows the relationship between BLEU score and  the total costs (professional and non-professional) for the ranking based approach. Figure (b) shows the relationship between BLEU score and the total costs for model-based approach. Figure (c)  illustrates the relationship between BLEU score and non-professional costs for model based approach.}
+  \caption{The Relationship between BLEU score and costs. In Figure (a), the red line shows the relationship between BLEU score and  the total costs (professional and non-professional) for the ranking based approach. The green line shows the corresponding translation quality for gold standard ranking selection measured in BLEU score. Figure (b) shows the relationship between BLEU score and the total costs for model-based approach. Figure (c)  illustrates the relationship between BLEU score and non-professional costs for model based approach.}
     \label{fbleucost}
 \end{figure*}
 
