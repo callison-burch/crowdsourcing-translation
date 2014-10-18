@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 OCT 2014 02:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 OCT 2014 02:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -261,11 +261,6 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 47.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 1215) in paragraph at lines 49--51
-[]\OT1/ptm/m/n/10 Crowdsoucing makes it pos-si-ble to so-licit
- []
-
-
 Underfull \hbox (badness 1033) in paragraph at lines 55--56
 \OT1/ptm/m/n/10.95 cost. Plat-forms like Ama-zon Me-chan-i-cal Turk
  []
@@ -467,7 +462,7 @@ type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
 pe1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/
 times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr
 8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on TACL.pdf (13 pages, 234732 bytes).
+Output written on TACL.pdf (13 pages, 234731 bytes).
 PDF statistics:
  153 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams
