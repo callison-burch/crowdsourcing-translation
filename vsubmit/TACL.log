@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  18 OCT 2014 02:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 OCT 2014 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -261,14 +261,14 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 47.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 1033) in paragraph at lines 55--56
-\OT1/ptm/m/n/10.95 cost. Plat-forms like Ama-zon Me-chan-i-cal Turk
+Underfull \hbox (badness 2818) in paragraph at lines 49--51
+[]\OT1/ptm/m/n/10 Crowdsourcing makes it pos-si-ble to cre-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 60.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
 
-Underfull \hbox (badness 1014) in paragraph at lines 60--65
+Underfull \hbox (badness 1014) in paragraph at lines 62--67
 []\OT1/ptm/m/n/10.95 In this pa-per we fo-cus on a dif-fer-ent as-pect
  []
 
@@ -281,97 +281,92 @@ Underfull \vbox (badness 2293) has occurred while \output is active []
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 68.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 70.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 68.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
  [2]
-Underfull \hbox (badness 2644) in paragraph at lines 117--118
+Underfull \hbox (badness 2644) in paragraph at lines 105--106
 []\OT1/ptm/m/n/10.95 Another com-po-nent cost of the Zaidan and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
+Underfull \hbox (badness 4899) in paragraph at lines 107--108
+\OT1/ptm/m/n/10.95 num-ber of trans-la-tions needed for each sen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
-<WorkerPerf/wp.pdf, id=17, 542.025pt x 542.025pt>
+<WorkerPerf/wp.pdf, id=15, 542.025pt x 542.025pt>
 File: WorkerPerf/wp.pdf Graphic file (type pdf)
  <use WorkerPerf/wp.pdf>
-Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 136.
+Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 131.
 (pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[3]
 
-Underfull \vbox (badness 3635) has occurred while \output is active []
+LaTeX Warning: Citation `Zaidan09zmert' on page 4 undefined on input line 142.
 
- [3]
-<OnlyCali/calirankingorder.pdf, id=22, 542.025pt x 542.025pt>
+[4 <./WorkerPerf/wp.pdf>] [5]
+<OnlyCali/calirankingorder.pdf, id=43, 542.025pt x 542.025pt>
 File: OnlyCali/calirankingorder.pdf Graphic file (type pdf)
 
 <use OnlyCali/calirankingorder.pdf>
-Package pdftex.def Info: OnlyCali/calirankingorder.pdf used on input line 205.
+Package pdftex.def Info: OnlyCali/calirankingorder.pdf used on input line 216.
 (pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./WorkerPerf/wp.pdf> <./OnlyCali/calirankingorder.pdf>] [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-<senlevelselect/curve1.pdf, id=54, 505.89pt x 505.89pt>
+<senlevelselect/curve1.pdf, id=44, 505.89pt x 505.89pt>
 File: senlevelselect/curve1.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 353.
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 270.
 (pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<senlevelselect/curve2.pdf, id=55, 505.89pt x 505.89pt>
+<senlevelselect/curve2.pdf, id=45, 505.89pt x 505.89pt>
 File: senlevelselect/curve2.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve2.pdf>
-Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 361.
+Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 276.
 (pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[6 <./OnlyCali/calirankingorder.pdf>]
 
-Underfull \hbox (badness 1810) in paragraph at lines 369--370
-[]\OT1/ptm/m/n/10.95 Table 1[] shows that the higest cor-re-la-tion is
- []
+LaTeX Warning: Text page 7 contains only floats.
 
 
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
- [7 <./senlevelselect/curve1.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 388--389
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
 
  []
 
 
-Overfull \hbox (4.84503pt too wide) in paragraph at lines 392--392
+Overfull \hbox (4.84503pt too wide) in paragraph at lines 304--304
 [] 
  []
 
 
-Overfull \hbox (15.79504pt too wide) in paragraph at lines 397--397
+Overfull \hbox (15.79504pt too wide) in paragraph at lines 309--309
 [] 
  []
 
-[8 <./senlevelselect/curve2.pdf>]
+[7 <./senlevelselect/curve1.pdf> <./senlevelselect/curve2.pdf>]
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no Å in font ptmr7t!
 Missing character: There is no ÿ in font ptmr7t!
@@ -409,63 +404,72 @@ Missing character: There is no € in font ptmr7t!
 Missing character: There is no å in font ptmr7t!
 Missing character: There is no ÿ in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 451.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
 
-<WorkerSelection/bleuthreshold.pdf, id=74, 505.89pt x 505.89pt>
-File: WorkerSelection/bleuthreshold.pdf Graphic file (type pdf)
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<use WorkerSelection/bleuthreshold.pdf>
-Package pdftex.def Info: WorkerSelection/bleuthreshold.pdf used on input line 4
-74.
-(pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
- [9 <./WorkerSelection/bleuthreshold.pdf>] <fitsizedelta/fit.pdf, id=83, 505.89
-pt x 505.89pt>
+
+<fitsizedelta/fit.pdf, id=71, 505.89pt x 505.89pt>
 File: fitsizedelta/fit.pdf Graphic file (type pdf)
-
-<use fitsizedelta/fit.pdf>
-Package pdftex.def Info: fitsizedelta/fit.pdf used on input line 493.
+ <use fitsizedelta/fit.pdf>
+Package pdftex.def Info: fitsizedelta/fit.pdf used on input line 392.
 (pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \vbox (badness 1728) has occurred while \output is active []
-
- [10 <./fitsizedelta/fit.pdf>] [11] <cost-bleu/pricecost.pdf, id=96, 1445.4pt x
- 505.89pt>
+[8] [9 <./fitsizedelta/fit.pdf>]
+<cost-bleu/pricecost.pdf, id=84, 867.24pt x 433.62pt>
 File: cost-bleu/pricecost.pdf Graphic file (type pdf)
 
 <use cost-bleu/pricecost.pdf>
-Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 560.
-(pdftex.def)             Requested size: 469.75499pt x 164.4123pt.
- [12] (./TACL.bbl) [13 <./cost-bleu/pricecost.pdf>] (./TACL.aux) ) 
+Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 430.
+(pdftex.def)             Requested size: 469.75499pt x 234.87912pt.
+
+Underfull \hbox (badness 3724) in paragraph at lines 441--449
+[]\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 1275) has occurred while \output is active []
+
+ (./TACL.bbl [11 <./cost-bleu/pricecost.pdf>]
+Underfull \hbox (badness 1616) in paragraph at lines 87--94
+[]\OT1/ptm/m/n/10 Rabih Zbib, Erika Mal-chiodi, Ja-cob De-vlin, David
+ []
+
+) [12
+
+] (./TACL.aux) ) 
 Here is how much of TeX's memory you used:
- 3019 strings out of 493117
- 41584 string characters out of 6135433
- 130244 words of memory out of 5000000
- 6379 multiletter control sequences out of 15000+600000
- 32129 words of font info for 73 fonts, out of 8000000 for 9000
+ 3011 strings out of 493117
+ 41415 string characters out of 6135433
+ 121294 words of memory out of 5000000
+ 6373 multiletter control sequences out of 15000+600000
+ 31033 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,15n,23p,1587b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/t
-exlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2014/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2014/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2014/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
-pe1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/
-times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on TACL.pdf (13 pages, 234731 bytes).
+ 38i,15n,23p,1989b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
+}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
+ype1/urw/times/utmri8a.pfb>
+Output written on TACL.pdf (12 pages, 224190 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
+ 143 PDF objects out of 1000 (max. 8388607)
+ 101 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

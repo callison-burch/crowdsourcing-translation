@@ -4,45 +4,45 @@ The top-level auxiliary file: tacl.aux
 The style file: acl2012.bst
 Database file #1: tacl.bib.bib
 Warning--empty journal in lin2014re
-You've used 8 entries,
+You've used 12 entries,
             2490 wiz_defined-function locations,
-            600 strings with 6399 characters,
-and the built_in function-call counts, 4117 in all, are:
-= -- 460
-> -- 118
-< -- 7
-+ -- 39
-- -- 38
-* -- 262
-:= -- 594
-add.period$ -- 37
-call.type$ -- 8
-change.case$ -- 51
-chr.to.int$ -- 8
-cite$ -- 9
-duplicate$ -- 201
-empty$ -- 335
-format.name$ -- 50
-if$ -- 936
+            622 strings with 7484 characters,
+and the built_in function-call counts, 6600 in all, are:
+= -- 724
+> -- 235
+< -- 11
++ -- 81
+- -- 80
+* -- 443
+:= -- 958
+add.period$ -- 56
+call.type$ -- 12
+change.case$ -- 88
+chr.to.int$ -- 12
+cite$ -- 13
+duplicate$ -- 307
+empty$ -- 512
+format.name$ -- 96
+if$ -- 1486
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 8
-newline$ -- 50
-num.names$ -- 24
-pop$ -- 74
+missing$ -- 12
+newline$ -- 74
+num.names$ -- 36
+pop$ -- 123
 preamble$ -- 1
-purify$ -- 59
+purify$ -- 100
 quote$ -- 0
-skip$ -- 166
+skip$ -- 253
 stack$ -- 0
-substring$ -- 260
-swap$ -- 83
-text.length$ -- 7
+substring$ -- 400
+swap$ -- 129
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 64
+type$ -- 96
 warning$ -- 1
-while$ -- 37
-width$ -- 12
-write$ -- 117
+while$ -- 57
+width$ -- 16
+write$ -- 176
 (There was 1 warning)

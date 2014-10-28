@@ -31,6 +31,15 @@ Franz~Josef Och.
   Computational Linguistics-Volume 1}, pages 160--167. Association for
   Computational Linguistics.
 
+\bibitem[\protect\citename{Papineni \bgroup et al.\egroup
+  }2002]{papineni2002bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu.
+\newblock 2002.
+\newblock Bleu: a method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th annual meeting on association for
+  computational linguistics}, pages 311--318. Association for Computational
+  Linguistics.
+
 \bibitem[\protect\citename{Passonneau and
   Carpenter}2013]{passonneau2013benefits}
 Rebecca~J Passonneau and Bob Carpenter.
@@ -38,6 +47,15 @@ Rebecca~J Passonneau and Bob Carpenter.
 \newblock The benefits of a model of annotation.
 \newblock In {\em Proceedings of the 7th Linguistic Annotation Workshop and
   Interoperability with Discourse}, pages 187--195. Citeseer.
+
+\bibitem[\protect\citename{Post \bgroup et al.\egroup
+  }2012]{post2012constructing}
+Matt Post, Chris Callison-Burch, and Miles Osborne.
+\newblock 2012.
+\newblock Constructing parallel corpora for six indian languages via
+  crowdsourcing.
+\newblock In {\em Proceedings of the Seventh Workshop on Statistical Machine
+  Translation}, pages 401--409. Association for Computational Linguistics.
 
 \bibitem[\protect\citename{Sheng \bgroup et al.\egroup }2008]{sheng2008get}
 Victor~S Sheng, Foster Provost, and Panagiotis~G Ipeirotis.
@@ -64,5 +82,23 @@ Omar~F. Zaidan and Chris Callison-Burch.
   non-professionals.
 \newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
   Computational Linguistics: Human Language Technologies}, pages 1220--1229.
+
+\bibitem[\protect\citename{Zbib \bgroup et al.\egroup }2012]{zbib2012machine}
+Rabih Zbib, Erika Malchiodi, Jacob Devlin, David Stallard, Spyros Matsoukas,
+  Richard Schwartz, John Makhoul, Omar~F Zaidan, and Chris Callison-Burch.
+\newblock 2012.
+\newblock Machine translation of arabic dialects.
+\newblock In {\em Proceedings of the 2012 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 49--59. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Zbib \bgroup et al.\egroup
+  }2013]{zbib2013systematic}
+Rabih Zbib, Gretchen Markiewicz, Spyros Matsoukas, Richard~M Schwartz, and John
+  Makhoul.
+\newblock 2013.
+\newblock Systematic comparison of professional and crowdsourced reference
+  translations for machine translation.
+\newblock In {\em HLT-NAACL}, pages 612--616.
 
 \end{thebibliography}
