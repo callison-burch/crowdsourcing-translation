@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  8 NOV 2014 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  9 NOV 2014 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**TACL.tex
-(./TACL.tex
+**naaclhlt2015.tex
+(./naaclhlt2015.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
@@ -22,8 +22,9 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (./acl2012.sty
-Conference Style for ACL 2005 -- released Octobe 11, 2004
+)
+(./naaclhlt2015.sty
+Conference Style for NAACL-HLT 2012 -- released August 30, 2011
 \titlebox=\skip43
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
@@ -131,6 +132,9 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
+)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tablefootnote/tablefootnote.sty
 Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
 
@@ -167,38 +171,85 @@ Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 \etb@tempcnta=\count104
 ))
-(./TACL.aux)
-\openout1 = `TACL.aux'.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 46.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks20
+\float@box=\box28
+\@float@everytoks=\toks21
+\@floatcapt=\box29
+)
+\@float@every@algorithm=\toks22
+\c@algorithm=\count106
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count107
+\c@ALG@rem=\count108
+\c@ALG@nested=\count109
+\ALG@tlm=\skip50
+\ALG@thistlm=\skip51
+\c@ALG@Lnr=\count110
+\c@ALG@blocknr=\count111
+\c@ALG@storecount=\count112
+\c@ALG@tmpcounter=\count113
+\ALG@tmplength=\skip52
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (./naaclhlt2015.aux
+
+LaTeX Warning: Label `spearmansen' multiply defined.
+
+
+LaTeX Warning: Label `firstksenbleu' multiply defined.
+
+
+LaTeX Warning: Label `firstksenbleudiff' multiply defined.
+
+
+LaTeX Warning: Label `texample' multiply defined.
+
+)
+\openout1 = `naaclhlt2015.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
  (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count105
+\scratchcounter=\count114
 \scratchdimen=\dimen117
-\scratchbox=\box28
-\nofMPsegments=\count106
-\nofMParguments=\count107
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count108
+\scratchbox=\box30
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count117
 \MPscratchDim=\dimen118
-\MPnumerator=\count109
-\makeMPintoPDFobject=\count110
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -248,27 +299,27 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 47.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 52.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 2818) in paragraph at lines 49--51
+Underfull \hbox (badness 2818) in paragraph at lines 54--56
 []\OT1/ptm/m/n/10 Crowdsourcing makes it pos-si-ble to cre-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 62.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
 
-Underfull \hbox (badness 1014) in paragraph at lines 62--67
+Underfull \hbox (badness 1014) in paragraph at lines 67--72
 []\OT1/ptm/m/n/10.95 In this pa-per we fo-cus on a dif-fer-ent as-pect
  []
 
@@ -281,95 +332,66 @@ Underfull \vbox (badness 2293) has occurred while \output is active []
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 70.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 75.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 70.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
 
-Underfull \hbox (badness 2644) in paragraph at lines 105--106
+Underfull \hbox (badness 2644) in paragraph at lines 110--111
 []\OT1/ptm/m/n/10.95 Another com-po-nent cost of the Zaidan and
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 107--108
+Underfull \hbox (badness 4899) in paragraph at lines 112--113
 \OT1/ptm/m/n/10.95 num-ber of trans-la-tions needed for each sen-
  []
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
-
- []
-
-<WorkerPerf/wp.pdf, id=14, 542.025pt x 542.025pt>
+[2] <WorkerPerf/wp.pdf, id=14, 542.025pt x 542.025pt>
 File: WorkerPerf/wp.pdf Graphic file (type pdf)
  <use WorkerPerf/wp.pdf>
-Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 131.
-(pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
-
-[3 <./WorkerPerf/wp.pdf>]
-
-LaTeX Warning: Citation `Zaidan09zmert' on page 4 undefined on input line 142.
-
-[4]
-Underfull \vbox (badness 4531) has occurred while \output is active []
-
-
-<OnlyCali/calirankingorder.pdf, id=39, 542.025pt x 542.025pt>
-File: OnlyCali/calirankingorder.pdf Graphic file (type pdf)
-
-<use OnlyCali/calirankingorder.pdf>
-Package pdftex.def Info: OnlyCali/calirankingorder.pdf used on input line 216.
+Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 144.
 (pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[5] <senlevelselect/curve1.pdf, id=43, 505.89pt x 505.89pt>
+[3] [4 <./WorkerPerf/wp.pdf>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 196.
+ [5]
+<senlevelselect/curve1.pdf, id=43, 505.89pt x 289.08pt>
 File: senlevelselect/curve1.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 270.
-(pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 237.
+(pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
 
 <senlevelselect/curve2.pdf, id=44, 505.89pt x 505.89pt>
 File: senlevelselect/curve2.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve2.pdf>
-Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 276.
+Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 243.
 (pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
 
-Overfull \hbox (4.84503pt too wide) in paragraph at lines 304--304
+Overfull \hbox (4.60342pt too wide) in paragraph at lines 252--252
 [] 
  []
 
-[6 <./OnlyCali/calirankingorder.pdf>]
 
-LaTeX Warning: Text page 7 contains only floats.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Overfull \hbox (15.79504pt too wide) in paragraph at lines 309--309
-[] 
- []
-
-[7 <./senlevelselect/curve1.pdf> <./senlevelselect/curve2.pdf>]
 Missing character: There is no Ÿ in font ptmr7t!
 Missing character: There is no Å in font ptmr7t!
 Missing character: There is no ÿ in font ptmr7t!
@@ -406,61 +428,187 @@ Missing character: There is no ß in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no å in font ptmr7t!
 Missing character: There is no ÿ in font ptmr7t!
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 351.
 
-<fitsizedelta/fit.pdf, id=71, 505.89pt x 505.89pt>
-File: fitsizedelta/fit.pdf Graphic file (type pdf)
- <use fitsizedelta/fit.pdf>
-Package pdftex.def Info: fitsizedelta/fit.pdf used on input line 392.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./senlevelselect/curve1.pdf> <./senlevelselect/curve2.pdf>]
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+
+
+LaTeX Warning: Reference `spearmanrho' on page 7 undefined on input line 357.
+
+
+LaTeX Warning: Reference `bleu' on page 7 undefined on input line 357.
+
+
+LaTeX Warning: Reference `spearmanrho' on page 7 undefined on input line 357.
+
+
+LaTeX Warning: Reference `bleu' on page 7 undefined on input line 357.
+
+
+LaTeX Warning: Reference `spearmanrho' on page 7 undefined on input line 357.
+
+[7]
+
+LaTeX Warning: Reference `bleu' on page 8 undefined on input line 364.
+
+
+Underfull \hbox (badness 1436) in paragraph at lines 364--367
+[]\OT1/ptm/m/n/10.95 Table [] shows that the Lo-gis-tic Re-gres-sion
+ []
+
+<OnlyCali/calirankingorder.pdf, id=62, 542.025pt x 542.025pt>
+File: OnlyCali/calirankingorder.pdf Graphic file (type pdf)
+
+<use OnlyCali/calirankingorder.pdf>
+Package pdftex.def Info: OnlyCali/calirankingorder.pdf used on input line 378.
+(pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+File: senlevelselect/curve1.pdf Graphic file (type pdf)
+ <use senlevelselect/curve1.pdf>
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 432.
+(pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: senlevelselect/curve2.pdf Graphic file (type pdf)
+<use senlevelselect/curve2.pdf>
+Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 438.
 (pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
 
-[8 <./fitsizedelta/fit.pdf>] [9]
-<cost-bleu/pricecost.pdf, id=84, 867.24pt x 433.62pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 2073) has occurred while \output is active []
+
+ [9 <./OnlyCali/calirankingorder.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+
+Overfull \hbox (4.84503pt too wide) in paragraph at lines 466--466
+[] 
+ []
+
+
+Overfull \hbox (15.79504pt too wide) in paragraph at lines 471--471
+[] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no Ÿ in font ptmr7t!
+Missing character: There is no Å in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ß in font ptmr7t!
+Missing character: There is no Ÿ in font ptmr7t!
+Missing character: There is no Ü in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+Missing character: There is no ⁄ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ¨ in font ptmr7t!
+Missing character: There is no Ÿ in font ptmr7t!
+Missing character: There is no à in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ≤ in font ptmr7t!
+Missing character: There is no ⁄ in font ptmr7t!
+Missing character: There is no © in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ≠ in font ptmr7t!
+Missing character: There is no Ÿ in font ptmr7t!
+Missing character: There is no Ö in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+Missing character: There is no ß in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no å in font ptmr7t!
+Missing character: There is no ÿ in font ptmr7t!
+[10] <fitsizedelta/fit.pdf, id=80, 505.89pt x 505.89pt>
+File: fitsizedelta/fit.pdf Graphic file (type pdf)
+
+<use fitsizedelta/fit.pdf>
+Package pdftex.def Info: fitsizedelta/fit.pdf used on input line 554.
+(pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11] [12 <./fitsizedelta/fit.pdf>]
+<cost-bleu/pricecost.pdf, id=93, 867.24pt x 433.62pt>
 File: cost-bleu/pricecost.pdf Graphic file (type pdf)
 
 <use cost-bleu/pricecost.pdf>
-Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 430.
+Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 592.
 (pdftex.def)             Requested size: 469.75499pt x 234.87912pt.
 
-Underfull \hbox (badness 3724) in paragraph at lines 441--449
+Underfull \hbox (badness 3724) in paragraph at lines 603--611
 []\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
  []
 
-[10] (./TACL.bbl [11 <./cost-bleu/pricecost.pdf>]
-Underfull \hbox (badness 1616) in paragraph at lines 87--94
+(./naaclhlt2015.bbl [13] [14 <./cost-bleu/pricecost.pdf>]
+Underfull \hbox (badness 1616) in paragraph at lines 94--101
 []\OT1/ptm/m/n/10 Rabih Zbib, Erika Mal-chiodi, Ja-cob De-vlin, David
  []
 
-) [12
+) [15
 
-] (./TACL.aux) ) 
+] (./naaclhlt2015.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3011 strings out of 493117
- 41415 string characters out of 6135433
- 121294 words of memory out of 5000000
- 6373 multiletter control sequences out of 15000+600000
+ 3604 strings out of 493117
+ 50259 string characters out of 6135433
+ 129958 words of memory out of 5000000
+ 6949 multiletter control sequences out of 15000+600000
  31033 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,15n,23p,1989b,320s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc
-}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
-ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
-al/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-di
-st/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on TACL.pdf (12 pages, 224183 bytes).
+ 38i,18n,23p,1999b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on naaclhlt2015.pdf (15 pages, 244324 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 153 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

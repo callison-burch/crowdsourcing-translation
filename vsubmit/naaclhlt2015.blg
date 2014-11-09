@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: naaclhlt2015.aux
+The style file: naaclhlt2015.bst
+Database file #1: naaclhlt2015.bib.bib
+Warning--empty journal in lin2014re
+You've used 13 entries,
+            2490 wiz_defined-function locations,
+            629 strings with 7710 characters,
+and the built_in function-call counts, 6940 in all, are:
+= -- 763
+> -- 242
+< -- 11
++ -- 83
+- -- 82
+* -- 467
+:= -- 1014
+add.period$ -- 60
+call.type$ -- 13
+change.case$ -- 93
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 322
+empty$ -- 540
+format.name$ -- 99
+if$ -- 1555
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 80
+num.names$ -- 39
+pop$ -- 126
+preamble$ -- 1
+purify$ -- 106
+quote$ -- 0
+skip$ -- 264
+stack$ -- 0
+substring$ -- 424
+swap$ -- 131
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 104
+warning$ -- 1
+while$ -- 61
+width$ -- 17
+write$ -- 190
+(There was 1 warning)

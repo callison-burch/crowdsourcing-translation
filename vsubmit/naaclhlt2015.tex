@@ -1,24 +1,29 @@
 %
-% File acl2012.tex
+% File naaclhlt2015.tex
 %
-% Contact: Maggie Li (cswjli@comp.polyu.edu.hk), Michael White (mwhite@ling.osu.edu)
-%%
-%% Based on the style files for ACL2008 by Joakim Nivre and Noah Smith
-%% and that of ACL2010 by Jing-Shin Chang and Philipp Koehn
-
-
-\documentclass[11pt]{article}
-\usepackage{acl2012}
+\documentclass[11pt,letterpaper]{article}
+\usepackage{naaclhlt2015}
 \usepackage{times}
 \usepackage{latexsym}
+\setlength\titlebox{6.5cm}    % Expanding the titlebox
 \usepackage{amsmath}
 \usepackage{multirow}
 \usepackage{url}
 \usepackage{graphicx}
-\usepackage{multirow}
+\usepackage{hhline}
 %\usepackage{xltxtra}
 %\usepackage{polyglossia}
 \usepackage{tablefootnote}%[2014/01/26]
+%\usepackage{algpseudocode}
+%\usepackage{algorithm}
+%\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+\makeatletter
+\def\BState{\State\hskip-\ALG@thistlm}
+\makeatother
+ %\usepackage{algolyx}
 %\setotherlanguage{urdu}
 %\newfontfamily\urdufont[Script=Arabic,Language=Urdu,Scale=1.5]{Amiri}
 %\usepackage{footnotebackref}[2012/07/01]
@@ -105,27 +110,35 @@ Compared to the cost of professional translations, the cost of crowdsourced tran
 Another component cost of the \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  is the need for some amount of professionally-translated data, used to calbrate the goodness of the non-professional Turker translators.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} vary the amount of calibration data used.  The minimum amount is 10\% of the data set.  If we estimate the cost of professional translation at \$6.03 per sentence, then the cost of the calibration data is \$4,322.30.
 
 We attempt to minimize cost by reducing the number of translations needed for each sentence, and reducing the amount of professionally-translated calibration data.  The lower-bound on cost is \$179.20, for single translations from Turkers with no calibration data.  The upperbound for the non-professionals cost is \$716.80 and the upperbound for total cost is \$5,039.10 (\$716.80 + \$4,322.30 for 10\% calibration).
-\section{Problem Definition and Model}
+\section{Problem Definition}
 %Previously, crowdsourcing traslation tasks, people solicit fixed number of translations for each source sentence from a fixed number of Turkers and make selection on the full candidates set. 
 Our problem definition of the cost optimization task is: given a small portion of translation data (non-professionals and professionals),  we want to identity bad workers and unacceptable translations to reduce cost by avoiding hiring bad workers continually or purchasing redundant translations after we get acceptable ones. At the same time, we want to maintain in high translation quality.
 \subsection{Cost Quantification}
 Throughout this paper we will analyze the cost savings of the various methods that we propose.
-To make it clear how we compute the savings, we define that the unit cost for one professional reference as $C_{p}$, and the unit cost for one non-professional translation as $C_{np}$, and the number of professional and non-professional translations  we solicited are $N_{p}$ and $N_{np}$ respectively. Thus for the total cost $C$, we have:\\
+To make it clear how we compute the savings, we define that the unit cost for one professional reference as $C_{p}$, and the unit cost for one non-professional translation as $C_{np}$. Suppose we have $N_{p}$ source sentences with $\alpha$ matching professional translations for each of them and $N_{np}$  source sentences with $\beta$ matching non-professional translations for each of them, the total cost $C$ is:
   \begin{align*}
-  C = N_{p} \cdot C_{p}  + N_{np} \cdot C_{np} 
+  C = \alpha \cdot N_{p} \cdot C_{p}  + \beta \cdot N_{np} \cdot C_{np} 
   \end{align*}
+  where in our case, basically $\alpha = \beta = 4$.
 The costs associated with professional translations result from the calibration data  that is used to estimate the goodness of the non-professional translation.  This typically will be a fraction of the total data being translated.  Conversely, the number of non-professional translations will typically exceed the total number of sentences being translated, because we typically solicit multiple (redundant) translations of the same input sentence from different non-professionals, and then pick the best translation. 
-  
  \subsection{Quantifying the Goodness of Translations}
-While minimizing costs, we want to ensure that the quality of the translations does not suffer.  We compute the quality of the non-professional translators using the BLEU score \cite{papineni2002bleu} against professional translators.  For this data set we have access to 4 sets of professional translations, which were created by different translation agencies hired by the LDC. However, to reduce cost, for each source sentence, we select one professional translation  randomly as reference to calculate the BLEU score of non-professional translations.   
+For this data set we have access to 4 sets of professional translations, which were created by different translation agencies hired by the LDC. While minimizing costs, we want to ensure that the quality of the translations does not suffer.  To evaluate translation quality, we compute the quality of selected  non-professional translations using the BLEU score \cite{papineni2002bleu} against all professional translations. However, to reduce cost of computing the calibration feature and labeling each training sample by its BLEU score, we select \textbf{only one} professional translation randomly as reference to calculate the BLEU score.
 %We want to set an upper bound by seeing what the expected BLEU score is for professional translation.  
 %We therefore report BLEU scores in this paper using a leave-one-out strategy,  where we leave out one set  of professional and use other 3 sets of professional translations as the reference set to calculate.  Each BLEU score reported in the paper is the average of 4 numbers.  
 %This also allows us to compute an average score for the professional translators, compared against the other 3 translation agencies.  
-
+\subsection{Model Definition}
+To evaluate each translation, we use a linear regression model to predict score  ($ \hat{y} \in R$) for an input translation $t$.
+%\begin{align*}
+\[ \hat{y} = \hat{w}  \cdot f(t) \]
+  %\end{align*}
+  where $\hat{w}$ is the associated weight vector and $f(t)$ is the feature vector of the translation $t$. 
+\subsection{Features}  
+  Besides features \cite{zaidan-callisonburch:2011:ACL-HLT2011a} used, we introduce a new bilingual feature. We use the IBM Model 1 to construct the word alignment with probabilities between Urdu and English. For each foreign sentence, we calculate the word alignment feature by averaging the alignment probabilities of all words in Urdu sentence.
 \section{Automatically Ranking Translators}
 
-We present ranking selection methods to compute ranks of workers from a small portion of work they submitted, filter out bad workers and select the best translation from translations provided by  surviving workers based on their ranks. The consistency of workers' performance and the comparability of translation qualities between selecting translations by workers' ranks and selecting translations by models  are two preconditions guarantee this mechanism works.
-\subsection{Consistency of Workers' Performance}
+We present ranking selection methods to compute ranks of workers from a small portion of work they submitted. We filter out bad workers and select the best translation from translations provided by  surviving workers based on their ranks. 
+%The consistency of workers' performance and the comparability of translation qualities between selecting translations by workers' ranks and selecting translations by models  are two preconditions guarantee this mechanism works.
+\subsection{Workers are consistently good (or bad) over time}
 \begin{figure}[h!]
   \centering
   \includegraphics[width=\linewidth]{WorkerPerf/wp.pdf}
@@ -136,7 +149,156 @@ We present ranking selection methods to compute ranks of workers from a small po
 
 Figure \ref{fworkerperf} illustrates the consistency of workers' performance by showing  the gold-standard ranking of Turkers created by computing their BLEU scores compared to professionals for all of the translations that they submitted, along with the number of HITs produced by each worker and their timing information.
 From this graph we see that that most workers' performance stays
-consistent as time passes.  Good translators tend to produce consistently good translations and vice versa. %This observation enables us to predict workers' performance based on their early submissions, so that we can come to an early decision about whether to continue to hire them. 
+consistent as time passes.  Good translators tend to produce consistently good translations and bad workers rarely produce good translations. %This observation enables us to predict workers' performance based on their early submissions, so that we can come to an early decision about whether to continue to hire them. 
+\subsection{Ranking Selection Method}
+Since workers' performance is consistent, workers' rankings are sufficiently accurate to reflect the quality of translations provided by them and we can select the translation which is provided by the worker with the best rank. We propose two methods to rank workers and select translations. They are both very 'cheap' since we only use a small portion of professional translations and avoid hiring bad workers after we get workers' ranking.  
+% and evaluate the translation quality by calculating the BLEU score against references.
+\subsubsection{Ranking workers using a model}
+We use a linear regression model to score each translation and rank workers' by their model predicted performance.  
+%For each source sentence $s_i$, we have a translation set $T = \{ t_{i,1}, t_{i,2},t_{i,3}, t_{i,4}\}$. 
+The model predicted score for translation $t$ is defined as $M(t)$. The model predicted performance of the worker $w$ is:
+\begin{align*}
+Performance(w) = \frac{\sum_{t \in T_{w}} M (t)}{|T_{w}|}
+ \end{align*}
+ where $T_{w} $ is the set of translations completed by $w$. 
+After we rank workers, we keep top workers in the list and select translation provided by the worker with best rank among top workers.
+\subsubsection{Ranking workers using their first k translations}
+Rather than using a model to rank workers, we use the quality of first-K translation sentences provided by each Turker as calibration to rank workers. Then, we filter out bad workers and select translation based on the ranks of remaining workers.
+\subsection{Experiments}
+We report ranking's correlation to gold standard ranking and translation quality for both two methods.
+\subsubsection{Oracles}
+In ranking workers, we use workers' gold standard ranking as the oracle. We compute the gold standard performance score for each worker using the average BLEU score of all translations provided by this worker and rank workers by their scores. For each translation, the BLEU is computed against 4 professional references.
+In selecting best translations, we set the gold standard ranking selection method as the oracle method, in which we select translation provided by the worker with best rank in gold standard ranking, and the BLEU score achieved is denoted as $B_{gold}$. 
+ \subsubsection{Baselines}
+ We set two baselines for ranking correlation($\rho$) against gold standard ranking for our proposed approaches. For the first baseline,  we choose the MERT\cite{och2003minimum} baseline, which achieves a correlation of  0.67 when trained on ranking features. This is the highest correlation that  MERT achieves across all feature sets. The second baseline is a simpler baseline that reserves 10\% of the data for calibration, and computes a ranking of translators based on their BLEU scores against professionals over this calibration set, the correlation reaches 0.68. Besides, we set the random selection method as the baseline method in translation selection.
+ \subsubsection{Ranking workers using a model}
+We use \%10 of data to train a linear regression model to rank workers and select best translation by workers' ranking. Table \ref{lrresult} shows that our model achieves the highest BLEU score of 38.37 when trained on all features. If we calculate calibration feature and training sample label against only one reference rather than 4 references, we achieve a BLEU score of 37.52 with a correlation equaling to 0.71 which is higher that two baselines. To further reduce cost, we keep retaining top 25\% workers and select the translation with the best rank provided by top workers. We achieve a BLEU score of 36.98 while $S_{gold}$ is 38.51. The cost is:
+ \begin{align*}
+  C& = \frac{\alpha}{4} \cdot \frac{1}{10} N_{p}\cdot C_{p}  + \frac{\beta}{4} \cdot \frac{9}{10} N_{np} \cdot C_{np}\\
+   & = 1,241.86 (\$)
+ \end{align*}
+ Thus, we can achieve a comparable translation quality by spending almost only 25\% of money with a quality lost of 1.53 in BLEU.
+ \begin{table}[h]
+ \center
+\begin{tabular}{c|c|c}
+\hline
+Feature Set             & $\rho$  & BLEU  \\ \hhline{===}
+(S)entence features     & 0.69 & 36.66 \\
+(W)orker features       & 0.65 & 36.92 \\
+(R)anking features      & 0.79 & 36.94 \\
+Calibration features  & 0.79 & 38.27 \\
+Calibration features* & \textbf{0.68} & \textbf{37.56} \\
+S+W+R features          & 0.78 & 37.39 \\
+S+W+R+Bilingual features        & 0.80 & 37.59 \\
+All features            & \textbf{0.84} & \textbf{38.37} \\
+All features*            & \textbf{0.71} & \textbf{37.52} \\ \hline
+\end{tabular}
+\caption{\label{lrresult} Spearman's correlation($\rho$) and translation quality of model predicted ranking selection method for linear regression model trained using different feature sets. We don't filter out bad workers when selecting the best translation. * indicates that  we choose \textbf{only one} professional reference to calculate the BLEU score as calibration feature and the true label of a training sample while in other cases, we use 4 references to calculate BLEU score. }
+\end{table}
+ \subsubsection{Ranking workers using their first k translations}
+ Without using any model, we rank workers using their first k translations and select best translations based on rankings of the top \%25 workers. To evaluate this method, we created several test sets.  Each test set excluded any item that was used to rank the workers, or which did not have any translations from the top 25\% of workers according to our predicted rankings.  We therefore have \emph{different test sets} for each value of k.  This makes the results slightly more difficult to analyze than in normal experiments, although the trends are still clear.
+Formally, we define the test set for first k sentences as $T_k$ and for each source sentence $s \in T_k$:
+\begin{align*}
+  \{ s \mid (C(s) \cap S_k = \emptyset)   \wedge (C(s) \cap S_w \neq \emptyset)    \}
+\end{align*}
+where $C(s)$ is the translating candidates set of the source sentence $s$, $S_k$ is the translation set consists of each worker's first k translations and $S_w$ is the translation set consists of translations provided by selected workers (some top ranking workers). 
+\begin{table}[h]
+\begin{tabular}{cc|cc}
+\hline
+\multicolumn{2}{c|}{\begin{tabular}[c]{@{}c@{}}Proportion of \\ Calibration Data\end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}$\rho^{+}$\end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}$\rho^{*}$\end{tabular}} \\ \cline{1-2}
+First k sentences                                 & Percentage                                 &                                                                         &                                                                        \\ \hhline{====}
+1                                                 & 0.7\%                                      & 0.57                                                                    & 0.41                                                                   \\
+2                                                 & 1.3\%                                      & 0.62                                                                    & 0.48                                                                   \\
+3                                                 & 2.0\%                                      & 0.69                                                                    & 0.59                                                                   \\
+4                                                 & 2.7\%                                      & 0.72                                                                    & 0.59                                                                   \\
+5                                                 & 3.3\%                                      & 0.78                                                                    & 0.69                                                                   \\
+6                                                 & 4.0\%                                      & 0.80                                                                    & 0.70                                                                   \\
+7                                                 & 4.7\%                                      & 0.79                                                                    & 0.71                                                                   \\
+8                                                 & 5.3\%                                      & 0.81                                                                    & 0.69                                                                   \\
+9                                                 & 6.0\%                                      & 0.84                                                                    & 0.77                                                                   \\
+10                                                & 6.6\%                                      & 0.84                                                                    & 0.76                                                                   \\
+20                                                & 13.3\%                                     & 0.93                                                                    & 0.88                                                                   \\
+30                                                & 19.9\%                                     & 0.96                                                                    & 0.93                                                                   \\
+40                                                & 26.6\%                                     & 0.97                                                                    & 0.95                                                                   \\
+50                                                & 33.2\%                                     & 0.98                                                                    & 0.95                                                                   \\ 
+60                                                & 39.8\%                                     & 0.99                                                                    & 0.94                                                                  \\ \hline
+\end{tabular}
+\caption{\label{spearmansen} Spearman's Correlations for calibration data in different proportion. * indicates that the calibration is computed against \textbf{only one} reference while + indicates that the calibration is computed against 4 references.}
+\end{table}
+Table \ref{spearmansen} shows the results of Spearman's correlations for different value of K. Compared with 4-reference calibration, we achieve very strong correlation when calibrating the workers using one reference based on  the translations of their first 40 sentences. Even we only use the first 20 sentences to evaluate and rank workers, the correlation ($\rho^{*}$) is close to 0.90. Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first k sentences ($k\le20$) provided by each worker. 
+
+Figure \ref{firstksenbleu}  shows the BLEU score when we select the top 25\% workers from the ranking list based on the performance of first k sentences.
+  As a comparison, we also plotted the  BLEU scores for random selection 
+  and the BLEU score for selection based on the gold standard ranking($B_{gold}$).
+ Figure \ref{firstksenbleudiff}  shows the difference between BLEU scores we get in three different mechanisms in order to make the comparisons clear.
+  As we increase the number of sentences we use to rank Turkers, the BLEU score we get from the ranking approaches $B_{gold}$. Surprisingly, we see that when only a small part of sentences (say 20 sentences) for each worker are used in ranking, the ranking list  is quite similar to the gold standard ranking list and the BLEU score is very close to the BLEU score get by gold standard ranking.
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{senlevelselect/curve1.pdf}
+  \caption{ The BLEU score for selecting the  best translation by the top 25\% Turkers' ranking based on the first k sentences (red line), which is denoted as Partial Ranking BLEU. The green line shows the BLEU score for selecting the best translation by the gold standard ranking, which is denoted as Gold Ranking BLEU. The dark blue line shows the BLEU score for selecting translation randomly. We denote it as Random Selection BLEU.}
+    \label{firstksenbleu}
+\end{figure}
+\begin{figure}[h!]
+  \centering
+  \includegraphics[width=\linewidth]{senlevelselect/curve2.pdf}
+  \caption{ The difference between BLEU scores reported from three different methods in Figure \ref{firstksenbleu}.}
+   \label{firstksenbleudiff}
+  \end{figure}
+
+If we use the first 20 sentences to rank workers, the correlation is 0.88 and  the BLEU score achieved is 37.01 while  and $B_{gold}$ is 37.14. The difference between these two scores is 0.13 and the cost is: \\
+  \begin{align*}
+  C& = \frac{\alpha}{4} \cdot  (0.133 \cdot N_{p}) \cdot C_{p}  + \frac{\beta }{4}\cdot (0.867\cdot N_{np} ) \cdot C_{np}\\
+   & = 1,592.53 (\$)
+  \end{align*}  
+We can achieve almost the same translation as the oracle method with only spending 32\% of the total cost. 
+\section{Get Another Translation?}
+We present the model selection method to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Besides, we quantify the quality control  issue: make it possible to control the BLEU score of the translation selected from a partial translation set to a proportion ($\delta$) of the upper bound of BLEU score. The upper bound of BLEU score is computed on best translations selected from  the full translation set of training data. Algorithm \ref{modelselection} details the process. After we get the $\theta$ (threshold between acceptable and unacceptable translations) for a specific value of $\delta$ (say 95\%), for given a a new translation, we score it by our model and if the its score is higher than $\theta$, we stop soliciting another translation. Otherwise, we continually solicit translations.  Table \ref{texample} illustrate this mechanism.  
+\begin{algorithm} [h!]
+\caption{Model selection algorithm}\label{modelselection}
+\textbf{Input}: $\delta$, the proportion of the upperbound of BLEU score; a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
+\textbf{Output}: $\theta$, the threshold between acceptable and unacceptable translations; m(x), a linear regression model. 
+\begin{algorithmic}[1]
+\State \textbf{initialize} $\theta \leftarrow 0$,$m(x)\leftarrow \emptyset$ 
+\State $m'(x)\leftarrow$ train a linear regression model on T
+\State $maxbleu \leftarrow$ use $m'(x)$ select best translations on T and calculate the translation quality
+\While {$\theta \neq maxbleu $} 
+\For {$i \leftarrow 1$ to $n$}
+\For {$j \leftarrow 1$ to $4$}
+\If {$m'(x^{v}_{i,j}) > \theta \wedge j < 4 $}
+             select $x^{v}_{i,j}$ for $s_i$ and \textbf{break}
+\EndIf
+\If {$ j == 4 $} select $x^{v}_{i,j}$ for $s_i$
+\EndIf
+\EndFor
+\EndFor
+\State $q \leftarrow$ calculate translation quality for V
+\If {$q > \delta \cdot maxbleu$} \textbf{break}
+\Else \text{  } $\theta = \theta + stepsize$
+\EndIf
+\EndWhile
+\State $m \leftarrow$ train a linear regression model on $S \cup V$
+\State \textbf{Return}: $\theta$ and model $m(x)$
+%\EndProcedure
+\end{algorithmic}
+\end{algorithm}
+
+ \begin{table*}[t]
+ \center
+\begin{tabular}{|c|c|c|c|}
+\hline
+Source                                   & References                         & Translations                         & Quality \\ \hline
+\multirow{4}{*}{فرانس کی تجویز کی حمایت} & Support of France's Recommendation & France has supported the proposal.   & 0.342   \\ \cline{2-4} 
+                                         & Support for the Proposal of France & Supporting the French proposal       & 0.630   \\ \cline{2-4} 
+                                         & French Proposal Endorsed           & France suggestion was appriciatable. & -0.014  \\ \cline{2-4} 
+                                         & French Proposal Supported          & defending the thinking of France.    & 0.269   \\ \hline
+\end{tabular}
+\caption{An example showing how to reduce redundant translations using the  model and the threshold. For each source sentence, we solicit 4 references and 4 non-professional translations. The value of 'Quality' is the \textbf{ model predicted score} for each translation which is different from the BLEU score. In this example, \textit{delta} is \%95, and the threshold telling apart acceptable and unacceptable translations is 0.35. Translations listed from top to the bottom are in the chronological order from the earliest submitted one to the latest submitted one. Since the first translation's quality value is lower that the threshold, we need to solicit another one.  Knowing that the second translation's quality value is higher than the threshold,  we stop soliciting other translations for this source sentence so that we avoid collect redundant translations and reduce cost.}
+\label{texample}
+\end{table*}
+ 
+ 
+
+%We kept the `best' translators, defining the best as the top 25\% workers in our ranked list.  The idea is to retain only the top-performing workers, and to make that decision quickly (after seeing only k of their translations).  
 
 \subsection{Comparability of Translation Quality between Different Translation Selection Strategies}
 To show the comparability of translation quality between ranking selection strategy and model selection strategy, we train MERT, Regression Trees, and Linear Regression models to rank translators, calculate rankings' correlations against the gold standard ranking and compare the translation qualities between ranking selection and model selection. Besides features \cite{Zaidan09zmert} used, we introduce a new bilingual feature. We use the IBM Model 1 to construct the word alignment with probabilities between Urdu and English. For each foreign sentence, we calculate the word alignment feature by averaging the alignment probabilities of all words in Urdu sentence. 
@@ -154,43 +316,43 @@ Using the remaining 80\% of the data as our test set, first we rank workers by t
 Performance(w) = \frac{\sum_{t \in T_{w}} M (t)}{|T_{w}|}
  \end{align*}
  where $T_{w} $ is the set of translations completed by $w$. 
-  \begin{table}[t]
- %\begin{center}
- \center
- \begin{tabular}{|c|c|c|c|}
-\hline
-\multirow{2}{*}{Feature Set} & \multicolumn{3}{c|}{Spearman Correlation}                                                                 \\ \cline{2-4} 
-                             & \multicolumn{1}{l|}{MERT} & \multicolumn{1}{l|}{LR\tablefootnote[2]{\label{note2}Linear Regression} } & \multicolumn{1}{l|}{RT\tablefootnote[3]{ \label{note3}Regression Tree}  } \\ \hline
-Sentence features            & 0.36                      & 0.69                                   & 0.71                                 \\ \hline
-Worker features              & 0.44                      & 0.65                                   & 0.59                                 \\ \hline
-Ranking features             & 0.67                      & 0.79                                   & 0.76                                 \\ \hline
-Calibration feature          & 0.79                      & 0.79                                   & 0.79                                 \\ \hline
-S+W+R features  \tablefootnote[4]{\label{note4}Combination of (S)entence, (W)orker and (R)anking features}            & 0.42                      & 0.78                                   & 0.74                                  \\ \hline
-S+W+R+B features   \tablefootnote[5]{\label{note5}Combination of (S)entence, (W)orker , (R)anking and (B)ilingual features}           & 0.47                      & 0.80                                   & 0.72                                 \\ \hline
-All features                 & 0.56                      & 0.84                                   & 0.81                                 \\ \hline
-\end{tabular}
- %\end{center}
- \caption{\label{spearmanrho} Spearman's correlation for different models trained using different feature sets }
-\end{table}
-
-\begin{table*}[t]
-\begin{center}
-
-\begin{tabular}{|c|c|c|c|c|c|c|}
-\hline
-\multirow{2}{*}{Feature Set} & \multicolumn{3}{c|}{Bleu Score (selected by ranking)} & \multicolumn{3}{c|}{Bleu Score (selected by model)} \\ \cline{2-7} 
- & MERT      & LR \footnotemark[\ref{note2}]    & RT \footnotemark[\ref{note3}]    & MERT     & LR  \footnotemark[\ref{note2}]   & RT \footnotemark[\ref{note3}]     \\ \hline
-Sentence features            & 30.04     & 36.66                & 36.97              & 38.51    & 37.84                & 35.32             \\ \hline
-Worker features              & 37.89     & 36.92                & 37.96              & 37.89    & 36.92                & 37.59             \\ \hline
-Ranking features             & 37.25     & 36.94                & 37.04              & 36.74    & 35.69                & 36.17             \\ \hline
-Calibration feature          & 38.27     & 38.27                & 38.27              & 38.27    & 38.27                & 38.27             \\ \hline
-S+W+R features\footnotemark[\ref{note4}]              & 33.04     & 37.39                & 37.60              & 38.44    & 38.69                & 37.04             \\ \hline
-S+W+R+B features  \footnotemark[\ref{note5}]           & 34.30     & 37.59                & 37.27              & 38.80    & 39.23                & 37.00             \\ \hline
-All features                 & 35.58     & \textbf{38.37}                & \textbf{37.80}              & 39.74    & \textbf{39.80}                & \textbf{37.19}             \\ \hline
-\end{tabular}
-\end{center}
-\caption{\label{bleu} Bleu score for different models trained using different feature sets }
-\end{table*}
+%  \begin{table}[t]
+% %\begin{center}
+% \center
+% \begin{tabular}{|c|c|c|c|}
+%\hline
+%\multirow{2}{*}{Feature Set} & \multicolumn{3}{c|}{Spearman Correlation}                                                                 \\ \cline{2-4} 
+%                             & \multicolumn{1}{l|}{MERT} & \multicolumn{1}{l|}{LR\tablefootnote[2]{\label{note2}Linear Regression} } & \multicolumn{1}{l|}{RT\tablefootnote[3]{ \label{note3}Regression Tree}  } \\ \hline
+%Sentence features            & 0.36                      & 0.69                                   & 0.71                                 \\ \hline
+%Worker features              & 0.44                      & 0.65                                   & 0.59                                 \\ \hline
+%Ranking features             & 0.67                      & 0.79                                   & 0.76                                 \\ \hline
+%Calibration feature          & 0.79                      & 0.79                                   & 0.79                                 \\ \hline
+%S+W+R features  \tablefootnote[4]{\label{note4}Combination of (S)entence, (W)orker and (R)anking features}            & 0.42                      & 0.78                                   & 0.74                                  \\ \hline
+%S+W+R+B features   \tablefootnote[5]{\label{note5}Combination of (S)entence, (W)orker , (R)anking and (B)ilingual features}           & 0.47                      & 0.80                                   & 0.72                                 \\ \hline
+%All features                 & 0.56                      & 0.84                                   & 0.81                                 \\ \hline
+%\end{tabular}
+% %\end{center}
+% \caption{\label{spearmanrho} Spearman's correlation for different models trained using different feature sets }
+%\end{table}
+%
+%\begin{table*}[t]
+%\begin{center}
+%
+%\begin{tabular}{|c|c|c|c|c|c|c|}
+%\hline
+%\multirow{2}{*}{Feature Set} & \multicolumn{3}{c|}{Bleu Score (selected by ranking)} & \multicolumn{3}{c|}{Bleu Score (selected by model)} \\ \cline{2-7} 
+% & MERT      & LR \footnotemark[\ref{note2}]    & RT \footnotemark[\ref{note3}]    & MERT     & LR  \footnotemark[\ref{note2}]   & RT \footnotemark[\ref{note3}]     \\ \hline
+%Sentence features            & 30.04     & 36.66                & 36.97              & 38.51    & 37.84                & 35.32             \\ \hline
+%Worker features              & 37.89     & 36.92                & 37.96              & 37.89    & 36.92                & 37.59             \\ \hline
+%Ranking features             & 37.25     & 36.94                & 37.04              & 36.74    & 35.69                & 36.17             \\ \hline
+%Calibration feature          & 38.27     & 38.27                & 38.27              & 38.27    & 38.27                & 38.27             \\ \hline
+%S+W+R features\footnotemark[\ref{note4}]              & 33.04     & 37.39                & 37.60              & 38.44    & 38.69                & 37.04             \\ \hline
+%S+W+R+B features  \footnotemark[\ref{note5}]           & 34.30     & 37.59                & 37.27              & 38.80    & 39.23                & 37.00             \\ \hline
+%All features                 & 35.58     & \textbf{38.37}                & \textbf{37.80}              & 39.74    & \textbf{39.80}                & \textbf{37.19}             \\ \hline
+%\end{tabular}
+%\end{center}
+%\caption{\label{bleu} Bleu score for different models trained using different feature sets }
+%\end{table*}
 
 For each test sample, we select the translation  provided by the worker with the best rank, and evaluate the translation quality by calculating the BLEU score against references.  As a comparison, for the same test sample, we also select the translation with the highest  model predicted score and evaluate translation quality. Table \ref{spearmanrho} presents ranking lists' correlation scores corresponding to different models trained using different features.  Table \ref{bleu} shows the translation quality comparisons for the two selecting strategies. From Table \ref{spearmanrho} and  Table \ref{bleu}, we know that if the predicted ranking list is highly correlated to the gold standard ranking, the translation quality of ranking selection method is comparable to that of model selection method. Besides, as a comparison, if we directly compute the gold standard ranking of all translators using all of the data and select translation based on the gold ranking, then the BLEU score ($S_{rgold}$) is 38.99, which is quite close to 39.80 ($S_{mgold}$), the highest BLEU score we get by model selection method. Thus, it's reasonable to use  $S_{rgold}$ as the upper-bound of the translation quality instead of $S_{mgold}$ since it's difficult to compare translation qualities between a ranking selection method and a model selection method on dynamic testing sets. Table \ref{spearmanrho} shows an unexpected result. The MERT trained on the complete set of features produces a correlation that is weaker than one trained only use ranking features.  The reason for this is that the model is trained using the MERT algorithm \cite{och2003minimum}, which is typically used to set the parameters of a statistical machine translation system such that the 1-best translation is ranked the highest among an $n$-best list containing thousands of translations. Setting the feature weights using MERT does a poor job at producing a total ordering on the translators. 
 
@@ -477,7 +639,7 @@ The model selection method works if there exists a specific requirement that the
 
 Do not number the acknowledgment section. Do not include this section when submitting your paper for review.
 
-\bibliographystyle{acl2012}
-\bibliography{tacl.bib}
+\bibliographystyle{naaclhlt2015}
+\bibliography{naaclhlt2015.bib}
 
 \end{document}

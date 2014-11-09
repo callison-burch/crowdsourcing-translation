@@ -6,9 +6,9 @@ palette(rev(rich.colors(32)))
 newWords <- read.table("./firstksentence.txt", header = FALSE)
 
 x <- as.vector(t(newWords[1]))
-y <- as.vector(t(newWords[5]))
-z <- as.vector(t(newWords[6]))
-w <- as.vector(t(newWords[7]))
+y <- as.vector(t(newWords[11]))
+z <- as.vector(t(newWords[12]))
+w <- as.vector(t(newWords[13]))
 #u <- as.vector(t(newWords[:,5]))
 
 plot(NULL,NULL, main=NULL, sub=NULL,
@@ -28,5 +28,5 @@ lines(x, y, type=c('o'),col = 1,cex = 2,pch = '*')
 lines(x, w, type=c('o'),col = 29,cex = 2,pch = '*')
 legend("topright",
 c("Partial Ranking BLEU - Random Selection BLEU", "Gold Ranking BLEU - Random Selection BLEU",
-"Gold Ranking BLEU - Partial Ranking BLEU"),cex = 0.65,col = c(1, 18,29),lty= (1),pch = '*')
+"Gold Ranking BLEU - Partial Ranking BLEU"),cex = 0.65,col = c(1, 18,29),lty= (1),pch = '*',bg = 'white')
 dev.off()
