@@ -33,6 +33,6 @@ lines(x, w1, type=c('o'),col = 29,cex = 2,pch = '*')
 #lines(x, y1, type=c('o'),col = 1,cex = 2,pch = 'o')
 #lines(x, w1, type=c('o'),col = 29,cex = 2,pch = 'o')
 legend("bottomright",
-c("Partial Ranking BLEU", "Gold Ranking BLEU",
-"Random Selection BLEU"),col = c(1, 18,29),lty= (1),pch = '*',bg = 'white')
+c("First K Ranking", "Gold Ranking",
+"Random Selection"),col = c(1, 18,29),lty= (1),pch = '*',bg = 'white')
 dev.off()

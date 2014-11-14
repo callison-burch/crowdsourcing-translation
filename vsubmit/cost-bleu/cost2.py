@@ -12,8 +12,8 @@ if __name__ == "__main__":
     count = 0
     for line in inFile:
         costs = [float(item) for item in line.split()]
-        price = 1.0*0.2*1792*4*avgentenceprice + 1.0*0.8*1792*(costs[1])*0.1
-        predictprice = 1.0*0.2*1792*4*avgentenceprice + 1.0*0.8*1792*(f(l[count]))*0.1
+        price = 1.0*0.2*1792*avgentenceprice + 1.0*0.8*1792*(costs[1])*0.1
+        predictprice = 1.0*0.2*1792*avgentenceprice + 1.0*0.8*1792*(f(l[count]))*0.1
         #price =1.0*0.8*1792*(costs[1])*0.1
         #predictprice = 1.0*0.8*1792*(f(l[count]))*0.1
         print costs

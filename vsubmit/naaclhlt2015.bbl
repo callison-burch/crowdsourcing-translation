@@ -1,5 +1,13 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citename{Ambati and Vogel}2010]{ambati2010can}
+Vamshi Ambati and Stephan Vogel.
+\newblock 2010.
+\newblock Can crowds build parallel corpora for machine translation systems?
+\newblock In {\em Proceedings of the NAACL HLT 2010 Workshop on Creating Speech
+  and Language Data with Amazon's Mechanical Turk}, pages 62--65. Association
+  for Computational Linguistics.
+
 \bibitem[\protect\citename{Callison-Burch and
   Dredze}2010]{callison-burch-dredze2010}
 Chris Callison-Burch and Mark Dredze.
@@ -13,6 +21,9 @@ Chris Callison-Burch and Mark Dredze.
 Christopher~H Lin, Mausam, and Daniel~S Weld.
 \newblock 2014.
 \newblock To re (label), or not to re (label).
+\newblock In {\em Proceedings of the 2014 AAAI Conference on Human Computation
+  and Crowdsourcing}. Association for the Advancement of Artificial
+  Intelligence (AAAI).
 
 \bibitem[\protect\citename{Novotney and Callison-Burch}2010]{novotney2010cheap}
 Scott Novotney and Chris Callison-Burch.
@@ -82,13 +93,6 @@ Omar~F. Zaidan and Chris Callison-Burch.
   non-professionals.
 \newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
   Computational Linguistics: Human Language Technologies}, pages 1220--1229.
-
-\bibitem[\protect\citename{Zaidan}2009]{Zaidan09zmert}
-Omar~F. Zaidan.
-\newblock 2009.
-\newblock {Z-MERT}: A fully configurable open source tool for minimum error
-  rate training of machine translation systems.
-\newblock {\em The Prague Bulletin of Mathematical Linguistics}, 91:79--88.
 
 \bibitem[\protect\citename{Zbib \bgroup et al.\egroup }2012]{zbib2012machine}
 Rabih Zbib, Erika Malchiodi, Jacob Devlin, David Stallard, Spyros Matsoukas,

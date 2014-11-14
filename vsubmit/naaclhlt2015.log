@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  9 NOV 2014 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  14 NOV 2014 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -205,20 +205,7 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip52
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (./naaclhlt2015.aux
-
-LaTeX Warning: Label `spearmansen' multiply defined.
-
-
-LaTeX Warning: Label `firstksenbleu' multiply defined.
-
-
-LaTeX Warning: Label `firstksenbleudiff' multiply defined.
-
-
-LaTeX Warning: Label `texample' multiply defined.
-
-)
+) (./naaclhlt2015.aux)
 \openout1 = `naaclhlt2015.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -234,7 +221,8 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
 LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -312,14 +300,14 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 52.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 2818) in paragraph at lines 54--56
+Underfull \hbox (badness 2818) in paragraph at lines 54--57
 []\OT1/ptm/m/n/10 Crowdsourcing makes it pos-si-ble to cre-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 67.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
 
-Underfull \hbox (badness 1014) in paragraph at lines 67--72
+Underfull \hbox (badness 1014) in paragraph at lines 68--74
 []\OT1/ptm/m/n/10.95 In this pa-per we fo-cus on a dif-fer-ent as-pect
  []
 
@@ -332,283 +320,110 @@ Underfull \vbox (badness 2293) has occurred while \output is active []
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 75.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 79.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 75.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
 
-Underfull \hbox (badness 2644) in paragraph at lines 110--111
-[]\OT1/ptm/m/n/10.95 Another com-po-nent cost of the Zaidan and
- []
-
-
-Underfull \hbox (badness 4899) in paragraph at lines 112--113
+Underfull \hbox (badness 4899) in paragraph at lines 121--122
 \OT1/ptm/m/n/10.95 num-ber of trans-la-tions needed for each sen-
  []
 
 [2] <WorkerPerf/wp.pdf, id=14, 542.025pt x 542.025pt>
 File: WorkerPerf/wp.pdf Graphic file (type pdf)
  <use WorkerPerf/wp.pdf>
-Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 144.
+Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 154.
 (pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3] [4 <./WorkerPerf/wp.pdf>]
+[3]
+Underfull \hbox (badness 4518) in paragraph at lines 182--183
+[]\OT1/ptm/m/n/10.95 We eval-u-ate rank-ing qual-ity in Spear-man's
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 182--183
+\OT1/ptm/m/n/10.95 correlation($\OML/cmm/m/it/10.95 ^^Z$\OT1/ptm/m/n/10.95 ) co
+m-pared with the gold stan-dard
+ []
+
+[4 <./WorkerPerf/wp.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 196.
- [5]
-<senlevelselect/curve1.pdf, id=43, 505.89pt x 289.08pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 208.
+
+<senlevelselect/curve1.pdf, id=38, 505.89pt x 289.08pt>
 File: senlevelselect/curve1.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 237.
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 249.
 (pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
-
-<senlevelselect/curve2.pdf, id=44, 505.89pt x 505.89pt>
-File: senlevelselect/curve2.pdf Graphic file (type pdf)
-
-<use senlevelselect/curve2.pdf>
-Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 243.
-(pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
 
  []
 
 
-Overfull \hbox (4.60342pt too wide) in paragraph at lines 252--252
+Overfull \hbox (4.60342pt too wide) in paragraph at lines 265--265
 [] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ß in font ptmr7t!
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no Ü in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ≥ in font ptmr7t!
-Missing character: There is no ⁄ in font ptmr7t!
-Missing character: There is no © in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no à in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ≤ in font ptmr7t!
-Missing character: There is no ⁄ in font ptmr7t!
-Missing character: There is no © in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ≠ in font ptmr7t!
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no Ö in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ß in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./senlevelselect/curve1.pdf> <./senlevelselect/curve2.pdf>]
-Underfull \vbox (badness 1769) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `spearmanrho' on page 7 undefined on input line 357.
-
-
-LaTeX Warning: Reference `bleu' on page 7 undefined on input line 357.
-
-
-LaTeX Warning: Reference `spearmanrho' on page 7 undefined on input line 357.
-
-
-LaTeX Warning: Reference `bleu' on page 7 undefined on input line 357.
-
-
-LaTeX Warning: Reference `spearmanrho' on page 7 undefined on input line 357.
-
-[7]
-
-LaTeX Warning: Reference `bleu' on page 8 undefined on input line 364.
-
-
-Underfull \hbox (badness 1436) in paragraph at lines 364--367
-[]\OT1/ptm/m/n/10.95 Table [] shows that the Lo-gis-tic Re-gres-sion
+Underfull \hbox (badness 1052) in paragraph at lines 277--278
+[]$\OML/cmm/m/it/10.95 upperbound \OMS/cmsy/m/n/10.95  $ \OT1/ptm/m/n/10.95 set
+ an upper-bound BLEU
  []
 
-<OnlyCali/calirankingorder.pdf, id=62, 542.025pt x 542.025pt>
-File: OnlyCali/calirankingorder.pdf Graphic file (type pdf)
-
-<use OnlyCali/calirankingorder.pdf>
-Package pdftex.def Info: OnlyCali/calirankingorder.pdf used on input line 378.
-(pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
+[6 <./senlevelselect/curve1.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8]
-File: senlevelselect/curve1.pdf Graphic file (type pdf)
- <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 432.
-(pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: senlevelselect/curve2.pdf Graphic file (type pdf)
-<use senlevelselect/curve2.pdf>
-Package pdftex.def Info: senlevelselect/curve2.pdf used on input line 438.
-(pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 2073) has occurred while \output is active []
-
- [9 <./OnlyCali/calirankingorder.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
-
- []
-
-
-Overfull \hbox (4.84503pt too wide) in paragraph at lines 466--466
-[] 
- []
-
-
-Overfull \hbox (15.79504pt too wide) in paragraph at lines 471--471
-[] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no Å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ß in font ptmr7t!
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no Ü in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ≥ in font ptmr7t!
-Missing character: There is no ⁄ in font ptmr7t!
-Missing character: There is no © in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ¨ in font ptmr7t!
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no à in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ≤ in font ptmr7t!
-Missing character: There is no ⁄ in font ptmr7t!
-Missing character: There is no © in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ≠ in font ptmr7t!
-Missing character: There is no Ÿ in font ptmr7t!
-Missing character: There is no Ö in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-Missing character: There is no ß in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no å in font ptmr7t!
-Missing character: There is no ÿ in font ptmr7t!
-[10] <fitsizedelta/fit.pdf, id=80, 505.89pt x 505.89pt>
-File: fitsizedelta/fit.pdf Graphic file (type pdf)
-
-<use fitsizedelta/fit.pdf>
-Package pdftex.def Info: fitsizedelta/fit.pdf used on input line 554.
-(pdftex.def)             Requested size: 227.6506pt x 227.6561pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11] [12 <./fitsizedelta/fit.pdf>]
-<cost-bleu/pricecost.pdf, id=93, 867.24pt x 433.62pt>
+[7] <cost-bleu/pricecost.pdf, id=56, 361.35pt x 361.35pt>
 File: cost-bleu/pricecost.pdf Graphic file (type pdf)
 
 <use cost-bleu/pricecost.pdf>
-Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 592.
-(pdftex.def)             Requested size: 469.75499pt x 234.87912pt.
+Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 364.
+(pdftex.def)             Requested size: 227.6506pt x 227.6517pt.
 
-Underfull \hbox (badness 3724) in paragraph at lines 603--611
+Underfull \hbox (badness 3724) in paragraph at lines 377--385
 []\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
  []
 
-(./naaclhlt2015.bbl [13] [14 <./cost-bleu/pricecost.pdf>]
-Underfull \hbox (badness 1616) in paragraph at lines 94--101
+[8 <./cost-bleu/pricecost.pdf>] (./naaclhlt2015.bbl
+Underfull \hbox (badness 1616) in paragraph at lines 98--105
 []\OT1/ptm/m/n/10 Rabih Zbib, Erika Mal-chiodi, Ja-cob De-vlin, David
  []
 
-) [15
-
-] (./naaclhlt2015.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) [9] (./naaclhlt2015.aux) ) 
 Here is how much of TeX's memory you used:
- 3604 strings out of 493117
- 50259 string characters out of 6135433
- 129958 words of memory out of 5000000
- 6949 multiletter control sequences out of 15000+600000
+ 3582 strings out of 493117
+ 49771 string characters out of 6135433
+ 127892 words of memory out of 5000000
+ 6931 multiletter control sequences out of 15000+600000
  31033 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,18n,23p,1999b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
-/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
-014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
-4/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texm
-f-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2014/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/times
-/utmri8a.pfb>
-Output written on naaclhlt2015.pdf (15 pages, 244324 bytes).
+ 38i,18n,23p,1982b,295s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips
+/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
+b></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+/usr/local/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/loc
+al/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texm
+f-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on naaclhlt2015.pdf (9 pages, 200440 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 108 compressed objects within 2 object streams
+ 108 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
