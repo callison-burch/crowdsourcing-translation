@@ -1,0 +1,19 @@
+This is 8-bit Big BibTeX version 0.99d
+Implementation:  C for Unix
+Release version: 3.71 (31 May 2005)
+
+The 8-bit codepage and sorting file: 88591lat.csf
+The top-level auxiliary file: naaclhlt2015_new.aux
+The style file: naaclhlt2015.bst
+Reallocated glb_str_ptr (elt_size=8) to 10 items from 0.
+Reallocated global_strs (elt_size=20001) to 10 items from 0.
+Reallocated glb_str_end (elt_size=8) to 10 items from 0.
+Database file #1: naaclhlt2015_new.bib
+
+Here's how much of BibTeX's memory you used:
+ Cites:                13 out of 750
+ Fields:               58 out of 5000
+ Hash table:        35113 out of 35307
+ Strings:             625 out of 35307
+ Free string pool:   7749 out of 65000
+ Wizard functions:   2490 out of 3000
