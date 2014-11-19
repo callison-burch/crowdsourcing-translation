@@ -95,12 +95,12 @@ from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnot
 A total of 51 Turkers contributed translations. Each Urdu sentence was translated by 4 Turkers and 4 professional translators.
 
 
-\subsection{Evaluation Metric for Translation Quality}
+\subsection{Measurement of Translation Quality}
 
 For this data set we have access to 4 sets of professional translations, which were created by different translation agencies hired by the LDC. While minimizing costs, we want to ensure that the quality of the translations does not suffer.  To evaluate translation quality, we compute the quality of selected  non-professional translations using the BLEU score \cite{papineni2002bleu} against all professional translations. However, to reduce cost of computing the calibration feature and labeling each training sample by its BLEU score, we  randomly select \textbf{only one} professional translation as reference to calculate the BLEU score.
 
 
-\subsection{Evaluation Metric for Cost}
+\subsection{Measurement of Total Cost}
 
 [This subsection need to be more concise, and merge the following two subsections of the previous draft together: the one subsection about the exact prices and the one subsection of the cost formula.] 
 
@@ -213,6 +213,9 @@ We use 10\% of data to train a linear regression model to rank workers and selec
    & = 1,241.86 (\$)
  \end{align*}
  Thus, we can achieve a comparable translation quality by spending almost only 25\% of money with a quality lost of 1.53 in BLEU.
+ 
+ 
+ 
  \begin{table}[h]
  \center
 \begin{tabular}{c|c|c}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 NOV 2014 21:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 NOV 2014 22:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,21 +344,21 @@ m-pared with the gold stan-dard
 
 [4 <./WorkerPerf/wp.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 231.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 234.
  [5]
 <senlevelselect/curve1.pdf, id=43, 505.89pt x 289.08pt>
 File: senlevelselect/curve1.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 273.
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 276.
 (pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
  []
 
 
-Overfull \hbox (4.60342pt too wide) in paragraph at lines 289--289
+Overfull \hbox (4.60342pt too wide) in paragraph at lines 292--292
 [] 
  []
 
@@ -366,7 +366,7 @@ Overfull \hbox (4.60342pt too wide) in paragraph at lines 289--289
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 304--305
+Underfull \hbox (badness 1052) in paragraph at lines 307--308
 []$\OML/cmm/m/it/10.95 upperbound \OMS/cmsy/m/n/10.95  $ \OT1/ptm/m/n/10.95 set
  an upper-bound BLEU
  []
@@ -386,10 +386,10 @@ Underfull \vbox (badness 7540) has occurred while \output is active []
 File: cost-bleu/pricecost.pdf Graphic file (type pdf)
 
 <use cost-bleu/pricecost.pdf>
-Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 395.
+Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 398.
 (pdftex.def)             Requested size: 227.6506pt x 227.6517pt.
 
-Underfull \hbox (badness 3724) in paragraph at lines 408--416
+Underfull \hbox (badness 3724) in paragraph at lines 411--419
 []\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
  []
 
@@ -423,7 +423,7 @@ fb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on naaclhlt2015_new.pdf (9 pages, 200530 bytes).
+Output written on naaclhlt2015_new.pdf (9 pages, 200534 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream
