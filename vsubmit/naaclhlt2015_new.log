@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 NOV 2014 10:05
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 NOV 2014 21:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -318,52 +318,47 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
  [2]
-Underfull \hbox (badness 4899) in paragraph at lines 116--117
+Underfull \hbox (badness 4899) in paragraph at lines 121--122
 \OT1/ptm/m/n/10.95 num-ber of trans-la-tions needed for each sen-
  []
 
-
-Underfull \hbox (badness 1715) in paragraph at lines 139--140
-[]\OT1/ptm/m/n/10.95 In ad-di-tion to the fea-tures that (Zaidan and
- []
-
-<WorkerPerf/wp.pdf, id=14, 542.025pt x 542.025pt>
+<WorkerPerf/wp.pdf, id=16, 542.025pt x 542.025pt>
 File: WorkerPerf/wp.pdf Graphic file (type pdf)
  <use WorkerPerf/wp.pdf>
-Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 151.
+Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 158.
 (pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 196--197
-\OT1/ptm/m/n/10.95 We eval-u-ate rank-ing qual-ity in Spear-man's
+Underfull \hbox (badness 4518) in paragraph at lines 203--204
+[]\OT1/ptm/m/n/10.95 We eval-u-ate rank-ing qual-ity in Spear-man's
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 196--197
+Underfull \hbox (badness 1661) in paragraph at lines 203--204
 \OT1/ptm/m/n/10.95 correlation($\OML/cmm/m/it/10.95 ^^Z$\OT1/ptm/m/n/10.95 ) co
 m-pared with the gold stan-dard
  []
 
 [4 <./WorkerPerf/wp.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 224.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 231.
  [5]
 <senlevelselect/curve1.pdf, id=43, 505.89pt x 289.08pt>
 File: senlevelselect/curve1.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 266.
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 273.
 (pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 
-Overfull \hbox (4.60342pt too wide) in paragraph at lines 282--282
+Overfull \hbox (4.60342pt too wide) in paragraph at lines 289--289
 [] 
  []
 
@@ -371,7 +366,7 @@ Overfull \hbox (4.60342pt too wide) in paragraph at lines 282--282
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 294--295
+Underfull \hbox (badness 1052) in paragraph at lines 304--305
 []$\OML/cmm/m/it/10.95 upperbound \OMS/cmsy/m/n/10.95  $ \OT1/ptm/m/n/10.95 set
  an upper-bound BLEU
  []
@@ -391,10 +386,10 @@ Underfull \vbox (badness 7540) has occurred while \output is active []
 File: cost-bleu/pricecost.pdf Graphic file (type pdf)
 
 <use cost-bleu/pricecost.pdf>
-Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 385.
+Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 395.
 (pdftex.def)             Requested size: 227.6506pt x 227.6517pt.
 
-Underfull \hbox (badness 3724) in paragraph at lines 398--406
+Underfull \hbox (badness 3724) in paragraph at lines 408--416
 []\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
  []
 
@@ -428,7 +423,7 @@ fb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
 /local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
 live/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/
 texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on naaclhlt2015_new.pdf (9 pages, 200946 bytes).
+Output written on naaclhlt2015_new.pdf (9 pages, 200530 bytes).
 PDF statistics:
  108 PDF objects out of 1000 (max. 8388607)
  77 compressed objects within 1 object stream

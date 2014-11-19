@@ -94,11 +94,6 @@ They hired Turkers to translate 1792 Urdu sentences
 from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. Workers also filled out a survey about their language skills and their countries of origin.
 A total of 51 Turkers contributed translations. Each Urdu sentence was translated by 4 Turkers and 4 professional translators.
 
-[move the following section to the model section later, this section only describes data!]
-
-\newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  used the features in order to train models to select the best translation from 4 candidate translations, and compared the Turkers' translation quality to professional quality.
-They extracted a number of features from the translations and workers' self-reported language skills in order to predict the best translations. These features included 9 sentence-level features,
-15 worker-level features that aggregate over the sentence-level features, plus features based on workers' language abilities and their location, and a set of 3 features based on a second-pass HIT where monolingual English speakers ranked the translations. Finally, they integrate a worker calibration feature, that computes a BLEU score for each Tuker by comparing a fraction of their translations against the professional translations. 
 
 \subsection{Evaluation Metric for Translation Quality}
 
@@ -109,14 +104,6 @@ For this data set we have access to 4 sets of professional translations, which w
 
 [This subsection need to be more concise, and merge the following two subsections of the previous draft together: the one subsection about the exact prices and the one subsection of the cost formula.] 
 
-Compared to the cost of professional translations, the cost of crowdsourced translations is already low. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} paid \$0.10 per sentence.  The cost to translate each of the sentences in the Urdu data set once was \$179.20, plus a 10\% commission to Amazon.  The major cost involved with their method is the need to redundantly translate every source sentence. Every sentence in their set was independently translated by 4 workers.  So the total cost to create the translations in their data set was \$716.80 (+10\%). Although $<$\$1,000 is certainly a modest amount, if we want to collect data at a very large scale, the cost for non-professional translations will dramatically increase.
-
-Another major component cost of the \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  is the need for some amount of professionally-translated data, used to calbrate the goodness of the non-professional Turker translators.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} vary the amount of calibration data used.  The minimum amount is 10\% of the data set.  If we estimate the cost of professional translation at \$6.03 per sentence (\$0.3 per word $\times$ 20.1 words per sentence), then the cost of the calibration data is \$4,322.30.
-
-We attempt to minimize cost by reducing the number of translations needed for each sentence, and reducing the amount of professionally-translated calibration data.  The lower-bound on cost is \$179.20, for single translations from Turkers with no calibration data.  The upperbound for the non-professionals cost is \$716.80 and the upperbound for total cost is \$5,039.10 (\$716.80 + \$4,322.30 at 10\% calibration).
-
-======
-
 Throughout this paper we will analyze the cost savings of the various methods that we propose.
 To make it clear how we compute the savings, we define that the unit cost for one professional reference as $C_{p}$, and the unit cost for one non-professional translation as $C_{np}$. Suppose we have $N_{p}$ source sentences with $\alpha$ matching professional translations for each of them and $N_{np}$  source sentences with $\beta$ matching non-professional translations for each of them, the total cost $C$ is:
   \begin{align*}
@@ -125,17 +112,27 @@ To make it clear how we compute the savings, we define that the unit cost for on
   where $\alpha$ and $\beta$ represent the level of redundancy of professional and non-professional translations respectively, and in our case, basically $\alpha = \beta = 4$.
 The costs associated with professional translations result from the calibration data  that is used to estimate the goodness of the non-professional translation.  This will be a fraction of the total data being translated.  Conversely, the number of non-professional translations will typically exceed the total number of sentences being translated, because we particularly solicit multiple (redundant) translations of the same input sentence from different non-professionals, and then pick the best translation. 
 
+=== 
 
-\section{Cost Reduction}
-%Previously, crowdsourcing traslation tasks, people solicit fixed number of translations for each source sentence from a fixed number of Turkers and make selection on the full candidates set. 
-Our problem definition of the cost optimization task is: given a small portion of translation data (non-professionals and professionals),  we want to identity bad workers and unacceptable translations to reduce cost by avoiding hiring bad workers continually or purchasing redundant translations after we get acceptable ones. At the same time, we want to maintain in high translation quality.
+Compared to the cost of professional translations, the cost of crowdsourced translations is already low. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} paid \$0.10 per sentence.  The cost to translate each of the sentences in the Urdu data set once was \$179.20, plus a 10\% commission to Amazon.  The major cost involved with their method is the need to redundantly translate every source sentence. Every sentence in their set was independently translated by 4 workers.  So the total cost to create the translations in their data set was \$716.80 (+10\%). Although $<$\$1,000 is certainly a modest amount, if we want to collect data at a very large scale, the cost for non-professional translations will dramatically increase.
 
-[Add a few more sentences here of the two methods used.]
+Another major component cost of the \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  is the need for some amount of professionally-translated data, used to calbrate the goodness of the non-professional Turker translators.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} vary the amount of calibration data used.  The minimum amount is 10\% of the data set.  If we estimate the cost of professional translation at \$6.03 per sentence (\$0.3 per word $\times$ 20.1 words per sentence), then the cost of the calibration data is \$4,322.30.
 
-\subsection{Estimating Translation Quality}
+We attempt to minimize cost by reducing the number of translations needed for each sentence, and reducing the amount of professionally-translated calibration data.  The lower-bound on cost is \$179.20, for single translations from Turkers with no calibration data.  The upperbound for the non-professionals cost is \$716.80 and the upperbound for total cost is \$5,039.10 (\$716.80 + \$4,322.30 at 10\% calibration).
 
-[Merge the following section with part of Omar's paper to explain the model and features clearly]
 
+
+\section{Estimating Translation Quality}
+
+[Merge the following section with part of Omar's paper to explain the model and features clearly, make it self-contained]
+
+
+\newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  used the features in order to train models to select the best translation from 4 candidate translations, and compared the Turkers' translation quality to professional quality.
+They extracted a number of features from the translations and workers' self-reported language skills in order to predict the best translations. These features included 9 sentence-level features,
+15 worker-level features that aggregate over the sentence-level features, plus features based on workers' language abilities and their location, and a set of 3 features based on a second-pass HIT where monolingual English speakers ranked the translations. Finally, they integrate a worker calibration feature, that computes a BLEU score for each Tuker by comparing a fraction of their translations against the professional translations. 
+
+
+=== 
 In addition to the features that \cite{zaidan-callisonburch:2011:ACL-HLT2011a} used, we introduce a new bilingual feature. We use the IBM Model 1 to construct the word alignment with probabilities between Urdu and English. For each foreign sentence, we calculate the word alignment feature by averaging the alignment probabilities of all words in Urdu sentence.
 
 To evaluate each translation, we use a linear regression model to predict a score  ($ \hat{y} \in R$) for an input translation $t$.
@@ -143,6 +140,16 @@ To evaluate each translation, we use a linear regression model to predict a scor
 \[ \hat{y} = \hat{w}  \cdot f(t) \]
   %\end{align*}
   where $\hat{w}$ is the associated weight vector and $f(t)$ is the feature vector of the translation $t$. 
+
+
+
+
+\section{Reducing the Number of Translators}
+
+%Previously, crowdsourcing traslation tasks, people solicit fixed number of translations for each source sentence from a fixed number of Turkers and make selection on the full candidates set. 
+Our problem definition of the cost optimization task is: given a small portion of translation data (non-professionals and professionals),  we want to identity bad workers and unacceptable translations to reduce cost by avoiding hiring bad workers continually or purchasing redundant translations after we get acceptable ones. At the same time, we want to maintain in high translation quality.
+
+[Add a few more sentences here of the two methods used.]
 
 
 \subsection{Workers are consistently good (or bad) over time}
@@ -189,17 +196,17 @@ Rather than using a model to rank workers, we take the first few translations pr
 
 
 
-\section{Experiments}
+\subsection{Experiments}
 We report ranking's correlation to gold standard ranking and translation quality for both two methods.
 
-\subsection{Ranking Quality Competition}
+\subsubsection{Baselines}
 We evaluate ranking quality in Spearman's correlation($\rho$) compared with the gold standard ranking of workers. We score each Turker based on the average BLEU score of all his/her translations against professional references and we rank Turkers by their scores. We use the gold standard ranking as the ranking oracle and the upper-bound correlation is 1. In addition, we set two baselines for ranking correlation($\rho$) for our proposed approaches. For the first baseline,  we choose the MERT\cite{och2003minimum} baseline, which achieves a correlation of  0.67 when trained on ranking features. This is the highest correlation that  MERT achieves across all feature sets. The second baseline is a simpler baseline that reserves 10\% of the data for calibration, and computes a ranking of translators based on their BLEU scores against professionals over this calibration set, the correlation reaches 0.68.  
 
 For translation quality evaluation, we set the gold standard ranking selection method as the oracle method, in which we select translation provided by the worker with best rank in gold standard ranking, and the BLEU score achieved is denoted as $B_{gold}$.
 Besides, we set the random selection method as the baseline method which randomly select a translation from all candidates for each source sentence. 
 
 
-\subsection{Ranking workers using a model}
+\subsubsection{Ranking workers using a model}
 We use 10\% of data to train a linear regression model to rank workers and select best translation by workers' ranking. Table \ref{lrresult} shows that our model achieves the highest BLEU score of 38.37 when trained on all features. If we calculate calibration feature and training sample label against only one reference rather than 4 references, we achieve a BLEU score of 37.52 with a correlation of 0.71 which is higher that two baselines. To further reduce cost, we retain only top 25\% workers and select the translation with the best rank provided by top workers. We achieve a BLEU score of 37.09 while $B_{gold}$ is 38.51 and the baseline is 29.95. The cost is:
  \begin{align*}
   C& = \frac{\alpha}{4} \cdot \frac{1}{10} N_{p}\cdot C_{p}  + \frac{\beta}{4} \cdot \frac{9}{10} N_{np} \cdot C_{np}\\
@@ -224,7 +231,7 @@ All features*            & \textbf{0.71} & \textbf{37.52} \\ \hline
 \caption{\label{lrresult} Spearman's correlation($\rho$) and translation quality of model predicted ranking selection method for linear regression model trained using different feature sets. We don't filter out bad workers when selecting the best translation. * indicates that  we choose \textbf{only one} professional reference to calculate the BLEU score as calibration feature and the true label of a training sample while in other cases, we use 4 references to calculate BLEU score. }
 \end{table}
 
-\subsection{Ranking workers using their first k translations}
+\subsubsection{Ranking workers using their first k translations}
  Without using any model, we rank workers using their first k translations and select best translations based on rankings of the top 25\% workers. To evaluate this method, we created several test sets.  Each test set excluded any item that was used to rank the workers, or which did not have any translations from the top 25\% of workers according to our predicted rankings.  We therefore have \emph{different test sets} for each value of k.  This makes the results slightly more difficult to analyze than in normal experiments, although the trends are still clear.
 Formally, we define the test set for first k sentences as $T_k$ and for each source sentence $s \in T_k$:
 \begin{align*}
@@ -281,7 +288,10 @@ If we use the first 20 sentences to rank workers, the correlation is 0.88 and  t
    & = 1,592.53 (\$)
   \end{align*}  
 We can achieve almost the same translation as the oracle method with only spending 32\% of the total cost. 
-\section{Get Another Translation?}
+
+\section{Reducing the Number of Translations}
+
+
 We present the model selection method to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Additionally, we make it possible to control the translation selected from a partial translation set to a proportion ($\delta$) of the upper bound of BLEU score. The upper bound of BLEU score is computed on best translations selected from  the full translation set of training data. Algorithm \ref{modelselection} details the process. After we get the $\theta$ (threshold between acceptable and unacceptable translations) for a specific value of $\delta$ (say 95\%), for given a a new translation, we score it by our model and if the its score is higher than $\theta$, we stop soliciting another translation. Otherwise, we continually solicit translations.  
 \begin{algorithm} [h!]
 \caption{Model selection algorithm}\label{modelselection}
