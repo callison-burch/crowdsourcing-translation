@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 NOV 2014 22:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  25 NOV 2014 13:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -290,14 +290,14 @@ LaTeX Font Info:    Try loading font information for OT1+pcr on input line 52.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 2818) in paragraph at lines 54--57
+Underfull \hbox (badness 2818) in paragraph at lines 54--58
 []\OT1/ptm/m/n/10 Crowdsourcing makes it pos-si-ble to cre-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
 
-Underfull \hbox (badness 1014) in paragraph at lines 68--74
+Underfull \hbox (badness 1014) in paragraph at lines 69--75
 []\OT1/ptm/m/n/10.95 In this pa-per we fo-cus on a dif-fer-ent as-pect
  []
 
@@ -310,55 +310,83 @@ Underfull \vbox (badness 2293) has occurred while \output is active []
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 80.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
  [2]
-Underfull \hbox (badness 4899) in paragraph at lines 121--122
-\OT1/ptm/m/n/10.95 num-ber of trans-la-tions needed for each sen-
+Underfull \hbox (badness 1924) in paragraph at lines 148--149
+\OT1/ptm/m/n/10.95 Zaidan and Callison-Burch (2011) showed that
  []
 
-<WorkerPerf/wp.pdf, id=16, 542.025pt x 542.025pt>
+
+Underfull \hbox (badness 2150) in paragraph at lines 148--149
+\OT1/ptm/m/n/10.95 based on fea-ture ex-trac-tion and model tun-ing,
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 148--149
+\OT1/ptm/m/n/10.95 professional can-di-dates and achieve pro-fes-sional
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 151--152
+[]\OT1/ptm/m/n/10.95 Worker-level fea-tures: 15 fea-tures in-clud-
+ []
+
+<bilingualexample/biexample.png, id=16, 579.16376pt x 204.765pt>
+File: bilingualexample/biexample.png Graphic file (type png)
+
+<use bilingualexample/biexample.png>
+Package pdftex.def Info: bilingualexample/biexample.png used on input line 167.
+
+(pdftex.def)             Requested size: 227.6506pt x 80.48604pt.
+
+<WorkerPerf/wp.pdf, id=17, 542.025pt x 542.025pt>
 File: WorkerPerf/wp.pdf Graphic file (type pdf)
  <use WorkerPerf/wp.pdf>
-Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 158.
+Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 187.
 (pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3]
-Underfull \hbox (badness 4518) in paragraph at lines 203--204
+[3 <./bilingualexample/biexample.png>]
+Underfull \hbox (badness 4518) in paragraph at lines 232--233
 []\OT1/ptm/m/n/10.95 We eval-u-ate rank-ing qual-ity in Spear-man's
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 203--204
+Underfull \hbox (badness 1661) in paragraph at lines 232--233
 \OT1/ptm/m/n/10.95 correlation($\OML/cmm/m/it/10.95 ^^Z$\OT1/ptm/m/n/10.95 ) co
 m-pared with the gold stan-dard
  []
 
 [4 <./WorkerPerf/wp.pdf>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 234.
- [5]
-<senlevelselect/curve1.pdf, id=43, 505.89pt x 289.08pt>
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 263.
+
+Underfull \hbox (badness 2495) in paragraph at lines 263--263
+[]\OT1/ptm/m/n/10 Table 1: []Spear-man's correlation($\OML/cmm/m/it/10 ^^Z$\OT1
+/ptm/m/n/10 ) and trans-la-tion
+ []
+
+[5] <senlevelselect/curve1.pdf, id=44, 505.89pt x 289.08pt>
 File: senlevelselect/curve1.pdf Graphic file (type pdf)
 
 <use senlevelselect/curve1.pdf>
-Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 276.
+Package pdftex.def Info: senlevelselect/curve1.pdf used on input line 305.
 (pdftex.def)             Requested size: 227.6506pt x 130.0892pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
 
  []
 
 
-Overfull \hbox (4.60342pt too wide) in paragraph at lines 292--292
+Overfull \hbox (4.60342pt too wide) in paragraph at lines 321--321
 [] 
  []
 
@@ -366,7 +394,7 @@ Overfull \hbox (4.60342pt too wide) in paragraph at lines 292--292
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 307--308
+Underfull \hbox (badness 1052) in paragraph at lines 336--337
 []$\OML/cmm/m/it/10.95 upperbound \OMS/cmsy/m/n/10.95  $ \OT1/ptm/m/n/10.95 set
  an upper-bound BLEU
  []
@@ -375,58 +403,53 @@ Underfull \hbox (badness 1052) in paragraph at lines 307--308
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [6 <./senlevelselect/curve1.pdf>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 7540) has occurred while \output is active []
+Underfull \vbox (badness 1642) has occurred while \output is active []
 
  [7]
-<cost-bleu/pricecost.pdf, id=56, 361.35pt x 361.35pt>
+<cost-bleu/pricecost.pdf, id=57, 361.35pt x 361.35pt>
 File: cost-bleu/pricecost.pdf Graphic file (type pdf)
 
 <use cost-bleu/pricecost.pdf>
-Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 398.
+Package pdftex.def Info: cost-bleu/pricecost.pdf used on input line 427.
 (pdftex.def)             Requested size: 227.6506pt x 227.6517pt.
 
-Underfull \hbox (badness 3724) in paragraph at lines 411--419
+Underfull \hbox (badness 3724) in paragraph at lines 440--448
 []\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8 <./cost-bleu/pricecost.pdf>] (./naaclhlt2015_new.bbl
+[8 <./cost-bleu/pricecost.pdf>] (./naaclhlt2015_new.bbl
 Underfull \hbox (badness 1616) in paragraph at lines 98--105
 []\OT1/ptm/m/n/10 Rabih Zbib, Erika Mal-chiodi, Ja-cob De-vlin, David
  []
 
-) [9] (./naaclhlt2015_new.aux) ) 
+[9]) [10
+
+] (./naaclhlt2015_new.aux) ) 
 Here is how much of TeX's memory you used:
- 3419 strings out of 493488
- 47221 string characters out of 3141326
- 118272 words of memory out of 3000000
- 6625 multiletter control sequences out of 15000+200000
+ 3427 strings out of 493488
+ 47406 string characters out of 3141326
+ 118280 words of memory out of 3000000
+ 6630 multiletter control sequences out of 15000+200000
  31033 words of font info for 71 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,18n,23p,1986b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/d
-vips/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmex10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmmi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmmi6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
-8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
-/local/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/tex
-live/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/
-texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on naaclhlt2015_new.pdf (9 pages, 200534 bytes).
+ 38i,18n,23p,1986b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips
+/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmex10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10
+.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
+b></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2012/texm
+f-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on naaclhlt2015_new.pdf (10 pages, 254571 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
