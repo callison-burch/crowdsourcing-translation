@@ -22,3 +22,21 @@ TechReport/TACLPaperWork/TechReport.blg
 TechReport/TACLPaperWork/TechReport.log
 
 TechReport/TACLPaperWork/TechReport.synctex.gz
+
+*.log
+
+Mingkun Gao/vsubmit/naaclhlt2015_new.log
+
+Mingkun Gao/vsubmit/naaclhlt2015_new.synctex.gz
+
+*.aux
+
+vsubmit/naaclhlt2015_new.aux
+
+*.blg
+
+vsubmit/naaclhlt2015_new.blg
+
+vsubmit/naaclhlt2015_new.log
+
+vsubmit/naaclhlt2015_new.synctex.gz

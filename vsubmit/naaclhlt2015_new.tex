@@ -13,7 +13,7 @@
 \usepackage{hhline}
 %\usepackage{xltxtra}
 %\usepackage{polyglossia}
-\usepackage{tablefootnote}%[2014/01/26]
+%\usepackage{tablefootnote}%[2014/01/26]
 %\usepackage{algpseudocode}
 %\usepackage{algorithm}
 %\usepackage{algorithmic}
@@ -86,15 +86,15 @@ Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011
  
 \section{Problem Setup}
 
-We use a set of translations (of a corpus) to refer to a collection that includes one translation per each source sentence in the corpus. The goal is to assemble one set of high quality translations while minimizing the associated cost. 
+We start with a corpus of source sentences to be translated, and we may solicit one or more translations for every sentence in the corpus.  Our goal is to assemble a single high quality translation for each source sentence while minimizing the associated cost. 
 
 We study the data collected by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk. 
 They hired Turkers to translate 1792 Urdu sentences 
-from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 51 [or 52??] Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional Turkers and 4 professional translators hired by the LDC. The cost of translating a sentence is \$0.10 by non-professional and \$6.03 (\$0.30 per word $\times$ 20.1 words per sentence on average) by professional translators. 
+from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 52 Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional translators (the Turkers) and 4 professional translators hired by the LDC. The cost of for non-professional translation is  \$0.10 per sentence and the cost of professional translation is \$0.30 per word (or just over \$6 on average for the sentences in our corpus which have an average of 20.1 words). 
 
-Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use the BLEU score \cite{papineni2002bleu} against all 4 professional translations as a gold-standard to measure the quality of a non-professional translation. While a set of professional translations has a quality of 42.38 BLEU score, a Turker set only scores 28.13 BLEU on average. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} trained a MERT model to select one non-professional translation out of the four and pushed the quality of one set of crowdsourcing translation to 39.06, on par of professional translations. They used a small amount 10\% of professional translations as calibration data to estimate the goodness of the non-professional translation. In total, their approach needs 4 non-professional translations for each source sentence and 4 different professional translations for about 180 sentences to assemble one set of good translations.  
+Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  By comparison, the Turker translations score only 28.13 on average. Zaidan and Callison-Burch trained a MERT model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 39.06, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
 
-However, very large parallel corpora, often millions of pairs of sentences, are required in training statistical machine translation systems. It is still costly and even difficult to recruit enough numbers of both professional and non-professional translators for a low-resource language or in a short time. In this paper, we study how to reduce the number of non-professional translations and the number of professional translations needed to assemble one set of translations of good quality. 
+Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  This plays a role if we would like to assemble a large enough parallel corpus (on the order of millions of pairs of sentences) to train a statistical machine translation system \cite{ambati2010can,post2012constructing,zbib2012machine,zbib2013systematic}. Here, we introduce several methods for reduce the number of non-professional translations  while still maintaining high quality. 
 
 
 
@@ -106,17 +106,18 @@ We use a linear regression model\footnote{We used WEKA package: \url{http://www.
   %\end{align*}
   where $\vec{w}$ is the associated weight vector and $\vec f(t)$ is the feature vector of the translation $t$. 
 
-We introduce a new bilingual feature in addition to the feature set used by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} in their MERT model. All features are listed below:
+We replicate the feature set used by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} in their MERT model:
 
 \begin{itemize}
 \item  Sentence-level features: 9 features based on language model, sentence length, edit distance to other translations. 
 \item Worker-level features: 15 features based on worker's language ability, location and average sentence-level scores.
-\item Ranking features: 3 features including translation's average ranking and the percentages of being evaluated better and best. [UNCLEAR, NEED TO REVISE]
+\item Ranking features: 3 features based on a the judgments of monolingual English speakers ranking the translations form best to worst.
 \item Calibration features: 1 feature based on the average BLEU score of translations provided by the same worker, which is computed against professional references.
-\item Bilingual features: 1 feature based on the word alignment probabilities according. 
+%\item Bilingual features: 1 feature based on the word alignment probabilities according. 
 \end{itemize}
 
-We use the IBM Model 1 to construct the word alignment probabilities between Urdu and English. We align words between each translation and corresponding source sentence. The bilingual feature of a translation is the averaging alignment probabilities. In Figure \ref{biexample1}, we show an example of the bilingual feature for a translation.
+
+We additionally introduce a new bilingual feature based on IBM Model 1. We align words between each candidate translation and its corresponding source sentence. The bilingual feature for a translation is the average of its alignment probabilities. In Figure \ref{biexample1}, we show how the bilingual feature allows us to distinguish between a valid translation (top) and an invalid/spammy translation (bottom).
 
 \begin{figure}[h!]
   \centering
@@ -126,12 +127,14 @@ We use the IBM Model 1 to construct the word alignment probabilities between Urd
     \label{biexample1}
 \end{figure}
 
-\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} used all 4 professional translations in computing the calibration features and training labels. We will show in the experiments that using \textbf{only one} professional translation as reference is as sufficient. 
+%\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} used all 4 professional translations in computing the calibration features and training labels. We will show in the experiments that using \textbf{only one} professional translation as reference is as sufficient. 
 
 \section{Reducing the Number of Translations}
-The first mechanism to optimize cost is recognizing good translations to stop purchasing more translations immediately after. 
+The first mechanism that we introduce to optimize cost is one that reduces the number of translations.  Our goal is to recognize good translations of a source sentence and to immediately stop purchasing additional  translations of that sentence.  The crux of this method is to decide whether a translation  is `good enough,' in which case we do not gain any benefit from  paying for another redundant translation.  
 
-We present the translation reducing method to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Additionally, we make it possible to control the quality of translations selected from a partial translation set to a proportion ($\delta$) of the upperbound quality in BLEU score which is computed on best translations selected from  the full translation set of training data. To reduce cost and control quality, we train a model to score non-professional translations and search the value of $\theta$ (threshold between acceptable and unacceptable translations) for a specific value of $\delta$ (say 95\%). For given a a new translation, we score it by our model and if the its score is higher than $\theta$, we stop soliciting another translation. Otherwise, we continually solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
+Our translation reduction method allows us to set an empirical definition of `good enough'.  We introduce a parameter  of the model  ($\delta$) that allows us to set how much degradation in translation quality is allowable, when we compare against selecting the best translation from the full set of redundant translations.  For instance, we may fix $\delta$ at 95\%, meaning that the BLEU score should not drop below 0.95 of the estimated BLEU score using the full set of non-professional translations.   We train a model to search for a threshold between acceptable and unacceptable translations ($\theta$) for a specific value of $\delta$. 
+
+For given a new translation, our model scores it, and if the its score is higher than $\theta$, then we do not solicit another translation. Otherwise, we continually to solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
 \begin{algorithm} [h!]
 \caption{}\label{modelselection}
 \textbf{Input}: $\delta$, the proportion of the upperbound of BLEU score; a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
