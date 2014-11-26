@@ -136,7 +136,7 @@ The first mechanism that we introduce to optimize cost is one that reduces the n
 
 Our translation reduction method allows us to set an empirical definition of `good enough'.  We introduce a parameter  of the model  ($\delta$) that allows us to set how much degradation in translation quality is allowable, when we compare against selecting the best translation from the full set of redundant translations.  For instance, we may fix $\delta$ at 95\%, meaning that the BLEU score should not drop below 0.95 of the estimated BLEU score using the full set of non-professional translations.   We train a model to search for a threshold between acceptable and unacceptable translations ($\theta$) for a specific value of $\delta$. 
 
-For given a new translation, our model scores it, and if the its score is higher than $\theta$, then we do not solicit another translation. Otherwise, we continually to solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
+For given a new translation, our model scores it, and if the its score is higher than $\theta$, then we do not solicit another translation. Otherwise, we continue to solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
 \begin{algorithm} [h!]
 \caption{}\label{modelselection}
 \textbf{Input}: $\delta$, the allowable deviation from the expected upper bound on BLEU score (using all redundant translations); a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
@@ -229,7 +229,7 @@ Before presenting our method, we first demonstrate that Turkers produce consiste
 \begin{figure}[h!]
   \centering
   \includegraphics[width=\linewidth]{WorkerPerf/wp.pdf}
-  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted, with the best translators on top on y-axis. Each tick represent a single translation and dark color means better quality.
+  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted with the best translator at the top of the y-axis. Each tick represent a single translation and dark color means better quality.
 }
     \label{fworkerperf}
 \end{figure}
