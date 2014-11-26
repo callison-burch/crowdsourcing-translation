@@ -1,0 +1,104 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Callison-Burch and
+  Dredze}2010]{callison-burch-dredze2010}
+Chris Callison-Burch and Mark Dredze.
+\newblock 2010.
+\newblock Creating speech and language data with amazon's mechanical turk.
+\newblock In {\em Proceedings of the NAACL HLT 2010 Workshop on Creating Speech
+  and Language Data with Amazon's Mechanical Turk}, pages 1--12. Association
+  for Computational Linguistics.
+
+\bibitem[\protect\citename{Lin \bgroup et al.\egroup }2014]{lin2014re}
+Christopher~H Lin, Mausam, and Daniel~S Weld.
+\newblock 2014.
+\newblock To re (label), or not to re (label).
+
+\bibitem[\protect\citename{Novotney and Callison-Burch}2010]{novotney2010cheap}
+Scott Novotney and Chris Callison-Burch.
+\newblock 2010.
+\newblock Cheap, fast and good enough: Automatic speech recognition with
+  non-expert transcription.
+\newblock In {\em Human Language Technologies: The 2010 Annual Conference of
+  the North American Chapter of the Association for Computational Linguistics},
+  pages 207--215. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Och}2003]{och2003minimum}
+Franz~Josef Och.
+\newblock 2003.
+\newblock Minimum error rate training in statistical machine translation.
+\newblock In {\em Proceedings of the 41st Annual Meeting on Association for
+  Computational Linguistics-Volume 1}, pages 160--167. Association for
+  Computational Linguistics.
+
+\bibitem[\protect\citename{Papineni \bgroup et al.\egroup
+  }2002]{papineni2002bleu}
+Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu.
+\newblock 2002.
+\newblock Bleu: a method for automatic evaluation of machine translation.
+\newblock In {\em Proceedings of the 40th annual meeting on association for
+  computational linguistics}, pages 311--318. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Passonneau and
+  Carpenter}2013]{passonneau2013benefits}
+Rebecca~J Passonneau and Bob Carpenter.
+\newblock 2013.
+\newblock The benefits of a model of annotation.
+\newblock In {\em Proceedings of the 7th Linguistic Annotation Workshop and
+  Interoperability with Discourse}, pages 187--195. Citeseer.
+
+\bibitem[\protect\citename{Post \bgroup et al.\egroup
+  }2012]{post2012constructing}
+Matt Post, Chris Callison-Burch, and Miles Osborne.
+\newblock 2012.
+\newblock Constructing parallel corpora for six indian languages via
+  crowdsourcing.
+\newblock In {\em Proceedings of the Seventh Workshop on Statistical Machine
+  Translation}, pages 401--409. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Sheng \bgroup et al.\egroup }2008]{sheng2008get}
+Victor~S Sheng, Foster Provost, and Panagiotis~G Ipeirotis.
+\newblock 2008.
+\newblock Get another label? improving data quality and data mining using
+  multiple, noisy labelers.
+\newblock In {\em Proceedings of the 14th ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 614--622. ACM.
+
+\bibitem[\protect\citename{Snow \bgroup et al.\egroup }2008]{snow2008}
+Rion Snow, Brendan O'Connor, Daniel Jurafsky, and Andrew~Y Ng.
+\newblock 2008.
+\newblock Cheap and fast---but is it good?: evaluating non-expert annotations
+  for natural language tasks.
+\newblock In {\em Proceedings of the conference on empirical methods in natural
+  language processing}, pages 254--263. Association for Computational
+  Linguistics.
+
+\bibitem[\protect\citename{Zaidan and
+  Callison-Burch}2011]{zaidan-callisonburch:2011:ACL-HLT2011a}
+Omar~F. Zaidan and Chris Callison-Burch.
+\newblock 2011.
+\newblock Crowdsourcing translation: Professional quality from
+  non-professionals.
+\newblock In {\em Proceedings of the 49th Annual Meeting of the Association for
+  Computational Linguistics: Human Language Technologies}, pages 1220--1229.
+
+\bibitem[\protect\citename{Zbib \bgroup et al.\egroup }2012]{zbib2012machine}
+Rabih Zbib, Erika Malchiodi, Jacob Devlin, David Stallard, Spyros Matsoukas,
+  Richard Schwartz, John Makhoul, Omar~F Zaidan, and Chris Callison-Burch.
+\newblock 2012.
+\newblock Machine translation of arabic dialects.
+\newblock In {\em Proceedings of the 2012 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 49--59. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Zbib \bgroup et al.\egroup
+  }2013]{zbib2013systematic}
+Rabih Zbib, Gretchen Markiewicz, Spyros Matsoukas, Richard~M Schwartz, and John
+  Makhoul.
+\newblock 2013.
+\newblock Systematic comparison of professional and crowdsourced reference
+  translations for machine translation.
+\newblock In {\em HLT-NAACL}, pages 612--616.
+
+\end{thebibliography}
