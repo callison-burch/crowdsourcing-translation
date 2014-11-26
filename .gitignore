@@ -40,3 +40,13 @@ vsubmit/naaclhlt2015_new.blg
 vsubmit/naaclhlt2015_new.log
 
 vsubmit/naaclhlt2015_new.synctex.gz
+
+*.aux
+
+*.log
+
+vsubmit/naaclhlt2015_new.synctex.gz
+
+vsubmit/naaclhlt2015_new.aux
+
+vsubmit/naaclhlt2015_new.log

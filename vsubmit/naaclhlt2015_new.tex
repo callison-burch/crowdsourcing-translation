@@ -94,7 +94,9 @@ from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnot
 
 Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  By comparison, the Turker translations score only 28.13 on average. Zaidan and Callison-Burch trained a MERT model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 39.06, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
 
-Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  This plays a role if we would like to assemble a large enough parallel corpus (on the order of millions of pairs of sentences) to train a statistical machine translation system \cite{ambati2010can,post2012constructing,zbib2012machine,zbib2013systematic}. Here, we introduce several methods for reduce the number of non-professional translations  while still maintaining high quality. 
+Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  This plays a role if we would like to assemble a large enough parallel corpus (on the order of millions of pairs of sentences) to train a statistical machine translation system. 
+% \cite{ambati2010can,post2012constructing,zbib2012machine,zbib2013systematic}
+Here, we introduce several methods for reduce the number of non-professional translations  while still maintaining high quality. 
 
 
 
@@ -137,7 +139,7 @@ Our translation reduction method allows us to set an empirical definition of `go
 For given a new translation, our model scores it, and if the its score is higher than $\theta$, then we do not solicit another translation. Otherwise, we continually to solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
 \begin{algorithm} [h!]
 \caption{}\label{modelselection}
-\textbf{Input}: $\delta$, the proportion of the upperbound of BLEU score; a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
+\textbf{Input}: $\delta$, the allowable deviation from the expected upper bound on BLEU score (using all redundant translations); a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
 \textbf{Output}: $\theta$, the threshold between acceptable and unacceptable translations; m(x), a linear regression model. 
 \begin{algorithmic}[1]
 \State \textbf{initialize} $\theta \leftarrow 0$,$m(x)\leftarrow \emptyset$ 
@@ -169,7 +171,7 @@ For given a new translation, our model scores it, and if the its score is higher
 \subsection{Experiment}
  We divide data into training set(10\%), validation set(10\%) and testing set(80\%). Each sample in training and validating set is labeled and calibrated by BLEU score calculated against \textbf{only one} reference. The step we set to sweep $\theta$ in validating process is 0.01 and the $upperbound$ is set to be 0.41 empirically. We vary the value of $\delta$ from 90\% to 100\% and the results we reported are based on five-fold cross validation.
 
-\subsubsection{Baselines} We set a competitive method to compete with, which is revised from the framework of translation reducing mechanism with two different points: (1)we label and calibrate each sample in training and validating set using BLEU computed against four references; (2) we select translation from all candidates for each source sentence. We get a surprisingly high BLEU score of 40.13 using this method with a high cost over \$9,000(\$716.80 + \$8,644.6 for 20\% calibration). In addition, we set the random selection baseline and the corresponding BLEU score is 29.56.
+\subsubsection{Baselines} We set a competitive method to compete with, which is revised from the framework of translation reducing mechanism with two different points: (1) we label and calibrate each sample in training and validating set using BLEU computed against four references; (2) we select translation from all candidates for each source sentence. We get a surprisingly high BLEU score of 40.13 using this method with a high cost over \$9,000(\$716.80 + \$8,644.6 for 20\% calibration). In addition, we set the random selection baseline and the corresponding BLEU score is 29.56.
 
 \subsubsection{Translation reducing method} Table \ref{orderanother} shows the results for translation reducing method. We get comparable translation quality against our competing method with a much lower cost. If we set $\delta$ as 0.95, comparing two method, the difference in translation quality is 1.7 and for each source sentence, we almost avoid paying one redundant translation. The cost is:
  \begin{align*}
@@ -214,7 +216,9 @@ $\delta$(\%) & BLEU Score & \# of Trans. \\ \hhline{===}
 
 \section{Choosing Better Translators}
 
-The second mechanism to optimize cost and quality is to use less professional translators and less (only good) non-professional translators. We demonstrate that Turkers produce translations with consistent quality over time. We also present two methods that can identify good (or bad) Turkers reliably using only one professional translation on 180 sentences as reference. 
+The second mechanism that we use to optimize cost is to reduce the number of non-professional translators that we hire.  Our goal is to quickly identify whether Turkers are good or bad translators, so that we can continue to hire only the good translators and stop hiring the bad translators after they are identified as such. 
+%
+Before presenting our method, we first demonstrate that Turkers produce consistent quality translations over time.
 
 %reducing the number of translators by quickly identifying bad workers and filtering them out. We achieve high translation quality and avoid hiring bad workers continually after having detected their bad performance.
 
@@ -230,12 +234,13 @@ The second mechanism to optimize cost and quality is to use less professional tr
     \label{fworkerperf}
 \end{figure}
 
-Do Turkers produce good (or bad) translations consistently or now? Or some Turkers are consistent and some are not? We used the gold-standard translation quality measure to analyze the behavior of individual Turkers and found out that most Turkers' performance stay consistent over time. 
+Do Turkers produce good (or bad) translations consistently or not? Are some Turkers  consistent and others not? We used the professional translations as a gold-standard to analyze the individual Turkers, and we found that most Turkers' performance stayed surprisingly consistent over time. 
 
-Figure \ref{fworkerperf} illustrates the consistency of workers' performance by showing their translation quality in the timeline. The translation quality is computed based on the BLEU against professional translations. Each tick represent a single translation and depicts the BLEU score in colors. The tick is in black if its BLEU score is higher than the median and in light grey otherwise. Good translators tend to produce consistently good translations and bad workers rarely produce good translations.
+Figure \ref{fworkerperf} illustrates the consistency of workers' quality by plotting quality of their individual translations on a timeline. The translation quality is computed based on the BLEU against professional translations. Each tick represent a single translation and depicts the BLEU score using two colors. The tick is black if its BLEU score is higher than the median and it is light grey otherwise. Good translators tend to produce consistently good translations and bad workers rarely produce good translations.
 
-Since workers' performance is consistent, workers' rankings are sufficiently accurate to reflect the quality of translations provided by them and we can select the translation which is provided by the worker with the best rank. 
-We propose two approaches to rank workers from a small portion of work they submitted, filter out bad workers and select the best translation from translations provided by  surviving workers.
+%Since workers' performance is consistent, workers' rankings are sufficiently accurate to reflect the quality of translations provided by them and we can select the translation which is provided by the worker with the best rank. We propose two approaches to rank workers from a small portion of work they submitted, filter out bad workers and select the best translation from translations provided by  surviving workers.
+
+Next, we introduce two approaches to rank workers using a small portion of work they submitted.  Our goal is to filter out bad workers, and to select the best translation from translations provided by the remaining workers.
 
 \subsection{Automatically Ranking Translators}
 
@@ -247,7 +252,7 @@ We propose two approaches to rank workers from a small portion of work they subm
 %They are both very 'cheap' since we only use a small portion of professional translations and avoid hiring bad workers after we get workers' ranking.  
 % and evaluate the translation quality by calculating the BLEU score against references.
 \paragraph{Ranking workers using a model}
-We use a linear regression model to score each translation and rank workers by their model predicted performance.  
+We use the linear regression model to score each translation and rank workers by their model predicted performance.  
 %For each source sentence $s_i$, we have a translation set $T = \{ t_{i,1}, t_{i,2},t_{i,3}, t_{i,4}\}$. 
 The model predicted score for translation $t$ is defined as $M(t)$. The model predicted performance of the worker $w$ is:
 \begin{align*}
