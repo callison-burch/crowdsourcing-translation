@@ -19,7 +19,7 @@
 %\usepackage{algorithmic}
 \usepackage{algorithm}
 \usepackage[noend]{algpseudocode}
-
+\usepackage{comment}
 \makeatletter
 \def\BState{\State\hskip-\ALG@thistlm}
 \makeatother
@@ -79,128 +79,162 @@ Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011
  \begin{itemize}
  \item Workers can be ranked by their quality with high correlation against a gold standard ranking, using linear regression and a variety of features, or initially testing them using a small amount of calibration data with known professional translations.
  \item This ranking can be established after observing very small amounts of data (reaching $\rho$ of 0.88 after seeing the translations of only 20 sentences from each worker). Therefore, bad workers can be filtered out quickly.
- \item Our models can predict whether a given translation is acceptable with high accuracy, subtantially reducing the number of redundant translations needed for every source segment.
+ \item Our models can predict whether a given translation is acceptable with high accuracy, substantially reducing the number of redundant translations needed for every source segment.
  \item We can achieve a similar BLEU score as \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} at half the cost using our translation reducing method.
  % and at 60\% of the non-professional translations' cost using model selection method.  
  \end{itemize} 
  
 \section{Problem Setup}
 
+We use a set of translations (of a corpus) to refer to a collection that includes one translation per each source sentence in the corpus. The goal is to assemble one set of high quality translations while minimizing the associated cost. 
+
 We study the data collected by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk. 
 They hired Turkers to translate 1792 Urdu sentences 
 from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 51 [or 52??] Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional Turkers and 4 professional translators hired by the LDC. The cost of translating a sentence is \$0.10 by non-professional and \$6.03 (\$0.30 per word $\times$ 20.1 words per sentence on average) by professional translators. 
 
-Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use the BLEU score \cite{papineni2002bleu} against all 4 professional translations as a gold-standard to measure the quality of a non-professional translation. We use a set of translations (of a corpus) to refer to a set includes one translation per each source sentence in the corpus.  While a set of professional translations reaches a quality of 42.38 BLEU score, a Turker set only scores at 28.13 BLEU on average. 
+Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use the BLEU score \cite{papineni2002bleu} against all 4 professional translations as a gold-standard to measure the quality of a non-professional translation. While a set of professional translations has a quality of 42.38 BLEU score, a Turker set only scores 28.13 BLEU on average. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} trained a MERT model to select one non-professional translation out of the four and pushed the quality of one set of crowdsourcing translation to 39.06, on par of professional translations. They used a small amount 10\% of professional translations as calibration data to estimate the goodness of the non-professional translation. In total, their approach needs 4 non-professional translations for each source sentence and 4 different professional translations for about 180 sentences to assemble one set of good translations.  
 
-In order to  the quality 
-
-\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} trained linear models to score non-professional translations and chose the best translation from them for each source sentence. They promoted the crowdsourcing translation quality to the professional level. We propose mechanisms to  
-reduce costs and keep high translation quality. We develop our methods on the data set \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} used. In addition, we regulate the metrics for cost and translation quality. 
-
-
-\subsection{Measurement of Total Cost}
-
-%[This subsection need to be more concise, and merge the following two subsections of the previous draft together: the one subsection about the exact prices and the one subsection of the cost formula.] 
-The costs associated with crowdsourcing translation consists of expense of purchasing both professional and non-professional translations.  
-Professional translations are used as calibration data to estimate the goodness of the non-professional translation while non-professional translations are redundantly collected  as candidates for selection. 
-%The costs associated with professional translations result from the calibration data  that is used to estimate the goodness of the non-professional translation.  This will be a fraction of the total data being translated.  Conversely, the number of non-professional translations will typically exceed the total number of sentences being translated, because we particularly solicit multiple (redundant) translations of the same input sentence from different non-professionals, and then pick the best translation. 
-
-We define the total cost C as:
- \begin{align*}
-  C = \alpha \cdot N_{p} \cdot C_{p}  + \beta \cdot N_{n} \cdot C_{n} 
-  \end{align*}
-$C_{p}$ and $C_{n}$ are the costs of one translation provided by professionals and non-professionals respectively.
-$N_{p}$ and $N_{n}$ refer to the number of source sentences used in collecting professional and non-professional translations separately.
-%source sentences with $\alpha$ professional translations for each of them and  source sentences with $\beta$  non-professional translations for each of them. 
-$\alpha$ and $\beta$ represent the level of redundancy of professional and non-professional translations respectively and higher redundancy level means more translations are solicited for each source sentence. Thus, \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}'s total cost is:
-% paid \$0.10 per non-professional translation and we estimate the cost of professional translation at \$6.03 per sentence (\$0.3 per word $\times$ 20.1 words per sentence), their total cost is:
-\begin{align*}
-  C = 4 \times N_{p} \times 6.03  + 4 \times 1792 \times 0.10 
-  \end{align*}
- where $C_{p}$ is estimated to \$6.03(\$0.30 per word $\times$ 20.1 words per sentence) and $C_{n}$ is \$0.10. We calculate the cost lowerbound and upperbound by varying the value of $N_{p}$. The lowerbound is \$179.20, for single translations from Turkers with no calibration data ($N_{p} = 0$). \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} showed that to achieve professional quality, they used professional translations of 10\% of all source sentences as calibration data. Thus, the upperbound is \$5,039.10 for $N_{p} = 10\% \times 1792$ (\$716.80 + \$4,322.30 at 10\% calibration).  
-%Throughout this paper we will analyze the cost savings of the various methods that we propose.
-%To make it clear how we compute the savings, we define that the unit cost for one professional reference as $C_{p}$, and the unit cost for one non-professional translation as $C_{np}$. Suppose we have $N_{p}$ source sentences with $\alpha$ matching professional translations for each of them and $N_{np}$  source sentences with $\beta$ matching non-professional translations for each of them, the total cost $C$ is:
-  %where $\alpha$ and $\beta$ represent the level of redundancy of professional and non-professional translations respectively and higher redundancy level means more translations are solicited for each source sentence. 
-  
-%\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} constructed their translation data set for totally 1,792 Urdu sentences. They collected 4 non-professional translations for each Urdu sentence and paid \$0.10 per translation ($\beta = 4, N_{np} = 1,792, C_{np} = 0.10$). The cost to translate each Urdu sentence independently by 4 workers is \$ 716.80, plus a 10\% commission to Amazon. The major cost involved with their method is the need to redundantly translate every source sentence. Although $<$\$1,000 is certainly a modest amount, if we want to collect data at a very large scale, the cost for non-professional translations will dramatically increase. 
-
-%The dominant cost of the \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}  is the need for some amount of professionally-translated data, used to calibrate the goodness of the non-professional Turker translators.  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} vary the amount of calibration data used.  The minimum amount is 10\% of the data set.  If we estimate the cost of professional translation at \$6.03 per sentence (\$0.3 per word $\times$ 20.1 words per sentence), then the cost to collect 4 sets of  professional translations is \$4,322.30 ($\alpha = 4, N_{p}  \approx 179 , C_{p} = 6.03$).
-  %and in our case, basically $\alpha = \beta = 4$.
-
-
-%=== 
-
-%Compared to the cost of professional translations, the cost of crowdsourced translations is already low. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} paid \$0.10 per sentence.  The cost to translate each of the sentences in the Urdu data set once was \$179.20, plus a 10\% commission to Amazon.  The major cost involved with their method is the need to redundantly translate every source sentence. Every sentence in their set was independently translated by 4 workers.  So the total cost to create the translations in their data set was \$716.80 (+10\%). 
-
-
-
-%We attempt to minimize cost by reducing the number of translations needed for each sentence, and reducing the amount of professionally-translated calibration data.  The lower-bound on cost is \$179.20, for single translations from Turkers with no calibration data.  
-%The upperbound for the non-professionals cost is \$716.80 and 
-%The upperbound for total cost is \$5,039.10 (\$716.80 + \$4,322.30 at 10\% calibration).
-
-
-
+However, very large parallel corpora, often millions of pairs of sentences, are required in training statistical machine translation systems. It is still costly and even difficult to recruit enough numbers of both professional and non-professional translators for a low-resource language or in a short time. In this paper, we study how to reduce the number of non-professional translations and the number of professional translations needed to assemble one set of translations of good quality. 
 
 
 
 \section{Estimating Translation Quality}
 
-%[Merge the following section with part of Omar's paper to explain the model and features clearly, make it self-contained]
-\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} showed that based on feature extraction and model tuning, they can select the best translations among non-professional candidates and achieve professional quality. They extracted a number of features from the translations and workers' self-reported language skills in order to predict the best translations. These features included:
-\begin{itemize}
-\item  Sentence-level features: 9 features including language model scores, sentence length ratios between source sentences and translations, Web n-gram matching scores and edit distance to other translations. 
-\item Worker-level features: 15 features including aggregated sentence-level scores for each worker, language abilities and worker locations.
-\item Ranking features: 3 features including translation's average ranking and the percentages of being evaluated better and best.
-\item Calibration feature: 1 feature reflecting the average BLEU score of translations provided by the same worker which is computed against references.
-\end{itemize}
- %9 sentence-level features, 15 worker-level features that aggregate over the sentence-level features, plus features based on workers' language abilities and their location, and a set of 3 features based on a second-pass HIT where monolingual English speakers ranked the translations. They also integrated a worker calibration feature, that computes a BLEU score for each Turker by comparing a fraction of their translations against the professional translations. 
-They trained a linear model using the features to select the best translation from 4 candidate translations, and compared the Turkers' translation quality to professional quality to show the validity of their method.
-
-Following their work on translation evaluation and selection, we use a linear regression model to predict a score  ($ score(t) \in R$) for an input translation $t$.
+We use a linear regression model\footnote{We used WEKA package: \url{http://www.cs.waikato.ac.nz/ml/weka/}} to predict a quality score ($ score(t) \in R$) for an input translation $t$.
 %\begin{align*}
 \[ score(t) = \vec{w}  \cdot \vec f(t) \]
   %\end{align*}
   where $\vec{w}$ is the associated weight vector and $\vec f(t)$ is the feature vector of the translation $t$. 
-In addition to the features that \cite{zaidan-callisonburch:2011:ACL-HLT2011a} used, we introduce a new bilingual feature. We use the IBM Model 1 to construct the word alignment probabilities between Urdu and English. We align words between each translation and corresponding source sentence. The bilingual feature of a translation is the averaging alignment probabilities. In Figure \ref{biexample1}, we present the bilingual feature for a translation.
+
+We introduce a new bilingual feature in addition to the feature set used by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} in their MERT model. All features are listed below:
+
+\begin{itemize}
+\item  Sentence-level features: 9 features based on language model, sentence length, edit distance to other translations. 
+\item Worker-level features: 15 features based on worker's language ability, location and average sentence-level scores.
+\item Ranking features: 3 features including translation's average ranking and the percentages of being evaluated better and best. [UNCLEAR, NEED TO REVISE]
+\item Calibration features: 1 feature based on the average BLEU score of translations provided by the same worker, which is computed against professional references.
+\item Bilingual features: 1 feature based on the word alignment probabilities according. 
+\end{itemize}
+
+We use the IBM Model 1 to construct the word alignment probabilities between Urdu and English. We align words between each translation and corresponding source sentence. The bilingual feature of a translation is the averaging alignment probabilities. In Figure \ref{biexample1}, we show an example of the bilingual feature for a translation.
 
 \begin{figure}[h!]
   \centering
-  \includegraphics[width=\linewidth]{bilingualexample/biexample.png}
-  \caption{Bilingual feature example for the translation: "Supporting the french proposal". We align words with its source sentence. The top row shows the alignment probability for each Urdu word. The bilingual feature value (0.224) is the average of these probabilities.
+  \includegraphics[width=\linewidth]{bilingualexample/example.png}
+  \caption{Bilingual feature example of two crowdsourcing translations for a sentence in Urdu. The numbers are alignment probabilities for each aligned word.The bilingual feature is the average of these probabilities, thus 0.240 for the good translation and 0.043 for the bad translation.
 }
     \label{biexample1}
 \end{figure}
-% asFor ewe align its words with words of the corresponding source sentence calculate the word alignment feature by averaging the highest alignment probabilities of all words in Urdu sentence. 
-To reduce cost of computing the calibration feature and labeling each training sample by its BLEU score, we  randomly select \textbf{only one} professional translation as reference to calculate the BLEU score.
-%\section{RR}
-%Our cost optimization task is: given a small portion of translation data (non-professionals and professionals),  we want to identity bad workers and unacceptable translations to reduce cost by avoiding hiring bad workers continually or purchasing redundant translations after we get acceptable ones. At the same time, we want to maintain in high translation quality.
 
-%We propose mechanisms to optimize costs to crowdsourcing translation in two directions. The first direction is to reduce the number of translators by quickly identifying bad workers and filtering them out. The second is to reduce the number of translations by recognizing unacceptable translations, and stopping purchasing redundant translations after we have get acceptable ones. In addition to cost reduction, we want to keep in high translation quality although we only pay a small portion as before. 
+\newcite{zaidan-callisonburch:2011:ACL-HLT2011a} used all 4 professional translations in computing the calibration features and training labels. We will show in the experiments that using \textbf{only one} professional translation as reference is as sufficient. 
 
-\section{Reducing the Number of Translators}
-The first mechanism to optimize cost is reducing the number of translators by quickly identifying bad workers and filtering them out. We achieve high translation quality and avoid hiring bad workers continually after having detected their bad performance.
-%Previously, crowdsourcing traslation tasks, people solicit fixed number of translations for each source sentence from a fixed number of Turkers and make selection on the full candidates set. 
+\section{Reducing the Number of Translations}
+The first mechanism to optimize cost is recognizing good translations to stop purchasing more translations immediately after. 
+
+We present the translation reducing method to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Additionally, we make it possible to control the quality of translations selected from a partial translation set to a proportion ($\delta$) of the upperbound quality in BLEU score which is computed on best translations selected from  the full translation set of training data. To reduce cost and control quality, we train a model to score non-professional translations and search the value of $\theta$ (threshold between acceptable and unacceptable translations) for a specific value of $\delta$ (say 95\%). For given a a new translation, we score it by our model and if the its score is higher than $\theta$, we stop soliciting another translation. Otherwise, we continually solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
+\begin{algorithm} [h!]
+\caption{}\label{modelselection}
+\textbf{Input}: $\delta$, the proportion of the upperbound of BLEU score; a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
+\textbf{Output}: $\theta$, the threshold between acceptable and unacceptable translations; m(x), a linear regression model. 
+\begin{algorithmic}[1]
+\State \textbf{initialize} $\theta \leftarrow 0$,$m(x)\leftarrow \emptyset$ 
+\State $m'(x)\leftarrow$ train a linear regression model on T
+\State $maxbleu \leftarrow$ use $m'(x)$ select best translations for each $s_i \in T$ and record the highest model predicted BLEU score
+\State $upperbound \leftarrow$ set an upper-bound BLEU score empirically
+\While {$\theta \neq maxbleu $} 
+\For {$i \leftarrow 1$ to $n$}
+\For {$j \leftarrow 1$ to $4$}
+\If {$m'(x^{v}_{i,j}) > \theta \wedge j < 4 $}
+             select $x^{v}_{i,j}$ for $s_i$ and \textbf{break}
+\EndIf
+\If {$ j == 4 $} select $x^{v}_{i,j}$ for $s_i$
+\EndIf
+\EndFor
+\EndFor
+\State $q \leftarrow$ calculate translation quality for V
+\If {$q > \delta \cdot upperbound$} \textbf{break}
+\Else \text{  } $\theta = \theta + stepsize$
+\EndIf
+\EndWhile
+\State $m \leftarrow$ train a linear regression model on $S \cup V$
+\State \textbf{Return}: $\theta$ and model $m(x)$
+%\EndProcedure
+\end{algorithmic}
+\end{algorithm}
 
 
-\subsection{Workers are consistently good (or bad) over time}
+\subsection{Experiment}
+ We divide data into training set(10\%), validation set(10\%) and testing set(80\%). Each sample in training and validating set is labeled and calibrated by BLEU score calculated against \textbf{only one} reference. The step we set to sweep $\theta$ in validating process is 0.01 and the $upperbound$ is set to be 0.41 empirically. We vary the value of $\delta$ from 90\% to 100\% and the results we reported are based on five-fold cross validation.
+
+\subsubsection{Baselines} We set a competitive method to compete with, which is revised from the framework of translation reducing mechanism with two different points: (1)we label and calibrate each sample in training and validating set using BLEU computed against four references; (2) we select translation from all candidates for each source sentence. We get a surprisingly high BLEU score of 40.13 using this method with a high cost over \$9,000(\$716.80 + \$8,644.6 for 20\% calibration). In addition, we set the random selection baseline and the corresponding BLEU score is 29.56.
+
+\subsubsection{Translation reducing method} Table \ref{orderanother} shows the results for translation reducing method. We get comparable translation quality against our competing method with a much lower cost. If we set $\delta$ as 0.95, comparing two method, the difference in translation quality is 1.7 and for each source sentence, we almost avoid paying one redundant translation. The cost is:
+ \begin{align*}
+  C& = \frac{\alpha}{4} \cdot \frac{2}{10} N_{p}\cdot C_{p}  + \frac{3.12}{4} \beta\cdot \frac{8}{10} N_{np} \cdot C_{np}\\
+   & = 2,608.43 (\$)
+ \end{align*}
+ which is 52\% of the original total cost and  28\% of the cost of our competing method.
+ \begin{table}[h]
+ \center
+\begin{tabular}{c|c|c}
+\hline
+$\delta$(\%) & BLEU Score & \# of Trans. \\ \hhline{===}
+90    & 37.04      & 2.11             \\
+91    & 37.20      & 2.19             \\
+92    & 37.77      & 2.54             \\
+93    & 37.79      & 2.61             \\
+94    & 38.31      & 3.07             \\
+95    & 38.43      & 3.12             \\
+96    & 38.65      & 3.44             \\
+97    & 38.71      & 3.39             \\
+98    & 39.17      & 3.88             \\
+99    & 39.32      & 3.99             \\
+100   & 39.36      & 3.99             \\ \hline
+\end{tabular}
+\caption{The relation among the $\delta$ (the proportion of the BLEU score's upper bound),the BLEU score for translations selected by models from partial sets and the averaged size of translation candidates set for each source sentence (\textit{\# of Trans}).  }
+    \label{orderanother}
+\end{table}
+% \begin{table*}[t]
+% \center
+%\begin{tabular}{|c|c|c|c|}
+%\hline
+%Source                                   & References                         & Translations                         & Quality \\ \hline
+%\multirow{4}{*}{فرانس کی تجویز کی حمایت} & Support of France's Recommendation & France has supported the proposal.   & 0.342   \\ \cline{2-4} 
+%                                         & Support for the Proposal of France & Supporting the French proposal       & 0.630   \\ \cline{2-4} 
+%                                         & French Proposal Endorsed           & France suggestion was appriciatable. & -0.014  \\ \cline{2-4} 
+%                                         & French Proposal Supported          & defending the thinking of France.    & 0.269   \\ \hline
+%\end{tabular}
+%\caption{An example showing how to reduce redundant translations using the  model and the threshold. For each source sentence, we solicit 4 references and 4 non-professional translations. The value of 'Quality' is the \textbf{ model predicted score} for each translation which is different from the BLEU score. In this example, \textit{delta} is \%95, and the threshold telling apart acceptable and unacceptable translations is 0.35. Translations listed from top to the bottom are in the chronological order from the earliest submitted one to the latest submitted one. Since the first translation's quality value is lower that the threshold, we need to solicit another one.  Knowing that the second translation's quality value is higher than the threshold,  we stop soliciting other translations for this source sentence so that we avoid collect redundant translations and reduce cost.}
+%\label{texample}
+%\end{table*}
+
+
+\section{Choosing Better Translators}
+
+The second mechanism to optimize cost and quality is to use less professional translators and less (only good) non-professional translators. We demonstrate that Turkers produce translations with consistent quality over time. We also present two methods that can identify good (or bad) Turkers reliably using only one professional translation on 180 sentences as reference. 
+
+%reducing the number of translators by quickly identifying bad workers and filtering them out. We achieve high translation quality and avoid hiring bad workers continually after having detected their bad performance.
+
+\subsection{Turkers' behavior in translating sentences}
+
+
+
 \begin{figure}[h!]
   \centering
   \includegraphics[width=\linewidth]{WorkerPerf/wp.pdf}
-  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted based on the gold-standard ranking against professionals, with the best translators on top on y-axis. Each tick represent a single translation HIT, and depicts the HIT's BLEU score (color) and its size/number of sentences (thickness). We use the average BLEU score for each HIT and show its tick in black if its BLEU score is higher than the median and in light grey otherwise.
+  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted, with the best translators on top on y-axis. Each tick represent a single translation and dark color means better quality.
 }
     \label{fworkerperf}
 \end{figure}
 
-Figure \ref{fworkerperf} illustrates the consistency of workers' performance by showing  the gold-standard ranking of Turkers created by computing their BLEU scores compared to professionals for all of the translations that they submitted, along with the number of HITs produced by each worker and their timing information.
-From this graph we see that that most workers' performance stays
-consistent as time passes.  Good translators tend to produce consistently good translations and bad workers rarely produce good translations. %This observation enables us to predict workers' performance based on their early submissions, so that we can come to an early decision about whether to continue to hire them. 
+Do Turkers produce good (or bad) translations consistently or now? Or some Turkers are consistent and some are not? We used the gold-standard translation quality measure to analyze the behavior of individual Turkers and found out that most Turkers' performance stay consistent over time. 
 
-
-\subsection{Automatically Ranking Translators}
-
+Figure \ref{fworkerperf} illustrates the consistency of workers' performance by showing their translation quality in the timeline. The translation quality is computed based on the BLEU against professional translations. Each tick represent a single translation and depicts the BLEU score in colors. The tick is in black if its BLEU score is higher than the median and in light grey otherwise. Good translators tend to produce consistently good translations and bad workers rarely produce good translations.
 
 Since workers' performance is consistent, workers' rankings are sufficiently accurate to reflect the quality of translations provided by them and we can select the translation which is provided by the worker with the best rank. 
 We propose two approaches to rank workers from a small portion of work they submitted, filter out bad workers and select the best translation from translations provided by  surviving workers.
+
+\subsection{Automatically Ranking Translators}
 
 
 %We present translator reducing methods to compute ranks of workers from a small portion of work they submitted. We filter out bad workers and select the best translation from translations provided by  surviving workers.
@@ -236,7 +270,7 @@ For translation quality evaluation, we set the gold standard ranking selection m
 Besides, we set the random selection method as the baseline method which randomly select a translation from all candidates for each source sentence. 
 
 
-\subsubsection{ Ranking workers using a model}
+\subsubsection{Ranking workers using a model}
 We use 10\% of data to train a linear regression model to rank workers and select best translation by workers' ranking. Table \ref{lrresult} shows that our model achieves the highest BLEU score of 38.37 when trained on all features. If we calculate calibration feature and training sample label against only one reference rather than 4 references, we achieve a BLEU score of 37.52 with a correlation of 0.71 which is higher that two baselines. To  reduce cost, we retain only top 25\% workers and select the translation with the best rank provided by top workers. We achieve a BLEU score of 37.09 while $B_{gold}$ is 38.51 and the baseline is 29.95. The cost is:
  \begin{align*}
   C& = \frac{\alpha}{4} \cdot \frac{1}{10} N_{p}\cdot C_{p}  + \frac{\beta}{4} \cdot \frac{9}{10} N_{np} \cdot C_{np}\\
@@ -322,85 +356,6 @@ If we use the first 20 sentences to rank workers, the correlation is 0.88 and  t
   \end{align*}  
 We can achieve almost the same translation as the oracle method with only spending 32\% of the total cost. 
 
-\section{Reducing the Number of Translations}
-The second mechanism to optimize cost is reducing the number of translations by recognizing unacceptable translations, and stopping purchasing redundant translations after we have get acceptable ones. 
-
-We present the translation reducing method to decide whether a translation  is `good enough,' in which case we don't need to  pay for another redundant translation of the source sentence. Additionally, we make it possible to control the quality of translations selected from a partial translation set to a proportion ($\delta$) of the upperbound quality in BLEU score which is computed on best translations selected from  the full translation set of training data. To reduce cost and control quality, we train a model to score non-professional translations and search the value of $\theta$ (threshold between acceptable and unacceptable translations) for a specific value of $\delta$ (say 95\%). For given a a new translation, we score it by our model and if the its score is higher than $\theta$, we stop soliciting another translation. Otherwise, we continually solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
-\begin{algorithm} [h!]
-\caption{}\label{modelselection}
-\textbf{Input}: $\delta$, the proportion of the upperbound of BLEU score; a training set $S = \{(x^{s}_{i,j},y^{s}_{i,j})_{j=1}^{4}\}_{i=1}^n$ and a validation set $V = \{(x^{v}_{i,j},y^{v}_{i,j})_{j=1}^{4}\}_{i=1}^n$ where $x_{i,j}$ is the feature vector for the jth translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $x_{i,j}$.\\
-\textbf{Output}: $\theta$, the threshold between acceptable and unacceptable translations; m(x), a linear regression model. 
-\begin{algorithmic}[1]
-\State \textbf{initialize} $\theta \leftarrow 0$,$m(x)\leftarrow \emptyset$ 
-\State $m'(x)\leftarrow$ train a linear regression model on T
-\State $maxbleu \leftarrow$ use $m'(x)$ select best translations for each $s_i \in T$ and record the highest model predicted BLEU score
-\State $upperbound \leftarrow$ set an upper-bound BLEU score empirically
-\While {$\theta \neq maxbleu $} 
-\For {$i \leftarrow 1$ to $n$}
-\For {$j \leftarrow 1$ to $4$}
-\If {$m'(x^{v}_{i,j}) > \theta \wedge j < 4 $}
-             select $x^{v}_{i,j}$ for $s_i$ and \textbf{break}
-\EndIf
-\If {$ j == 4 $} select $x^{v}_{i,j}$ for $s_i$
-\EndIf
-\EndFor
-\EndFor
-\State $q \leftarrow$ calculate translation quality for V
-\If {$q > \delta \cdot upperbound$} \textbf{break}
-\Else \text{  } $\theta = \theta + stepsize$
-\EndIf
-\EndWhile
-\State $m \leftarrow$ train a linear regression model on $S \cup V$
-\State \textbf{Return}: $\theta$ and model $m(x)$
-%\EndProcedure
-\end{algorithmic}
-\end{algorithm}
-
-
-\subsection{Experiment}
- We divide data into training set(10\%), validation set(10\%) and testing set(80\%). Each sample in training and validating set is labeled and calibrated by BLEU score calculated against \textbf{only one} reference. The step we set to sweep $\theta$ in validating process is 0.01 and the $upperbound$ is set to be 0.41 empirically. We vary the value of $\delta$ from 90\% to 100\% and the results we reported are based on five-fold cross validation.
-
-\subsubsection{Baselines} We set a competitive method to compete with, which is revised from the framework of translation reducing mechanism with two different points: (1)we label and calibrate each sample in training and validating set using BLEU computed against four references; (2) we select translation from all candidates for each source sentence. We get a surprisingly high BLEU score of 40.13 using this method with a high cost over \$9,000(\$716.80 + \$8,644.6 for 20\% calibration). In addition, we set the random selection baseline and the corresponding BLEU score is 29.56.
-
-\subsubsection{Translation reducing method} Table \ref{orderanother} shows the results for translation reducing method. We get comparable translation quality against our competing method with a much lower cost. If we set $\delta$ as 0.95, comparing two method, the difference in translation quality is 1.7 and for each source sentence, we almost avoid paying one redundant translation. The cost is:
- \begin{align*}
-  C& = \frac{\alpha}{4} \cdot \frac{2}{10} N_{p}\cdot C_{p}  + \frac{3.12}{4} \beta\cdot \frac{8}{10} N_{np} \cdot C_{np}\\
-   & = 2,608.43 (\$)
- \end{align*}
- which is 52\% of the original total cost and  28\% of the cost of our competing method.
- \begin{table}[h]
- \center
-\begin{tabular}{c|c|c}
-\hline
-$\delta$(\%) & BLEU Score & \# of Trans. \\ \hhline{===}
-90    & 37.04      & 2.11             \\
-91    & 37.20      & 2.19             \\
-92    & 37.77      & 2.54             \\
-93    & 37.79      & 2.61             \\
-94    & 38.31      & 3.07             \\
-95    & 38.43      & 3.12             \\
-96    & 38.65      & 3.44             \\
-97    & 38.71      & 3.39             \\
-98    & 39.17      & 3.88             \\
-99    & 39.32      & 3.99             \\
-100   & 39.36      & 3.99             \\ \hline
-\end{tabular}
-\caption{The relation among the $\delta$ (the proportion of the BLEU score's upper bound),the BLEU score for translations selected by models from partial sets and the averaged size of translation candidates set for each source sentence (\textit{\# of Trans}).  }
-    \label{orderanother}
-\end{table}
-% \begin{table*}[t]
-% \center
-%\begin{tabular}{|c|c|c|c|}
-%\hline
-%Source                                   & References                         & Translations                         & Quality \\ \hline
-%\multirow{4}{*}{فرانس کی تجویز کی حمایت} & Support of France's Recommendation & France has supported the proposal.   & 0.342   \\ \cline{2-4} 
-%                                         & Support for the Proposal of France & Supporting the French proposal       & 0.630   \\ \cline{2-4} 
-%                                         & French Proposal Endorsed           & France suggestion was appriciatable. & -0.014  \\ \cline{2-4} 
-%                                         & French Proposal Supported          & defending the thinking of France.    & 0.269   \\ \hline
-%\end{tabular}
-%\caption{An example showing how to reduce redundant translations using the  model and the threshold. For each source sentence, we solicit 4 references and 4 non-professional translations. The value of 'Quality' is the \textbf{ model predicted score} for each translation which is different from the BLEU score. In this example, \textit{delta} is \%95, and the threshold telling apart acceptable and unacceptable translations is 0.35. Translations listed from top to the bottom are in the chronological order from the earliest submitted one to the latest submitted one. Since the first translation's quality value is lower that the threshold, we need to solicit another one.  Knowing that the second translation's quality value is higher than the threshold,  we stop soliciting other translations for this source sentence so that we avoid collect redundant translations and reduce cost.}
-%\label{texample}
-%\end{table*}
 
 \section{Cost Analysis}
 
