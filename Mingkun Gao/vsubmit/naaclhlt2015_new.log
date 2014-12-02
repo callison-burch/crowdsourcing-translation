@@ -1,24 +1,14 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  26 NOV 2014 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 DEC 2014 02:27
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **naaclhlt2015_new.tex
 (./naaclhlt2015_new.tex
-LaTeX2e <2009/09/24>
-Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
-, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
-kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
-german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
- bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
-telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
- lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
-nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
- turkmen, ukrainian, uppersorbian, welsh, loaded.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size11.clo
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -36,50 +26,50 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 (./naaclhlt2015.sty
 Conference Style for NAACL-HLT 2012 -- released August 30, 2011
 \titlebox=\skip43
-) (/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/times.sty
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/latexsym.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen103
 ))
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 210.
 \uproot@=\count88
 \leftroot@=\count89
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 306.
 \classnum@=\count90
 \DOTSCASE@=\count91
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
 \Mathstrutbox@=\box26
 \strutbox@=\box27
 \big@size=\dimen105
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \macc@depth=\count92
 \c@MaxMatrixCols=\count93
 \dotsspace@=\muskip10
@@ -100,49 +90,56 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip45
 \multlinetaggap=\skip46
 \mathdisplay@stack=\toks18
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/multirow/multirow.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen112
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/graphics.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2010/02/14 v0.04n Graphics/color for pdfTeX
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
 \Gread@gobject=\count99
 ))
 \Gin@req@height=\dimen113
 \Gin@req@width=\dimen114
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/hhline.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 1994/05/23 v2.03 Table rule package (DPC)
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count100
 \float@exts=\toks20
@@ -150,16 +147,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks21
 \@floatcapt=\box29
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks22
 \c@algorithm=\count101
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -175,30 +172,30 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip49
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (./naaclhlt2015_new.aux
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
 
-LaTeX Warning: Label `firstksenbleu' multiply defined.
-
-)
+Excluding comment 'comment') (./naaclhlt2015_new.aux)
 \openout1 = `naaclhlt2015_new.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 51.
- (/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 46.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/context/base/supp-pdf.mkii
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count109
 \scratchdimen=\dimen115
@@ -209,39 +206,42 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPscratchCnt=\count112
 \MPscratchDim=\dimen116
 \MPnumerator=\count113
+\makeMPintoPDFobject=\count114
 \everyMPtoPDFconversion=\toks24
-) (/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
-
-
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2007/09/30 v1.0 Managing graphics extensions (HO)
-)
-(/usr/local/texlive/2010/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/local/texlive/2010/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
@@ -250,185 +250,213 @@ Package etexcmds Info: Could not find \expanded.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 436.
+(grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 52.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 47.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ulasy.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 52.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 52.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 47.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 2818) in paragraph at lines 54--58
+Underfull \hbox (badness 2818) in paragraph at lines 49--54
 []\OT1/ptm/m/n/10 Crowdsourcing makes it pos-si-ble to cre-
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 69.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 65.
 
-Underfull \hbox (badness 1014) in paragraph at lines 69--75
+Underfull \hbox (badness 1014) in paragraph at lines 65--71
 []\OT1/ptm/m/n/10.95 In this pa-per we fo-cus on a dif-fer-ent as-pect
  []
 
 
 Underfull \vbox (badness 2293) has occurred while \output is active []
 
- [1{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 80.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 76.
 
-(/usr/local/texlive/2010/texmf-dist/tex/latex/psnfss/omsptm.fd
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+
+Underfull \hbox (badness 1990) in paragraph at lines 87--90
+[]\OT1/ptm/m/n/10.95 We study the data col-lected by Zaidan and
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 93--96
+[]\OT1/ptm/m/n/10.95 Although Zaidan and Callison-Burch demon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[][]\OT1/ptm/m/n/9 We used WEKA pack-age: $\OT1/pcr/m/n/9 http : / / www . cs .
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [2]
-Underfull \hbox (badness 1924) in paragraph at lines 149--150
-\OT1/ptm/m/n/10.95 Zaidan and Callison-Burch (2011) showed that
- []
-
-
-Underfull \hbox (badness 2150) in paragraph at lines 149--150
-\OT1/ptm/m/n/10.95 based on fea-ture ex-trac-tion and model tun-ing,
- []
-
-
-Underfull \hbox (badness 1097) in paragraph at lines 149--150
-\OT1/ptm/m/n/10.95 professional can-di-dates and achieve pro-fes-sional
- []
-
-
-Underfull \hbox (badness 2213) in paragraph at lines 152--153
-[]\OT1/ptm/m/n/10.95 Worker-level fea-tures: 15 fea-tures in-clud-
- []
-
-<bilingualexample/example.png, id=16, 496.85625pt x 207.77625pt>
+<bilingualexample/example.png, id=14, 496.85625pt x 207.77625pt>
 File: bilingualexample/example.png Graphic file (type png)
 
-<use bilingualexample/example.png> [3 <./bilingualexample/example.png (PNG copy
-)>] <WorkerPerf/wp.pdf, id=20, 542.025pt x 542.025pt>
+<use bilingualexample/example.png>
+Package pdftex.def Info: bilingualexample/example.png used on input line 118.
+(pdftex.def)             Requested size: 227.6506pt x 95.20094pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./bilingualexample/example.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<WorkerPerf/wp.pdf, id=19, 542.025pt x 542.025pt>
 File: WorkerPerf/wp.pdf Graphic file (type pdf)
  <use WorkerPerf/wp.pdf>
-Underfull \hbox (badness 4518) in paragraph at lines 233--234
-[]\OT1/ptm/m/n/10.95 We eval-u-ate rank-ing qual-ity in Spear-man's
+Package pdftex.def Info: WorkerPerf/wp.pdf used on input line 267.
+(pdftex.def)             Requested size: 227.6506pt x 227.64894pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+[][]\OT1/ptm/m/n/9 http://en.wikipedia.org/wiki/Pearson[]product-
  []
 
-
-Underfull \hbox (badness 1661) in paragraph at lines 233--234
-\OT1/ptm/m/n/10.95 correlation($\OML/cmm/m/it/10.95 ^^Z$\OT1/ptm/m/n/10.95 ) co
-m-pared with the gold stan-dard
- []
-
-[4 <./WorkerPerf/wp.pdf>]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 264.
-
-Underfull \hbox (badness 2495) in paragraph at lines 264--264
-[]\OT1/ptm/m/n/10 Table 1: []Spear-man's correlation($\OML/cmm/m/it/10 ^^Z$\OT1
-/ptm/m/n/10 ) and trans-la-tion
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<senlevelselect/curve1.pdf, id=39, 505.89pt x 289.08pt>
-File: senlevelselect/curve1.pdf Graphic file (type pdf)
-
-<use senlevelselect/curve1.pdf> [5]
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-
-Overfull \hbox (4.60342pt too wide) in paragraph at lines 322--322
+[4]
+Overfull \hbox (8.00772pt too wide) in paragraph at lines 285--285
 [] 
  []
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[6 <./senlevelselect/curve1.pdf>] [7]
-<cost-bleu/pricecost.pdf, id=57, 361.35pt x 361.35pt>
-File: cost-bleu/pricecost.pdf Graphic file (type pdf)
-
-<use cost-bleu/pricecost.pdf>
-Underfull \hbox (badness 3724) in paragraph at lines 441--449
-[]\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
+Underfull \hbox (badness 10000) in paragraph at lines 321--325
+[]\OT1/ptm/m/n/10.95 We eval-u-ate rank-ing qual-ity in weighted
  []
 
 
-Underfull \vbox (badness 2197) has occurred while \output is active []
+Underfull \hbox (badness 1661) in paragraph at lines 321--325
+\OT1/ptm/m/n/10.95 correlation($\OML/cmm/m/it/10.95 ^^Z$\OT1/ptm/m/n/10.95 ) co
+m-pared with the gold stan-dard
+ []
 
- [8 <./cost-bleu/pricecost.pdf>]
-<AllFeatureWithCali/allfeaturelinear.pdf, id=66, 542.025pt x 542.025pt>
+
+Underfull \hbox (badness 1661) in paragraph at lines 321--325
+\OT1/ptm/m/n/10.95 a cor-re-la-tion of 0.74 when trained on rank-ing
+ []
+
+[5 <./WorkerPerf/wp.pdf>]
+<AllFeatureWithCali/allfeaturelinear.pdf, id=44, 433.62pt x 433.62pt>
 File: AllFeatureWithCali/allfeaturelinear.pdf Graphic file (type pdf)
 
 <use AllFeatureWithCali/allfeaturelinear.pdf>
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
+Package pdftex.def Info: AllFeatureWithCali/allfeaturelinear.pdf used on input 
+line 335.
+(pdftex.def)             Requested size: 227.6506pt x 227.6539pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-(./naaclhlt2015_new.bbl [9 <./AllFeatureWithCali/allfeaturelinear.pdf>]
+
+Overfull \hbox (9.20209pt too wide) in paragraph at lines 344--357
+ [] 
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 357--357
+[]\OT1/ptm/m/n/10 Table 2: []Spear-man's correlation($\OML/cmm/m/it/10 ^^Z$\OT1
+/ptm/m/n/10 ) and trans-la-tion
+ []
+
+
+Overfull \hbox (15.2235pt too wide) in paragraph at lines 364--373
+ [] 
+ []
+
+<AllFeatureWithCali/2hitranking.pdf, id=45, 433.62pt x 433.62pt>
+File: AllFeatureWithCali/2hitranking.pdf Graphic file (type pdf)
+
+<use AllFeatureWithCali/2hitranking.pdf>
+Package pdftex.def Info: AllFeatureWithCali/2hitranking.pdf used on input line 
+413.
+(pdftex.def)             Requested size: 227.6506pt x 227.6539pt.
+
+Overfull \hbox (15.2235pt too wide) in paragraph at lines 423--432
+ [] 
+ []
+
+[6 <./AllFeatureWithCali/allfeaturelinear.pdf>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./AllFeatureWithCali/2hitranking.pdf>]
+Underfull \hbox (badness 3724) in paragraph at lines 500--503
+[]\OT1/ptm/m/n/10.95 Passonneau and Car-pen-ter (2013) cre-ated a
+ []
+
+(./naaclhlt2015_new.bbl [8]
 Underfull \hbox (badness 1616) in paragraph at lines 98--105
 []\OT1/ptm/m/n/10 Rabih Zbib, Erika Mal-chiodi, Ja-cob De-vlin, David
  []
 
-) [10
-
-] (./naaclhlt2015_new.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+) [9] (./naaclhlt2015_new.aux) ) 
 Here is how much of TeX's memory you used:
- 2854 strings out of 493747
- 39692 string characters out of 3143546
- 109303 words of memory out of 3000000
- 6057 multiletter control sequences out of 15000+200000
- 31033 words of font info for 71 fonts, out of 3000000 for 9000
- 714 hyphenation exceptions out of 8191
- 37i,18n,23p,1986b,287s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2010/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
-xlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
-live/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
-ve/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
-/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
-010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2010
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2010/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2010/te
-xmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2010/texmf-dist
-/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/typ
-e1/urw/times/utmr8a.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/urw/tim
-es/utmri8a.pfb>
-Output written on naaclhlt2015_new.pdf (10 pages, 271033 bytes).
+ 3078 strings out of 493117
+ 43302 string characters out of 6135433
+ 121310 words of memory out of 5000000
+ 6445 multiletter control sequences out of 15000+600000
+ 29922 words of font info for 71 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,17n,23p,1986b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/d
+vips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/l
+ocal/texlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on naaclhlt2015_new.pdf (9 pages, 262890 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 117 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
