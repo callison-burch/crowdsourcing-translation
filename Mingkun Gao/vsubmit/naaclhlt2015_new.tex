@@ -30,16 +30,16 @@
 %Quality Control vs. Cost Optimization in Crowdsourcing Translation%
 \title{Cost Optimization in Crowdsourcing Translation:\\ Low cost translations made even cheaper}
 
-\author{First Author \\
-  Affiliation / Address line 1 \\
-  Affiliation / Address line 2 \\
-  Affiliation / Address line 3 \\
-  {\tt email@domain} \\\And
-  Second Author 
-  Affiliation / Address line 1 \\
-  Affiliation / Address line 2 \\
-  Affiliation / Address line 3 \\
-  {\tt email@domain} \\}
+%\author{First Author \\
+%  Affiliation / Address line 1 \\
+%  Affiliation / Address line 2 \\
+%  Affiliation / Address line 3 \\
+%  {\tt email@domain} \\\And
+%  Second Author \\
+%  Affiliation / Address line 1 \\
+%  Affiliation / Address line 2 \\
+%  Affiliation / Address line 3 \\
+%  {\tt email@domain} \\}
 
 \date{}
 
@@ -75,8 +75,11 @@ Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011
  In this paper we demonstrate that
  \begin{itemize}
  \item Our model can predict whether a given translation is acceptable with high accuracy, substantially reducing the number of redundant translations needed for every source segment.
- \item Translators can be ranked by their quality with high correlation against a gold standard ranking, using linear regression and a variety of features, or initially testing them using a small amount of calibration data with known professional translations.
- \item This ranking can be established after observing very small amounts of data (reaching $\rho$ of 0.94 after seeing the translations of only 20 sentences from each worker). Therefore, bad workers can be filtered out quickly.
+ 
+\item Translators can be ranked well after observing only small amounts of data compared with the gold standard ranking (reaching a correlation of 0.94 after seeing the translations of only 20 sentences from each worker). Therefore, bad workers can be filtered out quickly. 
+ 
+ \item The translator ranking can also be obtained by using a linear regression model with a variety of features at a high correlation of 0.95 against the gold standard. 
+ 
  
  \item We can achieve a similar BLEU score as \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} at half the cost using our cost optimizing methods.
  % and at 60\% of the non-professional translations' cost using model selection method.  
@@ -134,7 +137,6 @@ We additionally introduce a new bilingual feature based on IBM Model 1. We align
 \State \textbf{initialize} $\theta \leftarrow 0$,$\vec{w}\leftarrow \emptyset$ 
 \State $\vec{w'}\leftarrow$ train a linear regression model on $S$
 \State $maxbleu \leftarrow$ select best translations for each $s_i \in S$ based on the model parameter $\vec{w'}$ and record the highest model predicted BLEU score
-\State $\alpha \leftarrow$ set an upper bound BLEU score empirically
 \While {$\theta \neq maxbleu $} 
 \For {$i \leftarrow 1$ to $n$}
 \For {$j \leftarrow 1$ to $4$}
@@ -161,7 +163,9 @@ We additionally introduce a new bilingual feature based on IBM Model 1. We align
 \section{Reducing the Number of Translations}
 The first mechanism that we introduce to optimize cost is one that reduces the number of translations.  Our goal is to recognize when we have got a good translation of a source sentence and to immediately stop purchasing additional  translations of that sentence.  The crux of this method is to decide whether a translation  is `good enough,' in which case we do not gain any benefit from  paying for another redundant translation.  
 
-Our translation reduction method allows us to set an empirical definition of `good enough'.  We introduce a parameter  of the model  ($\delta$) that allows us to set how much degradation in translation quality is allowable, when we compare against selecting the best translation from the full set of redundant translations.  For instance, we may fix $\delta$ at 95\%, meaning that the BLEU score should not drop below 0.95 of the estimated BLEU score using the full set of non-professional translations.   We train a model to search for a threshold between acceptable and unacceptable translations ($\theta$) for a specific value of $\delta$. 
+Our translation reduction method allows us to set an empirical definition of `good enough'.  
+We define an oracle upper bound $\alpha$ to be the estimated BLEU score using the full set of non-professional translations.
+We introduce a parameter $\delta$ to set how much degradation in translation quality is allowable.  For instance, we may fix $\delta$ at 95\%, meaning that the resulted BLEU score should not drop below 95\% of the $\alpha$ after reducing the number of translations.   We train a model to search for a threshold $\theta$ between acceptable and unacceptable translations for a specific value of $\delta$. 
 
 For a new translation, our model scores it, and if its score is higher than $\theta$, then we do not solicit another translation. Otherwise, we continue to solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
 
@@ -190,9 +194,9 @@ $\delta$(\%) & BLEU Score & \# Trans. \\ \hhline{===}
 
 \subsection{Experiment}
  We divide data into a training set (10\%), a validation set (10\%) and a test set (80\%). 
-We use the validation set to establish an upper bound BLEU is set to be 40.13 empirically as the oracle upper bound. 
+We use the validation set to search for $\theta$. The upper bound BLEU is set to be 40.13 empirically as the oracle upper bound. 
 We then vary the value of $\delta$ from 90\% to 100\%, and sweep values of $\theta$ by incrementing it in step sizes of 0.01.
-We report results on based on a five-fold cross validation, rotating the training, validation and test sets.
+We report results based on a five-fold cross validation, rotating the training, validation and test sets.
 
 \subsubsection{Baseline and upper bound} 
 The baseline selection method of randomly picking one translation for each source sentence achieves a BLEU score of 29.56. To establish an upper bound on translation quality, we perform an oracle experiment selects best translation for each source segment.  It reaches a BLEU score of 40.13.
@@ -311,7 +315,7 @@ where $T_{w} $ is the set of translations completed by the worker $w$.
 
 \subsection{Experiments}
 
-After we rank workers, we keep top-ranked workers and select the best translation only from their translations. For both ranking approaches, we vary the number of good worker that we retain. 
+After we rank workers, we keep top-ranked workers and select the best translation only from their translations. For both ranking approaches, we vary the number of good workers that we retain. 
 
 We report ranking's correlation to gold standard ranking and translation quality. Since the top worker threshold is varied and we change the value of k in first k sentence ranking, we have a different test set in different settings. Each test set exclude any item that was used to rank the workers, or which did not have any translations from the top workers according to our rankings. 
 
@@ -369,7 +373,7 @@ Table \ref{lrresult} shows that the model trained on all features achieves a ver
 
 
 
-Figure \ref{modelrank} presents a visualization of the gold ranking and model ranking. The workers who produce the largest number of translations (large bubbles in the future) are ranked extremely well.
+Figure \ref{modelrank} presents a visualization of the gold ranking and model ranking. The workers who produce the largest number of translations (large bubbles in the figure) are ranked extremely well.
 
 
 \subsection{Filtering out bad workers}
@@ -449,7 +453,7 @@ Top & \multicolumn{4}{c}{BLEU}&\\
  We have introduced several ways of significantly lowering the costs associated with crowdsourcing translations when a large amount of data are solicited (on the order of millions of samples):
 \begin{itemize}
 \item We show that after we have collected one translation of a source sentence, we can consult a model that predicts whether its quality is sufficiently high or whether we should pay to have the sentence re-translated.  The cost savings for non-professionals here comes from reducing the number of redundant translations. We can save half of the cost associated with non-professional translations to get 95\% of the translation quality using the full set of redundant translations.
-\item We show that we can quickly identify bad translators, either with a model designed to rank them, or by ranking them by having them first translate a small number of sentences with gold standard translations. The cost savings for non-professionals here comes from not hiring bad workers. Similarly, we reduce the non-professional translation cost to the half of the original cost.
+\item We show that we can quickly identify bad translators, either by having them first translate a small number of sentences to be tested against professional translations, or by estimating their performance using a feature-based linear regression model. The cost savings for non-professionals here comes from not hiring bad workers. Similarly, we reduce the non-professional translation cost to the half of the original cost.
 
 \item In both cases we need some amount of professionally translated materials  to use as a gold standard for calibration. Although the unit cost for each reference is much higher than the unit cost for each non-professional translation, the cost associated with non-professional translations can dominate the total cost since the large amount of data need to be collected. Thus, we focus on reducing cost associated with non-professional translations. 
 %The cost savings for professionals come from reducing the referencing translations to calibrate each data sample. 

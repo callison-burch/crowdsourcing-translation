@@ -21,7 +21,7 @@ Chris Callison-Burch and Mark Dredze.
 Christopher~H Lin, Mausam, and Daniel~S Weld.
 \newblock 2014.
 \newblock To re (label), or not to re (label).
-\newblock In {\em Proceedings of the 2014 AAAI Conference on Human Computation
+\newblock In {\em Proceedings of the 2nd AAAI Conference on Human Computation
   and Crowdsourcing}. Association for the Advancement of Artificial
   Intelligence (AAAI).
 
@@ -33,14 +33,6 @@ Scott Novotney and Chris Callison-Burch.
 \newblock In {\em Human Language Technologies: The 2010 Annual Conference of
   the North American Chapter of the Association for Computational Linguistics},
   pages 207--215. Association for Computational Linguistics.
-
-\bibitem[\protect\citename{Och}2003]{och2003minimum}
-Franz~Josef Och.
-\newblock 2003.
-\newblock Minimum error rate training in statistical machine translation.
-\newblock In {\em Proceedings of the 41st Annual Meeting on Association for
-  Computational Linguistics-Volume 1}, pages 160--167. Association for
-  Computational Linguistics.
 
 \bibitem[\protect\citename{Papineni \bgroup et al.\egroup
   }2002]{papineni2002bleu}
@@ -67,6 +59,14 @@ Matt Post, Chris Callison-Burch, and Miles Osborne.
   crowdsourcing.
 \newblock In {\em Proceedings of the Seventh Workshop on Statistical Machine
   Translation}, pages 401--409. Association for Computational Linguistics.
+
+\bibitem[\protect\citename{Pozzi \bgroup et al.\egroup
+  }2012]{pozzi2012exponential}
+F~Pozzi, T~Di~Matteo, and T~Aste.
+\newblock 2012.
+\newblock Exponential smoothing weighted correlations.
+\newblock {\em The European Physical Journal B-Condensed Matter and Complex
+  Systems}, 85(6):1--21.
 
 \bibitem[\protect\citename{Sheng \bgroup et al.\egroup }2008]{sheng2008get}
 Victor~S Sheng, Foster Provost, and Panagiotis~G Ipeirotis.
