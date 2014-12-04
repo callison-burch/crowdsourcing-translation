@@ -76,7 +76,7 @@ Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011
  \begin{itemize}
  \item Our model can predict whether a given translation is acceptable with high accuracy, substantially reducing the number of redundant translations needed for every source segment.
  \item Translators can be ranked by their quality with high correlation against a gold standard ranking, using linear regression and a variety of features, or initially testing them using a small amount of calibration data with known professional translations.
- \item This ranking can be established after observing very small amounts of data (reaching $\rho$ of 0.91 after seeing the translations of only 20 sentences from each worker). Therefore, bad workers can be filtered out quickly.
+ \item This ranking can be established after observing very small amounts of data (reaching $\rho$ of 0.94 after seeing the translations of only 20 sentences from each worker). Therefore, bad workers can be filtered out quickly.
  
  \item We can achieve a similar BLEU score as \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} at half the cost using our cost optimizing methods.
  % and at 60\% of the non-professional translations' cost using model selection method.  
@@ -234,7 +234,7 @@ Figure \ref{fworkerperf} illustrates the consistency of workers' quality by plot
  \centering
   \includegraphics[width=2.8in]{AllFeatureWithCali/2hitranking.pdf}
    \caption{Correlation between gold standard ranking and ranking computed using the first 20 sentences as calibration. Each bubble represents a worker. The radius of each bubble shows the relative volume of translations completed by the worker. 
-The  weighted correlation is 0.91.  }
+The  weighted correlation is 0.94.  }
 \label{first2hitrank}
 \end{minipage}
 \hfill
@@ -254,7 +254,7 @@ The corresponding weighted correlation is 0.95.}
   \centering
   \includegraphics[width=\linewidth]{AllFeatureWithCali/2hitranking.pdf}
   \caption{Correlation between gold standard ranking and ranking computed using the first 20 sentences as calibration. Each bubble represents a worker. The radius of each bubble shows the relative volume of translations completed by the worker. 
-The  weighted correlation is 0.91.  }
+The  weighted correlation is 0.94.  }
     \label{first2hitrank}
 \end{figure}
 %
@@ -323,7 +323,7 @@ In addition to evaluating the correlation of our different ways of ranking trans
 We evaluate ranking quality using the weighted Pearson correlation ($\rho$) compared with the gold standard ranking of workers. 
 To establish the gold standard ranking, we score each Turker based on the average BLEU score of all his or her translations against professional references.
 
-We use the ranking by the MERT model developed by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} as baseline. It achieves a correlation of 0.74 against the gold standard ranking. 
+We use the ranking by the MERT model developed by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} as baseline. It achieves a correlation of 0.73 against the gold standard ranking. 
 
 
 % in gold standard ranking, and the BLEU score achieved is denoted as $B_{gold}$.
@@ -385,21 +385,21 @@ Ranking translators would allow us to reduce costs, by only re-hiring top worker
 \multicolumn{2}{c|}{\begin{tabular}[c]{@{}c@{}}Proportion of \\ Calibration Data\end{tabular}} & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}$\rho$\end{tabular}}\\ \cline{1-2}
 % & \multirow{2}{*}{\begin{tabular}[c]{@{}c@{}}$\rho^{*}$\end{tabular}} \\ \cline{1-2}
 First k sentences                                 & Percentage                                 &                                                                                                                                          \\ \hhline{===}
-1                                                 & 0.7\%                                      & 0.32                                                                                                                           \\
-2                                                 & 1.3\%                                      & 0.36                                                                                                                                  \\
-3                                                 & 2.0\%                                      & 0.35                                                                                                                                     \\
-4                                                 & 2.7\%                                      & 0.59                                                                                                                                   \\
-5                                                 & 3.3\%                                      & 0.70                                                                                                                                    \\
+1                                                 & 0.7\%                                      & 0.21 \\
+2                                                 & 1.3\%                                      & 0.38 \\
+3                                                 & 2.0\%                                      & 0.41 \\
+4                                                 & 2.7\%                                      &  0.56\\
+5                                                 & 3.3\%                                      & 0.70                                                                                                                            \\
 %6                                                 & 4.0\%                                      & 0.75                                                                                                                                 \\
 %7                                                 & 4.7\%                                      & 0.76                                                                                                                                    \\
 %8                                                 & 5.3\%                                      & 0.73                                                                                                                                    \\
 %9                                                 & 6.0\%                                      & 0.78                                                                                                                                  \\
-10                                                & 6.6\%                                      & 0.78                                                                                                                                    \\
-20                                                & 13.3\%                                     & 0.91                                                                                                                                   \\
-30                                                & 19.9\%                                     & 0.95                                                                                                                                 \\
-40                                                & 26.6\%                                     & 0.97                                                                                                                                 \\
+10                                                & 6.6\%                                      & 0.81                                                                                                                                    \\
+20                                                & 13.3\%                                     & 0.94 \\
+30                                                & 19.9\%                                     & 0.96 \\
+40                                                & 26.6\%                                     & 0.98 \\
 50                                                & 33.2\%                                     & 0.98                                                                                                                                   \\ 
-60                                                & 39.8\%                                     & 0.99                                                                                                                                    \\ \hline
+60                                                & 39.8\%                                     & 0.98 \\ \hline
 \end{tabular}
 \end{center}
 \caption{\label{spearmansen} Pearson Correlations for calibration data in different proportion. 
@@ -413,13 +413,13 @@ First k sentences                                 & Percentage                  
 \hline
  & & \multicolumn{2}{c}{BLEU}\\
 Feature Set             & $\rho$  & rank & score    \\ \hhline{====}
-(S)entence features     & 0.84 & 36.66 &37.84 \\
-(W)orker features       & 0.80 & 36.92 &36.92 \\
+(S)entence features     & 0.80 & 36.66 &37.84 \\
+(W)orker features       & 0.78 & 36.92 &36.92 \\
 (R)anking features      & 0.81 & 36.94 &35.69\\
 Calibration features  & 0.93 & 38.27 &38.27\\
 %Calibration features* & \textbf{0.68} & \textbf{37.22} \\
-S+W+R features          & 0.88 & 37.39 & 38.69\\
-S+W+R+Bilingual features        & 0.89 & 37.59 &39.23 \\
+S+W+R features          & 0.86 & 37.39 & 38.69\\
+S+W+R+Bilingual features        & 0.88 & 37.59 &39.23 \\
 All features            & \textbf{0.95} & \textbf{38.37} & \textbf{39.80}\\ \hline
 %All features*            & \textbf{0.71} & \textbf{37.52} \\ \hline
 \end{tabular}
@@ -480,7 +480,7 @@ Top & \multicolumn{4}{c}{BLEU}&\\
 \section{Related Work}
 %Crowdsoucing has been widely used in data annotation or labeling to get a large amount of data at low cost. The relationship between the budget and the quality was discussed in previous work.
 
-\newcite{sheng2008get}'s work on repeated labeling presents a way of solving the problems of uncertainty in labeling. Since we cannot always get high-quality labeled data samples with relatively low costs in reality, to keep the model trained on noisy labeled data having a high accuracy in predicting, \newcite{sheng2008get} proposed a framework for repeated-labeling that resolves the uncertainty in labeling via majority voting. The experimental results show that a model's predicting accuracy is improved even if labels in its training data are nosity and of imperfect quality.  As long as the integrated quality (the probability of the integrated labeling being correct) is higher than 0.5, repeated labeling benefits model training. 
+\newcite{sheng2008get}'s work on repeated labeling presents a way of solving the problems of uncertainty in labeling. Since we cannot always get high-quality labeled data samples with relatively low costs in reality, to keep the model trained on noisy labeled data having a high accuracy in predicting, \newcite{sheng2008get} proposed a framework for repeated-labeling that resolves the uncertainty in labeling via majority voting. The experimental results show that a model's predicting accuracy is improved even if labels in its training data are noisy and of imperfect quality.  As long as the integrated quality (the probability of the integrated labeling being correct) is higher than 0.5, repeated labeling benefits model training. 
 
 \newcite{passonneau2013benefits} created a Bayesian model of annotation and they applied to the problem of word sense annotation. \newcite{passonneau2013benefits} also proposed an approach to detect and avoid spam workers. 
 They measured the performance of worker by comparing worker's labels to the current majority labels and worker with bad performance would be blocked. However, this approach suffered from 2 shortcomings: 1) sometimes majority labels may not reflect the ground truth label; 2) they didn't figure out  how much data(HITs) is needed to evaluate a worker's performance. Although they could find the spam after the fact, it was a post-hoc analysis, so they had already paid for that worker and wasted the money.
