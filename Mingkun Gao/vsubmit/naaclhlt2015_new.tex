@@ -168,7 +168,7 @@ For a new translation, our model scores it, and if its score is higher than $\th
  \center
 \begin{tabular}{c|c|c}
 \hline
-$\delta$(\%) & BLEU Score & \# of Trans. \\ \hhline{===}
+$\delta$(\%) & BLEU Score & \# Trans. \\ \hhline{===}
 90    & 36.26      & 1.63            \\
 91    & 36.66      & 1.69             \\
 92    & 36.93      & 1.78             \\
@@ -181,7 +181,7 @@ $\delta$(\%) & BLEU Score & \# of Trans. \\ \hhline{===}
 99    & 38.95      & 2.78             \\
 100   & 39.54      & 3.18             \\ \hline
 \end{tabular}
-\caption{The relation among the $\delta$ (the allowable deviation from the expected upper bound on BLEU score),the BLEU score for translations selected by models from partial sets and the averaged size of translation candidates set for each source sentence (\textit{\# of Trans}).  }
+\caption{The relation among the $\delta$ (the allowable deviation from the expected upper bound on BLEU score),the BLEU score for translations selected by models from partial sets and the averaged size of translation candidates set for each source sentence (\textit{\# Trans}).  }
     \label{orderanother}
 \end{table}
 
@@ -353,16 +353,20 @@ The corresponding weighted correlation is 0.95.}
 
 
 \subsubsection{Ranking workers using a model}
-We train a linear regression model on 10\% data to rank workers, select best translation by workers' ranking and evaluate the translation quality. In addition, we select the best translation among all candidates by their model predicted translation scores and evaluate the quality. 
-Table \ref{lrresult} shows that 1) if we select translation by the model trained on all features, we can  achieve a BLEU score of 39.80, 2) if we rank workers by the model, the highest correlation we achieve is 0.95, which is almost a perfect match with gold ranking and 3) if we select translation by workers' ranking, we can  achieve a BLEU score of 38.37.
+We train a linear regression model on 10\% of the data to rank workers.  We use the model to select the best translation in one of two ways:
+\begin{itemize}
+\item By using the model's prediction of workers' rank, and selecting the translation from the best worker.  
+\item By using the model's score for each translation and selecting the highest scoring translation of each source sentence. 
+\end{itemize}
 
-Figure \ref{modelrank} shows the high correlation between gold ranking and model ranking if all features are used in model tuning. Workers with high volumes of submissions are ranked extremely well.
+Table \ref{lrresult} shows that the model trained on all features achieves a very high correlation with the gold standard ranking (Spearman's $\rho$ = 0.95), and a  BLEU score of 39.80.
 
 \begin{table}[htbp]
  \center
 \begin{tabular}{c|c|cc}
 \hline
-Feature Set             & $\rho$  & $B_r$ & $B_m$    \\ \hhline{====}
+ & & \multicolumn{2}{c}{BLEU}\\
+Feature Set             & $\rho$  & rank & score    \\ \hhline{====}
 (S)entence features     & 0.84 & 36.66 &37.84 \\
 (W)orker features       & 0.80 & 36.92 &36.92 \\
 (R)anking features      & 0.81 & 36.94 &35.69\\
@@ -373,22 +377,31 @@ S+W+R+Bilingual features        & 0.89 & 37.59 &39.23 \\
 All features            & \textbf{0.95} & \textbf{38.37} & \textbf{39.80}\\ \hline
 %All features*            & \textbf{0.71} & \textbf{37.52} \\ \hline
 \end{tabular}
-\caption{\label{lrresult} Spearman's correlation($\rho$) and translation quality of selecting best translations based on model-predicted workers' ranking ($B_r$) and model predicted translations' scores ($B_m$) for different feature sets. We don't filter out bad workers when selecting the best translation.}
+\caption{\label{lrresult} Correlation ($\rho$) and translation quality for the various features used by our model.  Translation quality is computed by selecting best translations based on model-predicted workers' ranking (rank) and model predicted translations' scores (score). Here we do not filter out bad workers when selecting the best translation.}
 \end{table}
-To reduce costs, we only keep hiring top workers and select the best translations based on their ranking. As comparison, we select the best translation using gold ranking. Table \ref{modeltoprank} shows the comparisons when we vary the top percentage of workers we keep hiring and the corresponding average number of non-professional translations needed for each source sentence. Comparing with selecting translations based on gold ranking, we achieve a similar BLEU score with lost of 0.55 when we filter out 75\% worker in tail and we only need to solicit two translations for each source sentence on average.
+
+
+
+Figure \ref{modelrank} presents a visualization of the gold ranking and model ranking. The workers who produce the largest number of translations (large bubbles in the future) are ranked extremely well.
+
+\subsection{Filtering out bad workers}
+
+Ranking translators would allow us to reduce costs, by only re-hiring top workers.
+ Table \ref{modeltoprank} shows what happens when we vary the top percentage of workers we retain.  In general, the model does a good job of picking the best translations from the remaining good translators.  Comparing against knowing the gold ranking, the model loses only 0.55 BLEU when we filter out 75\% of the workers.  In this case we only need to solicit two translations for each source sentence on average.
 
 
 \begin{table}[htbp]
 \center
 \begin{tabular}{c|ccccc}
 \hline
-Top(\%) &$B_{r}$& $B_{t}$ & $B_{gold}$ & $\Delta$ & \# of Trans\\\hhline{======}
+ & \multicolumn{4}{c}{BLEU}&\\
+Top(\%) &random & model & gold & $\Delta$ & \# Trans\\\hhline{======}
 25      &29.85& 38.53   & 39.08      & 0.55   & 1.95         \\
 50      &29.80& 38.40   & 39.00      & 0.60   & 2.73         \\
 75      &29.76& 38.37   & 38.98      & 0.61   & 3.48         \\
 100     &29.83& 38.37   & 38.99      & 0.62   & 4.00         \\ \hline
 \end{tabular}
-\caption{\label{modeltoprank}The comparison between translation quality of selecting translations based on model ranking ($B_{t}$) and gold ranking ($B_{gold}$) when we keep hiring different percentages of top workers. $\Delta$ is the different between $B_{gold}$ and $B_t$. \# of Trans is the average number of non-professional translations needed for each source sentence. $B_r$ is the BLEU score for random selection.
+\caption{\label{modeltoprank} A comparison of the translation quality when we retain the top translators under different rankings.  The rankings show are random, the model's ranking (using the full features from Figure \ref{lrresult}) and the gold ranking.  $\Delta$ is the different between the BLEU scores for the gold ranking and the model ranking. \# Trans is the average number of translations needed for each source sentence. 
 }
 \end{table} 
 
