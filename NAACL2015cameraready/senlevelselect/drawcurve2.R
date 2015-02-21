@@ -1,0 +1,32 @@
+pdf("curve2.pdf",width=7,height=7,encoding = 'default')
+library('scales')
+library(gplots)
+#palette( rev(rich.colors(32)))
+palette(rev(rich.colors(32)))
+newWords <- read.table("./firstksentence.txt", header = FALSE)
+
+x <- as.vector(t(newWords[1]))
+y <- as.vector(t(newWords[11]))
+z <- as.vector(t(newWords[12]))
+w <- as.vector(t(newWords[13]))
+#u <- as.vector(t(newWords[:,5]))
+
+plot(NULL,NULL, main=NULL, sub=NULL,
+xlab="First K-Sentences ", ylab=" Difference in BLEU",
+xlim=c(0, 60)
+,ylim=c(-1,10),xaxt = 'n',yaxt='n'
+)
+axis(1,at = seq(0, 60, by = 10), las=1,tck = 0.01,cex.axis = 1)
+axis(2,at = seq(0, 40, by = 5), las=1,tck = 0.01,cex.axis = 1)
+grid(nx = NA,ny = NULL,lty = 1)
+
+
+
+    print (length(y))
+lines(x, z, type=c('o'),col = 18,cex = 2,pch = '*')
+lines(x, y, type=c('o'),col = 1,cex = 2,pch = '*')
+lines(x, w, type=c('o'),col = 29,cex = 2,pch = '*')
+legend("topright",
+c("Partial Ranking BLEU - Random Selection BLEU", "Gold Ranking BLEU - Random Selection BLEU",
+"Gold Ranking BLEU - Partial Ranking BLEU"),cex = 0.65,col = c(1, 18,29),lty= (1),pch = '*',bg = 'white')
+dev.off()
