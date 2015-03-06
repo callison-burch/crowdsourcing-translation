@@ -97,11 +97,11 @@ We study the data collected by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} 
 They hired Turkers to translate 1792 Urdu sentences 
 from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 52 Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional translators (the Turkers) and 4 professional translators hired by the LDC. The cost of non-professional translation is  \$0.10 per sentence and the cost of professional translation is approximately \$0.30 per word (or \$6 per sentence, since they are 20 words long on average). 
 
-Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  By comparison, the Turker translations score only 28.13 on average. Zaidan and Callison-Burch trained a MERT model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 39.06, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
+Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  By comparison, the Turker translations score only 28.13 on average. Zaidan and Callison-Burch trained a MERT \cite{och2003minimum} \cite{Zaidan09zmert} model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 39.06, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
 
 Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  This plays a role if we would like to assemble a large enough parallel corpus (on the order of millions of sentence translations) to train a statistical machine translation system. 
 % \cite{ambati2010can,post2012constructing,zbib2012machine,zbib2013systematic}
-Here, we introduce several methods for reduce the number of non-professional translations  while still maintaining high quality. 
+Here, we introduce several methods for reducing the number of non-professional translations  while still maintaining high quality. 
 \section{Estimating Translation Quality}
 We use a linear regression model\footnote{We used WEKA package: \url{http://www.cs.waikato.ac.nz/ml/weka/}} to predict a quality score ($ score(t) \in R$) for an input translation $t$.
 %\begin{align*}
@@ -135,7 +135,7 @@ We additionally introduce a new bilingual feature based on IBM Model 1. We align
 
 \begin{algorithm}[h!]
 \caption{}\label{modelselection}
-\textbf{Input}: $\delta$, the allowable deviation from the expected upper bound on BLEU score (using all redundant translations); $\alpha$, the upper bound BLEU score; a training set $S = \{\vec f^{s}_{i,j},y^{s}_{i,j})_{i=1..n}^{j=1..4}\}$ and a validation set $V = \{(\vec f^{v}_{i,j},y^{v}_{i,j})_{i=1..n}^{j=1..4}\}$ where $\vec f_{i,j}$ is the feature vector for $t_{i,j}$ which is the $jth$ translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $\vec f_{i,j}$.\\
+\textbf{Input}: $\delta$, the allowable deviation from the expected upper bound on BLEU score (using all redundant translations); $\alpha$, the upper bound BLEU score; a training set $S = \{\vec f^{s}_{i,j},y^{s}_{i,j})_{i=1..n}^{j=1..m}\}$ and a validation set $V = \{(\vec f^{v}_{i,j},y^{v}_{i,j})_{i=1..n}^{j=1..m}\}$ where $\vec f_{i,j}$ is the feature vector for $t_{i,j}$ which is the $jth$ translation of the source sentence $s_{i}$ and $y_{i,j}$ is the label for $\vec f_{i,j}$.\\
 \textbf{Output}: $\theta$, the threshold between acceptable and unacceptable translations; $\vec{w}$, a linear regression model parameter. 
 \begin{algorithmic}[1]
 \State \textbf{initialize} $\theta \leftarrow 0$,$\vec{w}\leftarrow \emptyset$ 
@@ -143,11 +143,11 @@ We additionally introduce a new bilingual feature based on IBM Model 1. We align
 \State $maxbleu \leftarrow$ select best translations for each $s_i \in S$ based on the model parameter $\vec{w'}$ and record the highest model predicted BLEU score
 \While {$\theta \neq maxbleu $} 
 \For {$i \leftarrow 1$ to $n$}
-\For {$j \leftarrow 1$ to $4$}
-\If {$\vec{w'}\cdot \vec f^v_{i,j} > \theta \wedge j < 4 $}
+\For {$j \leftarrow 1$ to $m$}
+\If {$\vec{w'}\cdot \vec f^v_{i,j} > \theta \wedge j < m $}
              select $t^{v}_{i,j}$ for $s_i$ and \textbf{break}
 \EndIf
-\If {$ j == 4 $} select $t^{v}_{i,j}$ for $s_i$
+\If {$ j == m $} select $t^{v}_{i,m}$ for $s_i$
 \EndIf
 \EndFor
 \EndFor
@@ -197,13 +197,12 @@ $\delta$(\%) & BLEU Score & \# Trans. \\ \hhline{===}
 
 
 \subsection{Experiment}
- We divide data into a training set (10\%), a validation set (10\%) and a test set (80\%). 
-We use the validation set to search for $\theta$. The upper bound BLEU is set to be 40.13 empirically as the oracle upper bound. 
+ We divide data into a training set (10\%), a validation set (10\%) and a test set (80\%). Each source sentence has four translations totally. We use the validation set to search for $\theta$.  The upper bound BLEU is set to be 40.13 empirically as the oracle upper bound. 
 We then vary the value of $\delta$ from 90\% to 100\%, and sweep values of $\theta$ by incrementing it in step sizes of 0.01.
 We report results based on a five-fold cross validation, rotating the training, validation and test sets.
 
 \subsubsection{Baseline and upper bound} 
-The baseline selection method of randomly picking one translation for each source sentence achieves a BLEU score of 29.56. To establish an upper bound on translation quality, we perform an oracle experiment selects best translation for each source segment.  It reaches a BLEU score of 40.13.
+The baseline selection method of randomly picking one translation for each source sentence achieves a BLEU score of 29.56. To establish an upper bound on translation quality, we perform an oracle experiment to select best translation for each source segment from full sets of candidates.  It reaches a BLEU score of 40.13.
 
 \subsubsection{Translation reducing method} 
 
@@ -213,7 +212,7 @@ Table \ref{orderanother} shows the results for translation reducing method.  The
 \begin{figure}
   \centering
   \includegraphics[width=\linewidth]{WorkerPerf/wp.pdf}
-  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted with the best translator at the top of the y-axis. Each tick represent a single translation and dark color means better than average quality.
+  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted with the best translator at the top of the y-axis. Each tick represent a single translation and black color means better than average quality.
 }
     \label{fworkerperf}
 \end{figure}
@@ -230,7 +229,7 @@ Before presenting our method, we first demonstrate that Turkers produce consiste
 
 Do Turkers produce good (or bad) translations consistently or not? Are some Turkers  consistent and others not? We used the professional translations as a gold-standard to analyze the individual Turkers, and we found that most Turkers' performance stayed surprisingly consistent over time. 
 
-Figure \ref{fworkerperf} illustrates the consistency of workers' quality by plotting quality of their individual translations on a timeline. The translation quality is computed based on the BLEU against professional translations. Each tick represent a single translation and depicts the BLEU score using two colors. The tick is black if its BLEU score is higher than the median and it is light grey otherwise. Good translators tend to produce consistently good translations and bad workers rarely produce good translations.
+Figure \ref{fworkerperf} illustrates the consistency of workers' quality by plotting quality of their individual translations on a timeline. The translation quality is computed based on the BLEU against professional translations. Each tick represent a single translation and depicts the BLEU score using two colors. The tick is black if its BLEU score is higher than the median and it is red otherwise. Good translators tend to produce consistently good translations and bad workers rarely produce good translations.
 
 
 
@@ -447,7 +446,7 @@ Top & \multicolumn{4}{c}{BLEU}&\\
 75      &29.76& 38.37   & 38.98      & 0.61   & 3.48         \\
 100     &29.83& 38.37   & 38.99      & 0.62   & 4.00         \\ \hline
 \end{tabular}
-\caption{\label{modeltoprank} A comparison of the translation quality when we retain the top translators under different rankings.  The rankings show are random, the model's ranking (using all features from Table \ref{lrresult}) and the gold ranking.  $\Delta$ is the different between the BLEU scores for the gold ranking and the model ranking. \# Trans is the average number of translations needed for each source sentence. 
+\caption{\label{modeltoprank} A comparison of the translation quality when we retain the top translators under different rankings.  The rankings shown are random, the model's ranking (using all features from Table \ref{lrresult}) and the gold ranking.  $\Delta$ is the different between the BLEU scores for the gold ranking and the model ranking. \# Trans is the average number of translations needed for each source sentence. 
 }
 \end{table} 
 
@@ -488,12 +487,14 @@ Top & \multicolumn{4}{c}{BLEU}&\\
 \section{Related Work}
 %Crowdsoucing has been widely used in data annotation or labeling to get a large amount of data at low cost. The relationship between the budget and the quality was discussed in previous work.
 
-\newcite{sheng2008get}'s work on repeated labeling presents a way of solving the problems of uncertainty in labeling. Since we cannot always get high-quality labeled data samples with relatively low costs in reality, to keep the model trained on noisy labeled data having a high accuracy in predicting, \newcite{sheng2008get} proposed a framework for repeated-labeling that resolves the uncertainty in labeling via majority voting. The experimental results show that a model's predicting accuracy is improved even if labels in its training data are noisy and of imperfect quality.  As long as the integrated quality (the probability of the integrated labeling being correct) is higher than 0.5, repeated labeling benefits model training. 
+\newcite{sheng2008get}'s work on repeated labeling presents a way of solving the problems of uncertainty in labeling. Since we cannot always get high-quality labeled data samples with relatively low costs, to keep the model trained on noisy labeled data having a high accuracy in predicting, \newcite{sheng2008get} proposed a framework for repeated-labeling that resolves the uncertainty in labeling via majority voting. The experimental results show that a model's predicting accuracy is improved even if labels in its training data are noisy and imperfect.
+% and of imperfect quality.  
+As long as the integrated quality (the probability of the integrated labeling being correct) is higher than 0.5, repeated labeling benefits model training. 
 
 \newcite{passonneau2013benefits} created a Bayesian model of annotation and they applied to the problem of word sense annotation. \newcite{passonneau2013benefits} also proposed an approach to detect and avoid spam workers. 
-They measured the performance of worker by comparing worker's labels to the current majority labels and worker with bad performance would be blocked. However, this approach suffered from 2 shortcomings: 1) sometimes majority labels may not reflect the ground truth label; 2) they didn't figure out  how much data(HITs) is needed to evaluate a worker's performance. Although they could find the spam after the fact, it was a post-hoc analysis, so they had already paid for that worker and wasted the money.
+They measured the performance of worker by comparing worker's labels to the current majority labels and worker with bad performance would be blocked. However, this approach may suffer from two shortcomings: 1) sometimes majority labels may not reflect the ground truth label; 2) they didn't figure out  how much data (HITs) is needed to evaluate a worker's performance. Although they could find the spam after the fact, it might be a post-hoc analysis, so they might have already wasted the money to pay for a spam worker who should have been detected earlier.
 
-\newcite{lin2014re} examined the relationship between worker accuracy and budget in the context of using crowdsourcing to train a machine learning classifier.  They show that if the goal is to train a classifier on the labels, that the properties of the classifier will determine whether it is better to re-label data (resulting in higher quality labels) or get more single labeled items (of lower quality). They showed that classifiers with weak inductive bias  benefit more from relabeling, and that relabeling is more important when worker accuracy is low (barely higher than 0.5). 
+\newcite{lin2014re} examined the relationship between worker accuracy and budget in the context of using crowdsourcing to train a machine learning classifier.  They show that if the goal is to train a classifier on the labels, that the properties of the classifier will determine whether it is better to re-label data (resulting in higher quality labels) or get more single labeled items (of lower quality). They showed that classifiers with weak inductive bias  benefit more from relabeling, and that relabeling is more important when worker accuracy is low. %(barely higher than 0.5). 
 
 \newcite{novotney2010cheap} showed a similar result for training an automatic speech recognition (ASR) system.  When creating training data for an ASR system, given a fixed budget. Their system's accuracy was higher when it is trained on more low quality transcription data compared to when it was trained on fewer high quality transcriptions.
 
@@ -505,6 +506,9 @@ This model is most effective when reasonable amounts of pre-existing professiona
 The translator reducing method is very simple and easy to implement. This approach is inspired by the intuition that workers' performance is consistent. The translator reducing method is suitable for crowdsourcing tasks which do not have specific requirements about the quality of the translations, 
 or when only very limited amounts of gold standard data are available.
 
+\section*{Acknowledgements}
+
+This material is based on research sponsored by a DARPA Computer Science Study Panel phase 3 award entitled ``Crowdsourcing Translation'' (contract D12PC00368). The views and conclusions contained in this publication are those of the authors and should not be interpreted as representing official policies or endorsements by DARPA or the U.S. Government. This research was supported by the Johns Hopkins University Human Language Technology Center of Excellence and through gifts from Microsoft, Google and Facebook.
 
  \bibliographystyle{naaclhlt2015}
 \bibliography{naaclhlt2015_new}
