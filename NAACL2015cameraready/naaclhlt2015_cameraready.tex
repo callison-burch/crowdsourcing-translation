@@ -315,7 +315,7 @@ where $T_{w} $ is the set of translations completed by the worker $w$ and  $scor
 
 After we rank workers, we keep top-ranked workers and select the best translation only from their translations. For both ranking approaches, we vary the number of good workers that we retain. 
 
-We report both rankings' correlation with the gold standard ranking. Since the top worker threshold is varied and since we change the value of k in first k sentence ranking, we have a different test set in different settings. Each test set excludes any items which were used to rank the workers, or which did not have any translations from the top workers according to our rankings. 
+We report both rankings' correlation with the gold standard ranking. Since the top worker threshold is varied and since we change the value of $k$ in first $k$ sentence ranking, we have a different test set in different settings. Each test set excludes any items which were used to rank the workers, or which did not have any translations from the top workers according to our rankings. 
 %In addition to evaluating the correlation of our different ways of ranking translators, 
 We also compute the translation quality when selecting the translation provided by the worker with best rank.
 
@@ -333,7 +333,7 @@ We use the ranking by the MERT model developed by \newcite{zaidan-callisonburch:
 
 
 \subsubsection{Ranking workers using their first $k$ translations}
- Without using any model, we rank workers using their first k translations. We select best translation of each source sentence from the top ranked worker who translated that sentence. To evaluate this method, we calculate the weighted correlation for our rankings against gold ranking. 
+ Without using any model, we rank workers using their first $k$ translations. We select best translation of each source sentence from the top ranked worker who translated that sentence. To evaluate this method, we calculate the weighted correlation for our rankings against gold ranking. 
  %we created several test sets.  Each test set excluded any item that was used to rank the workers, or which did not have any translations from the top 25\% of workers according to our predicted rankings.  We therefore have \emph{different test sets} for each value of k.  This makes the results slightly more difficult to analyze than in normal experiments, although the trends are still clear.
 %Formally, we define the test set for first k sentences as $T_k$ and for each source sentence $s \in T_k$:
 %\begin{align*}
@@ -341,7 +341,7 @@ We use the ranking by the MERT model developed by \newcite{zaidan-callisonburch:
 %\end{align*}
 %where $C(s)$ is the translating candidates set of the source sentence $s$, $S_k$ is the translation set consists of each worker's first k translations and $S_w$ is the translation set consists of translations provided by selected workers (some top ranking workers). 
 
-Table \ref{spearmansen} shows the results of Pearson correlations for different value of $k$. As $k$ increases, our rankings fit to the gold ranking better. Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first k sentences ($k\le20$) provided by each worker. Figure \ref{first2hitrank} shows the correlation of gold ranking and first 20 sentences ranking. 
+Table \ref{spearmansen} shows the results of Pearson correlations for different value of $k$. As $k$ increases, our rankings fit to the gold ranking better. Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first $k$ sentences ($k\le20$) provided by each worker. Figure \ref{first2hitrank} shows the correlation of gold ranking and first 20 sentences ranking. 
 
 %Table \ref{first20toprank} shows similar results as Table \ref{modeltoprank}. We can achieve a translation quality close to that of gold ranking selection with only soliciting half of non-professional translations if we keep hiring top 25\% workers after seeing 20 translations submitted from each of them.
 %\begin{table}
@@ -443,7 +443,7 @@ Top & \multicolumn{4}{c}{BLEU}&\\
 75      &29.76& 38.37   & 38.98      & 0.61   & 3.48         \\
 100     &29.83& 38.37   & 38.99      & 0.62   & 4.00         \\ \hline
 \end{tabular}
-\caption{\label{modeltoprank} A comparison of the translation quality when we retain the top translators under different rankings.  The rankings shown are random, the model's ranking (using all features from Table \ref{lrresult}) and the gold ranking.  $\Delta$ is the different between the BLEU scores for the gold ranking and the model ranking. \# Trans is the average number of translations needed for each source sentence. 
+\caption{\label{modeltoprank} A comparison of the translation quality when we retain the top translators under different rankings.  The rankings shown are random, the model's ranking (using all features from Table \ref{lrresult}) and the gold ranking.  $\Delta$ is the difference between the BLEU scores for the gold ranking and the model ranking. \# Trans is the average number of translations needed for each source sentence. 
 }
 \end{table} 
 
@@ -453,7 +453,7 @@ Top & \multicolumn{4}{c}{BLEU}&\\
  We have introduced several ways of significantly lowering the costs associated with crowdsourcing translations when a large amount of data are solicited (on the order of millions of samples):
 \begin{itemize}
 \setlength\itemsep{0em}
-\item We show that after we have collected one translation of a source sentence, we can consult a model that predicts whether its quality is sufficiently high or whether we should pay to have the sentence re-translated.  The cost savings for non-professionals here comes from reducing the number of redundant translations. We can save half of the cost associated with non-professional translations to get 95\% of the translation quality using the full set of redundant translations.
+\item We show that after we have collected one translation of a source sentence, we can consult a model that predicts whether its quality is sufficiently high or whether we should pay to have the sentence re-translated.  The cost savings for non-professionals here comes from reducing the number of redundant translations. We can save almost half of the cost associated with non-professional translations to get 95\% of the translation quality using the full set of redundant translations.
 \item We show that we can quickly identify bad translators, either by having them first translate a small number of sentences to be tested against professional translations, or by estimating their performance using a feature-based linear regression model. The cost savings for non-professionals here comes from not hiring bad workers. Similarly, we reduce the non-professional translation cost to the half of the original cost.
 
 \item In both cases we need some amount of professionally translated materials  to use as a gold standard for calibration. Although the unit cost for each reference is much higher than the unit cost for each non-professional translation, the cost associated with non-professional translations can dominate the total cost since the large amount of data need to be collected. Thus, we focus on reducing cost associated with non-professional translations. 
