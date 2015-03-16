@@ -1,0 +1,63 @@
+\onehalfspaced
+\setcounter{chapter}{0}
+\chapter{Introduction}
+
+As the globalizing process continues all over the world,  people's demand in automatically translate materials in other languages increases. This promoted the improvement in the quality of machine translation systems. Currently, machine translation is a technique widely used in people's daily life. However, to build a machine translation system, high quality parallel corpus is always necessary. For some popular languages, such as French or Spanish, there are plenty of parallel corpus with English which could be used for training a machine translation system. However, for some languages used only by a small amount of people, how to get high quality bilingual corpus is a big issue. Usually, we can hire professional translators or linguists to translate the source document in the target language to English and build the corpus. This can guarantee a good translating quality of the corpus. But there are two limitations for this approach: \\
+1. It's hard to get a large amount of language resources in this way for the lack of professional translators. \\
+2. The cost for hiring professional translators or linguists is very high, especially a large amount of resources need to be translated. 
+
+Crowdsourcing is a mechanism to collect data from a large amount of people at relatively low cost. The popularization of the Internet makes it possible to do crowdsourcing  tasks from online communities. In online crowdsourcing communities, anyone can be a worker as long as he or she has the access to the Internet. This good nature of crowdsourcing makes it a promising mechanism in Natural Language Processing (NLP). Many NLP researchers have started to create language resource data through crowdsourcing (for example,  \newcite{snow2008}, \newcite{callison-burch-dredze2010} and others). 
+
+Machine translation is a suitable field where crowdsourced data collection can be used in corpus construction since it needs a large volume of bilingual sentence-aligned parallel corpora. This thesis contains two aspects of crowdsoucing machine translation: quality control  \cite{zaidan-callisonburch:2011:ACL-HLT2011a} and cost optimization for crowdsourcing machine translation. 
+
+\section{Quality Control for Crowdsourcing Machine Translation}
+Crowdsourcing is a promising new mechanism to collect large volumes of annotated data. Platforms like Amazon Mechanical Turk (MTurk) provide researchers with access to large groups of people, who can complete `human intelligence tasks' that are beyond the scope of current artificial intelligence. Crowdsourcing's low cost has made it possible to hire large number of people online to collect language resource data in order to train machine translation systems (for example,   \newcite{zbib2013systematic},  \newcite{zbib2012machine},  \newcite{post2012constructing}, \newcite{ambati2010can}). However, there is a price for crowdsourcing's low cost. Crowdsourcing is different from traditional employing mode. There is no pre-test or interview before we hire a crowdsourcing worker online, which means we don't know the proficiency and working ability of the worker on the crowdsourcing platform. In our case for machine translation, there are no professional translators and there are no built in mechanism to test the ability of them. They work completely out of anyone's oversight. Thus,
+translations produced via crowdsourcing may be in low quality. Previous research work has solved this problem. \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} proposed a framework to improve the quality of crowdsourcing machine translation to a professional level. Instead of soliciting only one translation for each Urdu source sentence, they collected multiple translations as candidates for the corresponding source sentence in Urdu. Then, they extracted features and built the feature vector for each candidates. They used professional translations as calibration data to gold-standard label each training and testing sample in BLEU \cite{papineni2002bleu}. Finally, they trained a MERT \cite{och2003minimum,Zaidan09zmert} model to score each translation and selected the translation with the highest BLEU score. This framework lead to a corpus BLEU score comparable to the BLEU score of the professionally translated corpus.
+
+We extend their crowdsourcing translation framework using other models, such as linear regression model and decision tree model, and get similar result showing that the framework is effective to control the quality of bilingual parallel corpus built via crowdsourcing.
+ 
+\section{Cost Optimization for Crowdsourcing Machine Translation}
+Even though the cost for crowdsourcing is low, if we want to collect a huge corpus of non-professional translations, it still spends lots of money. For example, suppose we have a corpus constitutes of one million sentences, and the estimate cost for translating one source sentence is \$0.10, if we plan to solicit one set of non-professional translations, the total cost is \$100,000; and if we plan to solicit four sets of non-professional translations, the total cost increases to \$ 400,000. We explore the possibility and methods to achieve same high quality while minimizing the associated cost. 
+
+In \cite{zaidan-callisonburch:2011:ACL-HLT2011a}'s framework, multiple translations are solicited. Based on the intuition that good translation may arrive earlier and we don't have to collect all candidates for the source sentence, we design and implement a mechanism to  reduce the number of translations that we solicit for each source sentence. Instead of soliciting a fixed number of translations for each foreign sentence, we stop soliciting translations after we get an acceptable one.  We do so by building models to distinguish between acceptable translations and unacceptable ones. 
+
+In addition, we find that workers' performance is consistent over time. Thus, we can quickly identify spam workers only after soliciting their early submissions and filter them out as soon as possible. In this way, we save the cost by avoiding hiring spam workers.
+
+\section{Main Contribution}
+
+The main contribution of this thesis is that:
+ \begin{itemize}
+ \item We extend \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}'s quality control framework to other models.
+ 
+ \item Our model can predict whether a given translation is acceptable with high accuracy, substantially reducing the number of redundant translations needed for every source segment.
+ 
+\item Translators can be ranked well after observing only small amounts of data compared with the gold standard ranking (reaching a correlation of 0.94 after seeing the translations of only 20 sentences from each worker). Therefore, bad workers can be filtered out quickly. 
+ 
+ \item The translator ranking can also be obtained by using a linear regression model with a variety of features at a high correlation of 0.95 against the gold standard. 
+ 
+ 
+ \item We can achieve a similar BLEU score as \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} at half the cost using our cost optimizing methods.
+ % and at 60\% of the non-professional translations' cost using model selection method.  
+ \end{itemize} 
+
+
+  %Since cro
+ 
+%provides a way to solve the problem. Crowdsourcing is a good way to collect large. 
+%and not all the research in  of high quality translation tools.  with other countries machine translation, we 
+%Crowdsourcing is a promising new mechanism for collecting large volumes of annotated data at low cost.  %Platforms like Amazon Mechanical Turk (MTurk) provide researchers with access to large groups of people, who can complete `human intelligence tasks' that are beyond the scope of current artificial intelligence. 
+%Since statistical natural language processing benefits from increased amounts of labeled training data, 
+%Many NLP researchers have started creating speech and language data through crowdsourcing  One NLP application that has been the focus of crowdsourced data collection is statistical machine translation (SMT) which requires large bilingual sentence-aligned parallel corpora to train translation models.  Crowdsourcing's low costs has made it possible to hire people to create sufficient volumes of translation in order to train SMT systems (for example,   \newcite{zbib2013systematic},  \newcite{zbib2012machine},  \newcite{post2012constructing}, \newcite{ambati2010can}).
+
+%However, crowdsourcing is not perfect, and one of its most pressing challenges is how to ensure the quality of the data that is created by it.  Unlike in more traditional employment scenarios, where annotators are pre-vetted and their skills are clear, in crowdsourcing very little is known about the annotators.  They are not professional translators, and there are no built-in mechanisms for testing their language skills.  They complete tasks without any oversight. Thus, translations produced via crowdousrcing may be low quality.
+%Previous work has addressed this problem, showing that non-professional translators hired on Amazon Mechanical Turk (MTurk) can achieve professional-level quality, by soliciting multiple translations of each source sentence and then choosing the best translation \cite{zaidan-callisonburch:2011:ACL-HLT2011a}.
+
+%In this paper we focus on a different aspect of crowdsourcing from \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}.  We attempt to achieve the same high quality while {\bf minimizing the associated costs}.  
+%We reduce the costs associated with non-professional translations. 
+%We propose two complementary methods:
+%(1) (2) We reduce the number of workers we hire, and retain only high quality translators by quickly identifying and filtering out workers who produce low quality translations. 
+  
+
+%Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} who always solicited and paid for a fixed number of translations of each source segment, and who had no model of annotator quality. 
+ 
+

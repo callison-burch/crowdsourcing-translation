@@ -1,0 +1,14 @@
+\onehalfspaced
+\section{Problem Setup}
+
+We start with a corpus of source sentences to be translated, and we may solicit one or more translation for every sentence in the corpus.  Our goal is to assemble a single high quality translation for each source sentence while minimizing the associated cost. 
+
+We study the data collected by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk. 
+They hired Turkers to translate 1792 Urdu sentences 
+from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 52 Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional translators (the Turkers) and 4 professional translators hired by the LDC. The cost of non-professional translation is  \$0.10 per sentence and the cost of professional translation is approximately \$0.30 per word (or \$6 per sentence, since they are 20 words long on average). 
+
+Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  By comparison, the Turker translations score only 28.13 on average. Zaidan and Callison-Burch trained a MERT model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 39.06, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
+
+Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  This plays a role if we would like to assemble a large enough parallel corpus (on the order of millions of sentence translations) to train a statistical machine translation system. 
+% \cite{ambati2010can,post2012constructing,zbib2012machine,zbib2013systematic}
+Here, we introduce several methods for reduce the number of non-professional translations  while still maintaining high quality. 

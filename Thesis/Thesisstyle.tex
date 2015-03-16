@@ -1,0 +1,87 @@
+\documentclass[12pt]{report}
+\usepackage[centertags]{amsmath}
+\usepackage{amsfonts,amssymb,amsthm}
+
+\usepackage{naaclhlt2015}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{hhline}
+\usepackage{multirow}
+
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+\usepackage{comment}
+%
+%PAGE REFORMATTING
+%
+\setlength{\topmargin}{0 in}
+\setlength{\headheight}{0.25 in}
+\setlength{\oddsidemargin}{0.5 in}
+\setlength{\textwidth}{6 in}
+\setlength{\textheight}{8.5 in}
+\setlength{\headsep}{0.25 in}
+\newcommand{\singlespaced}{\renewcommand{\baselinestretch}{1}\normalfont}
+\newcommand{\onehalfspaced}{\renewcommand{\baselinestretch}{1.5}\normalfont}
+\newcommand{\doublespaced}{\renewcommand{\baselinestretch}{2}\normalfont}
+\singlespaced
+\doublespaced
+%
+%THEOREM STYLES
+%
+\theoremstyle{definition}
+\newtheorem{defn}{Definition}[section]
+\newtheorem{fig}{Figure}[section]
+%
+\theoremstyle{plain}
+\newtheorem{res}[defn]{Result}
+\newtheorem{thm}[defn]{Theorem}
+\newtheorem{cor}[defn]{Corollary}
+\newtheorem{prop}[defn]{Proposition}
+\newtheorem{lem}[defn]{Lemma}
+%
+\theoremstyle{remark}
+\newtheorem*{case}{Case}
+\newtheorem{rem}[defn]{Remark}
+\newtheorem{ex}[defn]{Example}
+\newtheorem{exs}[defn]{Examples}
+%
+%EQ. NUMBERING
+%
+\numberwithin{equation}{section}
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
+%
+\def\thetitle{The Name of My Thesis}
+\def\theauthor{Mingkun Gao}
+\def\theadvisor{Chris Callison-Burch}
+\def\theyear{2015}
+%
+\pagenumbering{roman}
+\begin{document}
+
+\include{Thesistitlepage}
+\tableofcontents
+\include{Abstract}
+
+%\include{Dedication}
+\pagenumbering{arabic}
+\pagestyle{myheadings} \markright{}
+\include{Intro}
+\include{QualityControl}
+\include{Related}
+\include{Problem}
+\include{Estimate}
+\include{ReduceTranslation}
+\include{ReduceTranslators}
+\include{Cost}
+\include{Conclusion}
+
+
+%\begin{thebibliography} \small
+%
+%\bibitem[Euc]{Euc} Euclid, The Elements, BC
+%
+%\end{thebibliography}  
+\bibliographystyle{naaclhlt2015}
+\bibliography{naaclhlt2015_new}
+\end{document}
+ 
