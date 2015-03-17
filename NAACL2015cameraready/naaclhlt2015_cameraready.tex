@@ -5,6 +5,7 @@
 \usepackage{naaclhlt2015}
 \usepackage{times}
 \usepackage{latexsym}
+\usepackage{amssymb}
 \setlength\titlebox{6.5cm}    % Expanding the titlebox
 \usepackage{amsmath}
 \usepackage{multirow}
@@ -50,8 +51,8 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-Crowdsourcing makes it possible to create translations at much lower cost than hiring professional translators. However, it is still expensive to obtain millions of translations needed to train high performance statistical machine translation systems. We proposed two mechanisms to reduce the cost of crowdsourcing while maintaining high translation quality.
-First, we develop a translation reducing method. We train a linear model to evaluate the translation quality on a sentence-by-sentence basis, and fit a threshold between acceptable and unacceptable translations. Unlike past work, which always paid for a fixed number of translations of each source sentence and then chose the best from them, we can stop earlier and pay less when we receive a translation that is good enough. Second, we introduce a translator reducing method by quickly identifying bad translators after they have translated only a few sentences. This also allows us to rank translators, so that we re-hire only good translators to reduce cost.   
+Crowdsourcing makes it possible to create translations at much lower cost than hiring professional translators. However, it is still expensive to obtain the millions of translations that are needed to train statistical machine translation systems. We propose two mechanisms to reduce the cost of crowdsourcing while maintaining high translation quality.
+First, we develop a method to reduce redundant translations. We train a linear model to evaluate the translation quality on a sentence-by-sentence basis, and fit a threshold between acceptable and unacceptable translations. Unlike past work, which always paid for a fixed number of translations for each source sentence and then chose the best from them, we can stop earlier and pay less when we receive a translation that is good enough. Second, we introduce a method to reduce the pool of translators by quickly identifying bad translators after they have translated only a few sentences. This also allows us to rank translators, so that we re-hire only good translators to reduce cost.   
 
 
 %and so that we can select the best translations from among good candidates. 
@@ -68,7 +69,7 @@ Many NLP researchers have started creating speech and language data through crow
 However, crowdsourcing is not perfect, and one of its most pressing challenges is how to ensure the quality of the data that is created by it.  Unlike in more traditional employment scenarios, where annotators are pre-vetted and their skills are clear, in crowdsourcing very little is known about the annotators.  They are not professional translators, and there are no built-in mechanisms for testing their language skills.  They complete tasks without any oversight. Thus, translations produced via crowdousrcing may be low quality.
 Previous work has addressed this problem, showing that non-professional translators hired on Amazon Mechanical Turk (MTurk) can achieve professional-level quality, by soliciting multiple translations of each source sentence and then choosing the best translation \cite{zaidan-callisonburch:2011:ACL-HLT2011a}.
 
-In this paper we focus on a different aspect of crowdsourcing from \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}.  We attempt to achieve the same high quality while {\bf minimizing the associated costs}.  
+In this paper we focus on a different aspect of crowdsourcing than \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}.  We attempt to achieve the same high quality while {\bf minimizing the associated costs}.  
 %We reduce the costs associated with non-professional translations. 
 We propose two complementary methods:
 (1) We reduce the number of translations that we solicit for each source sentence. Instead of soliciting a fixed number of translations for each foreign sentence, we stop soliciting translations after we get an acceptable one.  We do so by building models to distinguish between acceptable translations and unacceptable ones. (2) We reduce the number of workers we hire, and retain only high quality translators by quickly identifying and filtering out workers who produce low quality translations. Our work stands in contrast with  \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} who always solicited and paid for a fixed number of translations for each source sentence, and who had no model of annotator quality. 
@@ -89,15 +90,15 @@ We start with a corpus of source sentences to be translated, and we may solicit 
 
 We study the data collected by \newcite{zaidan-callisonburch:2011:ACL-HLT2011a} through Amazon's Mechanical Turk. 
 They hired Turkers to translate 1792 Urdu sentences 
-from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 52 Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional translators (the Turkers) and 4 professional translators hired by the LDC. The cost of non-professional translation is  \$0.10 per sentence and we estimate the cost of professional translation to be approximately \$0.30 per word (or \$6 per sentence, with 20 words on average). 
+from the  2009 NIST Urdu-English Open Machine Translation Evaluation set\footnote{LDC Catalog number LDC2010T23}. A total of 52 Turkers contributed translations. Turkers also filled out a survey about their language skills and their countries of origin. Each Urdu sentence was translated by 4 non-professional translators (the Turkers) and 4 professional translators hired by the LDC. The cost of non-professional translation was  \$0.10 per sentence and we estimate the cost of professional translation to be approximately \$0.30 per word (or \$6 per sentence, with 20 words on average). 
 
-Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  By comparison, the Turker translations score only 28.13 on average. Zaidan and Callison-Burch trained a MERT \cite{och2003minimum,Zaidan09zmert} model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 38.99, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
+Following \newcite{zaidan-callisonburch:2011:ACL-HLT2011a}, we use BLEU \cite{papineni2002bleu} to gauge the quality of human translations.  We can compute the expected quality of professional translation by comparing each of the professional translators against the other 3.  This results in an average BLEU score of  42.38.  In comparison, the average Turker translations score only 28.13  without quality control. Zaidan and Callison-Burch trained a MERT \cite{och2003minimum,Zaidan09zmert} model to select one non-professional translation out of the four and pushed the quality of crowdsourcing translation to 38.99, closer to the expected quality of professional translation. They used a small amount of professional translations (10\%) as calibration data to estimate the goodness of the non-professional translation. The component costs of their approach are the 4 non-professional translations for each source sentence, and the professional translations for the calibration data.
 
-Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  Cost reduction plays an important role if we want to assemble a large enough parallel corpus (on the order of millions of sentence translations) to train a statistical machine translation system. 
+Although Zaidan and Callison-Burch demonstrated that non-professional translation was significantly cheaper than professionals, we are interested in further reducing the costs.  Cost reduction plays an important role if we want to assemble a large enough parallel corpus to train a statistical machine translation system which typically require millions of translated sentences. 
 % \cite{ambati2010can,post2012constructing,zbib2012machine,zbib2013systematic}
 Here, we introduce several methods for reducing the number of non-professional translations  while still maintaining high quality. 
 \section{Estimating Translation Quality}
-We use a linear regression model\footnote{We used WEKA package: \url{http://www.cs.waikato.ac.nz/ml/weka/}} to predict a quality score ($ score(t) \in R$) for an input translation $t$.
+We use a linear regression model\footnote{We used WEKA package: \url{http://www.cs.waikato.ac.nz/ml/weka/}} to predict a quality score ($ score(t) \in \mathbb{R}$) for an input translation $t$.
 %\begin{align*}
 \[ score(t) = \vec{w}  \cdot \vec f(t) \]
   %\end{align*}
@@ -115,7 +116,7 @@ We replicate the feature set used by \newcite{zaidan-callisonburch:2011:ACL-HLT2
 \end{itemize}
 
 
-We additionally introduce a new bilingual feature based on IBM Model 1. We align words between each candidate translation and its corresponding source sentence. The bilingual feature for a translation is the average of its alignment probabilities. In Figure \ref{biexample1}, we show how the bilingual feature allows us to distinguish between a valid translation (top) and an invalid/spammy translation (bottom).
+We additionally introduce a new bilingual feature based on IBM Model 1. We align words between each candidate translation and its corresponding source sentence. The bilingual feature is the average of its alignment probabilities between words in the source sentence and words in the Turker's translation. In Figure \ref{biexample1}, we show how the bilingual feature allows us to distinguish between a valid translation (top) and an invalid/spammy translation (bottom).
 
 \begin{figure}
   \centering
@@ -154,17 +155,17 @@ We additionally introduce a new bilingual feature based on IBM Model 1. We align
 \State \textbf{Return}: $\theta$ and model parameter $\vec{w}$
 %\EndProcedure
 \end{algorithmic}
-\caption{Model Training Algorithm}\label{modelselection}
+\caption{How good is good enough}\label{modelselection}
 \end{algorithm}
 
 
 
 \section{Reducing the Number of Translations}
-The first mechanism that we introduce to optimize cost is to solicit less translations.  The strategy is to recognize when we have got a good translation of a source sentence and to immediately stop purchasing additional  translations of that sentence.  The crux of this method is to decide whether a translation  is `good enough,' in which case we do not gain any benefit from  paying for another redundant translation.  
+The first way that we optimize cost is to solicit fewer redundant translations.  The strategy is to recognize when we have got a good translation of a source sentence and to immediately stop purchasing additional  translations of that sentence.  The crux of this method is to decide whether a translation  is `good enough,' in which case we do not gain any benefit from  paying for another redundant translation.  
 
 Our translation reduction method allows us to set an empirical definition of `good enough'.  
 We define an Oracle upper bound $\alpha$ to be the estimated BLEU score using the full set of non-professional translations.
-We introduce a parameter $\delta$ to set the allowable degradation in translation quality. We train a model to search for a threshold $\theta$ between acceptable and unacceptable translations for a specific value of $\delta$. For instance, we may fix $\delta$ at 95\%, meaning that the resulted BLEU score should not drop below 95\% of the $\alpha$ after reducing the number of translations.   
+We introduce a parameter $\delta$ to set the allowable degradation in translation quality. We train a model to search for a threshold $\theta$ between acceptable and unacceptable translations for a specific value of $\delta$. For instance, we may fix $\delta$ at 95\%, meaning that the resulting BLEU score should not drop below 95\% of the $\alpha$ after reducing the number of translations.   
 
 For a new translation, our model scores it, and if its score is higher than $\theta$, then we do not solicit another translation. Otherwise, we continue to solicit translations.  Algorithm \ref{modelselection} details the process of model training and searching for $\theta$. 
 
@@ -186,7 +187,7 @@ $\delta$(\%) & BLEU Score & \# Trans. \\ \hhline{===}
 99    & 38.95      & 2.78             \\
 100   & 39.54      & 3.18             \\ \hline
 \end{tabular}
-\caption{The relation among the $\delta$ (the allowable deviation from the expected upper bound on BLEU score), the BLEU score for translations selected by models from partial sets and the averaged size of translation candidates set for each source sentence (\textit{\# Trans}).  }
+\caption{The relationship between $\delta$ (the allowable deviation from the expected upper bound on BLEU score), the BLEU score for translations selected by models from partial sets and the average number of translation candidates set for each source sentence (\textit{\# Trans}).  }
     \label{orderanother}
 \end{table}
 
@@ -207,7 +208,7 @@ Table \ref{orderanother} shows the results for translation reducing method.  The
 \begin{figure}
   \centering
   \includegraphics[width=\linewidth]{WorkerPerf/wp.pdf}
-  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted with the best translator at the top of the y-axis. Each tick represent a single translation and black color means better than average quality.
+  \caption{A time-series plot of all of the translations produced by Turkers (identified by their WorkerID serial number). Turkers are sorted with the best translator at the top of the y-axis. Each tick represent a single translation and black means better than average quality.
 }
     \label{fworkerperf}
 \end{figure}
@@ -317,7 +318,7 @@ After we rank workers, we keep top-ranked workers and select the best translatio
 
 We report both rankings' correlation with the gold standard ranking. Since the top worker threshold is varied and since we change the value of $k$ in first $k$ sentence ranking, we have a different test set in different settings. Each test set excludes any items which were used to rank the workers, or which did not have any translations from the top workers according to our rankings. 
 %In addition to evaluating the correlation of our different ways of ranking translators, 
-We also compute the translation quality when selecting the translation provided by the worker with best rank.
+%We also compute the translation quality when selecting the translation provided by the worker with best rank.
 
 
 
@@ -333,7 +334,7 @@ We use the ranking by the MERT model developed by \newcite{zaidan-callisonburch:
 
 
 \subsubsection{Ranking workers using their first $k$ translations}
- Without using any model, we rank workers using their first $k$ translations. We select best translation of each source sentence from the top ranked worker who translated that sentence. To evaluate this method, we calculate the weighted correlation for our rankings against gold ranking. 
+ Without using any model, we rank workers using their first $k$ translations. We select best translation of each source sentence from the top ranked worker who translated that sentence. %To evaluate this method, we calculate the weighted correlation for our rankings against gold ranking. 
  %we created several test sets.  Each test set excluded any item that was used to rank the workers, or which did not have any translations from the top 25\% of workers according to our predicted rankings.  We therefore have \emph{different test sets} for each value of k.  This makes the results slightly more difficult to analyze than in normal experiments, although the trends are still clear.
 %Formally, we define the test set for first k sentences as $T_k$ and for each source sentence $s \in T_k$:
 %\begin{align*}
@@ -341,7 +342,7 @@ We use the ranking by the MERT model developed by \newcite{zaidan-callisonburch:
 %\end{align*}
 %where $C(s)$ is the translating candidates set of the source sentence $s$, $S_k$ is the translation set consists of each worker's first k translations and $S_w$ is the translation set consists of translations provided by selected workers (some top ranking workers). 
 
-Table \ref{spearmansen} shows the results of Pearson correlations for different value of $k$. As $k$ increases, our rankings fit to the gold ranking better. Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first $k$ sentences ($k\le20$) provided by each worker. Figure \ref{first2hitrank} shows the correlation of gold ranking and first 20 sentences ranking. 
+Table \ref{spearmansen} shows the results of Pearson correlations for different value of $k$. As $k$ increases, our rankings fit the gold ranking better. Consequently, we can decide whether to continue to hire a worker in a very short time after analyzing the first $k$ sentences ($k\le20$) provided by each worker. Figure \ref{first2hitrank} shows the correlation of gold ranking and the ranking based on workers' first 20 sentences. 
 
 %Table \ref{first20toprank} shows similar results as Table \ref{modeltoprank}. We can achieve a translation quality close to that of gold ranking selection with only soliciting half of non-professional translations if we keep hiring top 25\% workers after seeing 20 translations submitted from each of them.
 %\begin{table}
@@ -364,8 +365,8 @@ Table \ref{spearmansen} shows the results of Pearson correlations for different 
 We train a linear regression model on 10\% of the data to rank workers.  We use the model to select the best translation in one of two ways:
 \begin{itemize}
 \setlength\itemsep{0em}
-\item By using the model's prediction of workers' rank, and selecting the translation from the best worker.  
-\item By using the model's score for each translation and selecting the highest scoring translation of each source sentence. 
+\item Using the model's prediction of workers' rank, and selecting the translation from the best worker.  
+\item Using the model's score for each translation and selecting the highest scoring translation of each source sentence. 
 \end{itemize}
 
 Table \ref{lrresult} shows that the model trained on all features achieves a very high correlation with the gold standard ranking (Pearson's $\rho$ = 0.95), and a  BLEU score of 39.80.
@@ -377,11 +378,11 @@ Figure \ref{modelrank} presents a visualization of the gold ranking and model ra
 
 \subsection{Filtering out bad workers}
 
-Ranking translators would allow us to reduce costs, by only re-hiring top workers.
- Table \ref{modeltoprank} shows what happens when we vary the top percentage of workers we retain.  In general, the model does a good job of picking the best translations from the remaining good translators.  Comparing against knowing the gold ranking, the model loses only 0.55 BLEU when we filter out 75\% of the workers.  In this case we only need to solicit two translations for each source sentence on average.
+Ranking translators would allow us to reduce costs by only re-hiring top workers.
+ Table \ref{modeltoprank} shows what happens when we vary the percentage of top ranked workers we retain.  In general, the model does a good job of picking the best translations from the remaining good translators.  Compared to actually knowing the gold ranking, the model loses only 0.55 BLEU when we filter out 75\% of the workers.  In this case we only need to solicit two translations for each source sentence on average.
 
 
-\begin{table}
+\begin{table}[htb!]
 \begin{center}
 \begin{tabular}{cc|c}
 \hline
@@ -405,12 +406,12 @@ First k sentences                                 & Percentage                  
 60                                                & 39.8\%                                     & 0.98 \\ \hline
 \end{tabular}
 \end{center}
-\caption{\label{spearmansen} Pearson Correlations for calibration data in different proportion. 
+\caption{\label{spearmansen} Pearson Correlations for calibration data in different proportion. The percentage column shows what proportion of the whole data set is used for calibration.
 %* indicates that the calibration is computed against \textbf{only one} reference while + indicates that the calibration is computed against 4 references.
 }
 \end{table}
 
-\begin{table}[htbp]
+\begin{table}[htb!]
  \center
 \begin{tabular}{c|c|cc}
 \hline
@@ -427,7 +428,7 @@ All features            & \textbf{0.95} & \textbf{38.37} & \textbf{39.80}\\ \hhl
 Baseline (MERT) &0.73&-&38.99\\ \hline
 %All features*            & \textbf{0.71} & \textbf{37.52} \\ \hline
 \end{tabular}
-\caption{\label{lrresult} Correlation ($\rho$) and translation quality for the various features used by our model.  Translation quality is computed by selecting best translations based on model-predicted workers' ranking (rank) and model-predicted translations' scores (score). Here we do not filter out bad workers when selecting the best translation.}
+\caption{\label{lrresult} Correlation ($\rho$) and translation quality for the various features used by our model.  Translation quality is computed by selecting best translations based on model-predicted ranking for workers (rank) and model-predicted scores for translations (score). Here we do not filter out bad workers when selecting the best translation.}
 \end{table}
 
 
@@ -487,27 +488,27 @@ Top & \multicolumn{4}{c}{BLEU}&\\
 
 \newcite{sheng2008get} focused on training a machine learning model from noisy labels.
 %repeated labeling presents a way of solving the problems of uncertainty in labeling. 
-We cannot always get high-quality labeled data from crowdsourcing, but we can still ensure that a model trained on the data accurate by redundantly labeling the data.
+We cannot always get high-quality labeled data from crowdsourcing, but we can still ensure that a model trained on the data is accurate by redundantly labeling the data.
 %samples with relatively low costs, to keep the model trained on noisy labeled data having a high accuracy in predicting, 
 \newcite{sheng2008get} proposed a framework for repeated-labeling that resolves the uncertainty in labeling via majority voting. The experimental results show that a model's accuracy is improved even if labels in its training data are noisy and imperfect.
 % and of imperfect quality.  
 As long as the integrated quality (the probability of the integrated labeling being correct) is higher than 0.5, repeated labeling benefits model training. 
 
 \newcite{passonneau2013benefits} created a Bayesian model of annotation. They applied it to the problem of word sense annotation. \newcite{passonneau2013benefits} also proposed an approach to detect and avoid spam workers. 
-They measured the performance of worker by comparing worker's labels to the current majority labels and worker with bad performance can be blocked. 
+They measured the performance of worker by comparing worker's labels to the current majority labels. Workers with bad performance can be identified and blocked. 
 %However, this approach may suffer from two shortcomings: 1) sometimes majority labels may not reflect the ground truth label; 2) they didn't figure out  how much data (HITs) is needed to evaluate a worker's performance. Although they could find the spam after the fact, it might be a post-hoc analysis, so they might have already wasted the money to pay for a spam worker who should have been detected earlier.
 
 \newcite{lin2014re} examined the relationship between worker accuracy and budget in the context of using crowdsourcing to train a machine learning classifier.  They show that if the goal is to train a classifier on the labels, that the properties of the classifier will determine whether it is better to re-label data (resulting in higher quality labels) or get more single labeled items (of lower quality). They showed that classifiers with weak inductive bias  benefit more from relabeling, and that relabeling is more important when worker accuracy is low. %(barely higher than 0.5). 
 
-\newcite{novotney2010cheap} showed a similar result for training an automatic speech recognition (ASR) system.  When creating training data for an ASR system, given a fixed budget. Their system's accuracy was higher when it is trained on more low quality transcription data compared to when it was trained on fewer high quality transcriptions.
+\newcite{novotney2010cheap} showed a similar result for training an automatic speech recognition (ASR) system.  When creating training data for an ASR system, given a fixed budget, their system's accuracy was higher when it is trained on more low quality transcription data compared to when it was trained on fewer high quality transcriptions.
 
 
 \section{Conclusion}
 In this paper, we propose two mechanisms to optimize cost: a translation reducing method and a translator reducing method. They have different applicable scenarios for large corpus construction.
-The translation reducing method works if there exists a specific requirement that the quality control must reach a certain threshold. 
+The translation reducing method works if there exists a specific requirement that the quality must reach a certain threshold. 
 This model is most effective when reasonable amounts of pre-existing professional translations are available for setting the model's threshold. 
 The translator reducing method is very simple and easy to implement. This approach is inspired by the intuition that workers' performance is consistent. The translator reducing method is suitable for crowdsourcing tasks which do not have specific requirements about the quality of the translations, 
-or when only very limited amounts of gold standard data are available.
+or when only very limited amounts of gold standard data is available.
 
 \section*{Acknowledgements}
 
