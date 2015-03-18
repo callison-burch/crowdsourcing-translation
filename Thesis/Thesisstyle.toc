@@ -1,4 +1,4 @@
-\contentsline {section}{\numberline {0.1}ABSTRACT}{iii}
+\contentsline {section}{\numberline {0.1}ABSTRACT}{iv}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Quality Control for Crowdsourcing Machine Translation}{2}
 \contentsline {section}{\numberline {1.2}Cost Optimization for Crowdsourcing Machine Translation}{3}
@@ -11,26 +11,32 @@
 \contentsline {subsection}{\numberline {2.2.3}Ranking Features}{8}
 \contentsline {subsection}{\numberline {2.2.4}Calibration Features}{8}
 \contentsline {section}{\numberline {2.3}Supervised Learning in Machine Translation}{9}
-\contentsline {paragraph}{MERT}{9}
-\contentsline {paragraph}{Decision Tree}{11}
-\contentsline {paragraph}{Linear Regression}{12}
-\contentsline {section}{\numberline {2.4}Related Work}{13}
-\contentsline {section}{\numberline {2.5}Problem Setup}{15}
-\contentsline {section}{\numberline {2.6}Estimating Translation Quality}{17}
-\contentsline {section}{\numberline {2.7}Reducing the Number of Translations}{19}
-\contentsline {subsection}{\numberline {2.7.1}Experiment}{20}
-\contentsline {subsubsection}{Baseline and upper bound}{20}
-\contentsline {subsubsection}{Translation reducing method}{20}
-\contentsline {section}{\numberline {2.8}Choosing Better Translators}{24}
-\contentsline {subsection}{\numberline {2.8.1}Turkers' behavior in translating sentences}{24}
-\contentsline {subsection}{\numberline {2.8.2}Evaluating Rankings}{24}
-\contentsline {subsection}{\numberline {2.8.3}Automatically Ranking Translators}{25}
-\contentsline {paragraph}{Ranking workers using their first k translations}{26}
-\contentsline {paragraph}{Ranking workers using a model}{26}
-\contentsline {subsection}{\numberline {2.8.4}Experiments}{26}
-\contentsline {subsubsection}{Gold standard and Baseline}{27}
-\contentsline {subsubsection}{Ranking workers using their first k translations}{27}
-\contentsline {subsubsection}{Ranking workers using a model}{27}
-\contentsline {subsection}{\numberline {2.8.5}Filtering out bad workers}{28}
-\contentsline {section}{\numberline {2.9}Cost Analysis}{30}
-\contentsline {section}{\numberline {2.10}Conclusion}{31}
+\contentsline {subsection}{\numberline {2.3.1}MERT}{9}
+\contentsline {subsection}{\numberline {2.3.2}Decision Tree}{11}
+\contentsline {subsection}{\numberline {2.3.3}Linear Regression}{12}
+\contentsline {section}{\numberline {2.4}Experiments}{12}
+\contentsline {subsection}{\numberline {2.4.1}Baseline}{13}
+\contentsline {subsection}{\numberline {2.4.2}MERT}{13}
+\contentsline {subsection}{\numberline {2.4.3}Decision Tree}{13}
+\contentsline {subsection}{\numberline {2.4.4}Linear Regression}{14}
+\contentsline {section}{\numberline {2.5}Quality Control Analysis}{14}
+\contentsline {section}{\numberline {2.6}Related Work}{18}
+\contentsline {section}{\numberline {2.7}Problem Setup}{20}
+\contentsline {section}{\numberline {2.8}Estimating Translation Quality}{22}
+\contentsline {section}{\numberline {2.9}Reducing the Number of Translations}{24}
+\contentsline {subsection}{\numberline {2.9.1}Experiment}{25}
+\contentsline {subsubsection}{Baseline and upper bound}{25}
+\contentsline {subsubsection}{Translation reducing method}{25}
+\contentsline {section}{\numberline {2.10}Choosing Better Translators}{29}
+\contentsline {subsection}{\numberline {2.10.1}Turkers' behavior in translating sentences}{29}
+\contentsline {subsection}{\numberline {2.10.2}Evaluating Rankings}{29}
+\contentsline {subsection}{\numberline {2.10.3}Automatically Ranking Translators}{30}
+\contentsline {paragraph}{Ranking workers using their first k translations}{31}
+\contentsline {paragraph}{Ranking workers using a model}{31}
+\contentsline {subsection}{\numberline {2.10.4}Experiments}{31}
+\contentsline {subsubsection}{Gold standard and Baseline}{32}
+\contentsline {subsubsection}{Ranking workers using their first k translations}{32}
+\contentsline {subsubsection}{Ranking workers using a model}{32}
+\contentsline {subsection}{\numberline {2.10.5}Filtering out bad workers}{33}
+\contentsline {section}{\numberline {2.11}Cost Analysis}{35}
+\contentsline {section}{\numberline {2.12}Conclusion}{36}

@@ -52,7 +52,7 @@ We additionally introduce a new bilingual feature based on IBM Model 1. We align
 \section{Supervised Learning in Machine Translation}
 Supervised learning methods can be used to discriminate good translations and bad translations, and train models to estimate the quality of translations. \cite{zaidan-callisonburch:2011:ACL-HLT2011a} proposed a framework to select the best translation among all candidates and achieved professional translating quality. They used MERT as the parameter tuning model. We extended their framework by using decision tree model and linear regression model.
 
-\paragraph{MERT}
+\subsection{MERT}
 
 \newcite{och2003minimum} proposed the Minimum Error Rate Training (MERT) framework in statistical machine translation. This framework is used to train models to score each translation and discriminate good translations and bad translations. Since each translation candidate is represented in feature vector format, the model is just a set of parameters corresponding to each feature. Given the n-best list translations of each source sentence and their corresponding professional references, instead of searching the huge space for all parameters, they used Powell algorithm \cite{powellefficient} in the parameter tuning process where every time they only change the value of one parameter and detect the performance based on that value. 
 
@@ -79,7 +79,7 @@ For every value $v$ that could be assigned to $\lambda_c$, we could rank the n-b
     \label{mert1}
 \end{figure}
 
-\paragraph{Decision Tree}
+\subsection{Decision Tree}
 
 Decision Tree is a classical machine learning model in classification and regression. In our case, we only introduce the regression tree, which is very similar to classification tree. The basic framework to train a regression tree is partition since we want to divide the data based on some attributes so that data in the same sub-division has similar property (label).  The framework to grow a decision tree is shown below:\\
 1. Start with an empty tree.\\
@@ -96,8 +96,153 @@ N_w(t) = & \sum_{n \in h(t)} w_n f_n\\
 \end{align}
 where $h(t)$ is the learning samples at node $t$,$w_n$ is the weight associated with sample n, $f_n$ is the frequency weight associated with sample n. The splitting process stops when a node becomes pure, all samples have the same set of input attributes, the variance reduction is less than some user set threshold and so on.
 
-\paragraph{Linear Regression}
-Linear Regression is a linear model based on the goal to reduce the residual squared error. It's an approach to model the relationship between a scalar variable $y$ and the corresponding feature vector $x$. From a matrix perspective, given a set of feature matrix $X$ and its corresponding label vector $\vec{y}$, the model is $w = (X^{T}X)^{-1}X^{T}\vec{y}$.
+\subsection{Linear Regression}
+Linear Regression is a linear model based on the goal to reduce the residual squared error. It's an approach to model the relationship between a scalar variable $y$ and the corresponding feature vector $x$. From a matrix perspective, given a set of feature matrix $X$ and its corresponding label vector $\vec{y}$, the model is $w = (X^{T}X)^{-1}X^{T}\vec{y}$. 
+
+\section{Experiments}
+
+We extended \cite{zaidan-callisonburch:2011:ACL-HLT2011a}'s framework using different models trained on different feature sets. We use 10\% of the whole data set as the training set and use the rest as the test set.  Each source sentence has four translations in total. We evaluate the translation quality in BLEU. We report results based on five-fold cross validation.
+\subsection{Baseline}
+Random selection is set as the baseline method which select a translation among all four translations randomly and achieves a BLEU score of 29.56. We also perform an Oracle experiment to select the best professional translation  among all four references by comparing one translation against other three translations and selecting the one with highest similarity to others. Oracle experiment achieves a BLEU score of 42.38.
+\subsection{MERT}
+We replicate \cite{zaidan-callisonburch:2011:ACL-HLT2011a}'s framework on MERT with the new added bilingual feature. Table \ref{mertbleu} shows the translation quality. 
+\begin{table}[h]
+\center
+\begin{tabular}{c|c}
+\hline
+Feature Set           & BLEU Score \\ \hhline{==}
+(S)entence features   & 38.51      \\ \hline
+(W)orker features     & 37.89      \\ \hline
+(R)anking features    & 36.74      \\ \hline
+(C)alibration feature & 38.27      \\ \hline
+S+W+R features        & 38.44      \\ \hline
+S+W+R+B features      & 38.80      \\ \hline
+All features          & 39.47      \\ \hline
+\end{tabular}
+\caption{The translation quality for MERT}
+\label{mertbleu}
+\end{table}
+\subsection{Decision Tree}
+We use the Decision Tree model to substitute the MERT model in the original framework. 
+ Table \ref{dtbleu} shows translation quality. 
+\begin{table}[h]
+\center
+\begin{tabular}{c|c}
+\hline
+Feature Set           & BLEU Score \\ \hhline{==}
+(S)entence features   & 35.32      \\ \hline
+(W)orker features     & 37.59      \\ \hline
+(R)anking features    & 36.17     \\ \hline
+(C)alibration feature & 38.27      \\ \hline
+S+W+R features        & 37.04     \\ \hline
+S+W+R+B features      & 37.00    \\ \hline
+All features          & 37.19     \\ \hline
+\end{tabular}
+\caption{The translation quality for Decision Tree}
+\label{dtbleu}
+\end{table}
+We visualize the decision tree we trained using all features. Figure \ref{dtexample} shows the visualization. In the visualization graph, label names is the shorten form of the feature names.
+Table \ref{senfeatures}, Table \ref{workerfeatures},Table \ref{rankingfeatures},Table \ref{calibilinfeatures} show label names and their corresponding feature names.
+
+\begin{table}[h]
+\center
+\begin{tabular}{cc}
+\hline
+\multicolumn{2}{c}{Sentence-Level Features}                              \\  \hhline{==}
+\multicolumn{1}{c|}{LOGPROB}      & Sentence Log Probabilty              \\ \hline
+\multicolumn{1}{c|}{AVGPPL}       & Per-Word Perplexity Score            \\ \hline
+\multicolumn{1}{c|}{LengthRatio1} & Length Ratio Feature 1               \\ \hline
+\multicolumn{1}{c|}{LengthRatio2} & Length Ratio Feature 2               \\ \hline
+\multicolumn{1}{c|}{NGramMatch}   & Web N-Gram Log Probability Feature   \\ \hline
+\multicolumn{1}{c|}{Root3}        & Web 3-Gram Geometric Average Feature \\ \hline
+\multicolumn{1}{c|}{Root4}        & Web 4-Gram Geometric Average Feature \\ \hline
+\multicolumn{1}{c|}{Root5}        & Web 5-Gram Geometric Average Feature \\ \hline
+\multicolumn{1}{c|}{AvgTER}       & Edit Rate Feature                    \\ \hline
+\end{tabular}
+\label{senfeatures}
+\caption{Labels for sentence-level features}
+\end{table}
+ 
+ \begin{table}[h]
+ \center
+\begin{tabular}{cc}
+\hline
+\multicolumn{2}{c}{Worker-Level Features}                                                          \\ \hhline{==}
+\multicolumn{1}{c|}{AGLOGPROB}        & Workers' Aggregate Feature of Sentence Log Probabilty      \\ \hline
+\multicolumn{1}{c|}{AGAVGPPL}         & Workers' Aggregate Feature of Per-Word Perplexity Score    \\ \hline
+\multicolumn{1}{c|}{AGLengthRatio1}   & Workers' Aggregate Feature of Length Ratio 1               \\ \hline
+\multicolumn{1}{c|}{AGLengthRatio2}   & Workers' Aggregate Feature of Length Ratio 2               \\ \hline
+\multicolumn{1}{c|}{AGNGramMatch}     & Workers' Aggregate Feature of Web N-Gram Log Probability   \\ \hline
+\multicolumn{1}{c|}{AGRoot3}          & Workers' Aggregate Feature of Web 3-Gram Geometric Average \\ \hline
+\multicolumn{1}{c|}{AGRoot4}          & Workers' Aggregate Feature of Web 4-Gram Geometric Average \\ \hline
+\multicolumn{1}{c|}{AGRoot5}          & Workers' Aggregate Feature of Web 5-Gram Geometric Average \\ \hline
+\multicolumn{1}{c|}{AGAvgTER}         & Workers' Aggregate Feature of Edit Rate                    \\ \hline
+\multicolumn{1}{c|}{EngNative}        & Is an English Native Speaker                               \\ \hline
+\multicolumn{1}{c|}{UrduNative}       & Is an Urdu Native Speaker                                  \\ \hline
+\multicolumn{1}{c|}{LocationIndia}    & Is the Worker in India                                     \\ \hline
+\multicolumn{1}{c|}{LocationPakistan} & Is the Worker in Pakistan                                  \\ \hline
+\multicolumn{1}{c|}{YearEng}          & How Long the Worker Speaking English                       \\ \hline
+\multicolumn{1}{c|}{YearUrdu}         & How Long the Worker Speaking Urdu                          \\ \hline
+\end{tabular}
+\label{workerfeatures}
+\caption{Labels for worker-level features}
+\end{table}
+
+\begin{table}[h]
+\center
+\begin{tabular}{cc}
+\hline
+\multicolumn{2}{c}{Ranking Features}                                                       \\ \hhline{==}
+\multicolumn{1}{c|}{AvgRank}   & Average Ranking Features                                  \\ \hline
+\multicolumn{1}{c|}{IsBetterP} & How Often a Translation Is Ranked as The Best Translation \\ \hline
+\multicolumn{1}{c|}{IsBestP}   & How Often a Translation Is Ranked as A Better Translation \\ \hline
+\end{tabular}
+\label{rankingfeatures}
+\caption{Labels for ranking features}
+\end{table}
+
+\begin{table}[h]
+\center
+\begin{tabular}{cl}
+\hline
+\multicolumn{2}{c}{\begin{tabular}[c]{@{}c@{}}Calibration Features\\ \& Bilingual Features\end{tabular}} \\ \hhline{==}
+\multicolumn{1}{c|}{Cali}                    & \multicolumn{1}{c}{Calibration Feature}                   \\ \hline
+\multicolumn{1}{l|}{Bilin}                   & Bilingual Feature                                         \\ \hline
+\end{tabular}
+\label{calibilinfeatures}
+\caption{Labels for calibration and bilingual features}
+\end{table}
+
+\begin{figure}[!htb]
+  \centering
+  \includegraphics[width=\textwidth]{DT/example.pdf}
+  \caption{The visualization for the Decision Tree Model.
+}
+    \label{dtexample}
+\end{figure}
+
+\subsection{Linear Regression}
+\begin{table}[h]
+\center
+\begin{tabular}{c|c}
+\hline
+Feature Set           & BLEU Score \\ \hhline{==}
+(S)entence features   & 37.84      \\ \hline
+(W)orker features     & 36.92     \\ \hline
+(R)anking features    & 35.69     \\ \hline
+(C)alibration feature & 38.27      \\ \hline
+S+W+R features        & 38.69     \\ \hline
+S+W+R+B features      & 39.23    \\ \hline
+All features          & 39.80     \\ \hline
+\end{tabular}
+\caption{The translation quality for Linear Regression}
+\label{lrbleu}
+\end{table}
+
+\section{Quality Control Analysis}
+Compared to the baseline method, the MERT model, Decision Tree Model and Linear Regression Model all achieve much better performance, which means.
+
+
 
 
 
