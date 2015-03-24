@@ -1,0 +1,38 @@
+52007_72
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+agaasws4fix9t
+one more Ajax same time handle is possible,face pone side
+one more ajax same time handle is possible , face pone side
+n/a
+n/a
+a1ljz6btx8himi
+More than Ajax requests are handled at the same time, program are recovered as a page by seen a user
+more than ajax requests are handled at the same time , program are recovered as a page by seen a user
+n/a
+n/a
+aobab9t792i2t
+ONE OR MORE AJAX IN MEAN TIME TO TAKED
+one or more ajax in mean time to taked
+n/a
+n/a
+apt4le3i9v473
+We can use more than one Ajax in the same time,we can see pages at the time of recahrging
+we can use more than one ajax in the same time , we can see pages at the time of recahrging
+n/a
+n/a

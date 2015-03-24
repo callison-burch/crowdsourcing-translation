@@ -1,0 +1,38 @@
+52007_114
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+aqxptanxygwdl
+The HTML format is explained with RFC 2616:HTTP/1.1 and RFC 2617:HTTP Authentication.
+the html format is explained with rfc 2616 : http/1.1 and rfc 2617 : http authentication .
+n/a
+n/a
+a17ad7dyg1slro
+HTTP protocol used with HTTP/1.1 and RFC has used
+http protocol used with http/1.1 and rfc has used
+n/a
+n/a
+aobab9t792i2t
+HYPER TEXX TRANSPORT PRTOCAL IMPORTANT OF RFC 2616 AND RFC 2617:HTTP AUTHENTICATION DOCUMENT TO BE DESCRIBED TO THE WEB BROWSER
+hyper texx transport prtocal important of rfc 2616 and rfc 2617 : http authentication document to be described to the web browser
+n/a
+n/a
+a1o085sytjff9m
+DOCUMENT DESCRIBED THE HYPER TEXT TRANSFER PROTOCOL(HTTP),RFC 2616:HTTP/1.1 AND RFC 2617:HTTP AUTHENTICATION.SO SERVER AND BROWSER EACH OF THEM TO BE AGREED.
+document described the hyper text transfer protocol ( http ) , rfc 2616 : http/1.1 and rfc 2617 : http authentication.so server and browser each of them to be agreed .
+n/a
+n/a

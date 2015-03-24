@@ -1,0 +1,39 @@
+52007_179
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+a1ywdqzcewgd6h
+usually browser sending http requests after last downloading is finish only it will ask the data
+usually browser sending http requests after last downloading is finish only it will ask the data
+n/a
+n/a
+a17ad7dyg1slro
+regularly, search and send process are made by HTTP based on time slot
+regularly , search and send process are made by http based on time slot
+n/a
+n/a
+a18o9sl6oebead
+Usually net is send of HTTP request last download and that time of changing to ask.
+usually net is send of http request last download and that time of changing to ask .
+n/a
+n/a
+arwom5xn7ka1z
+USUALLY BROWSER SEND HTTP REQUESTS AFTER LOST TIME DOWNLODED
+AFTER ASK CHANGE RESULT ONLY.
+usually browser send http requests after lost time downloded after ask change result only .
+n/a
+n/a

@@ -1,0 +1,38 @@
+52007_88
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+a1ljz6btx8himi
+'http:\\ and https://' is a valid meaning in websites. These are mentioned Hypertext transfer protocol and HTTP secure.
+'http : \\ and https : // ' is a valid meaning in websites. these are mentioned hypertext transfer protocol and http secure .
+n/a
+n/a
+a24hw6ljj2gsi0
+The scheme specifier (http:// or https://) in URIs refer to the Hypertext Transfer Protocol and to HTTP Secure.
+the scheme specifier ( http : // or https : // ) in uris refer to the hypertext transfer protocol and to http secure .
+n/a
+n/a
+a1tpinkby1g007
+Web address has 'http://' or 'https"//' those divisions has some mean they are: Hyper text transfer protocol ( Hyper text transfer protocol) and Secure HTTP(HTTP Secure) those are main things.
+web address has 'http : // ' or 'https '' // ' those divisions has some mean they are : hyper text transfer protocol ( hyper text transfer protocol ) and secure http ( http secure ) those are main things .
+n/a
+n/a
+a3gm8s8q2y61dh
+"http" or "https" in the web addresses are meaningful. They represent Hyper Text Transfer Protocol and HTTP Secure.
+`` http '' or `` https '' in the web addresses are meaningful. they represent hyper text transfer protocol and http secure .
+n/a
+n/a

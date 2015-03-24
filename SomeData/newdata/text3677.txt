@@ -1,0 +1,38 @@
+20_327
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+a249qdknmjbwye
+Public Holidays # Bank Holidays # Business Holidays
+public holidays # bank holidays # business holidays
+n/a
+n/a
+a2ljvsdult2lc7
+* general holiday + bank holiday # commercial holiday
+* general holiday + bank holiday # commercial holiday
+n/a
+n/a
+ao2akav86dgxk
+General Holiday Bank Holiday # Trading Holiday
+general holiday bank holiday # trading holiday
+n/a
+n/a
+a24ehdxbt7m28a
+* public holiday + bank holiday # trade holiday
+* public holiday + bank holiday # trade holiday
+n/a
+n/a

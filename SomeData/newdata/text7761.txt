@@ -1,0 +1,38 @@
+9001_46
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+a1pw4pgyjpzitf
+Generally the wiki pages is built by a easy markup language, sometime it is called as "Wiki Content". For example the usage of a single star("*") is used as the bulletins for the lists.
+generally the wiki pages is built by a easy markup language , sometime it is called as `` wiki content '' . for example the usage of a single star ( `` * '' ) is used as the bulletins for the lists .
+n/a
+n/a
+a2r10so1kfoxnx
+usually the pages in wikipedia has an regular format with an mark up language.it was also known as wiki article.for example ,An article starts with an (*)asterix sign helps us to locate that in an bullettin box
+usually the pages in wikipedia has an regular format with an mark up language.it was also known as wiki article.for example , an article starts with an ( * ) asterix sign helps us to locate that in an bullettin box
+n/a
+n/a
+a2fm19p6cgmv79
+One person attempts to edit the document, but upon trying to save the new version, another person has already modified the document in the intervening time period, thus causing a difference between the attempted edit and the already-made edit that must be resolved manually.
+one person attempts to edit the document , but upon trying to save the new version , another person has already modified the document in the intervening time period , thus causing a difference between the attempted edit and the already-made edit that must be resolved manually .
+n/a
+n/a
+a31z06ks8m1b88
+Normally, the lay out and structure of wiki pages are specified by a simplified mark up language, this is sometimes called as wiki text. For example, When we start a sentence of a text with star symbol it means that can be used in a bulleted list.
+normally , the lay out and structure of wiki pages are specified by a simplified mark up language , this is sometimes called as wiki text. for example , when we start a sentence of a text with star symbol it means that can be used in a bulleted list .
+n/a
+n/a

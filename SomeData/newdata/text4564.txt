@@ -1,0 +1,38 @@
+9169_67
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+a1c1hqdxrn2or3
+thumb/right/ - is not like we see in the picture , We have to send mails by SMTP way means , We have to select "my server requires Authentication " which is below the "Out going mail"
+thumb/right/ - is not like we see in the picture , we have to send mails by smtp way means , we have to select `` my server requires authentication `` which is below the `` out going mail ''
+n/a
+n/a
+a3771srkut3lbm
+Not as per figure SMTP method to send mails ,to select to go to Out Going mail box and just click below My server Requires Authentication.
+not as per figure smtp method to send mails , to select to go to out going mail box and just click below my server requires authentication .
+n/a
+n/a
+aobab9t792i2t
+NOT IN PICTURE SMTP METHOD TO GAVE EMAIL TO SELECT OUTGOING MAIL AND THEN SELECT MY SERVER REQUIRES AUTHENTICATION.
+not in picture smtp method to gave email to select outgoing mail and then select my server requires authentication .
+n/a
+n/a
+a249qdknmjbwye
+thumb|right| as not like a given picture, if we want to send email through SMTP, we have to choose My Server Requires Authentication below the Out Going Mail
+thumb|right| as not like a given picture , if we want to send email through smtp , we have to choose my server requires authentication below the out going mail
+n/a
+n/a

@@ -1,0 +1,38 @@
+52007_193
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+n/a
+aqmk3u8yf4mn7
+By using the 'GET' command in the HTTP the requested data is on the queue until other orders are processed;the data get by the 'POST' is considered based on the post,so it is not stored.
+by using the 'get ' command in the http the requested data is on the queue until other orders are processed ; the data get by the 'post ' is considered based on the post , so it is not stored .
+n/a
+n/a
+a2k99f0yf62lil
+In HTTP,the GET request will meet the necessary requirements,the POST request will post the information which are not saved.
+in http , the get request will meet the necessary requirements , the post request will post the information which are not saved .
+n/a
+n/a
+a534hj6tl6k43
+HTTP in 'GET' order in the incorrect, so some condition all the impart, The 'POST' order in the result in the POST in incorrect, so in this not save.
+http in 'get ' order in the incorrect , so some condition all the impart , the 'post ' order in the result in the post in incorrect , so in this not save .
+n/a
+n/a
+a17ep1qxke5l21
+IN HTTP GET OPTION IS USED TO GET THE INFORMATION, ON BASED ON POST CONDITION IT IS USED TO POST THE INFORMATION,THERE IS NO NEED FOR SAVING IT
+in http get option is used to get the information , on based on post condition it is used to post the information , there is no need for saving it
+n/a
+n/a
